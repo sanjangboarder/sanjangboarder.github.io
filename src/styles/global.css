@@ -300,64 +300,51 @@ h1, h2, h3, h4 {
 }
 
 /* --- Map & Video Cards --- */
-.map-card, .video-card {
+.map-card, .video-link-card {
   margin: 2.5rem 0;
   padding: 1.5rem;
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
   border-radius: 1.25rem;
+  border: 1px solid var(--glass-border);
 }
 
-.map-info {
+.map-info, .v-link-info {
   display: flex;
   align-items: flex-start;
-  gap: 1rem;
+  gap: 1.25rem;
 }
-.map-icon { font-size: 1.5rem; }
-.map-name { font-weight: 700; font-size: 1.2rem; margin-bottom: 0.25rem; }
-.map-addr { font-size: 0.9rem; color: var(--text-muted); }
-.map-btn, .video-btn {
+.map-icon, .v-link-icon { font-size: 1.8rem; }
+.map-name, .v-link-title { font-weight: 700; font-size: 1.2rem; margin-bottom: 0.35rem; color: var(--text-color); }
+.map-addr, .v-link-desc { font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; }
+
+.map-btn, .v-link-btn {
   display: inline-block;
-  padding: 0.75rem 1.5rem;
+  padding: 0.85rem 1.5rem;
   background: var(--accent-gradient);
   color: white;
   text-decoration: none;
   border-radius: 0.75rem;
   font-weight: 700;
   text-align: center;
-  transition: transform 0.3s ease;
+  transition: all 0.3s ease;
+  font-size: 0.95rem;
 }
-.map-btn:hover, .video-btn:hover { transform: scale(1.02); }
+.map-btn:hover, .v-link-btn:hover { 
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(99, 102, 241, 0.3);
+}
 
-.video-thumb {
-  position: relative;
-  border-radius: 1rem;
-  overflow: hidden;
-  aspect-ratio: 16/9;
-}
-.video-thumb img { width: 100%; height: 100%; object-fit: cover; }
-.play-btn {
-  position: absolute;
-  top: 50%; left: 50%; transform: translate(-50%, -50%);
-  width: 60px; height: 60px;
-  background: rgba(0, 0, 0, 0.6);
-  border-radius: 50%;
-  display: flex; align-items: center; justify-content: center;
-  color: white; font-size: 1.5rem;
-  backdrop-filter: blur(5px);
-  border: 2px solid white;
-}
-.video-title { font-weight: 700; font-size: 1.1rem; line-height: 1.4; }
-
-/* Responsive Video Wrapper */
+/* Responsive Video Wrapper (YouTube용) */
 .video-wrapper {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   border-radius: 1rem;
-  margin: 2rem 0;
+  margin: 2.5rem 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 .video-wrapper iframe {
   position: absolute;

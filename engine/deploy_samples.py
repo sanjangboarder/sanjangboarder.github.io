@@ -41,36 +41,30 @@ def get_post_content(blog_id, log_no):
                 map_html = f'\n\n<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">{name_txt}</div><div class="map-addr">{addr_txt}</div></div></div><a href="{map_link}" target="_blank" class="map-btn">지도 보기</a></div>\n\n'
                 map_div.replace_with(soup.new_string(map_html))
 
-        # 2. 동영상 처리 (최신 Prism Player 대응)
-        # 먼저 스크립트 데이터에서 비디오 정보 추출 시도
-        video_map = {}
-        video_scripts = re.findall(r'var\s+videoData\s*=\s*({.*?});', html_text, re.DOTALL)
-        if not video_scripts:
-            # window.__POST_DATA__ 형태도 확인
-            post_data_match = re.search(r'window\.__POST_DATA__\s*=\s*({.*?});', html_text, re.DOTALL)
-            if post_data_match:
-                try:
-                    post_data = json.loads(post_data_match.group(1))
-                    # 복잡한 구조 내에서 동영상 데이터 탐색 (필요 시 확장)
-                except: pass
-
+        # 2. 동영상 처리 (영상 링크 카드 형태로 변경)
         for video_div in content_div.select('.se-module-video, .se-video, .se-component-video'):
             video_data_tag = video_div.select_one('script.__se_video_data')
-            data = None
+            title_txt = "네이버 블로그 원본 영상"
             if video_data_tag:
-                try: data = json.loads(video_data_tag.string)
+                try:
+                    data = json.loads(video_data_tag.string)
+                    title_txt = data.get('title', title_txt)
                 except: pass
             
-            if data:
-                title = data.get('title', '동영상')
-                thumb = data.get('thumbnail', '')
-                video_link = f"https://blog.naver.com/{blog_id}/{log_no}"
-                video_html = f'\n\n<div class="video-card glass"><div class="video-thumb"><img src="{thumb}" /><div class="play-btn">▶</div></div><div class="video-info"><div class="video-title">{title}</div><a href="{video_link}" target="_blank" class="video-btn">원본 영상 보기</a></div></div>\n\n'
-                video_div.replace_with(soup.new_string(video_html))
-            else:
-                # 데이터 태그가 없더라도 플레이스홀더라도 노출
-                video_html = f'\n\n<div class="video-card glass"><div class="video-thumb"><div class="play-btn">▶</div></div><div class="video-info"><div class="video-title">네이버 블로그 동영상</div><a href="{url}" target="_blank" class="video-btn">원본 영상 보기</a></div></div>\n\n'
-                video_div.replace_with(soup.new_string(video_html))
+            video_link = f"https://blog.naver.com/{blog_id}/{log_no}"
+            video_html = f'''
+<div class="video-link-card glass">
+    <div class="v-link-info">
+        <span class="v-link-icon">🎬</span>
+        <div class="v-link-text">
+            <div class="v-link-title">{title_txt}</div>
+            <div class="v-link-desc">네이버 블로그 앱/웹에서 고화질로 시청 가능합니다.</div>
+        </div>
+    </div>
+    <a href="{video_link}" target="_blank" class="v-link-btn">영상 확인하기</a>
+</div>
+'''
+            video_div.replace_with(soup.new_string(video_html))
 
         # 3. 링크 카드 처리
         for og in content_div.select('.se-oglink, .se-module-oglink'):
