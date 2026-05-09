@@ -1,4 +1,5 @@
 ---
+
 title: "FIMI PALM 예약 구매기 (DJI OSMO Pocket 대항마)"
 date: 2019-12-02
 category: "IT기기/SW/드론"
@@ -6,7 +7,8 @@ categoryNo: 33
 logNo: 221724598145
 source: "https://m.blog.naver.com/sanjangboarder/221724598145"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAxOTEyMDJfMTMg/MDAxNTc1MjU2NDc0NDA2.T3gPQvCnpMbwFCSvVnAdqtCsLJy55DIBKjclmuHtCLQg.m_e3GartblVZ1N0p3sDSi8zeS-VJP2dE15x9TTfdkBUg.JPEG.seulgi77/1575256473748.jpg"
-description: "안녕하세요 산장보더입니다. 오늘 소개해드릴 내용은 소형 짐벌 액션캠 예약구매기 및 소개입니다. 요즘 블로거분들이나 SNS하시는 분들이 유튜브를 많이들 하시는데요. 저도 드론을 이용해서 할려고 좀 준비하긴 했는데 어렵고 컨텐츠를 만드는데 드론은 부가적인 요소라 액션캠을 "
+description: "안녕하세요 산장보더입니다. 오늘 소개해드릴 내용은 소형 짐벌 액션캠 예약구매기 및 소개입니다. 요즘 블로거분들이나 SNS하시는 분들이 유튜브를 많이들 하시는데요. 저도 드론을 이용해서 할려고 좀 준비하긴 했는데 어렵고 컨텐츠를 만드는데 드론은 부가적인 요소라 액션캠을"
+
 ---
 
 안녕하세요 산장보더입니다.

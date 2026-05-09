@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Build 2025 | Satya Nadella Opening Keynote 요약"
 date: 2025-05-20
 category: "AI, SW개발, DevOps"
@@ -7,6 +8,7 @@ logNo: 223871824964
 source: "https://m.blog.naver.com/sanjangboarder/223871824964"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA1MjBfMTA5/MDAxNzQ3NzIzNzc2Nzg5.-0dAKn4Qks1XcAo1tlYQPwl7c0-6iVnIjkccxgznxXwg.Nd8jA8_dgpCIUSnHGwzxzEaxQqyGxJiEJ83Gj68uWtYg.JPEG/1000000170.jpg"
 description: "안녕하세요 산장보더입니다. 오늘 25년 5월20일 마이크로소프트에서 MS Build 라는 행사가 있었는데요. AI 로 앞서가는 기업답게 예상가능 하지만 놀라운 새로운 것들을 많이 발표했습니다. 저도 AI에 관심을 가지고 많이 들여다 보고 공부하는 터라 내용을 요약해 본"
+
 ---
 
 안녕하세요 산장보더입니다.

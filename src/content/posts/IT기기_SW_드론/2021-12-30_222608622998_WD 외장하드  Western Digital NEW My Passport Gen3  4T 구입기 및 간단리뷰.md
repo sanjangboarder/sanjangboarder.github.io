@@ -1,4 +1,5 @@
 ---
+
 title: "WD 외장하드 / Western Digital NEW My Passport Gen3  4T 구입기 및 간단리뷰"
 date: 2021-12-30
 category: "IT기기/SW/드론"
@@ -7,6 +8,7 @@ logNo: 222608622998
 source: "https://m.blog.naver.com/sanjangboarder/222608622998"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyMTEyMzBfNCAg/MDAxNjQwODUwMzc1NTMw.wW_MfWCKjuVIhnqZiUEY9rZ0sOU5X5llt3pL-jY-_Nog.THHIRWomUhzkHdhOFz-VDsyIZQa_CoiZJ3HsduMAAf8g.JPEG.seulgi77/20211229%A3%DF225444%A3%DFHDR.jpg"
 description: "안녕하세요 산장보더입니다. 지난 블랙프라이데이에 11번가 아마존에서 8만원 정도에 구입한 WD 패스포트 GEN3 외장하드가 도착했습니다.. 무려 한달이상 배송기간이 소요되는 바람에 11번가에서는 유실되었다고 판단하고 환불까지 진행해주어서 다시 재주문을 했는데요... 흠"
+
 ---
 
 안녕하세요 산장보더입니다.

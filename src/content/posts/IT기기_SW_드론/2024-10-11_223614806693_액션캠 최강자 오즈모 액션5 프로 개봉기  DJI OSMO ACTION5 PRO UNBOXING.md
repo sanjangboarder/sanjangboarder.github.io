@@ -1,4 +1,5 @@
 ---
+
 title: "액션캠 최강자 오즈모 액션5 프로 개봉기!!  DJI OSMO ACTION5 PRO UNBOXING"
 date: 2024-10-11
 category: "IT기기/SW/드론"
@@ -7,6 +8,7 @@ logNo: 223614806693
 source: "https://m.blog.naver.com/sanjangboarder/223614806693"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDlfMjE0/MDAxNzI4NDcxNzg0NDQ0.dG37eAMYcOYh7YpmyQWZq82tPUGosdspd3CWTcxg1w0g.WbV-i54eAwF56VN3TvfZOuSQ2iscNuVct1cSM79UmIMg.JPEG/20241004%A3%DF222316.jpg"
 description: "&quot;제품 제원 및 경험을 바탕으로 작성한 내용입니다만 제품 링크를 통한 판매 발생 시 일정 수수료를 제공받습니다.&quot; 안녕하세요 산장보더입니다. 유튜버도 아닌 제가 또 액션캠을 하나 영입했습니다. 마눌님이 생일선물로 모 가지고 싶냐고 하길래 그냥 말해본건"
+
 ---
 
 "제품 제원 및 경험을 바탕으로 작성한 내용입니다만

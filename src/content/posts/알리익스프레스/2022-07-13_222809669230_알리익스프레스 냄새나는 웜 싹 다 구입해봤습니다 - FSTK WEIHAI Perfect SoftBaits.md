@@ -1,4 +1,5 @@
 ---
+
 title: "알리익스프레스 냄새나는 웜 싹 다 구입해봤습니다. - FSTK WEIHAI Perfect SoftBaits"
 date: 2022-07-13
 category: "알리익스프레스"
@@ -6,7 +7,8 @@ categoryNo: 32
 logNo: 222809669230
 source: "https://m.blog.naver.com/sanjangboarder/222809669230"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfODkg/MDAxNjU3NTkyNzQ5Njkw.Tc0gPYCgSTCVTP5SE71J1fNWfo6Qc7qK6v7QzX09-nMg.jz8k9sM7R7GMzIpo8P5XOKMA3Nsf4TPnpvlqe7HTYB0g.JPEG.seulgi77/20220709%A3%DF182545.jpg"
-description: "안녕하세요 산장보더입니다. 지난 알리익스프레스 썸머세일에 저는 주로 메탈지그와 냄새나는 웜을 주문했는데요. 하나씩 소개시켜드려볼께요. 이번 포스팅에서는 냄새나는 웜을 먼저 보여드리겠습니다. 이 제품은 이미 20년부터 호기심에 구입했었는데요. 나름 좋은 반응을 보여줬기 "
+description: "안녕하세요 산장보더입니다. 지난 알리익스프레스 썸머세일에 저는 주로 메탈지그와 냄새나는 웜을 주문했는데요. 하나씩 소개시켜드려볼께요. 이번 포스팅에서는 냄새나는 웜을 먼저 보여드리겠습니다. 이 제품은 이미 20년부터 호기심에 구입했었는데요. 나름 좋은 반응을 보여줬기"
+
 ---
 
 안녕하세요 산장보더입니다.

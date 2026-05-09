@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT, NVIDIA를 곤란하게 한 딥시크 (DeepSeek) 사용 후기"
 date: 2025-01-29
 category: "IT기기/SW/드론"
@@ -7,6 +8,7 @@ logNo: 223740691680
 source: "https://m.blog.naver.com/sanjangboarder/223740691680"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTAxMjhfMjg3/MDAxNzM4MDIyMzU5NDQw.t4O9_LQycJONXaWFtldzplBxNNvOlCu6Uq4MpwWvUcsg.65q7DZN8RqtDQQYZC5uBmMw-O3fGlLa7v-D76n0whJ0g.PNG/image.png"
 description: "안녕하세요 산장보더입니다. 제가 심심 풀이로 하루에 1000원씩 사고 있는 NVIDIA 주식이 이상하게 곤두박질 치고 있길래 무슨일인가 싶어서 스윽 한번 IT뉴스들을 살펴보니 ㅎㅎ 큰일이 하나 있었군요.. 중국의 AI 인 딥시크(Deepseek) 때문에 난리가 났네요."
+
 ---
 
 안녕하세요 산장보더입니다.

@@ -1,4 +1,5 @@
 ---
+
 title: "경량 가성비 플라이어 개봉기 및 리뷰 (Multifunction lure Pliers)"
 date: 2022-09-10
 category: "알리익스프레스"
@@ -7,6 +8,7 @@ logNo: 222868111967
 source: "https://m.blog.naver.com/sanjangboarder/222868111967"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyMjA5MDZfMTc4/MDAxNjYyNDI3NTk1ODU5.hkgY69bzqWMk6Cpbw0j8c1QaeELlOJEZe2vGnTgu3E8g.lb41wX71qMkWWlwU00ZCVvc1wzwUbfxY32IwSY7QDv8g.PNG.seulgi77/image.png"
 description: "안녕하세요 산장보더입니다. 워킹낚시를 자주 가시는 분들은 어떻게든 무게를 줄이시려는 노력을 하실텐데요. 저도 그렇습니다. 그래서 낚시장비를 보다 가벼운게 있으면 더 혹 하는편인데요. 알리익스프레스를 그냥 산책하듯이 스캔중에 눈에 띄는 녀석을 하나 발견했습니다. 플라이어"
+
 ---
 
 안녕하세요 산장보더입니다.

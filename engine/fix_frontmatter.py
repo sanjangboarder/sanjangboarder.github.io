@@ -11,17 +11,21 @@ from pathlib import Path
 POSTS_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "content", "posts")
 
 def sanitize_yaml_value(value: str) -> str:
-    """YAML 값을 안전하게 만들기"""
+    """YAML 값을 안전하게 만들기 (중첩 따옴표 해결)"""
     if not isinstance(value, str):
         return str(value)
-    # 줄바꿈 제거
+    
+    # 1. 줄바꿈 및 캐리지 리턴 제거
     value = value.replace('\n', ' ').replace('\r', '')
-    # 큰따옴표 → 작은따옴표
+    
+    # 2. 값 내부의 큰따옴표(")를 작은따옴표(')로 변환 (중첩 방지)
+    #    Astro/YAML에서 외부를 "로 감쌀 것이기 때문
     value = value.replace('"', "'")
-    # YAML 특수문자: 앞에 오는 콜론+공백 처리 (값 내부는 괜찮음)
-    # 앞뒤 공백 제거
-    value = value.strip()
-    return value
+    
+    # 3. 백슬래시(\) 제거 (YAML 탈출 방지)
+    value = value.replace('\\', '/')
+    
+    return value.strip()
 
 def fix_frontmatter(filepath: str) -> bool:
     """파일의 frontmatter를 파싱 후 안전하게 재작성"""

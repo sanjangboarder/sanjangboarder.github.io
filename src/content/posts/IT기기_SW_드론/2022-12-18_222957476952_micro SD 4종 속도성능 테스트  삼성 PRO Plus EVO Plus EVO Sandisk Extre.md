@@ -1,4 +1,5 @@
 ---
+
 title: "micro SD 4종 속도/성능 테스트  (삼성 PRO Plus, EVO Plus, EVO, Sandisk Extreme)"
 date: 2022-12-18
 category: "IT기기/SW/드론"
@@ -7,6 +8,7 @@ logNo: 222957476952
 source: "https://m.blog.naver.com/sanjangboarder/222957476952"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfNDIg/MDAxNjcxMTY3MDc3MTc0.0JpHhg4S0skK0dFwWzPfKKYKGcKgzOypouSZY5QCtZkg.Je5TfTxJ67lfzxWXuBpprTr4F7rHbVQA8qPSFL5Hlv4g.PNG.seulgi77/image.png"
 description: "안녕하세요 산장보더입니다. 지난 삼성 Pro Plus microSD 카드 리뷰에 이어서 예고한대로 제가 보유하고 있는 모든 MicroSD에 대한 성능 테스트를 진행하였습니다. Pro Plus 제품이 솔직히 좀 실망스런 결과였는데요.. 다른 제품들은 어떨지 포스팅 시작해"
+
 ---
 
 안녕하세요 산장보더입니다.
