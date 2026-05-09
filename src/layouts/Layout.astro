@@ -9,6 +9,26 @@ interface Props {
 
 const { title, description = "산장보더의 테크 & 라이프 블로그" } = Astro.props;
 
+// 카테고리 순서 정의 (사용자 요청 순서)
+const ORDERED_CATEGORIES = [
+  "바다낚시 팁/정보",
+  "수도권 조행기",
+  "전국구 조행기",
+  "해루질 이야기",
+  "낚시용품",
+  "알리익스프레스",
+  "IT기기/SW/드론",
+  "장소/맛집",
+  "이벤트/체험단",
+  "자동차/오토모티브",
+  "AI, SW개발, DevOps",
+  "경제관련공부",
+  "걷기다이어트",
+  "겨울레저활동",
+  "스포츠이야기",
+  "Sample"
+];
+
 // 카테고리 동적 추출
 const allPosts = await getCollection('posts');
 const categoryMap = new Map();
@@ -16,8 +36,18 @@ allPosts.forEach(post => {
   const cat = post.data.category || '미분류';
   categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
 });
-// 글 개수 순으로 정렬
-const categories = Array.from(categoryMap.entries()).sort((a, b) => b[1] - a[1]);
+
+// 정의된 순서에 따라 정렬, 목록에 없는 카테고리는 뒤로 보냄
+const categories = Array.from(categoryMap.entries()).sort((a, b) => {
+  const indexA = ORDERED_CATEGORIES.indexOf(a[0]);
+  const indexB = ORDERED_CATEGORIES.indexOf(b[0]);
+  
+  if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+  if (indexA !== -1) return -1;
+  if (indexB !== -1) return 1;
+  return b[1] - a[1];
+});
+
 const totalPosts = allPosts.length;
 ---
 
