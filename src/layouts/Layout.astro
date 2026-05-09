@@ -1,11 +1,24 @@
 ---
+import { getCollection } from 'astro:content';
+import '../styles/global.css';
+
 interface Props {
 	title: string;
 	description?: string;
 }
 
-const { title, description = "AI-powered Premium Blog" } = Astro.props;
-import '../styles/global.css';
+const { title, description = "산장보더의 테크 & 라이프 블로그" } = Astro.props;
+
+// 카테고리 동적 추출
+const allPosts = await getCollection('posts');
+const categoryMap = new Map();
+allPosts.forEach(post => {
+  const cat = post.data.category || '미분류';
+  categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
+});
+// 글 개수 순으로 정렬
+const categories = Array.from(categoryMap.entries()).sort((a, b) => b[1] - a[1]);
+const totalPosts = allPosts.length;
 ---
 
 <!doctype html>
@@ -16,18 +29,56 @@ import '../styles/global.css';
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<title>{title} | 산장보더</title>
 
-		<!-- Google Fonts (Outfit & Inter) -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
-
-		<!-- Google AdSense (Later replace with your ID) -->
-		<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@700;800&display=swap" rel="stylesheet">
 	</head>
 	<body>
-		<div class="bg-gradient"></div>
-		<slot />
+		<div class="app-layout">
+			<!-- Sidebar -->
+			<aside class="sidebar glass">
+				<div class="sidebar-header">
+					<a href="/" class="logo gradient-text">SANJANG</a>
+					<p class="logo-sub">BOARDER</p>
+				</div>
+				
+				<nav class="sidebar-nav">
+					<div class="nav-section">
+						<h3 class="nav-title">카테고리</h3>
+						<ul class="category-list">
+							<li>
+								<a href="/" class="category-item">
+									<span class="cat-icon">📁</span>
+									<span class="cat-name">전체보기</span>
+									<span class="cat-count">({totalPosts})</span>
+								</a>
+							</li>
+							<div class="divider"></div>
+							{categories.map(([name, count]) => (
+								<li>
+									<a href={`/categories/${name}`} class="category-item">
+										<span class="cat-icon">▫️</span>
+										<span class="cat-name">{name}</span>
+										<span class="cat-count">({count})</span>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
+				</nav>
+
+				<div class="sidebar-footer">
+					<a href="/about" class="footer-link">About Me</a>
+				</div>
+			</aside>
+
+			<!-- Main Content -->
+			<main class="main-content">
+				<div class="bg-orb orb-1"></div>
+				<slot />
+			</main>
+		</div>
 	</body>
 </html>
