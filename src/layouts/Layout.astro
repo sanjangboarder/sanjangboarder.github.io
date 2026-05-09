@@ -64,6 +64,9 @@ const totalPosts = allPosts.length;
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@700;800&display=swap" rel="stylesheet">
+
+		<!-- Visitor Counter Script (Busuanzi) -->
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 	</head>
 	<body>
 		<div class="app-layout">
@@ -113,6 +116,17 @@ const totalPosts = allPosts.length;
 				</nav>
 
 				<div class="sidebar-footer">
+					<div class="visitor-stats">
+						<div class="stat-item">
+							<span class="stat-label">TODAY</span>
+							<span id="busuanzi_value_site_pv" class="stat-value">...</span>
+						</div>
+						<div class="stat-sep"></div>
+						<div class="stat-item">
+							<span class="stat-label">TOTAL</span>
+							<span id="busuanzi_value_site_uv" class="stat-value">...</span>
+						</div>
+					</div>
 					<a href="/about" class="footer-link">About Me</a>
 				</div>
 			</aside>

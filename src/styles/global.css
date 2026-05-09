@@ -238,6 +238,45 @@ h1, h2, h3, h4 {
   padding: 1rem 0.5rem;
 }
 
+.visitor-stats {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.stat-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.stat-label {
+  font-size: 0.6rem;
+  font-weight: 800;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.stat-value {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--accent-light);
+}
+
+.stat-sep {
+  width: 1px;
+  height: 24px;
+  background: var(--border-color);
+  margin: 0 1rem;
+  opacity: 0.5;
+}
+
 .footer-link {
   font-size: 0.9rem;
   color: var(--text-muted);
