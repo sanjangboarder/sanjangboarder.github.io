@@ -1,28 +1,28 @@
 :root {
-  /* Premium Dark Theme Palette */
-  --accent: #6366f1;
-  --accent-light: #a5b4fc;
-  --accent-dark: #4338ca;
+  /* Premium Sophisticated Dark Palette */
+  --accent: #818cf8; /* 인디고 블루 - 신뢰감 있고 눈이 편안한 톤 */
+  --accent-light: #c7d2fe;
+  --accent-dark: #4f46e5;
   --accent-gradient: linear-gradient(
     135deg,
-    #6366f1 0%,
-    #a855f7 50%,
-    #ec4899 100%
+    #ffffff 0%,
+    #e2e8f0 50%,
+    #94a3b8 100%
   );
 
-  --bg-color: #020617;
-  --card-bg: rgba(15, 23, 42, 0.6);
-  --text-color: #f8fafc;
-  --text-muted: #94a3b8;
-  --border-color: rgba(255, 255, 255, 0.08);
-  --glass-border: rgba(255, 255, 255, 0.12);
+  --bg-color: #0b0f1a; /* 깊이감 있는 딥 네이비 블랙 */
+  --card-bg: rgba(30, 41, 59, 0.4);
+  --text-color: #f1f5f9; /* 가독성 좋은 오프 화이트 */
+  --text-muted: #94a3b8; /* 차분한 슬레이트 그레이 */
+  --border-color: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.1);
   
   --max-width: 1200px;
   --nav-height: 70px;
   
   --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
-  --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.2);
 
   --post-font: 'Pretendard', sans-serif;
 }
