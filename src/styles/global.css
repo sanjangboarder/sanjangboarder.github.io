@@ -194,7 +194,7 @@ h1, h2, h3, h4 {
 
 /* --- Content Font (Casual Option) --- */
 :root {
-  --post-font: 'Gowun Dodum', sans-serif; /* 캐주얼하고 다정한 느낌 */
+  --post-font: 'Pretendard', sans-serif; /* 세련되고 가독성 좋은 현대적 폰트 */
 }
 
 .post-body {
