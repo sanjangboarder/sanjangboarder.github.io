@@ -1,0 +1,152 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Premium AI Blog - My Intelligence Space">
+	<main>
+		<nav class="glass-nav">
+			<div class="container nav-content">
+				<div class="logo">AI BLOG</div>
+				<ul class="nav-links">
+					<li><a href="/">Home</a></li>
+					<li><a href="/posts">Posts</a></li>
+					<li><a href="/about">About</a></li>
+				</ul>
+			</div>
+		</nav>
+
+		<header class="hero">
+			<div class="container">
+				<h1 class="gradient-text">Future of Content Automation</h1>
+				<p class="hero-desc">네이버 블로그의 자산을 마크다운 기반의 프리미엄 GitHub 블로그로 재탄생시킵니다. 인공지능이 완성하는 당신만의 문체와 수익 최적화 시스템.</p>
+				<div class="hero-btns">
+					<a href="/posts" class="btn btn-primary">글 목록 보기</a>
+					<a href="#about" class="btn btn-outline">더 알아보기</a>
+				</div>
+			</div>
+		</header>
+
+		<section class="features container">
+			<div class="feature-card glass">
+				<h3>AI Style Mimicry</h3>
+				<p>2,000개의 데이터를 학습하여 당신의 고유한 문체로 글을 자동 생성합니다.</p>
+			</div>
+			<div class="feature-card glass">
+				<h3>SEO & AdSense</h3>
+				<p>구글 검색 엔진 최적화와 전략적 광고 배치로 수익을 극대화합니다.</p>
+			</div>
+			<div class="feature-card glass">
+				<h3>Premium Design</h3>
+				<p>현대적이고 세련된 UI/UX로 방문자에게 최고의 경험을 제공합니다.</p>
+			</div>
+		</section>
+	</main>
+</Layout>
+
+<style>
+	.glass-nav {
+		height: var(--nav-height);
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		background: rgba(15, 23, 42, 0.8);
+		backdrop-filter: blur(8px);
+		border-bottom: 1px solid var(--border-color);
+	}
+	.nav-content {
+		height: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.logo {
+		font-family: 'Outfit', sans-serif;
+		font-size: 1.5rem;
+		font-weight: 700;
+		background: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	.nav-links {
+		display: flex;
+		gap: 2rem;
+		list-style: none;
+	}
+
+	.hero {
+		padding: 120px 0 80px;
+		text-align: center;
+	}
+	.gradient-text {
+		font-family: 'Outfit', sans-serif;
+		font-size: 4rem;
+		margin-bottom: 1.5rem;
+		background: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		animation: fadeIn 1s ease-out;
+	}
+	.hero-desc {
+		font-size: 1.25rem;
+		color: var(--text-muted);
+		max-width: 800px;
+		margin: 0 auto 2.5rem;
+	}
+	.hero-btns {
+		display: flex;
+		justify-content: center;
+		gap: 1.5rem;
+	}
+
+	.btn {
+		padding: 0.8rem 2rem;
+		border-radius: 0.5rem;
+		font-weight: 600;
+		cursor: pointer;
+	}
+	.btn-primary {
+		background: var(--accent);
+		color: white;
+	}
+	.btn-primary:hover {
+		background: var(--accent-dark);
+		transform: translateY(-2px);
+	}
+	.btn-outline {
+		border: 1px solid var(--border-color);
+		color: var(--text-color);
+	}
+	.btn-outline:hover {
+		background: rgba(255, 255, 255, 0.05);
+	}
+
+	.features {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		gap: 2rem;
+		margin-top: 4rem;
+		padding-bottom: 8rem;
+	}
+	.feature-card {
+		padding: 2.5rem;
+		transition: transform 0.3s ease;
+	}
+	.feature-card:hover {
+		transform: translateY(-10px);
+		border-color: var(--accent-light);
+	}
+	.feature-card h3 {
+		margin-bottom: 1rem;
+		color: var(--accent-light);
+	}
+
+	@keyframes fadeIn {
+		from { opacity: 0; transform: translateY(20px); }
+		to { opacity: 1; transform: translateY(0); }
+	}
+
+	@media (max-width: 768px) {
+		.gradient-text { font-size: 2.5rem; }
+		.nav-links { display: none; }
+	}
+</style>

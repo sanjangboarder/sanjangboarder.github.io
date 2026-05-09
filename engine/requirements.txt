@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+webdriver-manager
+requests
+markdownify
+google-generativeai
+python-dotenv

@@ -1,0 +1,33 @@
+---
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description = "AI-powered Premium Blog" } = Astro.props;
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="ko">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+
+		<!-- Google Fonts (Outfit & Inter) -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+
+		<!-- Google AdSense (Later replace with your ID) -->
+		<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+	</head>
+	<body>
+		<div class="bg-gradient"></div>
+		<slot />
+	</body>
+</html>
