@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://sanjangboarder.github.io',
   integrations: [
-    // sitemap()
+    sitemap()
   ],
 });
