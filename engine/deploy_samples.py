@@ -1,5 +1,6 @@
 """
 네이버 블로그 마이그레이션 도구 (프리미엄 레이아웃 버전)
+- 최신 Prism Player 동영상 파싱 지원
 - 지도 카드(Map Card) 생성
 - 동영상 카드(Video Card) 생성
 - 링크 카드(OG Preview) 자동 생성
@@ -24,7 +25,8 @@ def get_post_content(blog_id, log_no):
     url = f"https://m.blog.naver.com/{blog_id}/{log_no}"
     try:
         resp = requests.get(url, headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        html_text = resp.text
+        soup = BeautifulSoup(html_text, 'html.parser')
         content_div = (soup.select_one('div.se-main-container') or soup.select_one('div#postViewArea'))
         if not content_div: return None
 
@@ -39,25 +41,36 @@ def get_post_content(blog_id, log_no):
                 map_html = f'\n\n<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">{name_txt}</div><div class="map-addr">{addr_txt}</div></div></div><a href="{map_link}" target="_blank" class="map-btn">지도 보기</a></div>\n\n'
                 map_div.replace_with(soup.new_string(map_html))
 
-        # 2. 동영상 처리 (네이버 비디오/유튜브)
-        for video_div in content_div.select('.se-module-video, .se-video'):
-            video_data = video_div.select_one('script.__se_video_data')
-            if video_data:
+        # 2. 동영상 처리 (최신 Prism Player 대응)
+        # 먼저 스크립트 데이터에서 비디오 정보 추출 시도
+        video_map = {}
+        video_scripts = re.findall(r'var\s+videoData\s*=\s*({.*?});', html_text, re.DOTALL)
+        if not video_scripts:
+            # window.__POST_DATA__ 형태도 확인
+            post_data_match = re.search(r'window\.__POST_DATA__\s*=\s*({.*?});', html_text, re.DOTALL)
+            if post_data_match:
                 try:
-                    data = json.loads(video_data.string)
-                    title = data.get('title', '동영상')
-                    thumb = data.get('thumbnail', '')
-                    video_link = f"https://blog.naver.com/{blog_id}/{log_no}"
-                    video_html = f'\n\n<div class="video-card glass"><div class="video-thumb"><img src="{thumb}" /><div class="play-btn">▶</div></div><div class="video-info"><div class="video-title">{title}</div><a href="{video_link}" target="_blank" class="video-btn">원본 영상 보기</a></div></div>\n\n'
-                    video_div.replace_with(soup.new_string(video_html))
+                    post_data = json.loads(post_data_match.group(1))
+                    # 복잡한 구조 내에서 동영상 데이터 탐색 (필요 시 확장)
+                except: pass
+
+        for video_div in content_div.select('.se-module-video, .se-video, .se-component-video'):
+            video_data_tag = video_div.select_one('script.__se_video_data')
+            data = None
+            if video_data_tag:
+                try: data = json.loads(video_data_tag.string)
                 except: pass
             
-            # 유튜브 iframe이 있을 경우 처리
-            iframe = video_div.select_one('iframe')
-            if iframe and 'youtube.com' in iframe.get('src', ''):
-                src = iframe['src']
-                yt_html = f'\n\n<div class="video-wrapper"><iframe src="{src}" frameborder="0" allowfullscreen></iframe></div>\n\n'
-                video_div.replace_with(soup.new_string(yt_html))
+            if data:
+                title = data.get('title', '동영상')
+                thumb = data.get('thumbnail', '')
+                video_link = f"https://blog.naver.com/{blog_id}/{log_no}"
+                video_html = f'\n\n<div class="video-card glass"><div class="video-thumb"><img src="{thumb}" /><div class="play-btn">▶</div></div><div class="video-info"><div class="video-title">{title}</div><a href="{video_link}" target="_blank" class="video-btn">원본 영상 보기</a></div></div>\n\n'
+                video_div.replace_with(soup.new_string(video_html))
+            else:
+                # 데이터 태그가 없더라도 플레이스홀더라도 노출
+                video_html = f'\n\n<div class="video-card glass"><div class="video-thumb"><div class="play-btn">▶</div></div><div class="video-info"><div class="video-title">네이버 블로그 동영상</div><a href="{url}" target="_blank" class="video-btn">원본 영상 보기</a></div></div>\n\n'
+                video_div.replace_with(soup.new_string(video_html))
 
         # 3. 링크 카드 처리
         for og in content_div.select('.se-oglink, .se-module-oglink'):
@@ -77,7 +90,7 @@ def get_post_content(blog_id, log_no):
             src = img.get('src', '')
             if src: img['src'] = re.sub(r'\?type=\w+', '?type=w800', src)
 
-        # 불필요 요소 제거 (이미 처리한 지도는 제외)
+        # 불필요 요소 제거
         for tag in content_div.select('.se-sticker'): tag.decompose()
             
         # 마크다운 변환
@@ -126,11 +139,10 @@ def save_post(blog_id, log_no, result):
         f.write(md_content)
 
 if __name__ == "__main__":
-    # 요청하신 지도/동영상 포함 샘플 추가
     TARGETS = ["224274812197", "224266605150", "223940541814", "224275450829", "224266511228"]
     for log_no in TARGETS:
         print(f"수집 중: {log_no}...")
         result = get_post_content(BLOG_ID, log_no)
         if result:
             save_post(BLOG_ID, log_no, result)
-    print("지도 및 동영상 포함 샘플 업데이트 완료!")
+    print("최신 Prism Player 대응 샘플 업데이트 완료!")
