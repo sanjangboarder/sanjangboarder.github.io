@@ -145,13 +145,21 @@ def get_post_content(blog_id, log_no):
 # ──────────────────────────────────────────
 # 3. 파일 저장 (카테고리 폴더 + Frontmatter)
 # ──────────────────────────────────────────
+def sanitize_yaml(value: str) -> str:
+    """YAML frontmatter에 안전한 문자열로 변환"""
+    if not isinstance(value, str):
+        return str(value)
+    value = value.replace('\n', ' ').replace('\r', '')
+    value = value.replace('"', "'")
+    return value.strip()
+
 def save_post(blog_id, item, title, content):
     log_no    = item.get("logNo")
     cat_name  = item.get("categoryName", "미분류")
     cat_no    = item.get("categoryNo", 0)
     date_str  = ts_to_date(item.get("addDate", 0))
     thumb_url = item.get("thumbnailUrl", "")
-    brief     = item.get("briefContents", "")[:150].replace('"', "'")
+    brief     = item.get("briefContents", "")[:150]
 
     # 카테고리별 폴더 생성
     cat_dir = os.path.join(BASE_DIR, safe_dirname(cat_name))
@@ -161,17 +169,17 @@ def save_post(blog_id, item, title, content):
     fname = f"{date_str}_{log_no}_{safe_filename(title)}.md"
     fpath = os.path.join(cat_dir, fname)
 
-    # Astro 호환 Frontmatter + 본문
+    # Astro 호환 Frontmatter + 본문 (YAML 안전 처리)
     with open(fpath, "w", encoding="utf-8") as f:
         f.write("---\n")
-        f.write(f'title: "{title}"\n')
+        f.write(f'title: "{sanitize_yaml(title)}"\n')
         f.write(f'date: {date_str}\n')
-        f.write(f'category: "{cat_name}"\n')
+        f.write(f'category: "{sanitize_yaml(cat_name)}"\n')
         f.write(f'categoryNo: {cat_no}\n')
         f.write(f'logNo: {log_no}\n')
         f.write(f'source: "https://m.blog.naver.com/{blog_id}/{log_no}"\n')
-        f.write(f'thumbnail: "{thumb_url}"\n')
-        f.write(f'description: "{brief}"\n')
+        f.write(f'thumbnail: "{sanitize_yaml(thumb_url)}"\n')
+        f.write(f'description: "{sanitize_yaml(brief)}"\n')
         f.write("---\n\n")
         f.write(content)
 

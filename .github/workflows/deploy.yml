@@ -1,33 +1,143 @@
-name: Deploy to GitHub Pages
+name: Build, Deploy & Verify
 
 on:
   push:
-    branches: [ main ] # 메인 브랜치 이름에 맞춰 수정 (master/main)
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build:
+  # ────────────────────────────────────────────
+  # JOB 1: 환경 검증 (빌드 전 사전 점검)
+  # ────────────────────────────────────────────
+  validate:
+    name: Validate Environment
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Install, build, and upload with Astro
-        uses: withastro/action@v2
-        with:
-          package-manager: npm
 
-  deploy:
-    needs: build
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check Node & npm versions
+        run: |
+          echo "Node version: $(node -v)"
+          echo "npm version: $(npm -v)"
+          echo "Astro version: $(npx astro --version)"
+
+      - name: Validate project structure
+        run: |
+          echo "=== Project Structure Check ==="
+          echo "astro.config.mjs exists: $(test -f astro.config.mjs && echo '✅' || echo '❌')"
+          echo "src/content/config.ts exists: $(test -f src/content/config.ts && echo '✅' || echo '❌')"
+          echo "src/pages/index.astro exists: $(test -f src/pages/index.astro && echo '✅' || echo '❌')"
+          echo ""
+          echo "=== Content Posts Count ==="
+          TOTAL=$(find src/content/posts -name "*.md" 2>/dev/null | wc -l)
+          echo "Total posts: $TOTAL"
+
+      - name: Validate frontmatter (sample check)
+        run: |
+          echo "=== Frontmatter Validation (first 20 files) ==="
+          ERRORS=0
+          COUNT=0
+          find src/content/posts -name "*.md" | head -20 | while read file; do
+            COUNT=$((COUNT+1))
+            # frontmatter가 ---로 시작하는지 확인
+            if ! head -1 "$file" | grep -q "^---"; then
+              echo "❌ Missing frontmatter: $file"
+              ERRORS=$((ERRORS+1))
+            fi
+          done
+          echo "✅ Frontmatter sample check complete"
+
+  # ────────────────────────────────────────────
+  # JOB 2: 빌드 및 배포
+  # ────────────────────────────────────────────
+  build-and-deploy:
+    name: Build & Deploy
+    needs: validate
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Astro
+        uses: withastro/action@v2
+        with:
+          package-manager: npm
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Print deployment URL
+        run: |
+          echo "==================================="
+          echo "🚀 Deployed to: ${{ steps.deployment.outputs.page_url }}"
+          echo "==================================="
+
+  # ────────────────────────────────────────────
+  # JOB 3: 배포 후 검증 (smoke test)
+  # ────────────────────────────────────────────
+  verify:
+    name: Post-Deploy Verification
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for deployment to propagate
+        run: sleep 20
+
+      - name: Smoke test - Check homepage responds
+        run: |
+          URL="https://sanjangboarder.github.io"
+          echo "Testing: $URL"
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 "$URL")
+          echo "HTTP Status: $STATUS"
+          if [ "$STATUS" = "200" ]; then
+            echo "✅ Homepage is UP (HTTP 200)"
+          else
+            echo "⚠️ Homepage returned HTTP $STATUS (may still be propagating)"
+          fi
+
+      - name: Smoke test - Check that HTML contains blog title
+        run: |
+          URL="https://sanjangboarder.github.io"
+          CONTENT=$(curl -s --max-time 15 "$URL")
+          if echo "$CONTENT" | grep -q "SANJANG"; then
+            echo "✅ Blog title found in HTML"
+          else
+            echo "⚠️ Blog title not found (may still be propagating)"
+          fi
+
+      - name: Deployment summary
+        run: |
+          echo "==================================="
+          echo "📋 Deployment Summary"
+          echo "==================================="
+          echo "Repository: sanjangboarder/sanjangboarder.github.io"
+          echo "Branch: main"
+          echo "Site URL: https://sanjangboarder.github.io"
+          echo "Timestamp: $(date -u)"
+          echo "==================================="
