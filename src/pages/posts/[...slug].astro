@@ -26,6 +26,13 @@ const { Content } = await post.render();
           <time>{post.data.date.toLocaleDateString('ko-KR')}</time>
         </div>
         <h1 class="gradient-text">{post.data.title}</h1>
+        { (post.data.source || post.data.logNo) && (
+          <div class="original-link-wrapper">
+            <a href={post.data.source || `https://blog.naver.com/sanjangboarder/${post.data.logNo}`} target="_blank" class="original-link">
+              산장보더 네이버 블로그 원본글
+            </a>
+          </div>
+        )}
       </header>
 
       {post.data.thumbnail && (
@@ -49,6 +56,19 @@ const { Content } = await post.render();
 </Layout>
 
 <style>
+  .original-link-wrapper {
+    text-align: right;
+    margin-top: 1rem;
+  }
+  .original-link {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    text-decoration: underline;
+    transition: color 0.3s;
+  }
+  .original-link:hover {
+    color: var(--accent-light);
+  }
   .post-container {
     padding: 120px 0 80px;
     max-width: 900px;
