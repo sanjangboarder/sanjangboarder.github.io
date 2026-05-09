@@ -1,0 +1,121 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  // 카테고리가 없는 경우 '미분류'로 처리
+  const uniqueCategories = [...new Set(allPosts.map((post) => post.data.category || '미분류'))];
+
+  return uniqueCategories.map((category) => {
+    const filteredPosts = allPosts
+      .filter((post) => (post.data.category || '미분류') === category)
+      .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+    
+    return {
+      params: { category: category }, // [...category] 이므로 슬래시가 포함되어도 OK
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { category } = Astro.params;
+const { posts } = Astro.props;
+---
+
+<Layout title={`${category} - 산장보더`}>
+  <main class="container">
+    <div class="bg-orb orb-1"></div>
+    
+    <header class="page-header">
+      <div class="breadcrumb">
+        <a href="/categories">Categories</a> /
+      </div>
+      <h1 class="gradient-text">{category}</h1>
+      <p>{posts.length}개의 포스트가 있습니다.</p>
+    </header>
+
+    <div class="posts-grid">
+      {posts.map((post) => (
+        <a href={`/posts/${post.slug}`} class="post-card glass">
+          <div class="card-content">
+            <time>{post.data.date.toLocaleDateString('ko-KR')}</time>
+            <h3>{post.data.title}</h3>
+            <p>{post.data.description}</p>
+            <span class="read-more">Read More →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    padding: 150px 2rem 80px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+
+  .breadcrumb {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+  }
+
+  .page-header h1 {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    line-height: 1.2;
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .post-card {
+    display: block;
+    height: 100%;
+  }
+
+  .card-content {
+    padding: 2rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  time {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  h3 {
+    margin: 1rem 0;
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .read-more {
+    margin-top: auto;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent-light);
+  }
+</style>
