@@ -1,0 +1,211 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="About - 산장보더">
+  <main class="container">
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    
+    <header class="page-header">
+      <h1 class="gradient-text">About Sanjangboarder</h1>
+      <p>기록은 기억을 지배하고, 경험은 가치가 됩니다.</p>
+    </header>
+
+    <div class="about-grid">
+      <section class="intro-section glass">
+        <h2>안녕하세요, 산장보더입니다. 🎣</h2>
+        <p>
+          26년이라는 긴 시간 동안 선상낚시와 루어낚시의 현장을 누비며, 
+          그곳에서 얻은 생생한 경험들을 기록으로 남기고 있습니다. 
+          처음 낚싯대를 잡았을 때의 설렘부터, 대물과의 사투 끝에 얻은 깨달음까지 
+          제 블로그는 단순한 정보 공유를 넘어 저의 삶 그 자체를 담고 있습니다.
+        </p>
+        <p>
+          단순히 '많이 잡는 법'보다는 '어떻게 하면 더 즐겁고 스마트하게 낚시를 즐길 수 있을까'를 고민합니다. 
+          최신 장비의 경량화 트렌드부터 내돈내산 솔직 리뷰, 그리고 낚시 여정 속에서 만난 
+          맛있는 음식과 아름다운 풍경들까지 모두 이 공간에 모았습니다.
+        </p>
+      </section>
+
+      <div class="stats-grid">
+        <div class="stat-card glass">
+          <span class="number">26+</span>
+          <span class="label">Years of Fishing</span>
+        </div>
+        <div class="stat-card glass">
+          <span class="number">1,500+</span>
+          <span class="label">Total Stories</span>
+        </div>
+      </div>
+
+      <section class="topics-section glass">
+        <h2>What I Share</h2>
+        <ul class="topic-list">
+          <li>
+            <strong>Expert Fishing</strong>
+            <span>선상낚시, 루어낚시, 해루질 등 전문적인 필드 노하우와 조행기</span>
+          </li>
+          <li>
+            <strong>Honest Reviews</strong>
+            <span>협찬보다는 '내돈내산'으로 증명하는 날카롭고 솔직한 장비 리뷰</span>
+          </li>
+          <li>
+            <strong>Smart Life</strong>
+            <span>낚시인의 관점에서 바라본 IT 기기, 자동차, 그리고 스마트한 취미 생활</span>
+          </li>
+          <li>
+            <strong>Food & Travel</strong>
+            <span>낚시 여행 중 발견한 현지인 맛집과 소중한 여행의 순간들</span>
+          </li>
+        </ul>
+      </section>
+
+      <section class="vision-section glass">
+        <h2>Future with AI</h2>
+        <p>
+          2026년, 이제 저의 방대한 기록들은 인공지능을 통해 새로운 생명력을 얻었습니다. 
+          제가 직접 겪은 수천 개의 데이터는 AI와 결합하여 더 정확하고 보기 편한 
+          프리미엄 콘텐츠로 재탄생하며, 앞으로도 변함없이 정직하고 유익한 정보로 
+          독자 여러분과 소통하고자 합니다.
+        </p>
+      </section>
+    </div>
+
+    <footer class="about-footer">
+      <p>함께 소통하고 싶으신 분들은 언제든 환영합니다.</p>
+      <a href="mailto:sanjangboarder@naver.com" class="btn btn-primary">Contact Me</a>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    padding: 150px 2rem 100px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+
+  .page-header h1 {
+    font-size: clamp(3rem, 8vw, 5rem);
+    margin-bottom: 1.5rem;
+  }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+  }
+
+  .intro-section {
+    grid-column: 1 / 2;
+    padding: 4rem;
+  }
+
+  .stats-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .stat-card {
+    padding: 2.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .stat-card .number {
+    font-size: 3rem;
+    font-weight: 800;
+    color: var(--accent-light);
+    display: block;
+  }
+
+  .stat-card .label {
+    font-size: 1rem;
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+
+  .topics-section {
+    grid-column: 1 / 3;
+    padding: 4rem;
+  }
+
+  .topic-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 3rem;
+    margin-top: 2rem;
+  }
+
+  .topic-list li {
+    position: relative;
+    padding-left: 1.5rem;
+  }
+
+  .topic-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.5rem;
+    width: 6px;
+    height: 6px;
+    background: var(--accent);
+    border-radius: 50%;
+  }
+
+  .topic-list li strong {
+    display: block;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+  }
+
+  .topic-list li span {
+    color: var(--text-muted);
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .vision-section {
+    grid-column: 1 / 3;
+    padding: 4rem;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(15, 23, 42, 0.6) 100%);
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  p {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+
+  .about-footer {
+    margin-top: 8rem;
+    text-align: center;
+  }
+
+  .about-footer p {
+    margin-bottom: 2rem;
+  }
+
+  @media (max-width: 900px) {
+    .about-grid { grid-template-columns: 1fr; }
+    .intro-section, .topics-section, .vision-section { grid-column: 1 / 2; padding: 2rem; }
+    .topic-list { grid-template-columns: 1fr; gap: 2rem; }
+  }
+</style>
