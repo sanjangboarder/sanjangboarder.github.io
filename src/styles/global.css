@@ -153,37 +153,56 @@ h1, h2, h3, h4 {
 }
 
 .social-icon {
-  width: 32px;
-  height: 32px;
+  width: 34px;
+  height: 34px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
+  border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
-  border: 1px solid var(--glass-border);
-  font-size: 0.9rem;
-  color: var(--text-muted);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 1.1rem;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  position: relative;
+  overflow: hidden;
 }
+
+/* 브랜드 상시 컬러 적용 */
+.social-icon.instagram { color: #E4405F; border-color: rgba(228, 64, 95, 0.3); }
+.social-icon.blog { color: #03cf5d; border-color: rgba(3, 207, 93, 0.3); }
+.social-icon.influencer { color: #03cf5d; border-color: rgba(3, 207, 93, 0.3); }
+.social-icon.youtube { color: #FF0000; border-color: rgba(255, 0, 0, 0.3); }
 
 .social-icon:hover {
+  transform: translateY(-5px) rotate(8deg);
   color: white;
-  transform: translateY(-3px) scale(1.1);
-  border-color: transparent;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
 
-.social-icon.instagram:hover { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); }
-.social-icon.blog:hover, .social-icon.influencer:hover { background: #03cf5d; }
-.social-icon.youtube:hover { background: #ff0000; }
+.social-icon.instagram:hover { 
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0 0 15px rgba(214, 36, 159, 0.5);
+}
+.social-icon.blog:hover, .social-icon.influencer:hover { 
+  background: #03cf5d; 
+  box-shadow: 0 0 15px rgba(3, 207, 93, 0.5);
+}
+.social-icon.youtube:hover { 
+  background: #ff0000; 
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+}
 
-.nav-title {
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: 1.5rem;
-  padding-left: 0.5rem;
+/* --- Content Font (Casual Option) --- */
+:root {
+  --post-font: 'Gowun Dodum', sans-serif; /* 캐주얼하고 다정한 느낌 */
+}
+
+.post-body {
+  font-family: var(--post-font);
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: var(--text-color);
+  letter-spacing: -0.01em;
 }
 
 .category-list {
