@@ -299,10 +299,70 @@ h1, h2, h3, h4 {
   opacity: 0.5;
 }
 
-.footer-link {
-  font-size: 0.9rem;
-  color: var(--text-muted);
-  text-decoration: underline;
+/* --- Map & Video Cards --- */
+.map-card, .video-card {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  border-radius: 1.25rem;
+}
+
+.map-info {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.map-icon { font-size: 1.5rem; }
+.map-name { font-weight: 700; font-size: 1.2rem; margin-bottom: 0.25rem; }
+.map-addr { font-size: 0.9rem; color: var(--text-muted); }
+.map-btn, .video-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--accent-gradient);
+  color: white;
+  text-decoration: none;
+  border-radius: 0.75rem;
+  font-weight: 700;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+.map-btn:hover, .video-btn:hover { transform: scale(1.02); }
+
+.video-thumb {
+  position: relative;
+  border-radius: 1rem;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+}
+.video-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.play-btn {
+  position: absolute;
+  top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: 60px; height: 60px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-size: 1.5rem;
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+}
+.video-title { font-weight: 700; font-size: 1.1rem; line-height: 1.4; }
+
+/* Responsive Video Wrapper */
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 1rem;
+  margin: 2rem 0;
+}
+.video-wrapper iframe {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  border: none;
 }
 
 /* --- Main Content Area --- */
