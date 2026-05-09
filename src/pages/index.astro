@@ -1,56 +1,112 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+// 게시글 데이터 가져오기 (최신순 6개)
+const allPosts = await getCollection('posts');
+const latestPosts = allPosts
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 6);
 ---
 
-<Layout title="Premium AI Blog - My Intelligence Space">
+<Layout title="산장보더 - Premium AI Fishing & Life Blog">
 	<main>
+		<!-- Animated Background Orbs -->
+		<div class="bg-orb orb-1"></div>
+		<div class="bg-orb orb-2"></div>
+
 		<nav class="glass-nav">
 			<div class="container nav-content">
-				<div class="logo">AI BLOG</div>
+				<div class="logo">SANJANG<span>BOARDER</span></div>
 				<ul class="nav-links">
 					<li><a href="/">Home</a></li>
-					<li><a href="/posts">Posts</a></li>
-					<li><a href="/about">About</a></li>
+					<li><a href="/posts">Archive</a></li>
+					<li><a href="/categories">Categories</a></li>
 				</ul>
 			</div>
 		</nav>
 
 		<header class="hero">
 			<div class="container">
-				<h1 class="gradient-text">Future of Content Automation</h1>
-				<p class="hero-desc">네이버 블로그의 자산을 마크다운 기반의 프리미엄 GitHub 블로그로 재탄생시킵니다. 인공지능이 완성하는 당신만의 문체와 수익 최적화 시스템.</p>
-				<div class="hero-btns">
-					<a href="/posts" class="btn btn-primary">글 목록 보기</a>
-					<a href="#about" class="btn btn-outline">더 알아보기</a>
+				<div class="hero-content">
+					<div class="badge">EST. 2000 • AI REBORN 2026</div>
+					<h1 class="gradient-text">기록을 예술로,<br />경험을 정보로.</h1>
+					<p class="hero-desc">
+						26년 선상낚시의 정수와 스마트한 라이프 스타일.<br />
+						산장보더의 모든 지식이 AI를 통해 고감도 콘텐츠로 재탄생합니다.
+					</p>
+					<div class="hero-btns">
+						<a href="#posts" class="btn btn-primary">최신 포스트</a>
+						<a href="/about" class="btn btn-outline">소개</a>
+					</div>
 				</div>
 			</div>
 		</header>
 
-		<section class="features container">
-			<div class="feature-card glass">
-				<h3>AI Style Mimicry</h3>
-				<p>2,000개의 데이터를 학습하여 당신의 고유한 문체로 글을 자동 생성합니다.</p>
+		<section id="posts" class="posts-section container">
+			<div class="section-header">
+				<h2>Latest Stories</h2>
+				<a href="/posts" class="view-all">View All Archive →</a>
 			</div>
-			<div class="feature-card glass">
-				<h3>SEO & AdSense</h3>
-				<p>구글 검색 엔진 최적화와 전략적 광고 배치로 수익을 극대화합니다.</p>
+
+			<div class="posts-grid">
+				{latestPosts.length > 0 ? (
+					latestPosts.map((post) => (
+						<a href={`/posts/${post.slug}`} class="post-card glass">
+							<div class="card-content">
+								<div class="card-meta">
+									<span class="category-tag">{post.data.category}</span>
+									<span class="card-date">{post.data.date.toLocaleDateString('ko-KR')}</span>
+								</div>
+								<h3 class="card-title">{post.data.title}</h3>
+								<p class="card-desc">{post.data.description}</p>
+								<div class="card-footer">
+									<span class="read-more">Read More</span>
+									<div class="arrow-icon">→</div>
+								</div>
+							</div>
+						</a>
+					))
+				) : (
+					<div class="no-posts glass">
+						<p>아직 포스트가 없습니다. 마이그레이션된 글을 src/content/posts 폴더에 넣어주세요!</p>
+					</div>
+				)}
 			</div>
-			<div class="feature-card glass">
-				<h3>Premium Design</h3>
-				<p>현대적이고 세련된 UI/UX로 방문자에게 최고의 경험을 제공합니다.</p>
+		</section>
+
+		<section class="vision container">
+			<div class="vision-grid">
+				<div class="vision-card glass">
+					<div class="icon">🎣</div>
+					<h3>Expertise</h3>
+					<p>수십 년간 축적된 실제 현장의 낚시 노하우를 체계적으로 정리합니다.</p>
+				</div>
+				<div class="vision-card glass">
+					<div class="icon">🤖</div>
+					<h3>AI Driven</h3>
+					<p>사용자 고유의 문체를 분석하여 일관성 있는 톤앤매너로 자동 발행됩니다.</p>
+				</div>
+				<div class="vision-card glass">
+					<div class="icon">📈</div>
+					<h3>Growth</h3>
+					<p>SEO 최적화와 수익화 모델을 통해 가치 있는 디지털 자산을 구축합니다.</p>
+				</div>
 			</div>
 		</section>
 	</main>
 </Layout>
 
 <style>
+	/* Navigation */
 	.glass-nav {
 		height: var(--nav-height);
-		position: sticky;
+		position: fixed;
 		top: 0;
-		z-index: 100;
-		background: rgba(15, 23, 42, 0.8);
-		backdrop-filter: blur(8px);
+		width: 100%;
+		z-index: 1000;
+		background: rgba(2, 6, 23, 0.7);
+		backdrop-filter: blur(12px);
 		border-bottom: 1px solid var(--border-color);
 	}
 	.nav-content {
@@ -62,91 +118,220 @@ import Layout from '../layouts/Layout.astro';
 	.logo {
 		font-family: 'Outfit', sans-serif;
 		font-size: 1.5rem;
-		font-weight: 700;
-		background: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+		font-weight: 800;
+		letter-spacing: -0.05em;
+	}
+	.logo span {
+		color: var(--accent-light);
+		opacity: 0.7;
 	}
 	.nav-links {
 		display: flex;
-		gap: 2rem;
+		gap: 2.5rem;
 		list-style: none;
 	}
+	.nav-links a {
+		font-size: 0.9rem;
+		font-weight: 500;
+		color: var(--text-muted);
+		transition: color 0.3s;
+	}
+	.nav-links a:hover {
+		color: var(--accent-light);
+	}
 
+	/* Hero */
 	.hero {
-		padding: 120px 0 80px;
+		padding: 180px 0 100px;
+		position: relative;
+	}
+	.hero-content {
+		max-width: 800px;
+		margin: 0 auto;
 		text-align: center;
 	}
-	.gradient-text {
-		font-family: 'Outfit', sans-serif;
-		font-size: 4rem;
-		margin-bottom: 1.5rem;
-		background: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		animation: fadeIn 1s ease-out;
+	.badge {
+		display: inline-block;
+		padding: 0.5rem 1.25rem;
+		background: rgba(99, 102, 241, 0.1);
+		border: 1px solid rgba(99, 102, 241, 0.2);
+		border-radius: 100px;
+		font-size: 0.75rem;
+		font-weight: 700;
+		color: var(--accent-light);
+		letter-spacing: 0.1em;
+		margin-bottom: 2rem;
+	}
+	.hero h1 {
+		font-size: clamp(3.5rem, 10vw, 5.5rem);
+		margin-bottom: 2rem;
 	}
 	.hero-desc {
 		font-size: 1.25rem;
 		color: var(--text-muted);
-		max-width: 800px;
-		margin: 0 auto 2.5rem;
+		margin-bottom: 3rem;
+		line-height: 1.8;
 	}
 	.hero-btns {
 		display: flex;
 		justify-content: center;
-		gap: 1.5rem;
+		gap: 1.25rem;
 	}
 
 	.btn {
-		padding: 0.8rem 2rem;
-		border-radius: 0.5rem;
+		padding: 1rem 2.5rem;
+		border-radius: 0.75rem;
 		font-weight: 600;
-		cursor: pointer;
+		transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 	}
 	.btn-primary {
-		background: var(--accent);
+		background: var(--accent-gradient);
 		color: white;
+		box-shadow: 0 10px 20px -5px rgba(99, 102, 241, 0.4);
 	}
 	.btn-primary:hover {
-		background: var(--accent-dark);
-		transform: translateY(-2px);
+		transform: translateY(-3px);
+		box-shadow: 0 15px 30px -5px rgba(99, 102, 241, 0.6);
 	}
 	.btn-outline {
-		border: 1px solid var(--border-color);
-		color: var(--text-color);
-	}
-	.btn-outline:hover {
+		border: 1px solid var(--glass-border);
 		background: rgba(255, 255, 255, 0.05);
 	}
-
-	.features {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-		gap: 2rem;
-		margin-top: 4rem;
-		padding-bottom: 8rem;
+	.btn-outline:hover {
+		background: rgba(255, 255, 255, 0.1);
+		transform: translateY(-3px);
 	}
-	.feature-card {
+
+	/* Posts Section */
+	.posts-section {
+		padding: 100px 0;
+	}
+	.section-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		margin-bottom: 3.5rem;
+	}
+	.section-header h2 {
+		font-size: 2.5rem;
+	}
+	.view-all {
+		color: var(--accent-light);
+		font-weight: 600;
+		font-size: 0.95rem;
+	}
+
+	.posts-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+		gap: 2.5rem;
+	}
+
+	.post-card {
+		height: 100%;
+		display: block;
+	}
+	.card-content {
 		padding: 2.5rem;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+	.card-meta {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1.5rem;
+	}
+	.category-tag {
+		font-size: 0.7rem;
+		font-weight: 800;
+		color: var(--accent-light);
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		padding: 0.25rem 0.75rem;
+		background: rgba(99, 102, 241, 0.1);
+		border-radius: 4px;
+	}
+	.card-date {
+		font-size: 0.85rem;
+		color: var(--text-muted);
+	}
+	.card-title {
+		font-size: 1.6rem;
+		margin-bottom: 1.25rem;
+		line-height: 1.3;
+	}
+	.card-desc {
+		color: var(--text-muted);
+		font-size: 1rem;
+		line-height: 1.6;
+		margin-bottom: 2.5rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.card-footer {
+		margin-top: auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--border-color);
+	}
+	.read-more {
+		font-weight: 700;
+		font-size: 0.9rem;
+	}
+	.arrow-icon {
 		transition: transform 0.3s ease;
 	}
-	.feature-card:hover {
-		transform: translateY(-10px);
-		border-color: var(--accent-light);
-	}
-	.feature-card h3 {
-		margin-bottom: 1rem;
-		color: var(--accent-light);
+	.post-card:hover .arrow-icon {
+		transform: translateX(5px);
 	}
 
-	@keyframes fadeIn {
-		from { opacity: 0; transform: translateY(20px); }
-		to { opacity: 1; transform: translateY(0); }
+	/* Vision Section */
+	.vision {
+		padding-bottom: 150px;
+	}
+	.vision-grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2rem;
+	}
+	.vision-card {
+		padding: 3rem;
+		text-align: center;
+	}
+	.vision-card .icon {
+		font-size: 3rem;
+		margin-bottom: 1.5rem;
+		display: block;
+	}
+	.vision-card h3 {
+		font-size: 1.5rem;
+		margin-bottom: 1rem;
+	}
+	.vision-card p {
+		color: var(--text-muted);
+		font-size: 0.95rem;
+	}
+
+	.no-posts {
+		grid-column: 1 / -1;
+		padding: 5rem;
+		text-align: center;
+		color: var(--text-muted);
+	}
+
+	@media (max-width: 1024px) {
+		.vision-grid { grid-template-columns: 1fr; }
 	}
 
 	@media (max-width: 768px) {
-		.gradient-text { font-size: 2.5rem; }
+		.hero h1 { font-size: 3rem; }
 		.nav-links { display: none; }
+		.posts-grid { grid-template-columns: 1fr; }
 	}
 </style>
