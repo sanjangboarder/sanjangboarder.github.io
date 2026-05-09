@@ -1,0 +1,138 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+// 모든 포스트를 가져와서 경로(slug) 생성
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title}>
+  <main class="post-container">
+    <div class="bg-orb orb-1"></div>
+    
+    <article class="post-glass glass">
+      <header class="post-header">
+        <div class="post-meta">
+          <span class="category">{post.data.category}</span>
+          <time>{post.data.date.toLocaleDateString('ko-KR')}</time>
+        </div>
+        <h1 class="gradient-text">{post.data.title}</h1>
+      </header>
+
+      {post.data.thumbnail && (
+        <div class="featured-image">
+          <img src={post.data.thumbnail} alt={post.data.title} />
+        </div>
+      )}
+
+      <div class="post-body">
+        <Content />
+      </div>
+
+      <footer class="post-footer">
+        <a href="/" class="btn-back">← Back to Home</a>
+        {post.data.source && (
+          <a href={post.data.source} target="_blank" class="btn-source">Original Post ↗</a>
+        )}
+      </footer>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  .post-container {
+    padding: 120px 0 80px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .post-glass {
+    padding: 4rem;
+  }
+
+  .post-header {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .post-meta {
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+  }
+
+  .category {
+    color: var(--accent-light);
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .featured-image {
+    margin: 2rem 0 4rem;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .featured-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .post-body {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--text-color);
+  }
+
+  /* 마크다운 스타일링 */
+  .post-body :global(p) { margin-bottom: 1.5rem; }
+  .post-body :global(img) { 
+    max-width: 100%; 
+    border-radius: 0.5rem; 
+    margin: 2rem 0;
+  }
+  .post-body :global(h2) { 
+    font-size: 2rem; 
+    margin: 4rem 0 1.5rem; 
+    color: var(--accent-light);
+  }
+
+  .post-footer {
+    margin-top: 5rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btn-back, .btn-source {
+    font-weight: 600;
+    color: var(--text-muted);
+    transition: color 0.3s;
+  }
+
+  .btn-back:hover, .btn-source:hover {
+    color: var(--accent-light);
+  }
+
+  @media (max-width: 768px) {
+    .post-glass { padding: 2rem; }
+    .gradient-text { font-size: 2rem; }
+  }
+</style>
