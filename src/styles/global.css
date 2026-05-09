@@ -153,26 +153,29 @@ h1, h2, h3, h4 {
 }
 
 .social-icon {
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 6px;
+  border-radius: 8px;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--glass-border);
-  font-size: 0.65rem;
-  font-weight: 800;
+  font-size: 0.9rem;
   color: var(--text-muted);
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .social-icon:hover {
-  background: var(--accent-gradient);
   color: white;
-  transform: translateY(-2px);
+  transform: translateY(-3px) scale(1.1);
   border-color: transparent;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
+
+.social-icon.instagram:hover { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); }
+.social-icon.blog:hover, .social-icon.influencer:hover { background: #03cf5d; }
+.social-icon.youtube:hover { background: #ff0000; }
 
 .nav-title {
   font-size: 0.85rem;
