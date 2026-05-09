@@ -18,9 +18,8 @@ jobs:
       
       - name: Install, build, and upload with Astro
         uses: withastro/action@v2
-        # with:
-        #   path: . # 프로젝트 루트 폴더 (github_blog)
-        #   node-version: 20
+        with:
+          package-manager: npm
 
   deploy:
     needs: build
