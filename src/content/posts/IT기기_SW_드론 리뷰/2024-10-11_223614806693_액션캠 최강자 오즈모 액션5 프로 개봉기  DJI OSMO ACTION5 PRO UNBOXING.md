@@ -1,7 +1,7 @@
 ---
 title: "액션캠 최강자 오즈모 액션5 프로 개봉기!!  DJI OSMO ACTION5 PRO UNBOXING"
 date: 2024-10-11
-category: "IT기기/SW/드론 리뷰"
+category: "IT기기_SW_드론 리뷰"
 categoryNo: 33
 logNo: 223614806693
 source: "https://m.blog.naver.com/sanjangboarder/223614806693"

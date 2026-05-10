@@ -1,5 +1,5 @@
 """
-네이버 블로그 마이그레이션 도구 (동기화 및 삭제 처리 강화 버전)
+네이버 블로그 마이그레이션 도구 (최종 안정화 버전 - 테스트 모드 포함)
 """
 import os
 import re
@@ -18,11 +18,21 @@ HEADERS   = {
     "Referer": "https://m.blog.naver.com/",
 }
 
+# 브라우저 스캔으로 확인된 실제 카테고리 목록 (유실 방지용)
+CATEGORIES = [
+    (26, "바다낚시 팁_정보"), (3, "수도권 조행기"), (17, "전국구 조행기"),
+    (48, "해루질 이야기"), (34, "낚시용품 리뷰"), (32, "알리제품 리뷰"),
+    (35, "장소_맛집 리뷰"), (33, "IT기기_SW_드론 리뷰"), (25, "이벤트_체험단"),
+    (36, "운동_레져정보"), (40, "자전거"), (39, "캠핑"), (37, "걷기다이어트"),
+    (43, "겨울레져활동"), (44, "스포츠이야기"), (50, "자동차_오토모티브"),
+    (27, "AI, SW개발, DevOps"), (55, "경제관련공부"), (13, "나의 관심정보"),
+    (16, "함께 쓰는 게시판"), (14, "기억하고 싶은 글")
+]
+
 def ts_to_date(ms_timestamp):
     try:
         return datetime.fromtimestamp(ms_timestamp / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
-    except:
-        return "unknown"
+    except: return "unknown"
 
 def safe_dirname(name):
     return re.sub(r'[\\/:*?"<>|]', '_', str(name)).strip()
@@ -32,42 +42,58 @@ def safe_filename(text, max_len=60):
 
 def sanitize_yaml(v):
     if v is None: return ""
-    # 백슬래시는 YAML 큰따옴표 내에서 이스케이프가 필요함, 줄바꿈 제거 및 따옴표 치환
+    # 빌드 에러 방지를 위해 백슬래시 이스케이프 및 특수기호 정리
     return str(v).replace('\\', '\\\\').replace('\n', ' ').replace('\r', '').replace('"', "'").strip()
 
-def clean_markdown(md_text):
-    """마크다운 노이즈 제거 및 이미지 레이아웃 최적화"""
-    # 네이버 특유의 이미지 링크 노이즈 제거
+def clean_markdown(md_text, title=""):
+    """마크다운 노이즈 제거 및 본문 최적화"""
+    # 1. 네이버 특유의 이미지 링크 노이즈 제거
     md_text = re.sub(r'\[\!\[\]\((.*?)\)\]\(#\)', r'![](\1)', md_text)
     
-    # 연속된 이미지 사이의 빈 줄 제거 (한 줄에 보이기 위함)
+    # 2. 연속된 이미지 사이의 빈 줄 제거 (한 줄에 나란히 배치하기 위함)
     md_text = re.sub(r'(\!\[.*?\]\(.*?\))\s*\n\s*(\!\[.*?\]\(.*?\))', r'\1\n\2', md_text)
-    md_text = re.sub(r'(\!\[.*?\]\(.*?\))\s*\n\s*(\!\[.*?\]\(.*?\))', r'\1\n\2', md_text) # 두 번 실행하여 3개 이상 대응
+    md_text = re.sub(r'(\!\[.*?\]\(.*?\))\s*\n\s*(\!\[.*?\]\(.*?\))', r'\1\n\2', md_text)
     
+    # 3. 본문 상단 중복 제목 및 깨진 아이콘 제거
+    if title:
+        title_keywords = [k for k in re.findall(r'[가-힣\w]+', title) if len(k) > 1]
+        lines = md_text.split('\n')
+        body_lines = []
+        skipped_redundant = False
+        text_count = 0
+        
+        for line in lines:
+            stripped = line.strip()
+            if not stripped:
+                body_lines.append(line)
+                continue
+            
+            text_count += 1
+            if not skipped_redundant and text_count <= 5:
+                # 굵은 글씨나 제목 태그이면서 제목과 유사한 경우
+                clean_line = re.sub(r'[\*#🚗🚌🚢🎣💡🚀😱🐢💣🧪]', '', stripped).strip()
+                match_count = sum(1 for k in title_keywords if k in clean_line)
+                if match_count >= len(title_keywords) * 0.4 or clean_line in title or len(clean_line) < 3:
+                    skipped_redundant = True
+                    continue # 해당 라인 건너뜀
+            body_lines.append(line)
+        md_text = '\n'.join(body_lines)
+
     md_text = md_text.replace('\u200b', '')
     md_text = re.sub(r'\n{3,}', '\n\n', md_text)
     return md_text.strip()
 
 def get_existing_posts():
-    """로컬에 이미 있는 포스트들을 logNo 기준으로 매핑 {logNo: full_path}"""
     mapping = {}
     posts_path = Path(BASE_DIR)
     if not posts_path.exists(): return mapping
-    
     for fp in posts_path.rglob("*.md"):
         if ".deleted" in str(fp): continue
         match = re.search(r'_(\d{10,13})_', fp.name)
-        if match:
-            mapping[str(match.group(1))] = str(fp)
-        else:
-            try:
-                content = fp.read_text(encoding='utf-8', errors='ignore')
-                fm_match = re.search(r'logNo:\s*(\d+)', content)
-                if fm_match: mapping[str(fm_match.group(1))] = str(fp)
-            except: pass
+        if match: mapping[str(match.group(1))] = str(fp)
     return mapping
 
-def get_post_content(blog_id, log_no):
+def get_post_content(blog_id, log_no, title=""):
     url = f"https://m.blog.naver.com/{blog_id}/{log_no}"
     try:
         resp = requests.get(url, headers=HEADERS, timeout=10)
@@ -79,8 +105,8 @@ def get_post_content(blog_id, log_no):
             a = og.find('a')
             if a and a.get('href'):
                 href = a['href']
-                title = og.select_one('.se-oglink-title')
-                txt = title.get_text(strip=True) if title else "상세보기"
+                og_title = og.select_one('.se-oglink-title')
+                txt = og_title.get_text(strip=True) if og_title else "상세보기"
                 new_p = soup.new_tag('p')
                 new_p.string = f"\n\n[Link: {txt}]({href})\n\n"
                 og.replace_with(new_p)
@@ -90,95 +116,55 @@ def get_post_content(blog_id, log_no):
             if src: img['src'] = re.sub(r'\?type=\w+', '?type=w800', src)
 
         for tag in content_div.select('.se-placesMap, .se-sticker'): tag.decompose()
-            
         md = markdownify.markdownify(str(content_div), heading_style="ATX")
-        return clean_markdown(md)
+        return clean_markdown(md, title)
     except: return None
 
-def migrate_posts(page_size=20, max_pages=1):
-    print(f"[{BLOG_ID}] 마이그레이션 및 동기화 시작 (최대 {max_pages} 페이지)...")
+def migrate_all(test_mode=True):
+    print(f"[{BLOG_ID}] 마이그레이션 시작 (테스트 모드: {test_mode})")
     existing_map = get_existing_posts()
     synced_logs = set()
-    
-    for page in range(1, max_pages + 1):
-        # 파라미터가 정확해야 200 JSON을 반환함
-        api_url = f"https://m.blog.naver.com/api/blogs/{BLOG_ID}/post-list?page={page}&pageSize={page_size}&categoryNo=0&sortType=recentpost"
-        try:
-            resp = requests.get(api_url, headers=HEADERS, timeout=10)
-            if resp.status_code != 200:
-                print(f"  [오류] API 호출 실패 (상태코드: {resp.status_code})")
-                break
-            
-            data = resp.json().get("result", {})
-            items = data.get("items", [])
-            if not items:
-                print(f"  [알림] 더 이상 가져올 데이터가 없습니다. (Page {page})")
-                break
-            
-            for item in items:
-                log_no = str(item.get("logNo"))
-                title = item.get("titleWithInspectMessage", f"post_{log_no}")
-                cat_name = item.get("categoryName", "미분류")
-                cat_no = item.get("categoryNo", 0)
-                date_str = ts_to_date(item.get("addDate", 0))
-                thumb = item.get("thumbnailUrl", "")
-                desc = sanitize_yaml(item.get("briefContents", ""))
-                
-                synced_logs.add(log_no)
-                
-                # 콘텐츠 가져오기
-                content = get_post_content(BLOG_ID, log_no)
-                if not content: continue
-                
-                # 저장 경로 결정
-                cat_dir = os.path.join(BASE_DIR, safe_dirname(cat_name))
-                os.makedirs(cat_dir, exist_ok=True)
-                new_fpath = os.path.join(cat_dir, f"{date_str}_{log_no}_{safe_filename(title)}.md")
-                
-                # 기존 파일 처리 (위치 변경 시 이동)
-                if log_no in existing_map:
-                    old_path = existing_map[log_no]
-                    if os.path.abspath(old_path) != os.path.abspath(new_fpath):
-                        print(f"  [이동] {log_no}: {os.path.basename(old_path)} -> {cat_name} 폴더")
-                        if os.path.exists(old_path): os.remove(old_path)
-                
-                # 파일 저장 (항상 최신 내용으로 덮어씀)
-                with open(new_fpath, "w", encoding="utf-8") as f:
-                    f.write(f"---")
-                    f.write(f"\ntitle: \"{sanitize_yaml(title)}\"")
-                    f.write(f"\ndate: {date_str}")
-                    f.write(f"\ncategory: \"{sanitize_yaml(cat_name)}\"")
-                    f.write(f"\ncategoryNo: {cat_no}")
-                    f.write(f"\nlogNo: {log_no}")
-                    f.write(f"\nsource: \"https://m.blog.naver.com/{BLOG_ID}/{log_no}\"")
-                    f.write(f"\nthumbnail: \"{thumb}\"")
-                    f.write(f"\ndescription: \"{desc}\"")
-                    f.write(f"\n---")
-                    f.write(f"\n\n{content}")
-                
-                print(f"  [완료] {date_str} | {cat_name} | {title[:30]}...")
-                time.sleep(0.05)
-                
-        except Exception as e:
-            print(f"  [에러] Page {page} 처리 중 오류: {e}")
-            break
-    
-    # 삭제된 포스트 처리 (네이버에는 없는데 로컬에는 있는 경우)
-    # 단, 전체 마이그레이션(max_pages가 충분히 클 때)인 경우에만 신뢰할 수 있음
-    if max_pages > 50: # 대략 1000개 이상 긁을 때만 작동
-        print("\n[삭제 확인] 네이버에서 사라진 포스트를 체크합니다...")
-        for lno, path in existing_map.items():
-            if lno not in synced_logs:
-                os.makedirs(DELETED_DIR, exist_ok=True)
-                target = os.path.join(DELETED_DIR, os.path.basename(path))
-                print(f"  [삭제감지] {lno} -> .deleted 폴더로 이동")
-                if os.path.exists(path):
-                    os.rename(path, target)
+    total = 0
 
+    for c_no, c_name in CATEGORIES:
+        print(f"\n>>> 카테고리: {c_name}")
+        for page in range(1, 51):
+            api_url = f"https://m.blog.naver.com/api/blogs/{BLOG_ID}/post-list?page={page}&pageSize=20&categoryNo={c_no}&sortType=recentpost"
+            try:
+                resp = requests.get(api_url, headers=HEADERS, timeout=10)
+                items = resp.json().get("result", {}).get("items", [])
+                if not items: break
+                
+                for item in items:
+                    log_no = str(item.get("logNo"))
+                    if log_no in synced_logs: continue
+                    
+                    title = item.get("titleWithInspectMessage", f"post_{log_no}")
+                    date_str = ts_to_date(item.get("addDate", 0))
+                    
+                    content = get_post_content(BLOG_ID, log_no, title)
+                    if not content: continue
+                    
+                    synced_logs.add(log_no)
+                    total += 1
+                    
+                    cat_dir = os.path.join(BASE_DIR, safe_dirname(c_name))
+                    os.makedirs(cat_dir, exist_ok=True)
+                    new_fpath = os.path.join(cat_dir, f"{date_str}_{log_no}_{safe_filename(title)}.md")
+                    
+                    if log_no in existing_map and os.path.abspath(existing_map[log_no]) != os.path.abspath(new_fpath):
+                        if os.path.exists(existing_map[log_no]): os.remove(existing_map[log_no])
+                    
+                    with open(new_fpath, "w", encoding="utf-8") as f:
+                        f.write(f"---\ntitle: \"{sanitize_yaml(title)}\"\ndate: {date_str}\ncategory: \"{sanitize_yaml(c_name)}\"\ncategoryNo: {c_no}\nlogNo: {log_no}\nsource: \"https://m.blog.naver.com/{BLOG_ID}/{log_no}\"\nthumbnail: \"{item.get('thumbnailUrl', '')}\"\ndescription: \"{sanitize_yaml(item.get('briefContents', ''))}\"\n---\n\n{content}")
+                    
+                    print(f"  [{total}] {date_str} | {title[:40]}...")
+                    time.sleep(1.0) # 네이버 배려를 위한 충분한 지연 시간 (1초)
+                    
+                    if test_mode and total >= 5: return synced_logs
+            except: break
     return synced_logs
 
 if __name__ == "__main__":
-    # 테스트를 위해 1페이지만 실행. 
-    # 전체 마이그레이션 시에는 max_pages를 100 정도로 설정하세요.
-    synced = migrate_posts(page_size=20, max_pages=1)
-    print(f"\n동기화 작업 완료! (처리된 포스트: {len(synced)}개)")
+    # 외출하신 동안 천천히(1초 간격) 전체 포스트를 가져옵니다.
+    migrate_all(test_mode=False)

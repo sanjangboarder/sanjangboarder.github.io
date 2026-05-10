@@ -1,7 +1,7 @@
 ---
 title: "WD 외장하드 / Western Digital NEW My Passport Gen3  4T 구입기 및 간단리뷰"
 date: 2021-12-30
-category: "IT기기/SW/드론 리뷰"
+category: "IT기기_SW_드론 리뷰"
 categoryNo: 33
 logNo: 222608622998
 source: "https://m.blog.naver.com/sanjangboarder/222608622998"

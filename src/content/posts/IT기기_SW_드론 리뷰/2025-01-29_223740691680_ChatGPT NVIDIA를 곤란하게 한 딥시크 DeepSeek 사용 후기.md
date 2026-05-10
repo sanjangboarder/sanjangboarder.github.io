@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT, NVIDIA를 곤란하게 한 딥시크 (DeepSeek) 사용 후기"
 date: 2025-01-29
-category: "IT기기/SW/드론 리뷰"
+category: "IT기기_SW_드론 리뷰"
 categoryNo: 33
 logNo: 223740691680
 source: "https://m.blog.naver.com/sanjangboarder/223740691680"

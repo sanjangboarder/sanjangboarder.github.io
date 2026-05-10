@@ -1,7 +1,7 @@
 ---
 title: "micro SD 4종 속도/성능 테스트  (삼성 PRO Plus, EVO Plus, EVO, Sandisk Extreme)"
 date: 2022-12-18
-category: "IT기기/SW/드론 리뷰"
+category: "IT기기_SW_드론 리뷰"
 categoryNo: 33
 logNo: 222957476952
 source: "https://m.blog.naver.com/sanjangboarder/222957476952"

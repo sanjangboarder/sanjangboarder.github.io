@@ -1,7 +1,7 @@
 ---
 title: "산장보더 네이버 블로그 사이트맵 Sanjangboader Blog Sitemap"
 date: 2025-01-10
-category: "IT기기/SW/드론 리뷰"
+category: "IT기기_SW_드론 리뷰"
 categoryNo: 33
 logNo: 223721410056
 source: "https://m.blog.naver.com/sanjangboarder/223721410056"
