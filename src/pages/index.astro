@@ -32,11 +32,6 @@ const latestPosts = allPosts
 					latestPosts.map((post) => (
 						<article class="post-card glass">
 							<a href={`/posts/${post.slug}`} class="card-link">
-								{post.data.thumbnail && (
-									<div class="card-image">
-										<img src={post.data.thumbnail} alt={post.data.title} loading="lazy" />
-									</div>
-								)}
 								<div class="card-content">
 									<div class="card-meta">
 										<span class="category-tag">{post.data.category}</span>
