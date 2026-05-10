@@ -22,11 +22,9 @@ description: "안녕하세요 산장보더입니다. 지난 삼성 Pro Plus micr
 테스트 사용한 리더기는 아래제품입니다. USB3.1을 지원하는 제품이고 본체내 3.0, 3.2 USB port에 둘다 꼽아 봤는데 각각은 비슷한 결과가 나옵니다.
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMzIg/MDAxNjcxMTY4NzIxMzUz.u8tAbmcI7Y-MrnDWdhzU6QOaCn4OBSGBC856M4DcICEg.-FbqkUFEHVa_wflThSMp71BFjG068VaFXr9vUvn3sWgg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTM4/MDAxNjcxMTcyNTk2Nzc5.1zO6v9ZEW_2SMXWWCV118LIGkr51sXSP4oh-tLAf2MEg.tSHPfX78yvT6_QY2ITuTJOZLqvN-AsbBC2_Heq1Tl3sg.PNG.seulgi77/image.png?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTM1/MDAxNjcxMTcyNjA1MzA0.pg6UQxAWORRIcL9aoO0veordECp-Ub3n22-id12nHvcg.nmblQkC8BDDeXL9AoVSAxQyuY0sO69-SoENCljw5iKgg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTI0/MDAxNjcxMTcyNjExMjc1.H69a_PL6KdS2CGh7g5bgiW3esyQ5LeGPl-H09jgzOxQg.8K-ZNFcvCL2jxtkOvraXVppEgr4IVjSgi_I6D_BH7V8g.PNG.seulgi77/image.png?type=w800)
 
 성능테스트는 그간 Storage 리뷰때 했던 크리스털 디스크마크와 HW모니터를 사용하였습니다.
@@ -38,13 +36,11 @@ description: "안녕하세요 산장보더입니다. 지난 삼성 Pro Plus micr
 삼성 microSD PRO Plus 256GB
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTEw/MDAxNjcxMTY3MzM3NTYy.rWpFQ8ZZYImgOsrbTCm3-j2xkdjn7VZTQ3CxIH38jHIg.nklSmfYa7ZkVm8mh5nCA5j5MfATEai3xYQexFG9Zlogg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfNDIg/MDAxNjcxMTY3MDc3MTc0.0JpHhg4S0skK0dFwWzPfKKYKGcKgzOypouSZY5QCtZkg.Je5TfTxJ67lfzxWXuBpprTr4F7rHbVQA8qPSFL5Hlv4g.PNG.seulgi77/image.png?type=w800)
 
 삼성 microSD EVO Plus 2020 128GB
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTEw/MDAxNjcxMTY3MzgwNTQz.rKF1UBo_6vdcDBdKDkOGmLy3NNeBVcO0_OCeoC8XlKsg.1yg152qSizJTx-xtXIxBxuBkCndkd6jTMoll6mUjGlgg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfOTMg/MDAxNjcxMTY3MTc5NjI4.yDnVwCu4suZTtusXpQIHs2OB6MOmpblEDPyMYSYYR7Mg.wf-jvhYfbzMlQeKw1-sMzL44Ol-iT2nprvs-nVAnwVIg.PNG.seulgi77/image.png?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfOTQg/MDAxNjcxMTY3MTUwNzA4.zz7e0nIAO8n0374wzuHJqFyu4-FCjFeRYIC4cILZ7vYg.EbM8Pb-eFM_6k0KIS3IwptjlmVRj1I1UwQMoNGqwnB0g.PNG.seulgi77/image.png?type=w800)
@@ -52,7 +48,6 @@ description: "안녕하세요 산장보더입니다. 지난 삼성 Pro Plus micr
 삼성 microSD EVO 2104 128GB
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfNjkg/MDAxNjcxMTY3NjEwMTI4.jXMLsaKqZifR472DQ0OtM2z9qlR_WBRjzxGT0WVcQHgg.LVgk7780S8rsY93OKT6AYzTW47NDOwxCgzyc6tQFotsg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMjQ1/MDAxNjcxMTY3NzAwNzc2.2kJ4DSHceyKAVrfDbZI1aWiUgxuAvneRw60tlNz02fIg.9szvnVTjqd5rJDFcEh8Myaebyy2Gahdfbv7ilEZ7gkkg.PNG.seulgi77/image.png?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfNzcg/MDAxNjcxMTY3NzIyODcw.u4caKcio05_xm7yn9km2sjXOsByWRHP_xUXrf0hhWcEg.0t90aws3LShbEqNJZfIM7zvibLnF9Nqelf9C3vcbIw8g.PNG.seulgi77/image.png?type=w800)
@@ -60,7 +55,6 @@ description: "안녕하세요 산장보더입니다. 지난 삼성 Pro Plus micr
 Sandisk microSD Extreme 2017 32GB
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfODgg/MDAxNjcxMTY3NjYxMDYz.x0r-ZAQVLzYr5mNRGalhimvgQrk_KFEKO3OIkXzKpP0g.DvYvUBvVclkDgjf98P4X14NtiVQC_yDSI8zR1owUCKUg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfNjkg/MDAxNjcxMTY4Mjc3MzE3.eRQ5LgSjYmvbMYiHbS3xHF89WyzSRu25AHONPEjKnpgg.mcxh0qT6htTU-722gbNPmrQyUWbdX6Udb_LZ18lzKF8g.PNG.seulgi77/image.png?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMzUg/MDAxNjcxMTY4MjcwMTY0.JkqImUjJp11OMUvNaIq1litojKasVFynmJUDVfp6IOYg._sh3NeWYvPT8lgOb_GpMp9CoCMy42DPX77-SCoW8OGYg.PNG.seulgi77/image.png?type=w800)
@@ -74,7 +68,6 @@ Sandisk microSD Extreme 2017 32GB
 그리고 삼성 EVO 말고는 전부 U3 스펙의 제품이였습니다.
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMTcy/MDAxNjcxMTcwNzA5Mjgx.m21_rGv_tfeXrx1HSY-zxv3pVNOJc9RweC0M-4_K-HMg.ERpyMAPAjc9CmVPu0J8t1bUMchwg6nV3n8cakVYzdTkg.PNG.seulgi77/image.png?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjEyMTZfMjcg/MDAxNjcxMTcwNzcxMTg0.jSbs6XdP7TtQLWno1veDScpiwz2obfuCs1Lz3W71QUYg.F7-59ggAcRuGXnc0dZ3-SuitflIUK2bKB1npwJ3TSkcg.PNG.seulgi77/image.png?type=w800)
 
 즉 삼성 Pro Plus는 표준에 벗어나는 최대 읽기 속도를 스펙에 명시하고 있는듯 합니다. 나머지 제품들은 표준내에 있으니 상관이 없을듯 한데.. 그럼 이게 뻥스펙이 확실한지는 좀 더 검증이 필요해 보이는데.. 일단 현재까지 확인된 내용은 뻥스펙이 아닐까 의심됩니다.

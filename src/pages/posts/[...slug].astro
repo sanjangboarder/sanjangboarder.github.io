@@ -121,12 +121,38 @@ const { Content } = await post.render();
   }
 
   /* 마크다운 스타일링 */
-  .post-body :global(p) { margin-bottom: 1.5rem; }
-  .post-body :global(img) { 
-    max-width: 100%; 
-    border-radius: 0.5rem; 
+  .post-body :global(p) { 
+    margin-bottom: 1.5rem; 
+    display: flow-root;
+  }
+  
+  /* 연속된 이미지가 있는 단락 처리 */
+  .post-body :global(p:has(img + img)) {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin: 2rem 0;
   }
+
+  .post-body :global(img) { 
+    max-width: 100%; 
+    height: auto;
+    border-radius: 0.5rem; 
+    margin: 1rem auto;
+    display: block;
+    box-shadow: var(--shadow-sm);
+  }
+
+  /* 가로 나열 시 개별 이미지 마진 조정 */
+  .post-body :global(p:has(img + img) img) {
+    margin: 0;
+    flex: 1;
+    min-width: 250px;
+    object-fit: cover;
+  }
+
   .post-body :global(h2) { 
     font-size: 2rem; 
     margin: 4rem 0 1.5rem; 

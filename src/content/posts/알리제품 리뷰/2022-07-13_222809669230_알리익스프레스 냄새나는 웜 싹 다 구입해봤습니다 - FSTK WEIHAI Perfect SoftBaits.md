@@ -42,17 +42,14 @@ WEIHA FSTK 사에서 만든 웜 종류인데요.. 이 판매자가 파는 웜을
 아래의 제품들은 모두 3인치 전후 길이의 제품들입니다.
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfOTkg/MDAxNjU3NTkzMDAzNzA2.d7IoOuEHL04wJy7cgp8IFKrZv5hVnk0GuNpH_QK6VgUg.vAtyf948JrjOZC-x1hLdjafLhIKudJljVs0kA4J2D2Ig.JPEG.seulgi77/1657592876482.jpg?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMTIg/MDAxNjU3NTkzMDAyNjI2.OUHqQTYb-IctehHmG4JRzNKhMpNdbCkhPhwx-vSA-A8g.PkySyPM6-H6y05lbhDLBT3tC7oYnrRbkRepSmk3QHpsg.JPEG.seulgi77/1657592810035.jpg?type=w800)
 
 위 두가지 제품은 시화방조제에서 우럭루어할때 반응이 아주 좋았습니다. 1/8 oz 지그헤드에 쓰기 찰떡 궁합입니다. 좀 더 무거운 지그헤드에도 써볼만 합니다.
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfOTAg/MDAxNjU3NTkzMDAyODkx.6wtjXvO8LgK5M8u9RPudHNydx9o2e0K6yGosczLD-wgg.7S-OFJGZwi3k6b4yUzFaRnqbL87nY3RxBhNZNW1KxhAg.JPEG.seulgi77/1657592822470.jpg?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfNzgg/MDAxNjU3NTkzMDAyODQx.aa_LpeZN98CduBQX27gpzKkVkMBPCBzsl5DoGh9q8Ygg.E25IPVVppusFf0icu4EXQ6NRaEfAArrO9AMCoRDKv_cg.JPEG.seulgi77/1657592841892.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMjE3/MDAxNjU3NTkzMDAyODc5.bMyFi7KXvC-c9kc0iwQbgp7tNeU8fx05KzOiR56_A8Eg.LL5jFh7vr--qjM_4PDfUDQqpYMQG7H-hhcP-Dj93xtwg.JPEG.seulgi77/1657592853921.jpg?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfOTAg/MDAxNjU3NTkzMDA0MzMx.i8So0JM2FdOM8FDdkJiMr_woVaXHIPaFuRJ5RORD3gcg.Kba5tQdyawW8-eKoIAA5ntyJy3I09qwi_kv2Zwym-r8g.JPEG.seulgi77/1657592903461.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMTEy/MDAxNjU3NTkzMDA0MjQz.ZITon9Yn536E2rEHBhH7aNQ8kbFAXjrHjMYPdny9lGwg._CmM8rdrFtS5UP47v79Erk2DcsZD1FS_UzcahkpmkK4g.JPEG.seulgi77/image52719712292410373141657592915426.jpg?type=w800)
@@ -66,11 +63,9 @@ WEIHA FSTK 사에서 만든 웜 종류인데요.. 이 판매자가 파는 웜을
 요 녀석들은 풀치에도 쓸 생각이자만, 볼락이나 아징루어 낚시에 사용하기 위햇 구입했습니다. 우럭 루어 겨울 시즌에도 유용하게 쓸 수 있을듯 합니다. 몇개 제품은 이미 써봤는데 애럭이 환장하는것 까지는 확인했습니다.
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMTQ2/MDAxNjU3NTkzMDA0NjM4.2Pg75gTiujbxs_I3fI0oc5CEcDVlUv5l3CQe_WgHFbUg.FKkXjPO-fhmEwpSBBn5g5tbVRQJy-WHMGuMJIVvxG98g.JPEG.seulgi77/1657592943585.jpg?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMTAz/MDAxNjU3NTkzMDA0ODAy.KB_pASsCyYAFfVEKRAU7EtFRPLc8XksPIfeTlHE2e-gg.xyeg3kigUWQTvQYaQcn5uPSmOiyliq4g7b-Q5ljJXqQg.JPEG.seulgi77/1657592961637.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMjYz/MDAxNjU3NTkzMDA1NDU3.DRI_D5lsXjEDSi713u4VsazYLF8XhRge7PxGKhyn4fgg.HI0wUF3Ls-2tuyHAyK-lDO8EfHEO8mZRleruniYltxgg.JPEG.seulgi77/1657592972730.jpg?type=w800)
-
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMTc0/MDAxNjU3NTkzMDA1NDY1.4t2W-kB7b8M2O83z3IYHkGRT9MyRprKXzY3wDeHP7lgg.RcLTYs_jU7lWigaoB_VBslYVV6LtoerlRYllVH5xCJ0g.JPEG.seulgi77/1657592988847.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMjA3MTJfMjIw/MDAxNjU3NTkzMDA1ODIz.q3hoWaZNxf6dU5R3xNZ-808N5F4pJ-ByizOKL1kQhQ8g.7Ths0M9MJoPMjktfR0TI-sdETfBYNswYeyunrxuYcC4g.JPEG.seulgi77/1657592998410.jpg?type=w800)

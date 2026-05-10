@@ -36,8 +36,14 @@ def sanitize_yaml(v):
     return str(v).replace('\\', '\\\\').replace('\n', ' ').replace('\r', '').replace('"', "'").strip()
 
 def clean_markdown(md_text):
-    """마크다운 노이즈 제거"""
+    """마크다운 노이즈 제거 및 이미지 레이아웃 최적화"""
+    # 네이버 특유의 이미지 링크 노이즈 제거
     md_text = re.sub(r'\[\!\[\]\((.*?)\)\]\(#\)', r'![](\1)', md_text)
+    
+    # 연속된 이미지 사이의 빈 줄 제거 (한 줄에 보이기 위함)
+    md_text = re.sub(r'(\!\[.*?\]\(.*?\))\s*\n\s*(\!\[.*?\]\(.*?\))', r'\1\n\2', md_text)
+    md_text = re.sub(r'(\!\[.*?\]\(.*?\))\s*\n\s*(\!\[.*?\]\(.*?\))', r'\1\n\2', md_text) # 두 번 실행하여 3개 이상 대응
+    
     md_text = md_text.replace('\u200b', '')
     md_text = re.sub(r'\n{3,}', '\n\n', md_text)
     return md_text.strip()
