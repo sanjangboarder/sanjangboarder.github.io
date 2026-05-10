@@ -36,11 +36,6 @@ const { Content } = await post.render();
         )}
       </header>
 
-      {post.data.thumbnail && (
-        <div class="featured-image">
-          <img src={post.data.thumbnail} alt={post.data.title} />
-        </div>
-      )}
 
       <div class="post-body">
         <Content />
