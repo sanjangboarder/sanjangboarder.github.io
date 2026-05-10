@@ -242,17 +242,18 @@ h1, h2, h3, h4 {
 }
 
 .stat-label {
-  font-size: 0.6rem;
+  font-size: 0.65rem;
   font-weight: 800;
-  color: var(--text-muted);
-  letter-spacing: 0.05em;
+  color: var(--accent-light); /* 조금 더 밝게 수정 */
+  letter-spacing: 0.08em;
+  opacity: 0.8;
 }
 
 .stat-value {
   font-family: 'Outfit', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-weight: 700;
-  color: var(--accent-light);
+  color: #ffffff; /* 가독성을 위해 흰색으로 변경 */
 }
 
 .stat-sep {
@@ -261,6 +262,24 @@ h1, h2, h3, h4 {
   background: var(--border-color);
   margin: 0 1rem;
   opacity: 0.5;
+}
+.footer-link {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent-light); /* 밝은 컬러로 변경 */
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid transparent;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+  border-bottom-color: var(--accent-light);
+  transform: translateX(5px);
 }
 
 /* --- Map & Video Cards --- */

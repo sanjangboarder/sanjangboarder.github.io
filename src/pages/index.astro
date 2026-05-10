@@ -14,7 +14,7 @@ const latestPosts = allPosts
 	<main class="container">
 		<header class="hero">
 			<div class="hero-content">
-				<div class="badge">EST. 2000 • AI REBORN 2026</div>
+				<div class="badge">EST. 2016 • AI REBORN 2026</div>
 				<h1 class="gradient-text">기록을 예술로,<br />경험을 정보로.</h1>
 				<p class="hero-desc">
 					26년 선상낚시의 정수와 스마트한 라이프 스타일.<br />
@@ -61,8 +61,15 @@ const latestPosts = allPosts
 <style>
 	/* Hero */
 	.hero {
-		padding: 80px 0 100px;
+		padding: 40px 0 100px; /* 상단 여백 축소 */
 		position: relative;
+		background: linear-gradient(to right, rgba(11, 15, 26, 0.8), rgba(11, 15, 26, 0.4)), url('/images/hero-bg.png');
+		background-size: cover;
+		background-position: center;
+		border-radius: 2rem;
+		margin-top: 1rem;
+		border: 1px solid rgba(255, 255, 255, 0.05);
+		overflow: hidden;
 	}
 	.hero-content {
 		max-width: 850px;
