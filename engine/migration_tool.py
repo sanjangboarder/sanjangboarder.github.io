@@ -32,7 +32,8 @@ def safe_filename(text, max_len=60):
 
 def sanitize_yaml(v):
     if v is None: return ""
-    return str(v).replace('\n', ' ').replace('\r', '').replace('"', "'").strip()
+    # 백슬래시는 YAML 큰따옴표 내에서 이스케이프가 필요함, 줄바꿈 제거 및 따옴표 치환
+    return str(v).replace('\\', '\\\\').replace('\n', ' ').replace('\r', '').replace('"', "'").strip()
 
 def clean_markdown(md_text):
     """마크다운 노이즈 제거"""
