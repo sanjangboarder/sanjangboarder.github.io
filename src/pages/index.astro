@@ -2,11 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-// 게시글 데이터 가져오기 (최신순 6개)
+// 게시글 데이터 가져오기 (최신순 12개, Sample 제외)
 const allPosts = await getCollection('posts');
 const latestPosts = allPosts
+  .filter(post => post.data.category !== 'Sample') // Sample 제외
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0, 12); // 사이드바가 생겼으므로 더 많은 글을 보여줍니다.
+  .slice(0, 12);
 ---
 
 <Layout title="산장보더 - Premium AI Fishing & Life Blog">

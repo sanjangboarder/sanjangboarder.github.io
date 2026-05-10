@@ -29,7 +29,7 @@ const ORDERED_CATEGORIES = [
   "걷기다이어트",
   "겨울레저활동",
   "스포츠이야기",
-  "Sample"
+  // "Sample" // 필요할 때 주석 해제
 ];
 
 // 카테고리 동적 추출
@@ -37,6 +37,8 @@ const allPosts = await getCollection('posts');
 const categoryMap = new Map();
 allPosts.forEach(post => {
   const cat = post.data.category || '미분류';
+  // Sample 카테고리는 목록 집계에서 제외
+  if (cat === 'Sample') return;
   categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
 });
 
@@ -51,7 +53,8 @@ const categories = Array.from(categoryMap.entries()).sort((a, b) => {
   return b[1] - a[1];
 });
 
-const totalPosts = allPosts.length;
+// 전체 포스트 개수에서도 Sample 제외
+const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
 ---
 
 <!doctype html>

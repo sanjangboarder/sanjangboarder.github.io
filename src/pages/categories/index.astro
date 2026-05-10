@@ -4,9 +4,10 @@ import Layout from '../../layouts/Layout.astro';
 
 const allPosts = await getCollection('posts');
 
-// 카테고리별 포스트 개수 집계
+// 카테고리별 포스트 개수 집계 (Sample 제외)
 const categoryCounts = allPosts.reduce((acc, post) => {
   const category = post.data.category || '미분류';
+  if (category === 'Sample') return acc; // Sample 제외
   acc[category] = (acc[category] || 0) + 1;
   return acc;
 }, {});
