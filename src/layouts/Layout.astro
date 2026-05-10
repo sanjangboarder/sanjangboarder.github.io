@@ -42,14 +42,8 @@ allPosts.forEach(post => {
   categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
 });
 
-// 정의된 순서에 따라 정렬, 목록에 없는 카테고리는 뒤로 보냄
+// 포스팅 개수 내림차순으로 정렬
 const categories = Array.from(categoryMap.entries()).sort((a, b) => {
-  const indexA = ORDERED_CATEGORIES.indexOf(a[0]);
-  const indexB = ORDERED_CATEGORIES.indexOf(b[0]);
-  
-  if (indexA !== -1 && indexB !== -1) return indexA - indexB;
-  if (indexA !== -1) return -1;
-  if (indexB !== -1) return 1;
   return b[1] - a[1];
 });
 

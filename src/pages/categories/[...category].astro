@@ -100,6 +100,16 @@ const { posts } = Astro.props;
     margin: 1rem 0;
     font-size: 1.4rem;
     line-height: 1.4;
+    color: #ffffff; /* 가독성 좋은 흰색으로 고정 */
+    transition: color 0.3s ease;
+  }
+
+  .post-card:hover h3 {
+    color: var(--accent-light);
+  }
+
+  .post-card:visited h3 {
+    color: rgba(255, 255, 255, 0.4); /* 방문한 글은 은은하게 처리 */
   }
 
   p {

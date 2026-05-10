@@ -182,6 +182,9 @@ const latestPosts = allPosts
 	.post-card:hover .card-title {
 		color: var(--accent-light);
 	}
+	.post-card:visited .card-title {
+		color: rgba(255, 255, 255, 0.4); /* 방문한 글은 시인성을 낮춰 처리 */
+	}
 	.card-desc {
 		color: var(--text-muted);
 		font-size: 0.95rem;
