@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import Giscus from '../../components/Giscus.astro';
 
 // 모든 포스트를 가져와서 경로(slug) 생성
 export async function getStaticPaths() {
@@ -44,6 +45,8 @@ const { Content } = await post.render();
       <div class="post-body">
         <Content />
       </div>
+
+      <Giscus />
 
       <footer class="post-footer">
         <a href="/" class="btn-back">← Back to Home</a>

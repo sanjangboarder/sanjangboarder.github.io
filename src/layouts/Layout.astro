@@ -2,6 +2,9 @@
 import { getCollection } from 'astro:content';
 import '../styles/global.css';
 
+import Giscus from '../components/Giscus.astro';
+import Search from '../components/Search.astro';
+
 interface Props {
 	title: string;
 	description?: string;
@@ -106,6 +109,7 @@ const totalPosts = allPosts.length;
 				
 				<nav class="sidebar-nav">
 					<div class="nav-section">
+						<Search />
 						<h3 class="nav-title">카테고리</h3>
 						<ul class="category-list">
 							<li>

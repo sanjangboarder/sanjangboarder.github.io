@@ -1,0 +1,72 @@
+<div id="search" class="search-wrapper"></div>
+
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      translations: {
+        placeholder: "지식 검색...",
+        clear_search: "지우기",
+        load_more: "결과 더보기",
+        search_label: "검색",
+        filters_label: "필터",
+        zero_results: "[ {query} ]에 대한 결과가 없습니다.",
+        many_results: "[ {query} ]에 대한 {count}개의 결과를 찾았습니다.",
+        one_result: "[ {query} ]에 대한 1개의 결과를 찾았습니다.",
+        alt_search: "[ {query} ] 대신 [ {alt} ]에 대한 결과를 보여드립니다.",
+        search_suggestion: "[ {query} ] 대신 [ {suggestion} ]을(를) 검색하시겠습니까?",
+        searching: "검색 중..."
+      }
+    });
+  });
+</script>
+
+<style is:global>
+  :root {
+    --pagefind-ui-primary: var(--accent);
+    --pagefind-ui-text: var(--text-color);
+    --pagefind-ui-background: rgba(255, 255, 255, 0.03);
+    --pagefind-ui-border: var(--border-color);
+    --pagefind-ui-tag: var(--accent-light);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 12px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+    --pagefind-ui-font: 'Pretendard', sans-serif;
+  }
+
+  .search-wrapper {
+    margin-bottom: 2rem;
+  }
+
+  .pagefind-ui .pagefind-ui__drawer {
+    background: rgba(15, 17, 26, 0.95) !important;
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    box-shadow: var(--shadow-lg);
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .pagefind-ui .pagefind-ui__search-input {
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid var(--border-color) !important;
+    color: #fff !important;
+    font-weight: 500;
+  }
+
+  .pagefind-ui .pagefind-ui__result-link {
+    color: var(--accent-light) !important;
+    font-weight: 700 !important;
+  }
+
+  .pagefind-ui .pagefind-ui__result-excerpt {
+    color: var(--text-muted) !important;
+    font-size: 0.9rem !important;
+  }
+</style>
+
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js" is:inline></script>
