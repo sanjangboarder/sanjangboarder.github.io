@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "astro build && node -e \"const fs = require('fs'); if (fs.existsSync('dist/sitemap-index.xml')) { fs.copyFileSync('dist/sitemap-index.xml', 'dist/sitemap.xml'); console.log('Copied sitemap-index.xml to sitemap.xml'); }\" && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro"
   },
