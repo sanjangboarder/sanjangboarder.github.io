@@ -14,23 +14,41 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+
+const allPosts = await getCollection('posts');
+const matchingTranslation = post.data.logNo
+  ? allPosts.find(p => p.data.logNo === post.data.logNo && (p.data.lang || 'ko') !== (post.data.lang || 'ko'))
+  : null;
 ---
 
-<Layout title={post.data.title}>
+<Layout title={post.data.title} lang={post.data.lang || 'ko'}>
   <main class="post-container">
     <div class="bg-orb orb-1"></div>
     
     <article class="post-glass glass">
       <header class="post-header">
+        {matchingTranslation && (
+          <div class="lang-switcher-wrapper">
+            <div class="lang-switcher glass">
+              <span class={(post.data.lang || 'ko') === 'ko' ? "active" : ""}>
+                {(post.data.lang || 'ko') === 'ko' ? "한국어" : <a href={`/posts/${matchingTranslation.slug}`}>한국어</a>}
+              </span>
+              <span class="separator">|</span>
+              <span class={(post.data.lang || 'ko') === 'en' ? "active" : ""}>
+                {(post.data.lang || 'ko') === 'en' ? "English" : <a href={`/posts/${matchingTranslation.slug}`}>English</a>}
+              </span>
+            </div>
+          </div>
+        )}
         <div class="post-meta">
           <span class="category">{post.data.category}</span>
-          <time>{post.data.date.toLocaleDateString('ko-KR')}</time>
+          <time>{post.data.date.toLocaleDateString(post.data.lang === 'en' ? 'en-US' : 'ko-KR', post.data.lang === 'en' ? { year: 'numeric', month: 'long', day: 'numeric' } : {})}</time>
         </div>
         <h1 class="gradient-text">{post.data.title}</h1>
         { (post.data.source || post.data.logNo) && (
           <div class="original-link-wrapper">
             <a href={post.data.source || `https://blog.naver.com/sanjangboarder/${post.data.logNo}`} target="_blank" class="original-link">
-              산장보더 네이버 블로그 원본글
+              {post.data.lang === 'en' ? "Original Naver Blog Post" : "산장보더 네이버 블로그 원본글"}
             </a>
           </div>
         )}
@@ -44,7 +62,7 @@ const { Content } = await post.render();
       <Giscus />
 
       <footer class="post-footer">
-        <a href="/" class="btn-back">← Back to Home</a>
+        <a href={post.data.lang === 'en' ? "/en" : "/"} class="btn-back">← Back to Home</a>
         {post.data.source && (
           <a href={post.data.source} target="_blank" class="btn-source">Original Post ↗</a>
         )}
@@ -54,6 +72,36 @@ const { Content } = await post.render();
 </Layout>
 
 <style>
+  .lang-switcher-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .lang-switcher {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 1.25rem;
+    border-radius: 100px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .lang-switcher a {
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  .lang-switcher a:hover {
+    color: var(--accent-light);
+  }
+  .lang-switcher .active {
+    color: var(--accent-light);
+  }
+  .lang-switcher .separator {
+    color: rgba(255, 255, 255, 0.15);
+  }
   .original-link-wrapper {
     text-align: right;
     margin-top: 1rem;

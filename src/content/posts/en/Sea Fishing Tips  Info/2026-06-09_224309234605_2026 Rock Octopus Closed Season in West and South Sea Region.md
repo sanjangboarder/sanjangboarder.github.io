@@ -1,0 +1,261 @@
+---
+title: "2026 Rock Octopus Closed Season in West and South Sea Regions & Pro Tips After the Ban is Lifted"
+date: 2026-06-09
+category: "Sea Fishing Tips & Info"
+categoryNo: 26
+logNo: 224309234605
+source: "https://m.blog.naver.com/sanjangboarder/224309234605"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTU5/MDAxNzgwODM1NDczNTgx.TlGlZfh4NedUxLe3hDCI1Sh16FxKQEPsb9M8KyPqCEQg.Xda0-OO6vFRJO-BuEyrlPXfkn68C8mjo9BhMYP7Ka_Yg.PNG/image.png"
+description: "Hello, this is Sanjangboarder. While jukkumi (webfoot octopus) is often said to be the most popular cephalopod, octopus, which is significantly larger, also surprisingly boasts a large fan base. There are two types of octopus: giant octopus (피문어) and rock octopus (돌문어). The enormous octopuses we see on TV are giant octopuses, whereas the smaller ones commonly found in markets are rock octopuses. Rock octopuses are primarily found in the West and South Sea regions. The closed fishing season varies by region. There are a total of three regions: West Sea, South Sea, and Jeju. Accordingly, the strategy for preparing for the octopus fishing season must also be approached differently. I've prepared a discussion on this topic in this post and will explain each point in detail. There are essential rules we must follow while fishing. I believe the first is safety, and the second is observing the closed fishing season. Amidst the excitement and responsibility we feel when fishing, there's a minimum we must adhere to as a way to express our gratitude to the sea: our efforts to protect marine species. It's particularly crucial to protect female fish during their spawning season to ensure future catches for years to come and to conserve the species. For anglers, the opening of the octopus season..."
+lang: "en"
+---
+
+안녕하세요 산장보더입니다.
+
+​
+
+두족류 중에 가장 인기 있는 어종은 쭈꾸미라고는 하지만 그 보다 한 덩치가 큰 문어도 은근이 많은 매니아 층을 보여하고 있습니다. 문어는 피문어와 돌문어 두가지인데 우리가 TV에서 보던 엄청 큰 문어는 피문어이구요.. 시장에서 주로 볼 수 있는 좀 작은 크기의 문어는 돌문어 입니다.
+
+​
+
+돌문어는 서해권과 남해권에서 주로 볼 수 있는데요.. 금어기는 지역마다 틀립니다. 총 3가지 지역.. 서해권, 남해권, 제주권으로 구분이 되어 있구요 그에 따라 문어낚시시즌을 준비하는 전략도 좀 다르게 가져가야 합니다. 이에 대한 이야기를 이번 포스팅에서 준비를 했구요.. 하나씩 풀어서 설명드려 보겠습니다.
+
+​
+
+---
+
+우리가 낚시를 하면서 꼭 지켜야 할것이 있는데요.. 저는 첫번째는 안전이라고 생각하고, 두번째는 금어기라고 생각합니다. 낚시를 하면서 느끼는 설렘과 책임 사이, 우리에게 바다에게 그 고마움을 표현할 수 있는 최소한의 지켜야 할게 있는데요 어종 보호를 위한 우리의 노력입니다. 특히 산란기의 암컷은 필이 보호를 해주어야 내년, 내후년까지 우리의 조과도 보장하고 어종을 보호할 수 있습니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTU5/MDAxNzgwODM1NDczNTgx.TlGlZfh4NedUxLe3hDCI1Sh16FxKQEPsb9M8KyPqCEQg.Xda0-OO6vFRJO-BuEyrlPXfkn68C8mjo9BhMYP7Ka_Yg.PNG/image.png?type=w800" />
+</div>
+
+낚시인들에게 문어 시즌의 개막은 단순한 취미의 시작을 넘어, 바다가 허락한 풍요로운 선물을 마주하는 축제와도 같습니다. 묵직한 손맛과 입을 즐겁게 하는 조과물은 매년 우리를 바다로 이끄는데요. 하지만 해마다 이맘때면 낚시 커뮤니티는 "어디는 지금 해도 된다던데?", "여기 규정은 왜 다르지?"와 같은 혼동응ㄹ 가지는 경우가 많습니다.
+
+​
+
+복잡하게 얽힌 지역별 금어기 규정은 낚시를 좀 해봤다는 저 조차 혼동이 와서 검색을 해보게 만드는데요. 지역별 돌문어 금어기에 에서 알아야할 내용을 정리해 보겠습니다.
+
+​
+
+**지역별 금어기**
+
+아래 제가 제미나이와 함께 정리 그림을 만들어 봤습니다. 알아보기 쉽죠?
+
+서해권은 금어기 해제하고 낚시 시장 가능날짜가 7월1일부터이구요. 이건 전남, 경남, 제주를 제외하고 전국 동일하게 적용되는데 사실 전국에 경남/제주/전남을 제외하고는 서해권만 나온다고 봐도 무방하기 때문에 서해권 금어기기간 가이드라고 보셔도 무방합니다.
+
+​
+
+남해권은 7월9일 부터 돌문어 낚시가 가능합니다. 제주는 생태 특성에 맞게 9월16일 부터이구요. 금어기가 해제되는 시점부터 본격적인 문어낚시시즌이 시작된다고 보심 됩니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTgx/MDAxNzgwODM2MzIwNzgx.6R4hMgUzX7hKTouaj3TACtK886XWosPhVzO_xE82e1og.mDbeZnoKW29QuOx8JwhimMqiWKj5m6VK6QoTJyEm4xcg.PNG/image.png?type=w800" />
+</div>
+
+금어기를 위반하게 되면 최대 2천만원의 벌금이나 2년이하의 징역에 처할 수 있는데요.. 당연히 지켜야 할 사항을 어기는 일은 일어나서는 안돼겠죠. 그리고 돌문어는 참문어라고도 부르는데요 방생기준은 없습니다. 하지만 굳이 쭈꾸미 만하게 작은 돌문어까지 잡아갈 필요는 없기 때문에 작은건 방생해주는 미덕도 필요합니다. 그리고 피문어는 600g 이하는 방생해야하는 기준이 있으니 참고하세요.
+
+---
+
+**문어의 생태, 그 숭고하고도 경건한 마침표**
+
+우리가 **'돌문어'**라 부르는 녀석의 표준 명칭은 **'참문어'**입니다. 낚시의 대상이기 이전에 참문어는 한 편의 비극적이면서도 숭고한 서사시를 써 내려가는 똑똑한 녀석인데요. 문어의 생애는 번식을 기점으로 급격한 종말을 향해 달려갑니다. 수컷은 종족 번식의 임무를 마친 후 불과 수개월 내에 생을 마감하며, 암컷의 운명은 더욱 눈물겹습니다. 산란 후 알이 부화할 때까지 수개월 동안 아무것도 먹지 않은 채 오로지 알을 지키는 데만 전념하기 때문입니다.
+
+​
+
+**"알이 부화되고 나면 그때서야 비로소 눈을 감는답니다."**
+
+**​**
+
+자신의 생명력을 모두 쏟아부어 다음 세대를 세상 밖으로 밀어 올리는 이 모성애는 바다의 생명 순환을 완성하는 경건한 마침표 같아 보이는데요. 우리가 지키는 금어기는 단순한 법적 규제가 아니라, 이들의 숭고한 희생과 번식 과정을 방해하지 않으려는 우리의 최소한의 예의이자 배려라고 봐도 될것 같습니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMzIg/MDAxNzgwODM2NDQ3NjUx.v8UPoiegMVYb_63O7Fretg93mz4wBKU9nsCKYHMklCAg.QciFUZWI7hajBwm52GObLKyTZruOXhPHVex_ji7X3NAg.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**지역별 '금어기 미로' 이유는?**
+
+전국의 금어기가 왜 제각각인지 궁금하셨을 겁니다. 이는 단순히 행정적 편의를 위한 것이 아니라, 수온과 서식 환경에 따라 산란 시기가 조금씩 다른 자연의 시계를 반영한 결과입니다. 지자체 고시에 따라 달라지는 '금어기 지도'를 명확히 숙지하는 것은 문어 낚시꾼이라면 기본적으로 알아야할 정보입니다.
+
+​
+
+전국 공통(울산, 부산, 군산 등): 5월 16일 ~ 6월 30일
+
+전남 및 경남 지역: 5월 24일 ~ 7월 8일
+
+제주 지역: 8월 1일 ~ 9월 15일
+
+​
+
+특히 주의할 점은 '낙지 금어기'와의 혼동입니다. 낙지는 충남(6월 한 달), 경남(6월 16일~7월 31일) 등 문어와 기간이 상이하므로 중복 출조 시 반드시 확인이 필요한데요. 내가 서 있는 포인트의 정확한 날짜를 확인하는 것은 '꽝' 없는 출조를 위한 첫 번째 전략입니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjM0/MDAxNzgwODM1NDk3Njc5.TuCfKiQC6dsKVsq_quyDJlbyap1duSKh5eYozLkRbgwg.m_hjmCJ9aFNvHllHX5kUVp-x_niIH25gWXVh53d3sqEg.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**"방생하면 끝?"… 앵글러의 자부심을 시험하는 '의도성'**
+
+"잠깐 잡았다가 놔주면 되겠지"라는 안일한 생각은 위험합니다. 법은 금어기 어종에 대한 '포획 의도' 자체를 엄격하게 따집니다. 다른 어종을 노리다 우연히 걸려온 것이 아니라, 문어 전용 채비를 갖추고 낚시를 시도하는 행위 자체가 불법으로 간주될 수 있습니다.
+
+여기서 전문 낚시인이라면 반드시 알아야 할 디테일의 차이가 있습니다.
+
+참문어(돌문어): 현재 공식적인 법적 방생 크기 기준은 없으나, 자원 보호를 위해 어린 개체는 릴리즈하는 미덕이 필요합니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjAy/MDAxNzgwODM1NTIzMDkz.vP0P9kBGlOKdb-hbhA-Wq5iQcGTAd67ftmXefYQ6V_cg.wn3fmH7x1uSy4sbMdKC1GKML76FsfEKe3wH-ikMlzDYg.PNG/image.png?type=w800" />
+</div>
+
+피문어(대문어): 동해권의 피문어는 600g 이하의 경우 포획이 엄격히 금지된 '금지 체장' 어종입니다.
+
+위반 시에는 최대 2년 이하의 징역 또는 2,000만 원 이하의 벌금이라는 엄중한 처벌이 따릅니다. 특히 최근에는 SNS 인증샷이나 블로그의 낚시 기록이 단속의 명확한 증거로 활용되고 있습니다. 법이 무서워서가 아니라, 우리가 사랑하는 바다의 가치를 지키는 진정한 앵글러의 자부심으로 이 '기다림의 미학'을 실천해야 합니다.
+
+---
+
+**돌문어 낚시의 승부는 단 3일! 자정(00시) 해제 직후의 '골든 타임'**
+
+금어기가 해제되는 순간, 바다는 억눌렸던 에너지를 폭발시키듯 조과를 쏟아냅니다. 문어는 자신의 영역을 지키는 습성이 강해, 금어기 동안 축적된 개체수가 해제 직후 며칠간 집중적으로 낚이기 때문입니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTQ0/MDAxNzgwODM1NTExNzEz.FiERJD9VMllgNAmzocUjrP8LPVYkKNy_Lg_-GYuhic8g.-4tH61OR-u4LWis8SlSyOauIJ_ZrBKzPsVMZiit4avUg.PNG/image.png?type=w800" />
+</div>
+
+서해권(충남, 군산 등): 7월 1일 00시 해제. 주로 7월 1일 새벽 출조부터 승부가 시작되는데요 보통 3~4년 주기로 터집니다. 24년에 대박 터졌으니 올해는 안 터질 확률이 높은데 혹시 모르니까 달려보는것도 나쁘지 않은 시기입니다.
+
+​
+
+남해권(전남/경남): 7월 9일 00시 해제. 7월 8일 야간에 출항하여 바다 위에서 자정을 기다리는 특유의 출조 문화가 형성되어 있는데요.. 정말 민물 유입이 많았던 해 말고는 거의 대박이였습니다. 즉 편차없이 대박일 확률이 매우 높은 날이므로 이때는 남해 문어배들이 주간, 야간 2타임씩 출조하기 때문에 밤낮없이 노려보는게 정답입니다.
+
+​
+
+그리고 특히 아셔야 할점은 금어기 해제 후 2~3일 내에 승부를 보는게 좋습니다. 문어는 쭈꾸미 처럼 엄청나게 많은 개체수를 가진 어종은 아니기 때문에 이 시기가 지나면 개체수가 급격히 감소하는 패턴을 보입니다. 즉 금어기 해제날은 평일 이라도 무조건 달려야 하는게 정답입니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMzgg/MDAxNzgwODM1NTQ4MTg1.8WP-cCqWGIKGrQvvy4BZQzesYzWfs4cPhqA1q01fI7Qg.1ea_0h7ZafudSeeiG-x81JPzx01VjEqh1t7X1RtFwDYg.PNG/image.png?type=w800" />
+</div>
+
+금어기 해제 후를 노리지 못했다면 다음 전략이 있습니다. 무조건적인 출조보다 기상 악화나 강풍으로 며칠간 배가 나가지 못했던 직후를 노려보는건데요. 바다가 강제로 휴식기를 가진 만큼 포인트에 문어가 다시 채워질 확률이 매우 높아집니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfNDAg/MDAxNzgwODM1NTYwOTk3.d6yTtcgiLQbf1QVumRRsP97utmklFN8rXiWivv-8hNkg.VIXTzjflVHbeEorI4dtz4QPyFlIVhLMxm55AwNkZ5mgg.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**지속 가능한 문어 낚시를 위한 우리의 약속**
+
+금어기는 우리를 바다로부터 격리하는 담장이 아닙니다. 그것은 내년에도, 그리고 우리 다음 세대에게도 풍요로운 바다를 물려주기 위한 '생태적 보험'같은 개념인데요. 오늘 우리가 무심코 놓아준 문어 한 마리가 내년의 만쿨(조과통을 가득 채움)을 보장하는 디딤돌이 된다는 점을 알고 준비해시면 좋을것 같습니다.
+
+​
+
+​
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMzMg/MDAxNzgwODM1NTc0NDg5._FwzSnqy8InMOgKYVQcEU3g_B8jfIzSzLg5I3GG9lVUg.BVaMlmyt4IupVMhmDX7mFDlQS-MarjVYsC88X53JHPAg.PNG/image.png?type=w800" />
+</div>
+
+단순히 규정을 지키는 것을 넘어, 생명의 경이로움을 이해하고 기다릴 줄 아는 마음가짐이야말로 스포츠 피싱의 완성입니다.
+
+마지막으로 질문을 던져봅니다. 당신은 단순히 문어를 낚는 사냥꾼입니까, 아니면 바다의 생태계를 함께 지키고 가꾸는 진정한 앵글러입니까?
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfOSAg/MDAxNzgwODM1NTkxNTE5.bEV1736J_fsR9OatpQX8QIebhoqeyI_nH3ZwvS3sJYog.usHU1WPFRvx6iHpOkpD8Id2D8mXM1aPaQ053PWYzxZsg.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**돌문어 낚시 장비 추천**
+
+문어낚시에는 전용로드를 챙겨주시는게 가장 좋은 선택인데요.. 보통 20~40호 봉돌을 운영하기 때문에 이에 매치되는 광어다운샷로드나 라이트지깅 로드도 적용을 할 수 는 있겠지만 문어전용대에 비해 파손될 확률이 높기 때문에 저렴하더라도 전용대가 유리합니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20210318_139/1616061650227xk2k4_JPEG/17197548921612757_1714116043.jpg" />
+</div>
+
+## 아오맥스 타마인 165MH 문어낚시대 문어로드
+
+고피싱
+
+naver.me](https://brandconnect.naver.com/affiliates/960655135514144?channelProductNo=5464298271&ac=b_ed)
+
+돌문어는 커봐야 2~3kg 지만 바닥에 붙어 있어서 문어를 뜯어내는 경우가 종종 발생합니다. 즉 드렉력 4~5kg의 일반적인 베이트릴로는 아예 감기지도 못하는 상황이 발생하는데요.. 최소 10kg 이상의 릴을 준비해주시는게 좋습니다. 그런 베이트릴은 드렉력을 확인하셔야 하는데 요즘에는 문어 전용릴도 많이 나오니 전용장비를 맞춰주세요.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20260506_76/1778054937848szK7t_PNG/10211280918718146_1293226863.png" />
+</div>
+
+## 도요 26 헤비 듀티 바다선상겸용 베이트릴 문어릴 가물치릴 4점대 4.6 딥 우 기본핸들
+
+피싱메이트
+
+naver.me](https://brandconnect.naver.com/affiliates/960655220604608?channelProductNo=13473436907&ac=b_ed)
+
+문어가 돌이라도 안고 올라오는 경우에는 강한 합사를 사용하지 않으면 소중한 입질을 놓칠 수 있는데요.. 돌밭 포인트가 대부분이라 왠만한 돌덩이가 같이 올라와도 버틸 수 있도록 합사2호는 챙겨주시는게 확실합니다. 아예 뜯기 컨셉으로만 가겠다 하면 좀 더 호수를 올리셔도 괜찮습니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20230523_212/1684826974461Pj2xM_JPEG/2873499261891246_1677540878.jpg" />
+</div>
+
+## 버클리 블랙비스트 한치 갈치 블랙 합사 낚시 줄 150m
+
+피싱템
+
+naver.me](https://brandconnect.naver.com/affiliates/960655359229376?channelProductNo=8591604022&ac=b_ed)
+
+봉돌과 에기를 2~3개를 달 수 있는 트리블 타코도래와 같은 제품을 사용해주시는게 사실 문어낚시의 표준같이 되어 버렸습니다. 다양한 조구사에서 트리플 도래가 많이 나오고 있으니 최소 10개이상은 챙겨가시는게 좋습니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20241012_209/1728734119994GCpp7_JPEG/5371534258394224_250894221.jpeg" />
+</div>
+
+## 쿠미 야광 트리플 타코 스냅 도래 벌크 덕용 대용량 쭈꾸미 문어 갑오징어
+
+머털낚시
+
+naver.me](https://brandconnect.naver.com/affiliates/960655446155264?channelProductNo=10991564905&ac=b_ed)
+
+금비, 은비, 색동 컬러는 기본중에 기본인 에기 구성입니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20231101_32/1698823485900pU3aO_JPEG/32231695885445961_1800509750.jpg" />
+</div>
+
+## 왕눈이 금비 에기 문어에기 쭈꾸미에기 갑오징어 애기 주꾸미 채비 야광
+
+피싱템
+
+naver.me](https://brandconnect.naver.com/affiliates/960655615733632?channelProductNo=9465101456&ac=b_ed)
+
+문어배낚시는 포인트 및 조류세기 등 환경에 따라 20~40호를 사용하는데요. 채비 손실이 많은 낚시 특성상 굳이 텅스텐이나 야광 코팅된 비싼걸 사용할 필요는 없습니다. 제일 저렴한 쇠추로 구입해주시면 됩니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20241216_55/1734347182010tPAEr_JPEG/86412969017593939_716538866.jpeg" />
+</div>
+
+## 묶음팩 강철 고리 봉돌 다운샷 강철 추 문어 광어 우럭 쭈꾸미 갑오징어 30호, 5개입, 1개
+
+머털낚시
+
+naver.me](https://brandconnect.naver.com/affiliates/960837833244128?channelProductNo=12926385505&ac=b_ed)
+
+​
+
+감사합니다.

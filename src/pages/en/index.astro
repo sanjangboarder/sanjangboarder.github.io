@@ -1,24 +1,24 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-// 게시글 데이터 가져오기 (최신순 12개, Sample 및 영어 포스트 제외)
+// Retrieve only English posts (latest 12, excluding Sample)
 const allPosts = await getCollection('posts');
 const latestPosts = allPosts
-  .filter(post => post.data.category !== 'Sample' && (!post.data.lang || post.data.lang === 'ko'))
+  .filter(post => post.data.category !== 'Sample' && post.data.lang === 'en')
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0, 12);
 ---
 
-<Layout title="산장보더 - Premium AI Fishing & Life Blog">
+<Layout title="Sanjangboarder - Premium AI Fishing & Life Blog" lang="en">
 	<main class="container">
 		<header class="hero">
 			<div class="hero-content">
 				<div class="badge">EST. 2016 • AI REBORN 2026</div>
-				<h1 class="gradient-text">기록을 예술로,<br />경험을 정보로.</h1>
+				<h1 class="gradient-text">Art in Record,<br />Info in Experience.</h1>
 				<p class="hero-desc">
-					26년 선상낚시의 정수와 스마트한 라이프 스타일.<br />
-					산장보더의 모든 지식이 AI를 통해 고감도 콘텐츠로 재탄생합니다.
+					The essence of 26 years of boat fishing and a smart lifestyle.<br />
+					All of Sanjangboarder's knowledge is reborn as premium content through AI.
 				</p>
 			</div>
 		</header>
@@ -36,7 +36,7 @@ const latestPosts = allPosts
 								<div class="card-content">
 									<div class="card-meta">
 										<span class="category-tag">{post.data.category}</span>
-										<span class="card-date">{post.data.date.toLocaleDateString('ko-KR')}</span>
+										<span class="card-date">{post.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
 									</div>
 									<h3 class="card-title">{post.data.title}</h3>
 									<p class="card-desc">{post.data.description}</p>
@@ -50,7 +50,7 @@ const latestPosts = allPosts
 					))
 				) : (
 					<div class="no-posts glass">
-						<p>아직 포스트가 없습니다. 마이그레이션된 글을 src/content/posts 폴더에 넣어주세요!</p>
+						<p>No posts available yet. Translating Naver blog posts will populate this page!</p>
 					</div>
 				)}
 			</div>
@@ -61,7 +61,7 @@ const latestPosts = allPosts
 <style>
 	/* Hero */
 	.hero {
-		padding: 40px 0 100px; /* 상단 여백 축소 */
+		padding: 40px 0 100px;
 		position: relative;
 		background: linear-gradient(to right, rgba(11, 15, 26, 0.8), rgba(11, 15, 26, 0.4)), url('/images/hero-bg.png');
 		background-size: cover;
@@ -140,21 +140,6 @@ const latestPosts = allPosts
 		text-decoration: none;
 	}
 
-	.card-image {
-		height: 220px;
-		overflow: hidden;
-		position: relative;
-	}
-	.card-image img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-	}
-	.post-card:hover .card-image img {
-		transform: scale(1.05);
-	}
-
 	.card-content {
 		padding: 2rem;
 		flex: 1;
@@ -183,14 +168,11 @@ const latestPosts = allPosts
 		margin-bottom: 1rem;
 		line-height: 1.4;
 		font-weight: 700;
-		color: #ffffff; /* 가독성을 위해 순수 흰색 적용 */
+		color: #ffffff;
 		transition: color 0.3s ease;
 	}
 	.post-card:hover .card-title {
 		color: var(--accent-light);
-	}
-	.post-card:visited .card-title {
-		color: rgba(255, 255, 255, 0.4); /* 방문한 글은 시인성을 낮춰 처리 */
 	}
 	.card-desc {
 		color: var(--text-muted);

@@ -11,6 +11,7 @@ const posts = defineCollection({
     source: z.string().optional(),
     thumbnail: z.string().optional().default(''),
     description: z.string().optional().default(''),
+    lang: z.enum(['ko', 'en']).optional().default('ko'),
   }),
 });
 

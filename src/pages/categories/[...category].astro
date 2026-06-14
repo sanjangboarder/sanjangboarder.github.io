@@ -21,25 +21,27 @@ export async function getStaticPaths() {
 
 const { category } = Astro.params;
 const { posts } = Astro.props;
+const lang = posts[0]?.data.lang || 'ko';
+const isEn = lang === 'en';
 ---
 
-<Layout title={`${category} - 산장보더`}>
+<Layout title={`${category} - ${isEn ? 'Sanjangboarder' : '산장보더'}`} lang={lang}>
   <main class="container">
     <div class="bg-orb orb-1"></div>
     
     <header class="page-header">
       <div class="breadcrumb">
-        <a href="/categories">Categories</a> /
+        <a href={isEn ? "/en" : "/"}>{isEn ? "Home" : "Categories"}</a> /
       </div>
       <h1 class="gradient-text">{category}</h1>
-      <p>{posts.length}개의 포스트가 있습니다.</p>
+      <p>{isEn ? `${posts.length} post(s) available.` : `${posts.length}개의 포스트가 있습니다.`}</p>
     </header>
 
     <div class="posts-grid">
       {posts.map((post) => (
         <a href={`/posts/${post.slug}`} class="post-card glass">
           <div class="card-content">
-            <time>{post.data.date.toLocaleDateString('ko-KR')}</time>
+            <time>{post.data.date.toLocaleDateString(isEn ? 'en-US' : 'ko-KR')}</time>
             <h3>{post.data.title}</h3>
             <p>{post.data.description}</p>
             <span class="read-more">Read More →</span>

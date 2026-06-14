@@ -1,0 +1,271 @@
+---
+title: "Sihwa Seawall Big Spanish Mackerel: Comprehensive Guide to Spots, Peak Times, Tides, Equipment, and Fishing Methods"
+date: 2026-06-07
+category: "Sea Fishing Tips & Info"
+categoryNo: 26
+logNo: 224308332662
+source: "https://m.blog.naver.com/sanjangboarder/224308332662"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTk4/MDAxNzgwNzkyNDI4MDI4.3icYOMQK9_DKdBRZCKhD8R5WvquV6FTzQOUc_xAA02og.KTWc4CKnMu0c7tN1GnnCSzyqJYZRKDf9DMuRUrvAjGUg.PNG/image.png"
+description: "Hello, this is Sanjang Border. June 1st marks the first day the Spanish Mackerel fishing ban is lifted. Unfortunately, this year it fell on a Monday, so as a working individual, I could only watch enviously. Even before the weekend, a huge number of anglers are already occupying popular fishing spots like Sihwa Seawall, Muuido Serengeti, Deokjeom Breakwater, and Somuuido Bucheokkaemi. They've likely heard the news from YouTube or Naver fishing cafes. While many successful big Spanish Mackerel anglers have generously shared information, there isn't a single comprehensive guide. Therefore, for beginners, I aim to compile the essential information they need to know, piece by piece. The Sihwa Seawall big Spanish Mackerel spots are probably what you're most curious about. Spanish Mackerel are migratory fish that follow baitfish. So, it's correct to assume that wherever prey fish like anchovies or gizzard shad gather along the coast, that's a prime fishing spot. There are already many well-known popular spots; I'll introduce them one by one. Sihwa Seawall Narea Rest Area ~ Daebudo Section (Spot #1): This area is virtually where the 'World's Best Spanish Mackerel Fishing Competition' is held almost daily. It's the section from Sihwa Seawall Narea Rest Area to Daebudo Island, typically..."
+lang: "en"
+---
+
+안녕하세요 산장보더입니다.
+
+​
+
+6월1일은 삼치 금어기가 해제되는 첫날입니다. 올해는 하필 월요일이나 직장을 다니는 저는 손가락만 빨고 있었는데요. 아직 주말이 되기 전임에도 불구하고 어마어마한 낚시꾼들이 시화방조제와 무의도 세렝게티나 덕점방파제, 소무의도 부처깨미 포인트를 점령하고 있습니다.
+
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTU3/MDAxNzgwNzkzNDU2NzYy.3Ucw1VkaVncewXz2OcZpvBLq-c52nEM4v7iUxkUeQEsg.8roZUXea050oo98Vma3oTdl9bfNpCTXmVV8K8d4X2Zsg.PNG/image.png?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMzIg/MDAxNzgwNzkzMjUyOTYx.PRS07KS2710O2YesKw3PXmI-t_9WhTuEq09NZQkaxIQg.V67Mlcw_Me9BtuUZ6kjIqlMLkRsxUFBC9GEkEUWjNKog.PNG/image.png?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTAg/MDAxNzgwNzkzMzE0NzQ2.DlO4063lwa9N0MfjgxTZXP2P2r86rdIQm5IrSF4apo0g.npnw3C-JcYfKGldLSRmMWvRnjhV1WjmemTCvBq3X2vEg.PNG/image.png?type=w800" />
+</div>
+
+​
+
+아마 유튜브나 네이버낚시카페에서 소식을 많이 듣고들 가실텐데요. 이미 대삼치에 성공하신 분들이 많은 정보를 고맙게도 공유해주시고 계시지만 한번에 총정리 해 놓은 자료는 없기에 입문자분들을 위해서 알아야 할 핵심 내용들을 하나씩 만들어 보려고 합니다.
+
+​
+
+**시화방조제 대삼치 포인트**
+
+​
+
+아마 가장 궁금한 부분이 아닐까 싶은데요.. 삼치는 베이트 피쉬를 따라 이동하는 회유성 어종이라고 보심 됩니다. 그래서 삼치의 먹이가 되는 멸치나 전어떼 등이 연안에 붙는 곳이 곧 포인트다~ 라고 생각하시면 맞습니다..
+
+​
+
+이미 많이 알려진 국민포인트가 있는데요. 하나씩 소개시켜 드려볼께요.
+
+​
+
+**시화방조제 나래휴게소~대부도 구간 (1번 포인트)**
+
+천하제일 삼치 낚시 대회가 거의 매일 열리는 곳이라고 보심 됩니다. 시화방조제 나래휴게소와 대부도까지의 구간인데요 평균적으로 하루에 적게는 3~4마리 많게는 10마리 이상 나오는 포인트입니다.
+
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjI5/MDAxNzgwNzkyNTkzOTYy.q05jwdAyDz8Yb1pWviDy8q_hTCkYOeHpZcp773cKHiYg.OlBfQUfzO5rjwS30JiFLrFy4NTHDtT0d7zrDbY1JdIAg.PNG/image.png?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjU5/MDAxNzgwNzkzMjgzNDQx.rhKLYZKbQhnPTfBVEbx3-vie7PjKovuTru9ZkXUI2xEg.8eFwlfocD84XRXOqO_byAdGfBZDY7K0vCFjGurIc3Vgg.PNG/SE-a65b5531-1c8e-429b-94fe-0c18867ce3a1.png?type=w800" />
+</div>
+
+이곳은 국민포인트이라고 불리는 이유는 누구나 쉽게 접근이 가능하기 때문입니다. 주말에는 3km 정도되는 방조제 구간 전역에 걸쳐서 거의 3~4m 간격으로 조사님들이 들어옵니다. 500명 이상이 들어와서 설 수 있는 포인트 중 하나인데요 워낙 밀집도가 높다 보니 서로 채비엉킴도 발생하고 해서 서로 배려가 필요한 곳입니다. 수심은 휴게소쪽부터 중간 지점까지는 장타시에 풀간조 기준으로 8~10m 정도가 나오다 보니 아무래도 확률상 더 좋은 조건이고 사리물때 만조에는 수심이 18m 까지도 나올 수 있는 곳입니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfODAg/MDAxNzgwNzkwNDY0OTYy.WXkB5CmSudwERcODgCbrFkx5EfMndU48rs2rtSOprMQg.3ZzcEoUPDX1SUE9khWVHnE3eiJ4rDJgVDTNC5XtgJr8g.PNG/image.png?type=w800" />
+</div>
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20260327_146/1774572953012jmOER_JPEG/63607468759681220_1245866615.jpg" />
+</div>
+
+## 시마노 24 트윈파워 에깅 볼락 갑오징어 쭈꾸미 배스 릴 윤성보증 4000PG, 4.4
+
+어바웃피싱 굿즈 스토어
+
+naver.me](https://brandconnect.naver.com/affiliates/960819961449952?channelProductNo=13312464671&ac=b_ed)
+
+**시화방조제 조력발전소 ~ 오이도 선착장 구간 (2번 포인트)**
+
+저는 개인적으로 1번 포인트는 좋아하진 않습니다. 이유는 나래휴게소 - 오이도선착장 구간은 주말에도 엄청나게 널널합니다. 그리고 여기서도 삼치는 분명 나오구요 저도 많이 잡아봤는데요 조력발전소에 가까운 구간은 1번 포인트보다 수심이 더 많이 나오고 조류소통도 원활하기 때문에 은근히 아는 사람만 가는 포인트라고 볼 수 있습니다. 즉 입문자 분들이 오시는 경우는 많지 않은데요 가장 큰 이유는 나래휴게소에서 더 걸어야 하는 이유 한가지라고 생각합니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfNiAg/MDAxNzgwNzkyNTcxNTg5.S-jTb5151YfeJ-F-rv0wziHVAT97gtrR6a8qCggA57gg.BKrdJN-3ft8yB49SBWJpT3aXjJ60jagmszOeNArm9Jgg.PNG/image.png?type=w800" />
+</div>
+
+하지만 장점은 엄청나게 많은데요 일단 사람이 적어서 공략할 수 있는 구간이 넓어지고 라인 크로스로 인한 트러블도 현저하게 줄어듭니다. 멀리 이동하면 할 수록 사람들 숫자는 더 적어지기 때문에 이득이 있는데요.
+
+​
+
+한가지 주위할 점은 조력발전소에서 오이도선착장 방향으로 갈수록 수심이 낮아지기 때문에 간조시간에 방문하는건 추천드리지 않습니다. 간조시간에 방문하신다면 조력발전소 부근이 수심이 확보되기 때문에 너무 멀리만 가지 않으시면 됩니다.
+
+발전소에서 약 700m 정도까지는 수심이 오히려 1번 포인트 보다 좋으며 그 이후로는 방아머리쪽보다 약간 더 괜찮은 수준입니다. 즉 방아머리 근접한 포인트보다는 괜찮다고 보셔도 됩니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfOTgg/MDAxNzgwNzkwNTM0MTkz._8XavENg4yUfIpjUHVN15BbnfXRt1J1lZvSKeSnUIvgg.UeP5_0wOqpJ4M5ieKi_wOjkijeHDGtA3A5TJGjFxE74g.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**삼치 낚시에서 확률을 높이는 가장 중요한 요소 (피크타임, 물때)**
+
+대삼치 시즌은 삼치낚시가 거의 루어 캐스팅 게임으로 이루어 지는데요. 저는 가을 시즌은 보통 삼치 찌낚시를 합니다. 초여름 대삼치나 가을시즌 일반 삼치나 공통적인 특성이 하나 있는데요 개인적으로는 이게 삼치 낚시의 성공확률을 높이는데 가장 중요한 핵심이라고 생각합니다.
+
+​
+
+그건 바로 낚시시간인데요. **해뜨는 시간 1시간전에 포인트에 도착을 해야하고 늦어도 시민박명시간 부터는 낚시를 시작해야 합니다.**
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfNjYg/MDAxNzgwNzkxMDc3NTUz.Y-mWxTgB4NSE9HiFcu0H0dByh_P-0PXUbVn_OGHW18kg.MzfnjqK89BFV-qjSnQJFL_zETHf6edWVr0t6x4RVjrcg.PNG/image.png?type=w800" />
+</div>
+
+제가 10년 정도 삼치낚시를 해보니 가장 입질이 빈번하게 연안에서 들어오는 시간은 시민박명시간부터 일출 후 1~2시간 내외였습니다. 물때에 상관없이 이 시간은 삼치 낚시에서 가장 중요한 피크타임입니다. 정확한 시간과 물때를 알기 위해서는 바다타임에서 인천송도, 시화호, 방아머리 중 하나를 선택해서 보시면 가장 근접한 만조시간, 일출시간 확인이 가능합니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjYy/MDAxNzgwNzkxMDAwODk0.1tjCk3qc2Ucsy8pil9ks3dN217--bW5lUIa5entFUfUg.sAPpeY7DT7SusdABiimTX88kl_tgdYrDbg70PlfOKuUg.PNG/image.png?type=w800" />
+</div>
+
+일출 시간은 일년중 6월 초중순이 가장 빠릅니다. 시화방조제 삼치 피크시즌은 6월초중순 이기 때문에 이시기 일출시간은 5시15분 전후라고 봐도 무방합니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTQ2/MDAxNzgwNzkxMDQ1MDAx.YainjX7KwXL5W7mnevhvteC7WZWsXHSXCv8gmfmhRd0g.M1svJ8iLGzcIrxfYNRtgeooOpx6_btXtj2Qm7XICERYg.PNG/image.png?type=w800" />
+</div>
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20230921_248/1695307167204goS2T_JPEG/3727584058102034_2031175345.jpg" />
+</div>
+
+## 행운을파는낚시 카샤 메탈지그 삼치 갈치 볼락 고등어 농어 광어 방어 CMG-A컬러(7g)
+
+행운을파는낚시
+
+naver.me](https://brandconnect.naver.com/affiliates/960820077313664?channelProductNo=4712226176&ac=b_ed)
+
+그리고 삼치낚시에서 물때는 그 영향이 아주 크다고는 생각하지 않지만 그래도 경험상 좋았던걸 이야기 해보자면 해뜨는 시간 전후에 만조시간이 겹칠때입니다. 특히 시화방조제는 만조시간 전후에는 미끄러운 석축을 밟지 않아도 되고 낚시환경이 크게 개선되는데요. 안전한 낚시를 위해서 입문자분들은 해뜨는 즈음에 만조인 날을 추천드립니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTA0/MDAxNzgwNzkxMjAzMzk0.T4XgpCHbPXXgjGKp52GFqev7dvktdr6Sf4ZFJaA6viwg.QOngb72ZWu_CS5FdQjunG_poh3qFAzHniwIvexvS7Hcg.PNG/image.png?type=w800" />
+</div>
+
+---
+
+**시화방조제 대삼치 낚시장비 , 채비**
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTk4/MDAxNzgwNzkyNDI4MDI4.3icYOMQK9_DKdBRZCKhD8R5WvquV6FTzQOUc_xAA02og.KTWc4CKnMu0c7tN1GnnCSzyqJYZRKDf9DMuRUrvAjGUg.PNG/image.png?type=w800" />
+</div>
+
+삼치낚시용 로드는 일반적으로 많이 사용하는 바다범용 낚시대 862ml.. 거의 표준처럼 쓰이고 있는데 이 로드부터 사용할만 합니다. 보통 9피트이ㅣ상 ML, M 액션의 로드가 일반적으로 많이 사용됩니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20230613_194/1686638108863NtPgq_JPEG/570171685634232_844888380.jpg" />
+</div>
+
+## JS컴퍼니 닉스 인쇼어 버전2 바다 인쇼어 농어 광어 서프루어 낚시대 S782L-ML
+
+에프마켓 석수
+
+naver.me](https://brandconnect.naver.com/affiliates/960473766981312?channelProductNo=8703164823&ac=b_ed)
+
+스피닝릴은 최소 3000번은 써야하고 4000~5000번이 대삼치 시즌에 적합한 사이즈라고 보시면 될것 같습니다. 릴 사이즈가 커지는 이유는 감기는 낚시줄 때문인데요.. 3000번은 보통 합사 1호~1.2호 라인이 조합되고 4000~5000번 스피닝릴에는 합사 1.5호~3호까지 대응이 가능한데 합사 2호 정도를 많이 사용합니다.
+
+🔗 [시마노 26 나스키 볼락 광어 배스 오징어 라이트게임 에깅 릴 4000, 4.7](https://naver.me/xsZMfP93)
+
+​
+
+원줄은 합사 1.5~2호를 사용한다고 치면 쇼크리더를 어떻게 할건지가 또 걱정인데요. 시화방조제에서 나오는 삼치 크기는 적게는 5짜에서 대삼치 1m나 넘는 녀석들도 나오기 때문에 쇼크리더는 최소 5호이상 8호 정도 까지도 사용합니다. 삼치는 이빨이 매우 날카롭기 때문에 1m급은 8호 쇼크리더도 댕강댕강 잘려나가는 경우가 많아 안전하게는 와이어를 사용하는게 확실합니다.
+
+🔗 [농어줄 바리바스 아바니 씨배스 맥스파워 8합사 PE 라인 낚시 줄 1.5호, 150m](https://naver.me/5yhYUuIo)
+
+​
+
+시화방조제 대삼치 시즌에는 보통 메탈지그로 캐스팅게임을 하기 때문에 20g~60g 정도까지 사용합니다. 루어낚시대의 허용치 무게에 최대치까지 사용하시는게 좋습니다. 그 이유는 무거운 메탈지그일 수록 비거리가 길어지게 되는데요.
+
+🔗 [MTF 트위스트 크롬 메탈지그 삼치 갈치 풀치 농어 우럭 고등어 레인보우, 40g](https://naver.me/G1pXHlOc)
+
+장비채비 구성에서 가장 중요한 점을 꼽자면 제가 다른 장르라면 가벼운 장비가 최고다라고 하겠지만 삼치 어종 특성상 포인트는 연안이라도 방조제에서 멀리 형성되는 경우가 많은데 이때 비거리가 짧으면 아예 기회조차 오지 않을수도 있기 때문에 비거리를 늘리는 세팅에 몰빵하는게 유리합니다.
+
+​
+
+즉 낚시대는 좀 더 길게.. 튼튼한 합사 라인이 충분히 감기는 4000번 정도의 스피닝릴, 그리고 같은 합사 호수에서도 더 가늘고 부드러워서 비거리에 유리한 하이엔드급 라인, 메탈지그도 무겁지만 컴팩트하게 나온 제품 등... 낚시대부터 릴, 라인, 채비까지 비거리에 진심일수록 삼치를 히트할 확률은 높아질 수 밖에 없습니다.
+
+---
+
+**삼치 낚시 운영 방법 작 먹히는 액션**
+
+우선 주변 상황을 잘 관찰해야 하는데요 조류의 방향, 갈매기가 모여드는 위치, 보일링이 일어나는지, 주변 사람들의 캐스팅 착수위치를 확인하고 에 따라 캐스팅할 곳을 고를 수 있습니다. 이때 주변에 사람이 많다면 선택의 여지는 매우 줄어들게 되기 때문에 사람들 밀도가 낮은 곳이 좋습니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfNDYg/MDAxNzgwNzkyOTM2ODY1.SwVt9vUeH8CV9jKZhNtfKp3EKJfDpctrpUFHQUahYKIg.MOnem1nltlDJ2honlPXO2vIeOpIJG5ibuAwJtaxJdRog.PNG/image.png?type=w800" />
+</div>
+
+조류의 방향을 눈으로 확인이 가능한 경우도 있지만 잘 구분이 안되면 캐스팅 착수점에서 라인이 어디로 흐르는지를 보면 됩니다. 조류 방향이 바뀌고 나서의 시점이나 조류의 세기가 줄어들때 집중을 해야 하구요. 이건 착수후 바닥을 찍는 시간을 초를 세면서 카운트하면 그 변화를 알 수 있습니다.
+
+​
+
+갈매기가 모이거나 보일링이 보인다면 그쪽에 베이트피쉬가 모여있다고 봐도 무방하기 최대한 근접한 곳에 캐스팅을 해줍니다. 아무런 특이점도 보이지 않는다면 주변 조사님들을 피해서 최대한 멀리 캐스팅해서 탐색을 다양한 공간으로 해주시는게 기본입니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTQ5/MDAxNzgwNzkzMTAzODQ5.BlHajXX5XnYAm6qNIOZsXXna_ffDNoDgxPv2WPq4wR8g.naua494DnD9J2nSvKiqBwtibnHt3uFo9lPLPFQA3WLAg.PNG/image.png?type=w800" />
+</div>
+
+​
+
+캐스팅 후에 메탈지그가 수면에 닿자마자 프리폴링이나 커프폴링 중 하나를 선택합니다. 프리폴링은 여유줄을 주어서 폴링을 수직으로 시키는것이고 커브폴링은 스피닝릴 베일을 닿고 라인의 텐션을 유지하면서 폴링되는걸 이야기 합니다. 주변 사람들이 없다면 프리/커브폴링, 사람들이 많거나 바람이 불어 라인이 날리는 상황이면 커브폴링을 해주는게 좋습니다.
+
+이때는 항상 바닥을 찍는 시간을 카운트를 하면서 조류의 세기나 수심을 읽어야 합니다.
+
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfOTQg/MDAxNzgwNzkyODA1MDAy.pv58EEmBV7-QX2WoohjADLc8TZ2Z7oAWTSwOOxPWEQ8g.vBQe7P0ECubRGn2rtTuNrzO5j19kBd5HrgzHDN7gTaMg.PNG/image.png?type=w800" />
+</div>
+
+​
+
+바닥을 찍고나서는 저킹을 2~3회 정도 하고 다시 바닥까지 폴링을 시켜주어도 되구요. 바닥 닿기전에 다시 저킹을 반복적으로 해주는 액션을 반복하다가 몇초 정도에 다시 바닥에 닿는지를 확인합니다. 그래서 저킹 몇번에 바닥 중간까지 올라오는지 확인을 해볼 수 있고 이 정도를 가지고 리트리브시에 유영 수심층을 추정해 볼 수 있습니다.
+
+[
+<div class="single-image">
+<img src="https://shop-phinf.pstatic.net/20240611_249/1718083755620V6Dsf_JPEG/119219598305367233_1878002386.jpg" />
+</div>
+
+## JS컴퍼니 빅소드 S2 농어대 농어낚시대 S862ML-M
+
+에프마켓 석수
+
+naver.me](https://brandconnect.naver.com/affiliates/960820434497312?channelProductNo=6971022295&ac=b_ed)
+
+리트리브는 릴을 감는 동작을 이야기 하는데 당연히 빨리 감으면 메탈지그가 떠오르면서 회수가 될것이고 느리게 감으면 메탈지그가 내려가면서 회수가 될건데요.. 이 속도를 다양하게 변경하면서 운영하는게 좋습니다. 속도 조절을 통해서 어느 수심층에 삼치가 있는지를 찾을 수가 있는데요. 삼치는 수면에 떠 있을수도 있지만 바닥에서도 활동하기 대문에 이 과정이 중요합니다.
+
+​
+
+낚시는 눈치가 빠른 사람이 센스가 있다고 하는데 주변에 누군가 삼치를 잡았다면 그 사람이 어떤 속도로 릴링을 했는지를 기억해보고 따라하는 방법도 있습니다. 아니면 직접 물어보셔도 되구요. 내가 탐색하고 수심층을 찾는것도 좋지만 주변에 조사님들이 여럿 있다면 이 사람들의 패턴을 파악해서 주변의 정보를 모아 놓는것도 도움이 되실겁니다.
+
+​
+
+---
+
+**입문자들이 삼치 낚시에서 간과하는 점들**
+
+낚시초보 인 분들은 주변에 삼치낚시에 대한 경험이 있는 분들이 가이드를 해주면 좋겠지만 그렇지 않은 경우 인터넷에 정보만 보고 계획을 세우시는데요. 제가 강조한 **시민박명시간**.. 이때를 놓치는 경우가 거의 대부분입니다. 이유는 이 시간에 포인트에 나오기가 보통 열정가지고는 쉽지 않기 때문인데요 왜 꾼들이 이 시간부터 낚시할지 준비하는 걸 공감을 못하시기 때문입니다. 대삼치는 마릿수 하기는 정말 어려워서 한마리라도 보기 위해서는 작은 확률이라도 높여야 하는데 그 시작은 낚시시간입니다.
+
+​
+
+그리고 비거리를 늘리기 위한 노력의 중요성을 간과한다는 점인데.. 이건 혼자 극복하긴 힘들긴 합니다 주변에 도움을 요청할 경험있는 분들이 있다면 도와주시겠지만 혼자 **장비셋팅**을 구성한다는게 어려운데요.. 요즘 유투버나 블로그 하시는 분들이 정보를 많이 제공하고 있으니 장비구성을 똑같이는 못하더라도 로드의 길이나 액션을 동일한걸로, 스피닝릴의 크기나 합사라인 호수, 메탈지그의 무게라도 최소한 동일하게 구성을 해보시고 직접 느끼면서 업그레이드 하면 빠르게 성장하실듯 합니다.
+
+​
+
+입문자분들은 올해 삼치 한마리 잡아보시겠다 목표를 세우셨다면 2가지만 해보시길 바랍니다. 꼭 새벽타임을 놓치지 말것 비거리 확보를 위한 셋팅을 해볼것인데요.. 대략 한달정도 대삼치를 노려볼 수 있는 기간입니다. 도전하시는 분들 꼭 성공해 보시길 기원하겠습니다.
+
+​
+
+​
+
+감사합니다.
+
+​
+
+​
+
+​
+
+​
+
+---
+
+​

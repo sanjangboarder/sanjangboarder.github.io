@@ -8,35 +8,20 @@ import Search from '../components/Search.astro';
 interface Props {
 	title: string;
 	description?: string;
+	lang?: 'ko' | 'en';
 }
 
-const { title, description = "산장보더의 테크 & 라이프 블로그" } = Astro.props;
+const { title, description = "산장보더의 테크 & 라이프 블로그", lang = 'ko' } = Astro.props;
 
-// 카테고리 순서 정의 (사용자 요청 순서)
-const ORDERED_CATEGORIES = [
-  "바다낚시 팁/정보",
-  "수도권 조행기",
-  "전국구 조행기",
-  "해루질 이야기",
-  "낚시용품",
-  "알리익스프레스",
-  "IT기기/SW/드론",
-  "장소/맛집",
-  "이벤트/체험단",
-  "자동차/오토모티브",
-  "AI, SW개발, DevOps",
-  "경제관련공부",
-  "걷기다이어트",
-  "겨울레저활동",
-  "스포츠이야기",
-  // "Sample" // 필요할 때 주석 해제
-];
+const isEn = lang === 'en';
 
 // 카테고리 동적 추출
 const allPosts = await getCollection('posts');
 const categoryMap = new Map();
 allPosts.forEach(post => {
-  const cat = post.data.category || '미분류';
+  const postLang = post.data.lang || 'ko';
+  if (postLang !== lang) return;
+  const cat = post.data.category || (isEn ? 'Uncategorized' : '미분류');
   // Sample 카테고리는 목록 집계에서 제외
   if (cat === 'Sample') return;
   categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
@@ -48,11 +33,14 @@ const categories = Array.from(categoryMap.entries()).sort((a, b) => {
 });
 
 // 전체 포스트 개수에서도 Sample 제외
-const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
+const totalPosts = allPosts.filter(p => {
+  const postLang = p.data.lang || 'ko';
+  return postLang === lang && p.data.category !== 'Sample';
+}).length;
 ---
 
 <!doctype html>
-<html lang="ko">
+<html lang={lang}>
 	<head>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0J8Y7BE5J7"></script>
@@ -70,7 +58,7 @@ const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<meta name="referrer" content="no-referrer" />
-		<title>{title} | 산장보더</title>
+		<title>{title} | {isEn ? "Sanjangboarder" : "산장보더"}</title>
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -87,7 +75,7 @@ const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
 			<!-- Sidebar -->
 			<aside class="sidebar glass">
 				<div class="sidebar-header">
-					<a href="/" class="logo gradient-text">SANJANGBOARDER</a>
+					<a href={isEn ? "/en" : "/"} class="logo gradient-text">SANJANGBOARDER</a>
 					<div class="social-links">
 						<a href="https://www.instagram.com/sanjangboarder/" target="_blank" title="Instagram" class="social-icon instagram">
 							<i class="fa-brands fa-instagram"></i>
@@ -107,12 +95,12 @@ const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
 				<nav class="sidebar-nav">
 					<div class="nav-section">
 						<Search />
-						<h3 class="nav-title">카테고리</h3>
+						<h3 class="nav-title">{isEn ? "Categories" : "카테고리"}</h3>
 						<ul class="category-list">
 							<li>
-								<a href="/" class="category-item">
+								<a href={isEn ? "/en" : "/"} class="category-item">
 									<span class="cat-icon">📁</span>
-									<span class="cat-name">전체보기</span>
+									<span class="cat-name">{isEn ? "All Posts" : "전체보기"}</span>
 									<span class="cat-count">({totalPosts})</span>
 								</a>
 							</li>
@@ -142,7 +130,7 @@ const totalPosts = allPosts.filter(p => p.data.category !== 'Sample').length;
 							<span id="busuanzi_value_site_uv" class="stat-value">...</span>
 						</div>
 					</div>
-					<a href="/about" class="footer-link">About Me</a>
+					<a href="/about" class="footer-link">{isEn ? "About Me" : "소개"}</a>
 				</div>
 			</aside>
 
