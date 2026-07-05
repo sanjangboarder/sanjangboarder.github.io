@@ -101,7 +101,7 @@ Description: {description}
 """
         title_en, desc_en = title, description
         try:
-            response = self.model.generate_content(meta_prompt)
+            response = self.model.generate_content(meta_prompt, request_options={"timeout": 600.0})
             text = response.text.strip()
             # extract JSON
             res_json = None
@@ -141,7 +141,7 @@ Rules:
 """
         body_en = body
         try:
-            response = self.model.generate_content(body_prompt)
+            response = self.model.generate_content(body_prompt, request_options={"timeout": 600.0})
             body_en = response.text.strip()
             # Unwrap if model wrapped the raw text response in markdown code blocks
             if body_en.startswith("```markdown") and body_en.endswith("```"):

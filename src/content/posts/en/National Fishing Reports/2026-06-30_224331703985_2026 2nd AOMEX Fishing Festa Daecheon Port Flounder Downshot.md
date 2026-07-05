@@ -1,0 +1,213 @@
+---
+title: "2026 2nd AOMEX Fishing Festa Daecheon Port Flounder Downshot Tournament Recap [26.06.28]"
+date: 2026-06-30
+category: "National Fishing Reports"
+categoryNo: 17
+logNo: 224331703985
+source: "https://m.blog.naver.com/sanjangboarder/224331703985"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNTIg/MDAxNzgyNzg2ODMxNDcw.yzTVw5qGnLfuKXPfMvYJ5NWeMXzx3LmItj01hGJETYAg.5glaQMvA02SNvtiOLFrf-CcKQtVADTP6SjL4_08NPn8g.JPEG/900_20260628_172515.jpg"
+description: "Hello, this is Sanjang Border. Last weekend, I participated in the 2nd AOMEX Flounder Downshot FESTA held at Daecheon Port in 2026. Last month, the 1st AOMEX Tai Rubber Tournament took place in Mageompo, but I couldn't attend due to a scheduled outing. This time, however, the timing was perfect, allowing me to finally participate in an AOMEX tournament, which I had always wanted to do. It's been a while since I joined a fishing competition, but with many formidable participants and AOMEX creators attending, I decided to go with the modest goal of catching just one flounder. Unlike other tournaments organized by various tackle manufacturers or brands, the AOMEX tournament only cost 50,000 won to enter. Fish caught during the competition are reportedly donated to a 'Fish Bank' for charitable purposes. I arrived at the venue by 3:30 AM as instructed. I was surprised to find such a place at Daecheon Port – it was a Gateball field, and the tournament preparations were incredibly well organized. Here, the AOMEX Managing Director briefed us on the tournament's overview and objectives, followed by a lottery for boat assignments. Shortly after 4 AM, participants moved to their respective assigned boats, and the fishing tournament commenced. Participants proceeded to their boats at Daecheon Port..."
+lang: "en"
+---
+
+안녕하세요 산장보더입니다.
+
+지난 주말 대천항에서 열리는 26년 제2회 AOMEX 광어다운샷 FESTA 참가차 다녀왔습니다. 지난달에 1회 대회로 마검포에서 아오맥스 타이라바 대회가 있었는데 그때는 정출 스케쥴때문에 참석을 못했지만 이번에는 시간이 딱 맞아서 평소 참가해 보고 싶었던 아오맥스 대회에 참가를 했습니다.
+
+낚시대회는 좀 오랜만인데 워낙 쟁쟁한 분들이 많이 나오고 아오맥스 크리에이터분들도 참석을 하신다고 해서 광어 한마리만 노려보는 컨셉으로 나가봤습니다. 아오맥스 대회는 다른 여타 조구사나 브랜드들의 대회와 달리 참가비 5만원 뿐이 하지 않았는데요.. 대회에 잡은 물고기들은 피쉬뱅크로 기부해서 좋은곳에 사용한다고 합니다.
+
+새벽 3시30분까지 대회장에 와달라는 안내가 있어서 도착했는데요. 대천항에 이런곳이 있는줄 처음 알았네요 게이트볼장이라고 하는데 대회 준비가 아주 깔끔하게 되어 있었습니다.
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjcz/MDAxNzgyNzg2ODQxNDQw.K8MsHuFmsDEC7WJJI_4gu0p0cEjhQYD2qpfcrkF5K-0g.SKTB6EcozAbAz1Ct9pVTdRXPTa3FqEyl_h4UyPLSkPcg.JPEG/900_20260628_031604.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTgx/MDAxNzgyNzg2ODQxMzM3.RGfxUFu86VbcYLaaN6AFGfpitviyEw6lMrFlKZYH31wg.EnzJ-Af6w4tXybYIBHXXhybhQRq-rBt_cCRamiLnYAgg.JPEG/900_20260628_031618.jpg?type=w800" />
+</div>
+
+여기서 대회 개요와 취지 등을 아오맥스 전무님이 브리핑 해주시고 배치될 선사 추첨 등이 이루어졌는데요. 4시가 조금 넘은 시점에 각자 추첨된 배로 이동하여 낚시대회가 시작되었습니다.
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTU0/MDAxNzgyNzg2ODQyNDk3.6vHZLRykJ392DSwTetBGzswiS3Uv_biAGr8Sw59rJYUg.c41QUlJxh61SbZ_XViMv91g5BVf8dVHNzVEBeSsJ-nsg.JPEG/900_20260628_041546.jpg?type=w800" />
+</div>
+
+대천항 빠지로 선수분들이 이동을 하고 이날은 팀루피호 선단 및 아인스호 등 해서 총 5대가 나갔는데요.. 저는 이름도 처음 들어보는 슈퍼맨호를 탑승하게 되었습니다. 대천항에 참 많은 선단들이 있는데 팀루피피싱 선단의 슈퍼맨호 처음 타봐서 기대가 많이 되더라구요.
+
+<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Team Luffy Fishing</div><div class="map-addr">330 Daecheonhang-ro, Boryeong-si, Chungcheongnam-do</div></div></div><a href="https://map.naver.com/p/search/팀루피피싱" target="\_blank" class="map-btn">View Map</a></div>
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTIz/MDAxNzgyNzg2ODM5NjA3.fuhn8_kYtJiLgnbJnN_4E0Guc6en09YRWfqM_Olr8Hgg.8heqjEdl8fcWuNcJZt2hanVK6C8HTi-7WF-GiARsum0g.JPEG/900_20260628_043300.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjY0/MDAxNzgyNzg2ODM2MzI1.nf4PZJXwoAJdm1N3mviR4AyDzBZKFYjjSCroMdgppfEg.SguWOlRWXNDMft55ZQwAHFBEr-cq9DaNAmmQ7GJizbYg.JPEG/900_20260628_043601.jpg?type=w800" />
+</div>
+
+광어가 최근에 제법 마릿수로 나오는데 사이즈는 좀 작다고 선장님이 미리 이야기를 해주시더라구요. 큰 놈도 노려볼 수 있는 외연도권으로 포인트를 잡고 이동을 한다고 하는데 대천항에서는 꽤나 먼거리입니다. 연비운전하면 2시간 걸릴만한 수준인데 네비 켜보니 시속28km ㅎㅎ 슈퍼맨 처럼 날라서 외연도까지 슝~~
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTIz/MDAxNzgyNzkwODczMTc5.jsnzeu6klj8_LYbZDKeY9AnMvEHZGo9cFM5pbFFS9Pcg.wpUjCVnivrMfWn2fwO6SxzniSrpGuzvPW7yGj0NzdZgg.JPEG/SE-0c94feb6-742c-11f1-bb00-a758389476d2.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjE2/MDAxNzgyNzg2ODM3MzA4.xSISEPGISe-Cnxk1kAXJLrx8WoOHpNaapkASKxclv_Qg.cnaMwGIAoJ8cclZI779quL2L_hAToy7VmIGpSi_TolYg.JPEG/900_Screenshot_20260628_061102_TMAP.jpg?type=w800" />
+</div>
+
+아오맥스 광어다운샷 대회는 규정상 아오맥스에서 나온 다운샷로드만 참가자격이 주어졌는데요. 제가 아직 로드 리뷰를 포스팅 하지 못했지만 이번에 새로 영입한 하이엔드급 광어다운샷로드인 네비게이터를 가지고 참가했습니다.
+
+> **Daecheon Port Flounder Downshot Gear/Rig**
+>
+> Rod: AOMEX Navigator DS-180B
+>
+> Reel: Daiwa Rise 100B
+>
+> Line: Haedong Limit X9 #1.2 braided line
+>
+> Rig: Deli Rig Lux Straight Hook 4/0
+>
+> Worms: TriggerX TB, PP, PK, WH, Berkley HD, etc.
+>
+> Sinker: Iron weight #40
+>
+> Sanjang Border
+
+릴은 올해 대광어 많이 꺼내준 다이와 라이즈 베이트릴에 웜은 트리거X 올해 좋은 기억이 있는 컬러는 총 동원 했습니다. 올해 대광어를 7마리 정도 잡은것 같은데 평소 제가 대광어에 믿음이 별로 없는데 생각보다 어복을 대광어에 많이 쏟아부어서 이 어복이 이어졌으면 했는데요 ㅎㅎ
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTg2/MDAxNzgyNzg2ODM0MDUx.AXXtzqXXO8ny_ffyJE7l6833cx8k2Q86Ua_0CmeMeXkg.7aHGnvaPCnoM_nnmnhAYQSbM_cWddZHruJuDaUg.JPEG/900_20260628_070118.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNjkg/MDAxNzgyNzg2ODQzNDQ5.CApiJ2fLnSbbl-6cGTgU25WthaEp76DxetTMndaPgLgg.kKxIna4x5VGK_xTiKreCfGr1Fk11G6sYtN5kHnKRSHcg.JPEG/900_20260628_110217.jpg?type=w800" />
+</div>
+
+시작은 좋지 않았습니다. 첫 포인트에서 광어가 여기저기 히트 소리와 함꼐 올라오긴 했는데요.. 사이즈는 4짜 전후가 많더라구요.. 대회 규정상 4짜 아래는 전부 방생이라 일부는 바로 바다로 보내지고 사이즈 계측 후 따로 고기는 모아두더라구요.
+
+낚시 시작 1시간 정도후에 6~7마리 올라온듯 한데 저는 잠잠합니다. 어디선가 맛있는 냄새가 나서 보니 모닝 떡볶이가 기다리고 있더라구요.. 김말이 튀김이랑 삶은계란 까지 들어있는 퀄리티 높은 떡볶이라뇨.. 아침으로 든든합니다.
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTU5/MDAxNzgyNzg2ODQxMDU2.fhQFGctN9n0cWpITbCa-PL9OZKA2V-PqapK-T6Yiyk8g.jypjlb5NfTVktFYGzUlaPY0j023MUnXOYxFmU_HI4LQg.JPEG/900_20260628_070655.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjc0/MDAxNzgyNzg2ODM2Mjcy.ZplKp7gROdKKgM_K1mrFCj20MuXhEEQ5AhqzeIMlnJUg.cBkp1UzteeOKN_RcqDgSMqYQ-wrPtbE_Pp_NKAIExh8g.JPEG/900_20260628_070857.jpg?type=w800" />
+</div>
+
+선장님이 입질 뜸해지면 바로바로 이동하면서 여기저기 찍어주시긴 했는데요.. 새벽타임 이후에는 간간히 올라오는 수준.. 하지만 제 로드는 평온합니다. 30분 정도마다 웜을 로테이션을 돌리는데 ㅠㅠ 영 반응이..
+
+아오맥스 신상 하이엔드 광어다운샷 로드 네이게이터의 40호 봉돌 휨새입니다. 네비게이터 로드는 6:4 액션으로 나와서 바닥에서 봉돌을 살짝 띄우면 아래 그림과 같은 모습이라고 보심 될것 같습니다. 연질성향의 로드라고 보심 될것 같고 간간이 오는 잔입질 까지 로드에 아주 선명하게 표시되더라구요.. 이런거 말고 떵~ 때리는 광어 입질은 아쉽게도 못 봤습니다. ㅠㅠ
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTA3/MDAxNzgyNzg2ODM1Mzg2.vOu0eLlUYWE43Vw4-eQF40_pnGZziwgEEAzpZ8kPauUg.zKr5thFwliey-X2jELp2aB8ga3ElE4ze56NtrD8NThEg.JPEG/900_20260628_071044.jpg?type=w800" />
+</div>
+
+안나오면 바로바로 이동하다가 외연도권 섬 이름은 모르겠는데 사진상 섬 부근에서 오전시간을 보냈습니다. 광어는 역시 간간이 올라오는 수준 5짜 넘기기가 힘들정도로 대광어 모습은 잘 안보였습니다. 역시 제 로드는 계속 잠잠했구요..
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTYy/MDAxNzgyNzg2ODMzNjM1.M4LbYMU5rEy4Fl58tBLL35haD6a5-zr0PBRXpu8KlMIg.QCqE8QnPJ6wrVzP1UsGBI6n66P_bbVnerzzkgOjvzp0g.JPEG/900_20260628_080020.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjM4/MDAxNzgyNzg2ODM3MDIy.E4I6CGjycGotgQ4XZMzppEqVH2xK05MN12Xh0vANFrcg.-UeYtUhAnnBCEMjIzPXC0P2yV3Ymt3j_nPBZragP8_Eg.JPEG/900_20260628_080759.jpg?type=w800" />
+</div>
+
+대천항 슈퍼맨호는 간식이 훌륭하더라구요.. 초여름 날씨 이겨내라고 쭈쭈바도 주고 음료수도 다양하고 선탑에 에용띠용 유투버 분들이 또 간식도 나눠주시고 먹을께 아주 넉넉했어요 ㅎㅎ
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTg3/MDAxNzgyNzg2ODMyMzc1.v5GvLb2BMYpPEZ2v0QNSJMmiYxWUjaIbRAMnwMkFmH4g.8o2eS9SmI20sz1Ms2DzWCmT-0FPK699PJnZWetKENCAg.JPEG/900_20260628_090409.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjQg/MDAxNzgyNzg2ODMyNjA5.L9aEPOitCtTIDoZ-5NWjJtIgJokbzEdETZpplqfAGJwg.1eYGGorXqvuy6Pnxy9OVzF8o97U8aYArcKK7Vf4l-88g.JPEG/900_20260628_091339.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfODEg/MDAxNzgyNzg2ODMxNjU3.0Whcr9oxbWot0rKiBzrSxz6W5dKH4Vvuy7rp_j_EHbcg.eBaN0-IVJRoUIGtQI4YBLD77Sf3liGD6kjluurYIv3gg.JPEG/900_20260628_092001.jpg?type=w800" />
+</div>
+
+슈퍼맨호는 첫 경험이였는데 사무장님이나 선장님 마인드가 아주 좋으시더라구요. 손님들에게 살갑게 대해주시는것도 좋았고 선장님 수심 멘트나 간단한 브리핑 과하지 않고 딱 필요한 정보만 전달되서 좋았는데.. 저는 계속 입질도 못 받았네요 ㅎㅎ
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjM0/MDAxNzgyNzg2ODQyNDY5.eKhz7RZ0pDuZ14NWQfCV3jEdxn3nlnAsqBZlCuCCI8Ug.k5-7y_nrQ3vIlSLV62NL1Jqz6R-JAVB00Q4RR3n1bCcg.JPEG/900_20260628_092100.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMzEg/MDAxNzgyNzg2ODQwMzkx.rGGCp5v-5s2lO42KCcG47-wWXyAmVAtTtmjw2JwqQ_0g.ewH6HQ2zFT1o3VpqZ0l3_cePHPKPDMk3LosdIStt-AIg.JPEG/900_20260628_092753.jpg?type=w800" />
+</div>
+
+해가 중천에 뜨고 어닝을 펴주는데 요즘 서해권 선사들은 어닝이 있는 배와 아닌배로 나뉘는듯한 느낌이 많이 드는데 어닝이 새로 설치한듯 싶더라구요.. 햇살이 강했는데 확실히 이게 있으니 낚시가 쾌적합니다.
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTk3/MDAxNzgyNzg2ODMzNDEy.zWPpGMDkTiOZmKOq8iR-C0l2wC3KJAv-hMAMrSPnPbwg.qcJ9r94yRYyt_S-kfdcpr2wQvQuDdhc_E5Z889Lg_N0g.JPEG/900_20260628_092646.jpg?type=w800" />
+</div>
+
+슈퍼맨호에는 선미쪽에 철판이 있는걸 봤는데 점심이 되기 전부터 이게 열리더니 먹방 준비가 시작됩니다. 저 솔직히 놀랬습니다. 이런 점심을 주는 선사는 처음이라 두툼한 삼겹살.. 제가 볼때는 30~40인분은 되어 보이는데 어마어마한 양이 철판에 구워지기 시작하더라구요.. 그리고 밥도 도시락이 아니고 직접 압력밭솥에 즉석해서 만들어 버리는 클라스..
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjA0/MDAxNzgyNzkxMDIzMTg4.5OuR1ENKV7NOpAdtsq_UiIt2wPDRZhFS09w7jwCxH_Mg.Gc5YQFSDPo8m5LaKROxxCEhrmfh41waDdlAYI9DWPPEg.JPEG/SE-0ca68af7-742c-11f1-bb00-950eb19269ae.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjcz/MDAxNzgyNzg2ODQyMDUy.Ok9Ae03EQE1elxDZUTurFJ39OBsptldcB7dAMmq-uiAg.LQ48p6V8Bk7B8Kw01WFbZ3H_-9rEQ8DDrmffJoNS-ucg.JPEG/900_20260628_095649.jpg?type=w800" />
+</div>
+
+점심 준비하는거 구경하는게 낚시하는것보다 재밌어서 ㅎㅎ 틈틈히 보는데 자꾸 침이.. 김치까지 구워서 반찬 셋팅해서 점심이 차려집니다. 와 대박.. 감동스... 마지막엔 고기와 김치볶음, 김자반 조합으로 볶음밥까지 만들어 주는 센스
+
+이건 서해권 선사 점심 에이스 인정입니다. 대회 끝나고 안 사실인데 팀루피호 선단이 다 이렇게 나온다네요..
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTU3/MDAxNzgyNzg2ODM1NDU4.Gur_IcYe0KcnI1Jyf7mZpbbpZvVn0AJeDi--hikJyAsg.lmsHnnlu_Z-eOD2GIZnNiXIM23Gx2N95ohlUPkOFj2Ag.JPEG/900_20260628_102401.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTEw/MDAxNzgyNzg2ODM0NzA0.qvTiHu0L9c0bt6K9AhgOMA09Ehcfsryp48nDTL2Dxncg.hgbD5JVpYanmi7U5aIerTWWUtE9IvmE5_MjyruRMKaAg.JPEG/900_20260628_102843.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjM1/MDAxNzgyNzg2ODM0NDc3.7DRl9Pj5N3Ib8NGxMExa--7nanpRg-ocnh3JAkLy2BMg.JETc48AXZPHtNq-cHKyHoQR2f33_VxoOcv9N34ESdf0g.JPEG/900_20260628_103240.jpg?type=w800" />
+</div>
+
+밥 잘먹고 또 음료수 한잔에 광어를 기다려 보는데요. 점심 전후에서는 많이 뜸해지더라구요..
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTAz/MDAxNzgyNzg2ODMzMzk2.V8N7-dixP9p8qbVJuHZyfgEz4Hrd4sBpNnnEriI4SPUg.ClXvJzCs8NvAau8-ZZORTXuaQBsfZjyBLESBFK_5Tgg.JPEG/900_20260628_124346.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNzUg/MDAxNzgyNzg2ODQzNjYz.EV215W1WQv1RRxihwt-AH3DjkjDNPlTvyDhtdWbWN3wg.n8_x-1aVZOkRyNK8IAvbboSFRpxE3dFhJpw5KRf2T_8g.JPEG/900_20260628_104221.jpg?type=w800" />
+</div>
+
+첫 작은 입질에 애럭 하나 올라오고, 우락스럽고 촐싹맞은 입질 한번 받았는데 방망이 놀래미가 하나 올라와 주네요.
+놀래미 사이즈가 좋아서 잠깐 설래였는데 올라오다 보니 두둑~ 두둑~ 하는게 놀래미겠다 싶었는데 여지없이 ㅎㅎ
+네비게이터 광어다운샷로드로 처음 올려보는 고기인데 로드는 연질성향이지만 쫀쫀한게 고기 올리는게 재밌긴 하더라구요. 이거로 대광어 올리면 얼마나 쫄깃할지 기대가 더 되는게 아 또 광따를 가야하나 고민이 됩니다.
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfODEg/MDAxNzgyNzkwOTQ2MjY2.oaejXxaw9YdUqRlt6ekJnaFvVhQ-Um7OA953Vl47ttkg.lhu-YDMA-r9q6ljiEo_yIXpTh0P670qYm0xbl8V_M5Ug.JPEG/SE-0cb298f3-742c-11f1-bb00-0f9d77df9d6d.jpg?type=w800" />
+</div>
+
+점심 먹고 놀래미 손맛이라도 봐서 다행이였는데 제 2자리 옆에 분은 이날 3등한 광어를 하나 올리시는걸 목격합니다. ㅎㅎ 아 5m만 더 와서 내꺼 때려주었으면 소중하게 올려주었을텐데.. 아쉽지만 제가 그런 운은 따라주지 않더라구요.
+
+하지만 또 간식 이번엔 딸기라떼.. 단거 먹으니까 기분이가 좋아집니다.
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTY2/MDAxNzgyNzg2ODM4MjQy.iFU27xnliP9lJBZoQNjl3UNMpK9ISJhASFDOiac3CL4g.e5COowTmnkodpQVU9sWhR5BA3fRYURKb4jh9KZt7BrAg.JPEG/900_20260628_101533.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfOTgg/MDAxNzgyNzg2ODM4OTM0.lKroWUbqjmq_aQzXoDpIMyShuSKFHF_XMbZslqcFqFwg.fTLKiowTjlKLhVykqXFEwx0Tylakx3vWF819WmKvKQAg.JPEG/900_20260628_130054.jpg?type=w800" />
+</div>
+
+마지막까지 광어 입질이 간절했지만 그 소망은 이루어 지지 않고 마무리 되었습니다. 전반적으로 광어가 대박 나온건 아니지만 몇분을 제외하고는 거의 한마리 이상씩으 잡은것 같더라구요.. 꽝치기 어려운 분위기 였는데 제가 그 어려운걸 해냈습니다. ㅎㅎ
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjQ3/MDAxNzgyNzg2ODMxNDIz.edM8B684YB67SFjx6wOnoo5KtO6uv_Q1-CHKw-AZrv8g.BJMmXn4l4a_3w2SlNcs1ZKI1heDDu0cACVnIoDifUFMg.JPEG/900_20260628_130725.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjY0/MDAxNzgyNzg2ODM1MTky.HSSgscF0QIE95sDcBBoOE-m2a824ZlgnZqB6Tjs7hbEg.F51yNlfMBuwWlssYa1fv3FxqOMXxOWLaB7luV9m7wqgg.JPEG/900_20260628_154314.jpg?type=w800" />
+</div>
+
+입항해서 아오맥스 피싱패스트 광어다운샷 대회 시상식 및 경품추첨이 있었는데요. 선수분들이 100여분 좀 안되었던것 같습니다.
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjgg/MDAxNzgyNzg2ODQwMjg5.LgJ8mSKcOlpm5kaxzLLNiY5rq7ge6a0k8vKrHolJVzkg.-JnKOC7Xk4NPae4XQPTa6tgqJ6mWchDQRENc8O1VhuAg.JPEG/900_20260628_155719.jpg?type=w800" />
+</div>
+
+시상식장는 밖에 커피차도 있어서 간식도 제공되구요.. 정말 하루종일 잘 먹여주는 대회가 아니였나.. 꽝쳐도 만족도가 높은 ㅎㅎ
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNjYg/MDAxNzgyNzg2ODQyMjY5.2m_5fs4VqAAG4OHru8BePVI0biSbTwGvnp05kAMLgMsg.m6irxmIkxWxcjpWSRjSbusATgGlwtKwUIrd6fiXSVMYg.JPEG/900_20260628_155248.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfODcg/MDAxNzgyNzg2ODMxNjM1.9vvW_HlDCu-7fi8SZsThPryCNijyct9rRovdrbjQ_o4g.k-Pf5h1BYl92oGnyxmijpeS6QL_pF1QDSNz2ZEluUrog.JPEG/900_20260628_155356.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjQ4/MDAxNzgyNzg2ODM3Mjgy.-QbRATD5fvecRPBWgyg1wBVtgNgxz0U2bR1Zux6_P7wg.bVe2KmkOa1uhA4zbiM-RpVC6911Hz4GfT2IDIT71WYIg.JPEG/900_20260628_155706.jpg?type=w800" />
+</div>
+
+대회에는 1~3등 100만원과 네비게이터 로드 상품이 있고 아래 그림처럼 추첨을 통해서 엄청나게 다양한 상품들이 준비되어 있었는데요.
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjEy/MDAxNzgyNzg2ODMyMzEy.c-KvELVTvQ91nTbaVmvXzIeMOjtLkXH6pjEKWjx0TGUg.f8g1yPN5D10KBj83X3I2YnyaKH4yXnOFNkinFaS2drsg.JPEG/900_20260628_160809.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTY2/MDAxNzgyNzg2ODQzNjg5.9QmO5r0oc6uLllqsNEO4bSYoWDAwob4jpmRQ-p5g-Jcg.Fx_Xje6W3TkRWCPvZmGw-yIzZyGgZZHs6jj4Qqv31Jsg.JPEG/900_20260628_160844.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjY2/MDAxNzgyNzg2ODM5ODAx.TLEhQdmaWuN4MQvAR2Awz0NDVKwGsKtxkRXQnWLeQ_8g.eFUMBbYLD6-BBOtwHyJZvtKDvcTQ20WEpo9YAYA3dsEg.JPEG/900_20260628_160823.jpg?type=w800" />
+</div>
+
+아래 있는 추첨함 한바퀴 다 돌고도 선물이 남을 정도로 아오맥스에서 많은 준비를 하셨더라구요.
+낚시 대회 도전하실 분들은 아오맥스 대회는 꼭 참가하시면 최소 상품 2개는 받으시지 않을까 싶습니다.
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNzYg/MDAxNzgyNzkxMDc4MTI4.NB8YXMDoL4SfZckcBGGXh4Xo2TS_HmErDAChYzBYG_kg.9Num1UENJZPweQdyshYFEXmkxOjGJ0CfI9mtNhW9pUYg.JPEG/SE-0cc2506f-742c-11f1-bb00-258bf87289f9.jpg?type=w800" />
+</div>
+
+저도 소소한 추첨상품 하나와 모든 분들께 나누어 드린 로드케이스까지 2개나 받아가구요.. 아오맥스 대표님 이야기 하는것도 좀 듣고 레종님은 크리에이터부분 1등 하셔서 사진도 좀 찍어드리고 같이 나간 만쿨피싱님 추첨해서 받는 모습도 담아보고 하니까 금방 시간이 지나더라구요.
+
+<div class="image-grid">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTYw/MDAxNzgyNzg2ODM3OTg5.I5iKoszOVd1sK51slpWRuwamk8BrQAQErvYzV8eyWRwg.arM7ZQBn_eJoX588m91EzmeeNcCkRKWkhhcGZIvR2R8g.JPEG/900_20260628_163412.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTU1/MDAxNzgyNzg2ODM4MjI3.85-vyVlgs_GolxJIrUehLqAB8-Rktur2hA9nRbHZ8Y0g.75Pvs4aR5d6my2-6ROVTDixblULIOXh6QYFlc8rz800g.JPEG/900_20260628_170250.jpg?type=w800" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNTQg/MDAxNzgyNzg2ODM5MjIy.QWYfghUcvO4XgyGZicSpg7Slc1KjxUr0i3R2ToUzQ0gg.pgcTbU8XHQ5mmfSWku7UB90fdUXMeckCSHAVIKd4hNsg.JPEG/900_20260628_165947.jpg?type=w800" />
+</div>
+
+아래 그림은 이날 배에서 순위권에 드신 분들 모습입니다. 꾼들이시죠 ㅎㅎ
+
+<div class="single-image">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNTIg/MDAxNzgyNzg2ODMxNDcw.yzTVw5qGnLfuKXPfMvYJ5NWeMXzx3LmItj01hGJETYAg.5glaQMvA02SNvtiOLFrf-CcKQtVADTP6SjL4_08NPn8g.JPEG/900_20260628_172515.jpg?type=w800" />
+</div>
+
+아오맥스 광어다운샷 대회는 새벽부터 빡신 일정이긴 했는데 준비가 잘 되어서 다들 즐겁게 참여할 수 있는 분위기였구요. 안전사고 한건도 없이 모든 분들이 웃으면서 마무리 할 수 있었던것 같습니다.
+
+대광어는 올해 좀 잡더니 어복을 많이 써서 대회날에는 꽝이였는데요.. 이거 억울해서 대회를 또 나가봐야 하나 생각이 들더라구요. 기회되면 대회나가서 입상을 목표로 한번 도전을 해봐야 겠습니다.
+
+감사합니다.
