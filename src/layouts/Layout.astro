@@ -63,6 +63,43 @@ if (pathname.includes('/posts/')) {
     }
   }
 }
+
+const siteUrl = Astro.site ? Astro.site.origin : 'https://sanjangboarder.github.io';
+const canonicalUrl = new URL(pathname, siteUrl).toString();
+
+let koAlternate = null;
+let enAlternate = null;
+
+if (pathname === '/' || pathname === '/en' || pathname === '/en/') {
+  koAlternate = siteUrl + '/';
+  enAlternate = siteUrl + '/en';
+} else if (pathname.includes('/posts/')) {
+  const match = pathname.match(/\/posts\/(.+)/);
+  if (match) {
+    let slug = match[1];
+    if (slug.endsWith('/')) slug = slug.slice(0, -1);
+    const currentPost = allPosts.find(p => p.slug === slug);
+    if (currentPost && currentPost.data.logNo) {
+      const matchTrans = allPosts.find(p => p.data.logNo === currentPost.data.logNo && (p.data.lang || 'ko') !== (currentPost.data.lang || 'ko'));
+      if (matchTrans) {
+        if (currentPost.data.lang === 'en') {
+          koAlternate = siteUrl + `/posts/${matchTrans.slug}`;
+          enAlternate = siteUrl + pathname;
+        } else {
+          koAlternate = siteUrl + pathname;
+          enAlternate = siteUrl + `/posts/${matchTrans.slug}`;
+        }
+      }
+    }
+  }
+  if (!koAlternate && !enAlternate) {
+    if (isEn) {
+      enAlternate = siteUrl + pathname;
+    } else {
+      koAlternate = siteUrl + pathname;
+    }
+  }
+}
 ---
 
 <!doctype html>
@@ -85,6 +122,13 @@ if (pathname.includes('/posts/')) {
 		<meta name="generator" content={Astro.generator} />
 		<meta name="referrer" content="no-referrer" />
 		<title>{title} | {isEn ? "Sanjangboarder" : "산장보더"}</title>
+
+		<!-- SEO Canonical and Alternate Tags -->
+		<link rel="canonical" href={canonicalUrl} />
+		{koAlternate && <link rel="alternate" hreflang="ko" href={koAlternate} />}
+		{enAlternate && <link rel="alternate" hreflang="en" href={enAlternate} />}
+		{koAlternate && enAlternate && <link rel="alternate" hreflang="x-default" href={koAlternate} />}
+
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
