@@ -2,10 +2,25 @@
 
 <script is:inline>
   window.addEventListener('DOMContentLoaded', (event) => {
+    const lang = document.documentElement.lang || 'ko';
+    const isEn = lang === 'en';
+    
     new PagefindUI({ 
       element: "#search", 
       showSubResults: true,
-      translations: {
+      translations: isEn ? {
+        placeholder: "Search posts...",
+        clear_search: "Clear",
+        load_more: "Load more results",
+        search_label: "Search",
+        filters_label: "Filters",
+        zero_results: "No results found for [ {query} ].",
+        many_results: "Found {count} results for [ {query} ].",
+        one_result: "Found 1 result for [ {query} ].",
+        alt_search: "Showing results for [ {alt} ] instead of [ {query} ].",
+        search_suggestion: "Did you mean [ {suggestion} ] instead of [ {query} ]?",
+        searching: "Searching..."
+      } : {
         placeholder: "포스팅 검색...",
         clear_search: "지우기",
         load_more: "결과 더보기",
