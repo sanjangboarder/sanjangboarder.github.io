@@ -59,7 +59,7 @@ const matchingTranslation = post.data.logNo
         <Content />
       </div>
 
-      <Giscus />
+      <Giscus lang={post.data.lang || 'ko'} />
 
       <footer class="post-footer">
         <a href={post.data.lang === 'en' ? "/en" : "/"} class="btn-back">← Back to Home</a>
