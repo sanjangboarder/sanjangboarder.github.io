@@ -424,3 +424,47 @@ h1, h2, h3, h4 {
   height: auto;
   border-radius: 12px;
 }
+
+/* --- Sidebar Language Switcher --- */
+.sidebar-lang-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1rem;
+  margin-bottom: 1.5rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 100px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.sidebar-lang-switcher:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(99, 102, 241, 0.3);
+}
+
+.sidebar-lang-switcher a {
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.3s;
+  padding: 0.2rem 0.6rem;
+  border-radius: 100px;
+}
+
+.sidebar-lang-switcher a:hover {
+  color: var(--text-color);
+}
+
+.sidebar-lang-switcher a.active {
+  color: var(--text-color);
+  background: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sidebar-lang-switcher .sep {
+  color: rgba(255, 255, 255, 0.1);
+  font-weight: 300;
+}

@@ -37,6 +37,32 @@ const totalPosts = allPosts.filter(p => {
   const postLang = p.data.lang || 'ko';
   return postLang === lang && p.data.category !== 'Sample';
 }).length;
+
+// 다국어 토글 URL 계산
+const pathname = Astro.url.pathname;
+let koUrl = "/";
+let enUrl = "/en";
+
+if (pathname.includes('/posts/')) {
+  const match = pathname.match(/\/posts\/(.+)/);
+  if (match) {
+    let slug = match[1];
+    if (slug.endsWith('/')) slug = slug.slice(0, -1);
+    const currentPost = allPosts.find(p => p.slug === slug);
+    if (currentPost && currentPost.data.logNo) {
+      const matchTrans = allPosts.find(p => p.data.logNo === currentPost.data.logNo && (p.data.lang || 'ko') !== (currentPost.data.lang || 'ko'));
+      if (matchTrans) {
+        if (currentPost.data.lang === 'en') {
+          koUrl = `/posts/${matchTrans.slug}`;
+          enUrl = pathname;
+        } else {
+          koUrl = pathname;
+          enUrl = `/posts/${matchTrans.slug}`;
+        }
+      }
+    }
+  }
+}
 ---
 
 <!doctype html>
@@ -94,6 +120,11 @@ const totalPosts = allPosts.filter(p => {
 				
 				<nav class="sidebar-nav">
 					<div class="nav-section">
+						<div class="sidebar-lang-switcher">
+							<a href={koUrl} class={!isEn ? "active" : ""}>한글</a>
+							<span class="sep">|</span>
+							<a href={enUrl} class={isEn ? "active" : ""}>English</a>
+						</div>
 						<Search />
 						<h3 class="nav-title">{isEn ? "Categories" : "카테고리"}</h3>
 						<ul class="category-list">
