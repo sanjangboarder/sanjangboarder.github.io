@@ -11,26 +11,26 @@
       translations: isEn ? {
         placeholder: "Search posts...",
         clear_search: "Clear",
-        load_more: "Load more results",
+        load_more: "Load more",
         search_label: "Search",
         filters_label: "Filters",
-        zero_results: "No results found for [ {query} ].",
-        many_results: "Found {count} results for [ {query} ].",
-        one_result: "Found 1 result for [ {query} ].",
-        alt_search: "Showing results for [ {alt} ] instead of [ {query} ].",
-        search_suggestion: "Did you mean [ {suggestion} ] instead of [ {query} ]?",
+        zero_results: "No results found.",
+        many_results: "Search results",
+        one_result: "1 result found",
+        alt_search: "Showing results for an alternative query.",
+        search_suggestion: "Try a different search term.",
         searching: "Searching..."
       } : {
         placeholder: "포스팅 검색...",
         clear_search: "지우기",
-        load_more: "결과 더보기",
+        load_more: "더보기",
         search_label: "검색",
         filters_label: "필터",
-        zero_results: "[ {query} ]에 대한 결과가 없습니다.",
-        many_results: "[ {query} ]에 대한 {count}개의 결과를 찾았습니다.",
-        one_result: "[ {query} ]에 대한 1개의 결과를 찾았습니다.",
-        alt_search: "[ {query} ] 대신 [ {alt} ]에 대한 결과를 보여드립니다.",
-        search_suggestion: "[ {query} ] 대신 [ {suggestion} ]을(를) 검색하시겠습니까?",
+        zero_results: "검색 결과가 없습니다.",
+        many_results: "검색 결과",
+        one_result: "검색 결과 1건",
+        alt_search: "대체 검색어로 결과를 보여드립니다.",
+        search_suggestion: "다른 검색어를 시도해 보세요.",
         searching: "검색 중..."
       }
     });
@@ -67,6 +67,14 @@
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: rgba(129, 140, 248, 0.3) transparent;
+  }
+
+  /* 결과 수 상태 텍스트 - 작고 흐린 톤으로 */
+  .pagefind-ui .pagefind-ui__status {
+    font-size: 0.75rem !important;
+    color: var(--text-muted) !important;
+    opacity: 0.7;
+    padding: 0 0.25rem 0.5rem !important;
   }
 
   .pagefind-ui .pagefind-ui__search-input {
