@@ -2,7 +2,6 @@
 title: "Review: IOM Santa Fe MX5 3rd Row Window Bag - Trunk Storage Upgrade"
 date: 2025-09-21
 category: "Events & Sponsorings"
-date: 2025-09-21
 categoryNo: 25
 logNo: 224015985707
 source: "https://m.blog.naver.com/sanjangboarder/224015985707"

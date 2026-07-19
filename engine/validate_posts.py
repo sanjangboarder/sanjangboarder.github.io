@@ -48,6 +48,10 @@ def parse_frontmatter(content):
         k = k.strip()
         v = v.strip()
         
+        # Check for duplicate key
+        if k in fm:
+            errors.append(f"Line {line_num}: Duplicated mapping key '{k}'")
+        
         # Check for unescaped double quotes inside frontmatter values
         if v.startswith('"') and v.endswith('"'):
             inner = v[1:-1]

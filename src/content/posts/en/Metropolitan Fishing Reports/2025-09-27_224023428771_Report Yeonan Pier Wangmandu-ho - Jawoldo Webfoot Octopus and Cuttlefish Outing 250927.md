@@ -7,7 +7,6 @@ logNo: 224023428771
 source: "https://m.blog.naver.com/sanjangboarder/224023428771"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA5MjdfMjE4/MDAxNzU4OTMyOTc5NDk1.3J3PsViPyEBiRSEcPd2vmW2SCbv3cDYtHQh1Nu9VJHAg.3KzH_lZvLRDMBxruKdpj2MnP0glfmIIKP6NMLfoEzMQg.JPEG/900%A3%DF20250926%A3%DF152740.jpg"
 description: "Hello, this is SanjangBorder. Today, I share my report from the first of two Incheon boat fishing outings of the season aboard the Wangmandu-ho."
-logNo: 224023428771
 lang: "en"
 ---
 
