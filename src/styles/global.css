@@ -116,6 +116,11 @@ h1, h2, h3, h4 {
   min-height: 100vh;
 }
 
+/* sidebar에서 glass hover transform 비활성화 (position:fixed에서 overflow 깨짐 방지) */
+.sidebar.glass:hover {
+  transform: none;
+}
+
 /* --- Sidebar Styles --- */
 .sidebar {
   width: 320px;
@@ -141,6 +146,12 @@ h1, h2, h3, h4 {
   overflow-x: hidden;
   scrollbar-width: thin;
   scrollbar-color: rgba(129, 140, 248, 0.3) transparent;
+}
+
+.nav-section {
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .sidebar-nav::-webkit-scrollbar {
