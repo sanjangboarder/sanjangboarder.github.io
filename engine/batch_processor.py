@@ -52,8 +52,8 @@ def parse_frontmatter(content):
             fm[k] = v
     return fm, body
 
-def get_target_info(start_idx, count):
-    with open('scratch_50_targets.json', 'r', encoding='utf-8') as f:
+def get_target_info(start_idx, count, json_file='scratch_100_targets.json'):
+    with open(json_file, 'r', encoding='utf-8') as f:
         targets = json.load(f)
     
     sub = targets[start_idx:start_idx+count]
@@ -110,5 +110,3 @@ lang: "en"
 if __name__ == "__main__":
     items = get_target_info(0, 10)
     print(f"Loaded {len(items)} items for batch 1")
-    for i, it in enumerate(items):
-        print(f"[{i+1}] {it['date']} | {it['category_en']} | {it['title'][:30]}")
