@@ -26,7 +26,7 @@ Located under 30 minutes from my home in Songdo, Sammok Port is an extremely con
 
 ​
 
-<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Sammok Dock</div><div class="map-addr">Unseo-dong, Yeongjong-gu, Incheon</div></div></div><a href="https://map.naver.com/p/search/삼목선착장" target="_blank" class="map-btn">View Map</a></div>
+<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Sammok Dock</div><div class="map-addr">Unseo-dong, Yeongjong-gu, Incheon</div></div></div><a href="https://map.naver.com/p/search/ " target="_blank" class="map-btn">View Map</a></div>
 
 ​
 

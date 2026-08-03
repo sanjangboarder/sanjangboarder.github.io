@@ -1,0 +1,102 @@
+---
+title: "Incheon shore fishing rockfish [24.04.28]"
+date: 2024-04-30
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223430489040
+source: "https://m.blog.naver.com/sanjangboarder/223430489040"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjlfMjc3/MDAxNzE0MzU4MzQxMjUy.oX7VONJArRvdvgcKfnuyIR7uBjTqEy7ruXx5GNJ1F2kg.JF54SJS8Y45ixWQBKIIjD6ep70Qob0kUyHVo15nXhi8g.JPEG/20240427%A3%DF233432.jpg"
+description: "Hello, this is SanjangBorder.. rockfish Incheon rockfish . rockfish rockfish .. ㅎㅎ .. jighead ㅎㅎ rockfish . .. ~ ㅠㅠ.. .. 4 360cm fishing rod . squid, ... . rock"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+Rockfish Incheon rockfish . rockfish rockfish .. ㅎㅎ ..
+
+Jighead ㅎㅎ rockfish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjYy/MDAxNzE0MzA3NTA0MDg2.7Qtb8UEQOvA5cD6hDJmE6m3FJYnQnDlIfeHFbQtDEx0g.Ldj5bTpiQeYOCZXCHQIbXTxI6op5KBzTzCSRltOIFRAg.JPEG/20240427%EF%BC%BF220721.jpg?type=w800)
+
+.. ~ ㅠㅠ.. ..
+
+4 360cm fishing rod .
+
+Squid, ... .
+
+> ** rockfish / **
+>
+> fishing rod : 360
+>
+> : C3000
+>
+> : PE braided line1
+>
+> : ziss 1
+>
+> ,squid ,
+>
+>
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfNyAg/MDAxNzE0MzA3NTA0MDE1.ywBYvWTlez3O6vI3N62b8vQuM1mybuu9Y1t36TJsGRMg.5UVpeUFAxJbrDzR7nKe_xI_IIPEUjAFmeGCSpnoEvDUg.JPEG/20240427%EF%BC%BF220724.jpg?type=w800)
+
+. ㅎㅎ rockfish .. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjcy/MDAxNzE0MzA3NTA0MDQ5.elynQjp9w9ODe7Bd5zx_IZAclnwABXLjCC1lMw02d2wg.SOUohP8YA3S7G5dK9iJsAVqlDRSGc8ZZOh1UN2GdooAg.JPEG/20240427%EF%BC%BF221059.jpg?type=w800)
+
+... .. ㅎㅎ rockfish . 25cm ... . ~
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfODQg/MDAxNzE0MzA3NTA0MDYz.DIFPAUI-GXlYZwddj0YUZ3rOdLLsNqKLH6mmr8EHgKUg.RuwLfA9ltJHeF-PDGZLcoGszFg2JEMOTsBQqgnmhpFwg.JPEG/20240427%EF%BC%BF221300.jpg?type=w800)
+
+ㅎㅎ rockfish 25cm ... ㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjlfMTE1/MDAxNzE0MzU0MjkzNDk3.5bHVvkYMfe6GUD4-33y0IKr8J9fI_LwwxPetXyJ_OuIg.7ZfN8rThYtcytw7ex8ak2UJjjyzOILkIlfEteFeyYfog.JPEG/SE-44f7383f-055b-11ef-a8a4-9bb59c11b572.jpg?type=w800)
+
+. 360 fishing rod .. 3 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjE5/MDAxNzE0MzA3NTA0OTU1.MSQmJUE4un_2P4TNVcqtBhGaZBMAdhwfcPD3TX5ZZRkg.7k1T24z7xait2S5E7laycyyuB0Tr7wZ14QLAcj5S0wIg.JPEG/20240427%EF%BC%BF225953.jpg?type=w800)
+
+.. ... ... ㅠㅠ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjM0/MDAxNzE0MzA3NTA1MjUx.2bZ8taRIAhoxH835LHi-hYMlWUmh-7FaFqI49pwGw70g.zIzVtxIP3ZHltes8bWABBhVADS7LkGHWblbClo9CNqYg.JPEG/20240427%EF%BC%BF230222.jpg?type=w800)
+
+Incheon 25cm rockfish .. ... . 10 ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTc5/MDAxNzE0MzA3NTA0OTQy.4s2L4mPlFju7_a21epOwckXRyY9LMePxzZ1qy5BiyCAg.VNfxaIYHUqwDxL0YxD7OrezzjRZ5UpTp4aOWq6O9Gn0g.JPEG/20240427%EF%BC%BF231417.jpg?type=w800)
+
+5~6m .. 1m . ... , ㅎㅎ
+
+3 rockfish ~ . ㅎㅎ ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjlfMjcy/MDAxNzE0MzU3OTI0MTAy.LV-iJuquXUEN9PZ2woOayKp22K4TDZv-fhFotjyDVrIg.jfPfarWeva8Y9kcJmVb6PTZvAF3xhtMGLApZVPuoyKQg.JPEG/SE-44fc6863-055b-11ef-a8a4-e927a37967dd.jpg?type=w800)
+
+.. ...
+
+3 rockfish ~~~ Incheon shore fishing Thank you!. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjlfMjc3/MDAxNzE0MzU4MzQxMjUy.oX7VONJArRvdvgcKfnuyIR7uBjTqEy7ruXx5GNJ1F2kg.JF54SJS8Y45ixWQBKIIjD6ep70Qob0kUyHVo15nXhi8g.JPEG/SE-44fda0e4-055b-11ef-a8a4-f533bfc37c5c.jpg?type=w800)
+
+1 3 rockfish . 3 ㅎㅎ
+
+25 ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMzMg/MDAxNzE0MzA3NTA2NTAz.bj8BnT32l_MVf55ajvdvBOvKTpMTG7QDWsK1eOXnpbgg.mzpMjWEaUxyTlj_yngs2WzsonL_TyXcnoQZg6-3Rpbwg.JPEG/20240427%EF%BC%BF235131.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjQ3/MDAxNzE0MzA3NTA2NjA0.GUtNk0_xZNw9zsch7ev9m1kdVcKdKADR8i5QCyA1mXEg.ogRkkRqPlYR6Jf2Xfoh5Sm-HzP8Wp2Wsc6g4B_E8C0sg.JPEG/20240427%EF%BC%BF233536.jpg?type=w800)
+
+.. ㅎㅎ
+
+Foraging and shallow water wading tide . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjlfMjE3/MDAxNzE0MzU4MTM2NzY0.sFeHARCs5Sf9sRpT0DrSsIPmOj-yyTCSqNNiX9NvwnEg.GOoryp22NAH_9DwDGET2c33jQQEzNUgm4khCcnnsIdwg.JPEG/SE-4501e6a8-055b-11ef-a8a4-b9dee0331ab0.jpg?type=w800)
+
+4 rockfish rockfish rockfish . rockfish ..
+
+Seonjae Fishing Park , flatfishdownshot boat fishing . ㅎㅎ ..
+
+.
+
+Thank you!.

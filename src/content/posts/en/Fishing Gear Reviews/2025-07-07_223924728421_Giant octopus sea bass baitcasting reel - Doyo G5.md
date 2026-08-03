@@ -1,0 +1,207 @@
+---
+title: "Giant octopus sea bass baitcasting reel - Doyo G5"
+date: 2025-07-07
+category: "Fishing Gear Reviews"
+categoryNo: 34
+logNo: 223924728421
+source: "https://m.blog.naver.com/sanjangboarder/223924728421"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjA4/MDAxNzUxODU4NzQ3NjE5.bAic7uugeZJSQGjsB2xNVEL4KhiWNKKPr4UK_fNOomcg.93qPFh__HSvm2UogwvjuCo_O2z0H4XrOClFsYvi-f6kg.JPEG/900%A3%DF20250706%A3%DF195605.jpg"
+description: "&quot; .&quot; Hello, this is SanjangBorder.. giant octopus .. . giant octopus baitcasting reel 3 . 5 . swordtip squid 6~7 .. 5 4 3 baitcasting reel . baitcasti"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+**" **
+
+** **
+
+** **
+
+** **
+
+** ."**
+
+Hello, this is SanjangBorder..
+
+Giant octopus .. . giant octopus baitcasting reel 3 . 5 . swordtip squid 6~7 .. 5 4 3 baitcasting reel .
+
+Baitcasting reel 3~8 .. . giant octopus sea bass, flatfish .
+
+Giant octopus , .. 2~3kg 5 .. giant octopus 3 4 .
+
+Banax SW ... ... giant octopus 2 Doyo G5 . Doyo G5 .
+
+.. 15kg giant octopus . 3 , 4 , 5 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNjgg/MDAxNzUxODAxMTI3ODYw.RIRXWl1gvvzDdweXj0TZVUB5Qk1AAIjca9KCkxarWd0g.G2g341xbB6YdbVHJamz6qSDck-VdViJXxZCGYtfO-P4g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTQw/MDAxNzUxODAxMTQ0NTU3.yA60ZlZxrri2qUX_40Kgicq2TGiNQ3Fur-ncaamX0JUg.6sm62KCH0hhYheeIKbvvlw1w2Yv4Z6xqGDnwAOAPq4Ig.PNG/image.png?type=w800)
+
+19 .. .. Doyo .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTA3/MDAxNzUxODAxMjQwMjgw.xqE7ptU4HuPpU2LXqRWqzNeQ_5dZYsT_DOFq9BY4eqUg.wi1mBWcekS7Zd3dPa95VzRNmopIDnitQ3vuO6ayccGgg.PNG/image.png?type=w800)
+
+... giant octopus .. . .
+
+---
+
+Baitcasting reel Doyo . .. Doyo . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjI4/MDAxNzUxODU4NjAyOTAx.3sCA-eRF3-rDV1S7zsq7RVB7cRXP0djoKfVwnu93wy0g._mpRMjYsdonPr_p4hHeTSnDN-H97MnmG8P_iTYKe9Cwg.JPEG/SE-9f1d59d9-5ad5-11f0-9dd3-1383dacded57.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgw/MDAxNzUxODU4NjAyMTAx.jPbTo9UY_7dYOQj3T17gnoq5I_ldtkLFOpUJ-MTJbQQg.We69U2tEsOKrNapYFpgBcldW1vANhprtOZT7cTcqfSog.JPEG/SE-9f1e925a-5ad5-11f0-9dd3-477ef7807173.jpg?type=w800)
+
+.. baitcasting reel 20 .. ~..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNTcg/MDAxNzUxODU4NzM4ODU1.N-uJVnwuiY08Ul02lk43jA14XcML5y3eFJwMRSpt0M4g.OHH71s_j9kdjGg08loSi5wuqBmZSLW72w8Vpg6IY9J4g.JPEG/SE-9f20671b-5ad5-11f0-9dd3-c7ed8151b370.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjQ5/MDAxNzUxODU4NzQwMDg2.XRrF2HgH-ClWmQuf-MVVr6CGq20AgFNYzxtLu3KVzQgg.sQIAeroGmFSQ6iNDXG7bKkrMEA_us-aRdl9LYl82VlQg.JPEG/SE-9f21c6ac-5ad5-11f0-9dd3-73cf807bafbb.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjYx/MDAxNzUxODU4NzQxMzc3.aSEeD9L5EGbvG1aukprEPP57DeE4Gtf7dRtMbTiReQUg.kzEJPhRecR8volyq7blroWNLNp42SZRqCzrTwLuBZTEg.JPEG/SE-9f234d4d-5ad5-11f0-9dd3-4726e4e1aef2.jpg?type=w800)
+
+G5 , , , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgy/MDAxNzUxODU4NzQyODY4._2wc3vglhtJUtopjWH7x3QrU6dKWMk-6WT0NVXjr9okg.krc3q0NAizrJJ3kDl5T_RaVvMLg2qx58JoDfOuwxJY8g.JPEG/SE-9f25973e-5ad5-11f0-9dd3-8953a3c49eaf.jpg?type=w800)
+
+Doyo ... .. boat fishing V . , .. . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTI0/MDAxNzUxODAxMjEwMzg5.jt2pb8puQIqbXHtrjmFbRutq3thMmhBY9TCu-A5NUmwg.ofeI0aBrnvvR0CVbbnoVOXRax8HwrxQJxG3EuawXYeAg.PNG/image.png?type=w800)
+
+Baitcasting reel . .. baitcasting reel . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjUx/MDAxNzUxODU4NzQ0MTI5.-SIbXnvnW1DB64NGiyrV_XU4CrjGbReXSy4Cx5_kzDsg.IkIumLPFDAK0_2oCj_OxS8t_mEn6ZOOzN6dnKsV_Qb0g.JPEG/SE-b1317eec-5ad5-11f0-9dd3-bb042c13cc8e.jpg?type=w800)
+
+.. G5 ..
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTA1/MDAxNzUxODU4NzQ0OTg2.WpR8tko31Oe7A_VrpHCMA34v-FW9i6cev_0dKq-z3DEg.qEEMUhp0OmEZR2Oig2hmtcf6FBzkELHxHG6zH-D6928g.JPEG/SE-b132b76d-5ad5-11f0-9dd3-43a8169329b5.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjk5/MDAxNzUxODUzNDM5ODk2.L8xDZz7tY4_xPvgsl8wUOzATiKCdmaHNNg0awAG9BLwg.AppHH6p9PILBQoa9SydyZMaU4mD6XAGThC2ER8QUlkMg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195903.jpg?type=w800)
+
+. .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNjQg/MDAxNzUxODU4NzQ1ODEz.1xYr-xgxpd12JVVOJuzMpkTui7xgRtBkYTxnRWwaEycg.Un3W6IhlxmK32fGN-mPJj3RbcpmAg7VaIKZWtPBQUgwg.JPEG/SE-b13416fe-5ad5-11f0-9dd3-b52d30805f5a.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgg/MDAxNzUxODU4NzQ2NzM4.N47e8mnvNA8N2CTbLGr1l3M2Vw2ds-wWCNt78h9KEyEg.Ibe0pd511DpBvku2SCRrH_wSb49lkWVoDZ8QprmC7XEg.JPEG/SE-b135c4af-5ad5-11f0-9dd3-5bf3604cbeaf.jpg?type=w800)
+
+. .
+
+.. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjMy/MDAxNzUxODU5MzA3NTI4.yAKOgrOgeNuTHew92JydXk6xuZgtOs3PKYNNaG8bewog._KJOz97grzsdomCilD2dNlVnbH1rkoarJ_SrJMDX_i4g.JPEG/SE-b13f1285-5ad5-11f0-9dd3-b7001a8d4c67.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTkz/MDAxNzUxODU5MzA2ODIw.hiLHD4luDvzmiciJjS9FP_JOLBUE3b1bF9DVZC3Noysg.9zEir75ZWeNaI59UD3aK4bKlRZIvnOk0YjQiXyPZJjsg.JPEG/SE-b14023f6-5ad5-11f0-9dd3-d7dd59bfee5c.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfOTEg/MDAxNzUxODUzNDUxNTky.yrRYoM71l57J6pA3BxiMDehpfczc9EpRsKrykpDp1kcg.jVSqSXIJNhZiTqO6l9fTHe6sJb_Tp34W0ECjGANJTvcg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195909.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTIy/MDAxNzUxODUzNDUyMjg5.WECOvcuAfQYvJXQqJbgyaQdbnikxFxt7a5qKmchJI38g.4ArvYih_esbWQCXTX1SihNNZVSK0Iu4fXgK-zlDhv2wg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195914.jpg?type=w800)
+
+Giant octopus , flatfish baitcasting reel .. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTUg/MDAxNzUxODUzNDQ4MDU0.Or_GVUrFU8LJOBMAS9fxtGsDehI3V9obP9CIut1NL2Qg.4PkttGUI_84BG6eC52A9FgCaeXVQfwVwVT8pNae9qGUg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195644.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjI5/MDAxNzUxODUzNDUyNjA4.kEG6NWhmWkZHn4Ni7R_fPKB1UmdD_nX3OoFXcxVBGJ4g.V4CVp4gQYnGM8TLt9e1WnzAvlBK8l0eHTonSVaT0aZEg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195653.jpg?type=w800)
+
+20 .. . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMzEg/MDAxNzUxODUzNDQ4NzU4.-eBVmfhw5xeB-kZqmBAxwW1U6zdf6yrhlDsGh7cYVp8g.4KRWbCGDCK1qr38AWBGrw3SIqUnauNsnJPfukKP4D38g.JPEG/900%EF%BC%BF20250706%EF%BC%BF195701.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTE2/MDAxNzUxODUzNDQ0NzM1.zoIlvd7tL1wovICo-aXBcMlwTanifbbzSn8cdYtrFosg.EgrX62K9evEPCPHY6SzuZZbOqvXgEq2OQM8jjLvfjrMg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195805.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjM5/MDAxNzUxODU4NzQ5MjU5.kBxlE1gSaA8tSLhx1OH-Gp4gDG_MWtLFr-4Ts0ASJzkg.udWzx-ldZxsJAJ3vFiMjLKkLhhGm0DaB1njka2wMWMQg.JPEG/SE-b1394622-5ad5-11f0-9dd3-ebf3dfec907c.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjA4/MDAxNzUxODU4NzQ3NjE5.bAic7uugeZJSQGjsB2xNVEL4KhiWNKKPr4UK_fNOomcg.93qPFh__HSvm2UogwvjuCo_O2z0H4XrOClFsYvi-f6kg.JPEG/SE-b136d520-5ad5-11f0-9dd3-758662000cc9.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTkz/MDAxNzUxODU4NzQ4NDk3.Zt8mbhsyeg5GVhD9fi2p5UHEwSobk8qS5c59E91FvH4g.Je9wqO01bZh0OM5LLT-hvWeLD6xvJbkXbnAfOu1eJ7kg.JPEG/SE-b1380da1-5ad5-11f0-9dd3-6582db7e1323.jpg?type=w800)
+
+ㅎㅎ ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjM5/MDAxNzUxODUzNDQ0Nzc3.AcJqr2frKvQIcnzbVxnXeFTkKv2TJDzdFF5zG9Ufphcg.GcvvlhEgdKzF70arz5m85-wWaJuHInlbvwLBWXkR42wg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195648.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTI0/MDAxNzUxODUzNDUyMjEw.CTY_wzYEApI4RKRnFu3nrzcYACreKDNSQkp9H5ZjzzEg.QmfWv1qO7p1sWqLQL80YJjLkwV0aWjSH-vxRkLdTNfQg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195651.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNjEg/MDAxNzUxODU4ODYzMTU1.wrJbnf8mDv3h9trOZaPfzAyR6865Ac_7906Cr8v2T7Eg.7nJXe3u3iIvPcZt128M6sQ2BkkLxncnSt9Fs55jtTb4g.JPEG/SE-b15e816e-5ad5-11f0-9dd3-af0667b3e3ad.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTI5/MDAxNzUxODU4ODY0MDgw.f3PbDFji699XDUAo9gAu4rBBkr1T8T6eNAdNKzvbwFUg.FHhwjVjU2tAqSYzUvcDMYklzM07yc8ZgyXX0nRKUJmUg.JPEG/SE-b160cb5f-5ad5-11f0-9dd3-ad6442d9b479.jpg?type=w800)
+
+Doyo G5 giant octopus sea bass .. 5 .. baitcasting reel ..
+
+.. . Doyo 3 .
+
+M PE C . PE braided line 2 ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQg/MDAxNzUxODUzNDQ4MjA3.AWE4NxchidPakGFTg-Ma3udGyKo7eW15HKHpUJP8LIMg.lmDfBkRxoMDX9nBBDqeICi9RPzk6Q6lsIvoilvs0apEg.JPEG/900%EF%BC%BF20250706%EF%BC%BF195923.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjg3/MDAxNzUxODUzNDUzMzU5.shgqJqh6lnzYFRCIkXjnfAMGgDFhKzi6k8VbUA_5ERMg.FivcGlGdk6Tfwxgit83p7WEr6FVVUSfF5tF1ox4Hz5Yg.JPEG/900%EF%BC%BF20250706%EF%BC%BF200051.jpg?type=w800)
+
+. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfODcg/MDAxNzUxODU5MDkyMzA4.2tzmNLwDN5YXq6ewOyAo1tITWhlcYlOhltVF8NXyf34g.ADPyMqZTFISr1GypHFoCoE0SKROrldl1ALSYRTH6s3Ug.JPEG/SE-b16a1a36-5ad5-11f0-9dd3-439e8617c68e.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMzcg/MDAxNzUxODU5MTAyODc0.SpFAKDCJhal8bH4viFSk8OGMANOjQlnh5yuabMxyCWAg.HseqPBP2u8z2XZIabplUyR2hI9i4srPUu2zIg0KRJ5Eg.JPEG/SE-944f4295-1196-47eb-a695-31dfa44e09f1.jpg?type=w800)
+
+G5 baitcasting reel .. . .. .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfODgg/MDAxNzUxODYxNjAwMDE4.VPwgPiN1omTMw_a86GohzxuHleBiuGlss6EgBQJJWsEg.z1L1NChvXnxrMwFahDb_PHqfUo7FCMsqQbpIhS-R-o0g.JPEG/SE-b17739a1-5ad5-11f0-9dd3-fb1d02945741.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNzEg/MDAxNzUxODUzNDQ5MDk3.x9dDKsqvy9ENWBaG_goDNOveJKaG_GACs2aSVGr5v9gg.qbebN5R85vatCv7mPkGGFpezQ6u96UhlhTSWqfzzArgg.JPEG/900%EF%BC%BF20250706%EF%BC%BF201030.jpg?type=w800)
+
+.. . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfODQg/MDAxNzUxODU5MTQxNDMy.vZdoXCLY7InqV_24bmZRbeDHCnf5g0IcxKURSGtjkWcg.c1TIM8j4azvc9EzITkXzf6aVDJyVijfF2DdFy29pnx8g.JPEG/SE-b163ffb1-5ad5-11f0-9dd3-ab85aa25df7c.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjE4/MDAxNzUxODU5MTUwMTk2.DZHWyK-KmAFQuTKIK95y3ktxlFKyVBk2vKvQ-slVlpMg.2N4p1yqqhQx-rZNyuyp6x9js54OSIWDrVcmOj5I1BqUg.JPEG/SE-773d4fe1-20d6-4549-a9aa-be82206e7d90.jpg?type=w800)
+
+0~10 . 0 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTg2/MDAxNzUxODU5MDM0Mzg2.yi4DGrFk-nGri2MubReoZYs_Fdjw7JcEVe0cdS2x-Pkg.FzIegb_OsacTsMl0KQpE7yu9GzQbn2ptEj-C_xgShJwg.JPEG/SE-b17bcd86-5ad5-11f0-9dd3-7def01f3f033.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTU2/MDAxNzUxODU5MDM1MzI3.YuciuL7eCdAvOzvG2BI15XCi6mIqFOoHa5IletYGcM8g.XlvFbjA5003zMvTFwmVa6Uztc7B76gkubAUZ5YKS0j4g.JPEG/SE-b17d0607-5ad5-11f0-9dd3-5de6b0377f0f.jpg?type=w800)
+
+.. . boat fishing ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNTMg/MDAxNzUxODUzNDQ4OTQ0.IWJ8mNcgiCOKhWYIxLydQ2YrVvgvLqVphWMOIBG4ACQg.vHNzprxdfyIlKH_q1zYq0TZvWhgkbnugsl7LesHsLaIg.JPEG/900%EF%BC%BF20250706%EF%BC%BF201131.jpg?type=w800)
+
+OFF . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTc2/MDAxNzUxODU5MDM2MTI4.jEYkt5gfnUDuGYh7aIM0tgU77E3TB0d-TtQP2y1c-ksg.2nDRkmbvhoxKbCzzSLpXUPZjpn-oYUlLpb5rn8G5xcIg.JPEG/SE-b17fc52a-5ad5-11f0-9dd3-b361f49fbf18.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMiAg/MDAxNzUxODU5MDM2OTMx.cPgw3PM63XzRE92knYXedmF4vC182jyn7p8LFZ9UK10g.vCo_45toKYKIri-qav670JD3eMd8V4WUf3CfmTKuhf8g.JPEG/SE-b180af8b-5ad5-11f0-9dd3-b9bb11e090a4.jpg?type=w800)
+
+.. .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTkw/MDAxNzUxODU5MTg0OTM2.NTrxXhlU_dZFOWVnYgMS44uWj3R1oNgows7NoHSqDuUg.mYZSNynottmsCakwdyBtMpZQwpZr5RUkArOFkQ_r0wMg.JPEG/SE-b16c6428-5ad5-11f0-9dd3-6ba10849bf81.jpg?type=w800)
+
+6 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTcy/MDAxNzUxODUzNDQxMzUw.CO01c-bQ9tdVQqRmVoQZDbE9LL5mZOWuZIpwfYrjHpgg.IuAOoWiuUtT-9Gvqn9swveZ3sLQdTPACrcUZ5TxlMGwg.JPEG/900%EF%BC%BF20250706%EF%BC%BF200153.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjU4/MDAxNzUxODUzNDQ0OTc5.TrdO5z1M3Q9C2XEHKzpcVTEVE0ftCEm6SH9Zh4HudYAg.7LkbHwSBpw3WsFMYLp-6jthvKmtqKxiGhiD13oAH6Qkg.JPEG/900%EF%BC%BF20250706%EF%BC%BF200121.jpg?type=w800)
+
+..
+
+204.1g . 183g 21g .
+
+164.6g .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTk0/MDAxNzUxODU4ODY1MDA4.jE-1O7Ycg0LtxuWdqkhjwyZbSzCKVlKnO58XDCPo9VMg.G-PqkpRt_CvXxtbw6r7IrYOUck7Yhu3TknHfW8IJtisg.JPEG/SE-b1711f1c-5ad5-11f0-9dd3-c938a9512fc2.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjI5/MDAxNzUxODU4ODY2MzIx.j3415g6YGZ2voL4KA2j1G6Sj62JGYKXCwuqIeqsCWzQg.a_1B0p4C1U1AtKnZYwx28LiDwBtshqOUBTNh5eZZMxIg.JPEG/SE-b172579d-5ad5-11f0-9dd3-c7a43f913fab.jpg?type=w800)
+
+20g, 1.2g 38.6g .
+
+. EVA ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNjMg/MDAxNzUxODU4OTM1Nzky.U0a0aQsxF6JAai78hiIBEVgeLJ2wcAS6Kh2MEGC9z4Ig.B6MEDEIDJMcuYUXJtQoLtX4oAM3gFRaMrGleMbHr8EEg.JPEG/SE-b178e753-5ad5-11f0-9dd3-2b68dc63f379.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMzcg/MDAxNzUxODU4ODY3NDU5.JLe9KUWEckP9wgGP46jN6YNPSaUlOBZaOOk5FXPxRykg.jkhPXIn1cIhgrNCWn6IVi66q_PDsci0tW74i0yS0XTAg.JPEG/SE-b173de3e-5ad5-11f0-9dd3-5fc7327ce119.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTY5/MDAxNzUxODU4ODYyMjI0.yJdIDwzVyT2DkdTKVCsRwJTwO8ty3VjxUZhPlzTVkEEg.poK5Duvzf6wtO87oXDmf2_qvCzJPggEzYK2ddWKITbgg.JPEG/SE-b174efaf-5ad5-11f0-9dd3-87e15291bd65.jpg?type=w800)
+
+Baitcasting reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjI0/MDAxNzUxODU5NDIxNDQy.oT6oRfrIpRa6m7Ef1ObSoap3DkrEwrmO7qTB0ZAh1NIg.Y95plXHwwd-NNubMtjIGdFRU2Eog0HoITa3-2HOuRGIg.JPEG/SE-b18172dc-5ad5-11f0-9dd3-b51fd92fe33a.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTI1/MDAxNzUxODU5NDIwNjA4.KnQeeJqH_7wyKv8iy7QW_7JlJMipWga3lAUH-eSZAsUg.7NKOLzZPcjoc01S7XrqYdbR9Jv9SyVmRLtlYbcVg8QMg.JPEG/SE-b1825d3d-5ad5-11f0-9dd3-5398fc608836.jpg?type=w800)
+
+---
+
+3 baitcasting reel .. giant octopus ㅎㅎ PE braided line 1 ..
+
+Giant octopus flatfish sea bass PE braided line2 giant octopus baitcasting reel .
+
+Giant octopus sea bass giant octopus .. .
+
+.
+
+[Link: Doyo G5 webfoot octopus cuttlefish flatfish Oesujil (live bait drifting) giant octopus : ](https://naver.me/xoQNkBMQ)
+
+Thank you!.

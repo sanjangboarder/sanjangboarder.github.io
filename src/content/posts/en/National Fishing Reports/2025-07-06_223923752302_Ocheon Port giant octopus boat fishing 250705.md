@@ -1,0 +1,136 @@
+---
+title: "Ocheon Port giant octopus boat fishing [25.07.05]"
+date: 2025-07-06
+category: "National Fishing Reports"
+categoryNo: 17
+logNo: 223923752302
+source: "https://m.blog.naver.com/sanjangboarder/223923752302"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTY4/MDAxNzUxNzgzNzI2NDY4.QHGmcezjPVQ2pvG-zhNdNlCuzyg-j82MG9ExdloYS4cg.xGU3Lu3IDhb5z6WzH8mjumJI237DEwfImPG_XOQy6vUg.JPEG/900%A3%DF1751703622643.jpg"
+description: "Hello, this is SanjangBorder.. 7 5 TEAM MJT 7 giant octopus .. ㅎㅎ .. giant octopus . flatfishdownshot 2 ... flatfishdownshot .. .. . ㅎㅎ . . flatfishdownshot .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+7 5 TEAM MJT 7 giant octopus .. ㅎㅎ .. giant octopus .
+
+Flatfishdownshot 2 ... flatfishdownshot .. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMjEy/MDAxNzUxNzU5NTIwMDI2.asvSl_u0TJILYZk9knndJsXubDJwdLjijyF0eHNoFQQg.Tz7gAcmBjSsmXtH7Bt9t2qo5XcqLIejT3GbsUb5vGJog.JPEG/900%EF%BC%BF20250705%EF%BC%BF044539.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMjcg/MDAxNzUxNzU5NTIwNjgy.sK44W-ogQWoR54RuV_CazmegK-F6rI_sO-07f6VqpSsg.2q6RdiiQR9nQobQ6orNiIg4WqiZ1UE4CdvrHapvN-mcg.JPEG/900%EF%BC%BF20250705%EF%BC%BF044730.jpg?type=w800)
+
+.
+
+ㅎㅎ . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTEw/MDAxNzUxNzg0MjE0NzEy.TV39TXnwbaEG1Pdvi19tgSNVptv3zsoCuk6vdXz_qtYg.QlGzEOteZydU0126HbsmSs7B63dXyvdgWBUpYCnG-4og.PNG/image.png?type=w800)
+
+Flatfishdownshot .. Oesujil (live bait drifting) .
+
+> ** / **
+>
+> fishing rod : JS Company B642MR
+>
+> : Doyo 3 + Gomexus
+>
+> : Haedong LIMIT X9 1.2 PE braided line
+>
+> : Haedong 3
+>
+> sinker 30~40
+>
+> , ,
+>
+>
+>
+> fishing rod : D1H
+>
+> : Daiwa IC
+>
+> : PE braided line1
+>
+> sinker 30~40
+>
+> rockfish , , squid
+>
+>
+
+Flatfish flatfish .. white croaker 7 .. .. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNjMg/MDAxNzUxNzgzNTExMDQ3.jP4R53NzLKMlbtNXn9AqEpVyAbmXYKlezCC3bRqvr3og.VkeXMm99YBUs53Z3Ru1XrjwnNlc62clQaptfvhniG0sg.JPEG/SE-0a4c4890-59fb-11f0-87ef-a3630d22bdb5.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTIw/MDAxNzUxNzU5NTIwMTc1.moyTkmpCJoIjuuklP7q77NximqYNZfHddgjvXA0rf08g.mYW9x-4qjHlY-K071JvklxzCDpFytdKG_mJmQEGfYNog.JPEG/900%EF%BC%BF20250705%EF%BC%BF061032.jpg?type=w800)
+
+ㅎㅎ .. .
+
+6~7m/s .. . ㅠㅠ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMjY1/MDAxNzUxNzU5NTIyNzMy.KRLFKEKWQf-cPE3pfwRx9d5ruvXjtT73wFLa0kR_rIgg.a3JIJgVEdRHHGgSWhoGIyQPWF4aBIn5-WTwBkJAh4F4g.JPEG/900%EF%BC%BF20250705%EF%BC%BF084719.jpg?type=w800)
+
+.. ㅎㅎ . flatfish ㅎㅎ ...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMzUg/MDAxNzUxNzgzNjY0ODg0.SpLamBLZNXHSj6OxTYNclYB1aIjPD5PAWobuvh2P7YYg.z1T6j11B4hRZ0uT24e3qTAUZUbRuTqm6KIPY2weyuKMg.JPEG/SE-0a4df642-59fb-11f0-87ef-3dca6b6e55d7.jpg?type=w800)
+
+.. ㅎㅎ 3 ..
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTc5/MDAxNzUxNzgzNjM4Njcw.c4XEhmsIEWRDZV1yeIkGTlajG60gMoX_oCIyW6v1V7Ag.Mm2Ta1-2o9wARkXt6Y5q1I83Il5WRvQV9MMyA7IkUrMg.JPEG/SE-0a57451f-59fb-11f0-87ef-f1160535b45e.jpg?type=w800)
+
+White croaker.. ㅎㅎ white croaker . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTYx/MDAxNzUxNzgzNjc4NzEy.D4D9UiPHHLoPx__nDXgzYrmrVlX2nPghzTvUCCa9kVcg.w7JL2scMMqqpv8wuMnyQM8ITF23gO9xoG_Xb79CwnsMg.JPEG/SE-0a4f7ce4-59fb-11f0-87ef-e99214ba70e5.jpg?type=w800)
+
+Flatfish . downshot flatfish .. . .
+
+.. . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNzcg/MDAxNzUxNzgzNTQzMjQ2.DxPPpq3akmRslgcfZnUAPKh1qjlTDb8r-cyJgWmaBDcg.l7PV15sBINiBqNYpNY8Rb1j253rbIYPu74lb3-mswzIg.JPEG/SE-0a504035-59fb-11f0-87ef-85bbae156900.jpg?type=w800)
+
+... ㅎㅎ.. ㄷㄷㄷ...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTM5/MDAxNzUxNzgzNTYwODEz.c-OzJlR6tS2H3JYpcL0-G523AbLQ0WUXmUY6PD0YJmkg.Qx5QMK3i5XSievCQRvGfhE1PIuHEISoh9CNNli8_jv4g.JPEG/SE-0a510386-59fb-11f0-87ef-85979e462006.jpg?type=w800)
+
+Downshot flatfish,, rockfish ... ..
+
+ㅎㅎ ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTE3/MDAxNzUxNzU5NTI0ODI2.aQQWtmyE5t7pY_mbT8nlLMK5zF1FhGSFRh1g7rwMZygg.QsxsicoDvD31sH__PXpyYHXWOGWt5QKxiRTgNJUMwdkg.JPEG/900%EF%BC%BF20250705%EF%BC%BF113018.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMjA5/MDAxNzUxNzU5NTIyMDIy._o4_uwrVQILbYHFqDsy3Y3-20bhY-ePv20auXsUuQ60g.o_b0Z-Kp4UwKLVdsLXOgvDu-seSmf28-VnbunoKukAAg.JPEG/900%EF%BC%BF20250705%EF%BC%BF113404.jpg?type=w800)
+
+ㅎㅎ . ㅎㅎ
+
+10 . ㅎㅎ ...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTIw/MDAxNzUxNzgzNTk5OTk2.t3qFapRDEBfXSPI-XukDkZx5VycaQyczDn0zfYrlB-Eg.9CskcR2iw6ZdDSFHH6-Gyy5KA1Ub0Qo_zMd81kZyEoQg.JPEG/SE-0a53c2aa-59fb-11f0-87ef-9f2891d2ee9e.jpg?type=w800)
+
+Flatfish flatfish ... flatfish flatfish ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMjM5/MDAxNzUxNzgzNTg2NjYz.rD3LEWwHem-3BtL8-aY7AGDABHEM-K_K0uzM5cW8DUQg.RdJ-SJ3LHObYtysTci19g9seuQzmB0LmJntpwZIrz8Ug.JPEG/SE-0a52ff59-59fb-11f0-87ef-cdfff6db13d6.jpg?type=w800)
+
+Rockfish rockfish .. . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTA5/MDAxNzUxNzgzNjk0OTc1.-AZXIoIAbeeHsuSBvYjgkDaiMkAhIo4M-zzKzYyF3xMg.0WCFjm2J676cl8Epct7Y4sRFYwrKmRVEtrfQ2jP79vog.JPEG/SE-0a582f80-59fb-11f0-87ef-75d95d7a6d76.jpg?type=w800)
+
+.. .. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTMz/MDAxNzUxNzgzNjE2ODY5.OFab71mDRN_2s45P7_O61kcTbfMTA-9HBE5Vug2xqZQg.5d3qhOjz4fKeiu-CU5zra_aJ_v0WlySkzfqn4RH91uAg.JPEG/SE-0a54ad0b-59fb-11f0-87ef-6f62a4b78b25.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNDQg/MDAxNzUxNzg0ODAyMjMw.z12o-rMg_HuOkIxgEFKxAhoR979bi_KSddawS529Qp4g.rOL5VtL5xdMZhQLJT0wZ78uf6QPYLyGzmD6-4_eyjuYg.JPEG/SE-0a55494c-59fb-11f0-87ef-0be602998288.jpg?type=w800)
+
+TEAM MJT ... ~... 4 . Ocheon Port ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNDgg/MDAxNzUxNzU5NTI1NDUy.MLVt-4atpETd9XYA-FiDHO2IscRXBmhpTzqxObrz7xcg.G7Wu0UJIAtETBDZtRbqqlYXmzfxrLiB70iMo2q6-pHAg.JPEG/900%EF%BC%BF20250705%EF%BC%BF135515.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfNjEg/MDAxNzUxNzU5NTI1MDkz.UDdQ8h87pWpuBu1r1cfKLRuCokRooWQicvYJmM14Ingg.a9s9kj-aGTxyZkglpvU0TOOYEeFKRK-tr1vVRFjct2wg.JPEG/900%EF%BC%BF20250705%EF%BC%BF142611.jpg?type=w800)
+
+ㅎㅎ
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDZfMTY4/MDAxNzUxNzgzNzI2NDY4.QHGmcezjPVQ2pvG-zhNdNlCuzyg-j82MG9ExdloYS4cg.xGU3Lu3IDhb5z6WzH8mjumJI237DEwfImPG_XOQy6vUg.JPEG/SE-40db1c57-59fb-11f0-87ef-a5b18947dc1d.jpg?type=w800)
+
+Giant octopus ㅎㅎ 7 white croaker . 7 white croaker .. .. .
+
+Thank you!.

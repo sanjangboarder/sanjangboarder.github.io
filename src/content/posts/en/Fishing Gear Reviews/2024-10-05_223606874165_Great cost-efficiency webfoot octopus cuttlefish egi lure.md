@@ -1,0 +1,116 @@
+---
+title: "Great cost-efficiency webfoot octopus cuttlefish egi lure"
+date: 2024-10-05
+category: "Fishing Gear Reviews"
+categoryNo: 34
+logNo: 223606874165
+source: "https://m.blog.naver.com/sanjangboarder/223606874165"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjE2/MDAxNzI4MDI3MTE4OTg3.XO5AVuB3Q9aKsCnhq_kyCEWBCDWUY-5tshhWzXA0aQUg.vMlpbaIUm4tCCa9JMVWdVpo31RiojwkKytWEbPe9UVAg.JPEG/20241001%A3%DF192417.jpg"
+description: "Hello, this is SanjangBorder.. egi lure .. boat fishing shore fishing . egi lure ㅎㅎ . great cost-efficiency cuttlefish webfoot octopus egi lure .. . . 2500 egi"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+Egi lure .. boat fishing shore fishing . egi lure ㅎㅎ .
+
+Great cost-efficiency cuttlefish webfoot octopus egi lure .. .
+
+---
+
+** **
+
+****
+
+.
+
+> **2500 **
+>
+> 4 1 .
+
+Egi lure .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjE2/MDAxNzI4MDI3MTE4OTg3.XO5AVuB3Q9aKsCnhq_kyCEWBCDWUY-5tshhWzXA0aQUg.vMlpbaIUm4tCCa9JMVWdVpo31RiojwkKytWEbPe9UVAg.JPEG/SE-4f379d15-821a-11ef-9ffa-7f297b4c0a39.jpg?type=w800)
+
+.. .
+
+.. egi lure . HOOK EGI . .. .. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTU2/MDAxNzI4MDI3MTYyMzM5.jxa8ESFZA7QjnSXpmjy-JbtEBVaMa0fQx4objzgQA7sg.xdSlsmP6YytDLtUGGs41SGtY4yEj1HRidfx4Ah3lFpEg.JPEG/SE-4f38ae86-821a-11ef-9ffa-0f81c6d812b3.jpg?type=w800)
+
+.. . ㄴ ㅏ.
+
+.
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTQ3/MDAxNzI4MDI3MjQxODc0.s-ufaBb3FJ4LkcGtMLNzrj4GAaCPmn0dKup-fcAMZV8g.Quz4gEcpycf1EWnXbEs4jF7g4D0DHS_zEBTgla_n4N4g.JPEG/SE-4f3998e7-821a-11ef-9ffa-7fd9e986c678.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjYw/MDAxNzI4MDI3MzY0NTI1.wVdPaqOBm7hknjbwo_5TvbwiklVT7tvWDStpQgZxh5Ug.9eB8RNmK50W60MPCdPz4tq9n9YNZxKYAYdd9ZIqOzekg.JPEG/SE-4f3f8c5a-821a-11ef-9ffa-cd71a6de4678.jpg?type=w800)
+
+. ..
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMzkg/MDAxNzI4MDI3NDU3Mjc2.tjcuns_CaW-SGqXgOMUxeTadL3xdjxT8QhNKepTbOoEg.DP8w1vuLtqqD2gxHOebAXmk1smO3wPYolajApqEMGbEg.JPEG/SE-4f3ad168-821a-11ef-9ffa-e328920c43a6.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjEy/MDAxNzI4MDI3NDUwMjEy.0Xcg23rjpvlX6fcahU_hJpVBDylYKwUts4vZjgyXSHcg.287b5kSuZ75u9NmYOWZdmGfyXUAeFxccqUB_AD37LnUg.JPEG/SE-4f3ca629-821a-11ef-9ffa-5d0fc346cfad.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjg2/MDAxNzI4MDIzNTA1MDA2.kzWTZkwmLkyrqPBnNppfCWbXFnojC1IAhkTcUL5ZK54g.GS2v48BN5qzwDaADxzFdn9nmH8YSu3m8TuDaknzO-KMg.JPEG/20241001%EF%BC%BF195522.jpg?type=w800)
+
+.. . , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjIz/MDAxNzI4MDI3NjE5ODY5.Qpz4b6lI9YIQBi-BLAaL4SaIBLeaux_ndYT-PBC-w5og.EPdYHAH4FWLF6W_tG5pr18uHAZY9zu4SqDSzuXfwRzIg.JPEG/SE-4f446e5c-821a-11ef-9ffa-ad32635ea7b2.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjk4/MDAxNzI4MDI3NjI4MDYz.fQp0G1pXkwixpCVTA0n_5HkVqR3HNe2_ir5SOG-7Bz0g.B1gP4DrVjJ1H8eIdUuSyk8OVcj0fnryl0CdA8uKx9Mkg.JPEG/SE-4f4b733d-821a-11ef-9ffa-339a40adf761.jpg?type=w800)
+
+.. 5.8g 5.5cm .. . cuttlefishegi lure webfoot octopusegi lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjc1/MDAxNzI4MDI3NzYzMDcy.ik6xzriepcS4xdZCcT8agr6z6ZmX82XGfCDqkMPraxYg.F1gppuM7KLSdJL98IAdRrDoDewL3ffdXP0BSbtcW0ksg.JPEG/SE-4f52ed4e-821a-11ef-9ffa-cd62099f5082.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTE5/MDAxNzI4MDI3NzU0Nzk3.EE21cq4SRiT0iQGP285_aLjkym05P3_frd8HP4FzU8kg.1OgUWstUipby-jYQaTZSMW3SvjgE6OAHcrMlSIZUiHIg.JPEG/SE-4f597cff-821a-11ef-9ffa-ebe396aaf928.jpg?type=w800)
+
+---
+
+** **
+
+Ocheon Port webfoot octopus , shore fishing ..
+
+ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTQ1/MDAxNzI4MDIzNTAzNjI2.0an8OZJfRiP-GyiYcsrM2-kvHXvuTbUI07AkHzh1mvIg.8caqibsvwMFamVEFx8BeIdQlfKXVuUOiSiK3IicV_usg.JPEG/20240928%EF%BC%BF081701.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfNjQg/MDAxNzI4MDIzNTA0ODUw.F14aVBS-utCr1ge8BgT5HHQ9-VDWModow-JLDG_vwFIg.W14vjY_kEJHgXvnBuOOPyaSpkxPd4_R695NqcX5VkXUg.JPEG/20240928%EF%BC%BF081658.jpg?type=w800)
+
+Shore fishing 5000 egi lure .. .
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjMx/MDAxNzI4MDI3ODYwMDM3.iyd7_wsP5-G37cjvH4CgE3QbVEzbf-eLsV7q6dyD0LIg.1Se4Ti7uSRE2GdygBeXW-4VgZ3LKG3-vPM8dwQfkjZ4g.JPEG/SE-4f61ba62-821a-11ef-9ffa-47ab5e6be0bb.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMjY0/MDAxNzI4MDI3ODY3NDk3.cRtZdzD1X8kH-mnlj4FyEbhAofZ7ALGZowa4jmUBShsg.l4HkrbkIONtoBOw7TPUOixpCL1Ubn7I9Y5COp7KKULEg.JPEG/SE-4f64c7a3-821a-11ef-9ffa-7d160917b36b.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTY5/MDAxNzI4MDI4MDM2NDEx.53xjpN0J-K-xDI5gk66wpSmr7gI8kPFQfeEDDC_kkkAg.ajjzsjCdg-JsHepjOMvHCjEGSX4GtYnneHviCZVuz18g.JPEG/SE-4f67fbf4-821a-11ef-9ffa-b5e388187c41.jpg?type=w800)
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTIz/MDAxNzI4MDI4MTExMzM1.QbWsS-Z4X44vf-6ulJ6NDyAY784oXpkL4R-AHiqk8j8g.fKzU3kwRJgG2kMit6hnv_0NBgFoc0DEZ_7kY6ISWo54g.JPEG/SE-4f69d0b5-821a-11ef-9ffa-25942d628bfe.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDRfMTY1/MDAxNzI4MDI4MTE5OTE3.cDBT2E-QQ_LJfx4-JcrK8E_DaMcKJASPcnl1-6FhGpYg._wmcVe0MPQiceOxq1mpd9-mr9r5_UK0oTW41VAMFPBAg.JPEG/SE-4f6bcc86-821a-11ef-9ffa-857b1206c5d6.jpg?type=w800)
+
+---
+
+Egi lure . , egi lure .. egi lure great cost-efficiency ..
+
+Egi lure .
+
+> ** great cost-efficiency egi lure**
+>
+> egi lure
+
+Egi lure . 4+1 2000 .. .
+
+Boat fishing great cost-efficiency shore fishing great cost-efficiency .
+
+.
+
+Thank you!.

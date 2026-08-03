@@ -22,7 +22,7 @@ As a frequent angler visiting Daebudo, Yeongheungdo, and Seonjaedo, one landmark
 
 ​
 
-<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Barba Coffee Tower 360</div><div class="map-addr">16 Narseulmi-gil, Danwon-gu, Ansan-si, Gyeonggi-do</div></div></div><a href="https://map.naver.com/p/search/바르바커피+타워360" target="_blank" class="map-btn">View Map</a></div>
+<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Barba Coffee Tower 360</div><div class="map-addr">16 Narseulmi-gil, Danwon-gu, Ansan-si, Gyeonggi-do</div></div></div><a href="https://map.naver.com/p/search/ + 360" target="_blank" class="map-btn">View Map</a></div>
 
 ​
 

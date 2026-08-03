@@ -1,0 +1,181 @@
+---
+title: "Water temperature Seonjae Fishing Park [24.08.25]"
+date: 2024-08-26
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223560865620
+source: "https://m.blog.naver.com/sanjangboarder/223560865620"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfOTcg/MDAxNzI0NjMyNDc0NjI1.ljFo8-nc1DH6AzY3_b0P8AnJn35plcU1sTf3TUHm5hkg.e8O0cfl_EJe1gY-l-AzFXfCg5_7HhgxU6-mgCyavf-Qg.JPEG/20240825%A3%DF102702.jpg"
+description: "Hello, this is SanjangBorder.. Incheon Seonjae Fishing Park .. 8 water temperature .. Ansan water temperature 8 water temperature . 8 water temperature .. water"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+Incheon Seonjae Fishing Park .. 8 water temperature ..
+
+Ansan water temperature 8 water temperature . 8 water temperature ..
+
+Water temperature Seonjae Fishing Park .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMjYw/MDAxNzI0NTkxNTU0Njgz.Sqb9ibREPpzGpZhSnvJdqEUzN7uAqG8KNdARFHoGGGkg.SAiZ7q-ug15g2XdNo2-0OdeSvVK2LmG1zF-oR6_B_tMg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMjEg/MDAxNzI0NTkxNTgyNzUz.2gmhlwvGb_lN9xwSImah7DKXP2oY2SZwQbW9sVwOXpgg.Gi0tbIyRRUFqTfe3U61XsP_cO4HqR5BdFnJ-l1yuglcg.PNG/image.png?type=w800)
+
+Water temperature .. ㅎㅎ . ㅠㅠ .. 2
+
+3 I visited for a session. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTg5/MDAxNzI0NjMwOTA2NTMw.HgUuCAi1cezJGJWQ_shKCdyOq9wPbFiqlhYBKuC0LrYg.9FKdLfjrthsOLI8IlWmZ9qI0OG5D8pUOqRnkKePkJjMg.JPEG/20240825%EF%BC%BF042354.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTg3/MDAxNzI0NjMwOTA2NTM2.O-0gpZ0mWmbrVOzcec3rtfW3jZimIkzx4ynt7879BXIg.iO8musLRsiAyn9YO8q1vsqjwgmzZypsyKgFISTuMhc4g.JPEG/20240825%EF%BC%BF042813.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfOTIg/MDAxNzI0NjMwOTA2NjE0.sasihCaAdwM_-K-n76CcSgFGAotyLUwjnezakAxizakg.bwWVLWL8mRhmuaiou_7qYFOVjjx80kZk108SI6ILbg4g.JPEG/20240825%EF%BC%BF042831.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjcz/MDAxNzI0NjMwOTA2NTg5.tzfxz9Xvecr-Ti6PVG9SHYZfoTyGCCXEcZgf7aU0f8Ug.eewnBpCfc6pcO-YE7SHqPl-oA_YzQvNgrdoOqKPPqmsg.JPEG/20240825%EF%BC%BF042851.jpg?type=w800)
+
+, . 2~3 . water temperature water temperature 29 .. 30 water temperature .
+
+. rockfish (mebal)fishing rod .
+
+Water temperature , .
+
+> **Seonjae Fishing Park **
+>
+> **fishing rod : Banax 732uls**
+>
+> ** : Shimano XR C3000SHG**
+>
+> ** : 8PE braided line 0.8 **
+>
+> ** : 3.5 **
+>
+> **---**
+>
+> **fishing rod : XP862ml**
+>
+> ** : Shimano C3000**
+>
+> ** : 8PE braided line 1.2 24LB**
+>
+> ** : 5 20LB**
+>
+> **---**
+>
+> ** : 1/10, 1/22oz jighead,**
+>
+> ** 3.2 , 3,4 **
+>
+> ** **
+>
+> ** **
+>
+>
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMzUg/MDAxNzI0NjMwOTA3NTI4.jxIeP2XvbL5OlUcVu3HEk7Ns6MzjC8VCqLp32ptSzFAg.3vHVh34RAwPKnFDZ4fKw8yBvFvjfrMx80W6mnhwiJvog.JPEG/20240825%EF%BC%BF045250.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjQ4/MDAxNzI0NjMwOTA3NjEw.j0ctYrFYYPUxs2KSo-V-w2DnHs84vDbp_ezKWCxeinsg.6K1c4EUKcPaX07zr_MW77QbFSV6ZO4p3Ac2kVpkcbzAg.JPEG/20240825%EF%BC%BF045302.jpg?type=w800)
+
+A 10 E .
+
+4 30 .. .. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTM5/MDAxNzI0NjMwOTA3Mjgw._loBL18rS2GmFXSVWZQVUprd3FiYIJST5X41W72lZyYg.klynfG-Udljr3ztPbiV_eoyKB3kL5zIqTDc2nCBer64g.JPEG/20240825%EF%BC%BF050206.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjQ0/MDAxNzI0NjMwOTA3MzUx.IxC4tb8Kjp1D2lJ4v8L2gxRElzBJ-80axNTrpPDIBxog.ghE5gAWR8gqhqdNOIzKMGh9q9EFbgw7QiRs_wGPjOLIg.JPEG/20240825%EF%BC%BF050200.jpg?type=w800)
+
+. ㅎㅎ . . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTI0/MDAxNzI0NjMxNTY0NTkz.xbP55vgsZmEUthxaZ_MtvrYHqJD3h8mnxqwuUiUuSfMg._M7Z458zx46_5Rf0LFMQdXjIbTnlHg3KHfPXW0_qATAg.JPEG/SE-1d7ee739-633f-11ef-b10f-4984920ebaef.jpg?type=w800)
+
+E D .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjA3/MDAxNzI0NjMwOTA4MDg3.dPEbXbMTVhjDyMmEAmT2t2-UQnCaVEXTexp7v31wZKIg.AOAPZhPAmgFGTwAwgOeWrGYh4QkhKLV9PsX1NDRixwAg.JPEG/20240825%EF%BC%BF053113.jpg?type=w800)
+
+C .
+
+ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfODkg/MDAxNzI0NjMwOTA4NTA3.yJ0tbaaO74FkDLOuiI2c4r2klYwZ-coGOz0afomet_sg.HTpYSe5KaYXkGuceXiionX6UovwGwqVsgpZjhvFYL-Ig.JPEG/20240825%EF%BC%BF055015.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTc2/MDAxNzI0NjMwOTA5MjI4.W5db4LOY7dyoCOGryzOvPyE0ky2Uu8fv1UBqE6cmzqQg.sshNdettxgFRLKrYHOYlfbTEZh96A03d_Wmd8ad0E2Ig.JPEG/20240825%EF%BC%BF055017.jpg?type=w800)
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMjk0/MDAxNzI0NTkwNzYwNjM4.bdkABG9-yHuRjSgFdaxfXQyKwoKeK9lgIqfjj4CA-xMg.mcADAx9s7iFb-EiuLRVM-_NXu4kLG1sa6wkqjqoFBcQg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMjI2/MDAxNzI0NTkwNzAzNDY3.aiTwPTeRjwhZlNqM__1zA3sAdkT3lHJOv586nJNuTKcg.3-6hR0qMRB2icL80T6wsKRjF9FDLxUm3bDrOmk3Vgicg.PNG/image.png?type=w800)
+
+.. .
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTQ0/MDAxNzI0NjMwOTA4OTc1.poLQ9UwZpxXnRe7cGahQjUo4bUxXG_nfggCAdj-ZMMUg.bkCGVIae1Pg4Y-mfZlUmqK_DYykgt-gqvvmSUl7cAeUg.JPEG/20240825%EF%BC%BF055012.jpg?type=w800)
+
+B . 5 ㅎㅎ ㅠㅠ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMTg3/MDAxNzI0NTkwODM5NjUy.Pmkzx1JINirHhqC_doY7HIeEI-b1F1N0sQ911eDB1wwg.nMsRHXjHYEx6J8ruQfmeoGRhS1CJjVzCRCTAxPlVagUg.PNG/SE-ae3db347-c366-4ccc-a703-a33ad031c7ce.png?type=w800)
+
+B .. B . .
+
+. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMTEw/MDAxNzI0NTkxMzMwODc0.BTRILxgLHTggVMRhnIiek1gly0CNFKCjIHw5uVzoTy0g.EJymwIOfo66RBAfAR3kaauLr1u6g2xVK1bIrb200L4Qg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTcz/MDAxNzI0NjMyMjMwNTU2.QAi-_IBc5npdDRNOOOC7TmiFMch1mkTbqFSNWniq_-Eg.4WUmIa2Qp_shGBPcXa92JUOJE_wyRkXHxJgBkbav4NYg.JPEG/SE-4cda29be-633f-11ef-b10f-47bca2b120a4.jpg?type=w800)
+
+7 E . .. water temperature , ... . 10 ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfODYg/MDAxNzI0NjMwOTA5NDQ5.FFzS31CnK6Iac6DsyZMhiWgkH4hiQNdx_lvf6Wyxzawg.S-NXMALiiaTgJWN-ogv8eobK2Y215sOKp7bjh-dQrnEg.JPEG/20240825%EF%BC%BF070628.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjcz/MDAxNzI0NjMwOTA5ODc0.aHqBaYmQ3ZL7qvQVKk4-ka2BINOiPrEb3JBgVYr0sn4g.YeadZj3pyKcPImh7eptJUSDeB3hK7rVO3xbz5b2xVzYg.JPEG/20240825%EF%BC%BF070641.jpg?type=w800)
+
+.. Seonjae Fishing Park .. ..
+
+, . ...
+
+. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfNjgg/MDAxNzI0NTkxMDYxMzk5.aHVVUBpF06oxj9Hww9FCVaJ7VMX8CGfpSvhz8Q9oSPQg.IYX1NQTDHuBW8OXazKlAfAdUN-hopcW9BjvByPiO1XIg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTYx/MDAxNzI0NjMyNTYxNDAw.c0bhKHU9Jgh4CT_2wRCvzgwuqSXLMxwUP3A7ve_PvXMg.RpeCZUNqjg4rn6Q4NXC65UCpdXrh0Xvu9iVvvUCIwhEg.JPEG/SE-4ce35181-633f-11ef-b10f-35dd1e4c032f.jpg?type=w800)
+
+9 E C 1 . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfMTkw/MDAxNzI0NTkxMDkyMjcx.gKYWsCq2Sna5POeYcobYwEluobPeEo-RHXy1rsnqHYUg.xISzJAPrWTcbQO-NgWfwQYuTVjrWYjVD0EIo-z_zifYg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTIw/MDAxNzI0NjMwOTEwMjU1.fs41ZU4WCkGyMsYuF5OyZRt5OnzKbzXluZoe8zXthwAg.je-5EcnJDqAwBY-aaHy6ZbcfNu_3VJczaIMcJ2YYlCYg.JPEG/20240825%EF%BC%BF073939.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjVfOTkg/MDAxNzI0NTkxMjU1MDYw.h8asuphkP6TClw4e8cBb9sZsMZOA2esmmsFJPsiFppwg.wHVmZRqJlme1SKuQE-xtb2CC2RwmSu-5XBUxUS7Fm3sg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfOTMg/MDAxNzI0NjMwOTEwNTE5.hLvvDTTfkhBtpakjQ6PqiejLxeoJDv9XP9jNKbtrOJYg.kohoBmISuskF9ds3auFU4qn8Ibuj5qb1BFto_rvBFmIg.JPEG/20240825%EF%BC%BF083644.jpg?type=w800)
+
+. .. water temperature ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjQy/MDAxNzI0NjMwOTExMzEx.3gzF5OIVzcCpBhIa2-Up7P1OtIwXn0wJK6-UssLGu4kg.w06UhZU8uqaH0OG0cnn1g9ytapn80cmoIhi4UA1VoRUg.JPEG/20240825%EF%BC%BF095804.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTAy/MDAxNzI0NjMwOTEwOTE5.lXte66-cJclWWQoU2ypLmK39AzMhcshe2bTVWuzIQtsg.8yI1nF08Z9cBJ7_hPyN3zoi9LCLfuvElHPflmiEx-8sg.JPEG/20240825%EF%BC%BF095801.jpg?type=w800)
+
+9 .. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfODgg/MDAxNzI0NjMwOTExMjQ1.sT-voxxQsuKiDNeobNDmtpy9IiinwoGAcRlVRmMDCIMg.OUoEUSJsz6bVb6LkEUV8_YvbsLv3IjMDb5uRG0ALXSEg.JPEG/20240825%EF%BC%BF101103.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMTU5/MDAxNzI0NjMwOTExODgy.C7MJkkWKV1fR_AJjwGfAZhqMEch3-ZmoevfwJL68acgg.jC2PiaWmFGAcVxDdXuqY8Ny5puwojU5n-i_9wiiX1rAg.JPEG/20240825%EF%BC%BF101158.jpg?type=w800)
+
+5, 1, 1 .
+
+3 .
+
+. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfOTcg/MDAxNzI0NjMyNDc0NjI1.ljFo8-nc1DH6AzY3_b0P8AnJn35plcU1sTf3TUHm5hkg.e8O0cfl_EJe1gY-l-AzFXfCg5_7HhgxU6-mgCyavf-Qg.JPEG/SE-4cf0e619-633f-11ef-b10f-13c19aaecc4b.jpg?type=w800)
+
+Seonjae Fishing Park .. ..
+
+.. .. . ㅎㅎ
+
+.. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfNjIg/MDAxNzI0NjMwOTEyMTM3.9b0dPpnYYzwFhF0gdY1_UW0gZXtcyC_6IZYkUdlgRc4g.1_koG0E5Zx9jNSqkmAVa4DCREdGEijtTQ4Kf9sWWrTAg.JPEG/20240825%EF%BC%BF110802.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MjZfMjA5/MDAxNzI0NjMwOTExOTk5.2k9yXiU9YzlicD-WdSGFWIqC9TW-cJxnkub3Rr6vlhwg.iSxKa5KYOqqHsIHFketlMmtMJ1R3gWQ2mgs-BRgi2_og.JPEG/20240825%EF%BC%BF111008.jpg?type=w800)
+
+. ..
+
+ㅎㅎ.. shore fishing , .
+
+Thank you!.

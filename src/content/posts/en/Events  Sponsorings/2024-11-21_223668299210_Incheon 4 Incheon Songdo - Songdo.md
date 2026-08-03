@@ -1,0 +1,126 @@
+---
+title: "Incheon 4 Incheon Songdo - Songdo"
+date: 2024-11-21
+category: "Events & Sponsorings"
+categoryNo: 25
+logNo: 223668299210
+source: "https://m.blog.naver.com/sanjangboarder/223668299210"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTEy/MDAxNzMxODEyNzc0NTAz.iouKxYlkvRdjc1PklG_LLNNGPRl0pGh3TwVANbsJ59cg.oQLljvOzCcLbwIt1dBdTBemqR7nwpEoAabT98iuSanEg.JPEG/900%A3%DF20241115%A3%DF183631.jpg"
+description: "Hello, this is SanjangBorder.. Incheon Songdo . Songdo Incheon1 Incheon 4 . Songdo 1 . Please keep in mind for reference. Songdo . Songdo .. . .. .. 6 30 .. .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+Incheon Songdo .
+
+Songdo Incheon1 Incheon 4 . Songdo 1 . Please keep in mind for reference.
+
+Songdo . Songdo .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfODMg/MDAxNzMxODEyNzY0MDEz.2G0FEkZxicPtGltgyXgwuq5lXSycb5AKwcnppTjogIcg.yuZn9KHHAL4aj8UOapEC_p1j0B_MEUwzTPLNubO1lbYg.JPEG/900%EF%BC%BF20241115%EF%BC%BF182504.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjgx/MDAxNzMxODEyNzc0MDk0.doGTwIzbVJnaWj9pDX03oCQe0Z4nEg-KNmISbC3viRMg.bMgOVHJZLr7FPN787zQ9XuIlsX0TdDm6dEHJtwrMTf8g.JPEG/900%EF%BC%BF20241115%EF%BC%BF182511.jpg?type=w800)
+
+.. .. 6 30 .. .. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMzEg/MDAxNzMxODEyNzc1MzE0.QTVX0t3hG2CyXhU9BaC7lg_M-J20svoYaoJQL3dWrTgg.52KlMK_UubvIwX3rKDHbMJ6ps7GGslw-nbwbsJkmaRsg.JPEG/900%EF%BC%BF20241115%EF%BC%BF182518.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTc3/MDAxNzMxODEyNzYwNzM3.g5_RKEdCdc6_8uCNKMmroBoXWkhtME4bT7E_4yXFfI0g.18r_SPHstlCRoF4Q6lr5L18vQRJ_utREdAKqNvxWVM0g.JPEG/900%EF%BC%BF20241115%EF%BC%BF182520.jpg?type=w800)
+
+.. . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTI3/MDAxNzMxODEyNzcwODc5.8o0Cd2E8gTs2lyQ5oyQVsMObys7R9yCD7JesNDbcka0g.3HuOOVh-4jcVZ1RcvWmKA6zovm8AGRmmEeIpV2q_EqQg.JPEG/900%EF%BC%BF20241115%EF%BC%BF182657.jpg?type=w800)
+
+Songdo 8 . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfNjIg/MDAxNzMxODEyNzY0NzM0.g2Zq1v-3B6C28Qn-J_EqMLX4He0BQ9qDel4dqbGW6TMg.sSvGSHlfchCyicZ7PputNWOOxw-uRoluj2dUcnsF1_Yg.JPEG/900%EF%BC%BF20241115%EF%BC%BF201852.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTUx/MDAxNzMxODEyNzcwNDU2._wIRa3SdUxrao11BVqhnH7TV-mbeE8wAoDny3ZoQ5CQg.R4A42uRJT7dp1n_rnOiOkVUwvgpKNsrUFMxm1vODGDEg.JPEG/900%EF%BC%BF20241115%EF%BC%BF182734.jpg?type=w800)
+
+. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjEz/MDAxNzMxODE1MzczNzg5.kHWSP8h7HJINmrZsKs8WgdcVoU8VqvE5ejrX8nJMf4Ig.3cdb4nOqfl6kn-6S7Iid5dZLwtDNtZlpoFzjxDQjtY0g.JPEG/SE-d9426eba-a490-11ef-94f3-b9e900cf5f90.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTg1/MDAxNzMxODEyNzY3MDA4.fQZz80MLmJkbafbwRxGwkbfFGr5As2-OS1keH2BDADwg.DeHREQbvqZmE2h3ID_nd0Tj5i2soaagmPJz-K_CQGZ8g.JPEG/900%EF%BC%BF20241115%EF%BC%BF183416.jpg?type=w800)
+
+.. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfNjYg/MDAxNzMxODEyNzY0ODI5.uWd7Hk9du0l3YzLbZ6G5oLy8QdZtPltcowUtzeIk5nog.IFer-Xp21RWDLMYCTivd6-V2VqxrrZUDuXDmnXcZa88g.JPEG/900%EF%BC%BF20241115%EF%BC%BF183402.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTY4/MDAxNzMxODEyNzc1MzU3.kWM1GmLvvPBDFG15YaPItY04BKRuZouHTvZ05-q6JYwg.JwdaSoy8yQRRVex6DPMztRtJr05b2lAnztbI75biHwEg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183333.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjcz/MDAxNzMxODEyNzY5MzUy.wz5htbsvI-YJfY3Q-mF5itRABNSm7sWq4BauxN_vmxYg.j4sUGgp9LhCd54b-AiysGahZNYNuHC3kbS9SNRMCmRUg.JPEG/900%EF%BC%BF20241115%EF%BC%BF185302.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTU3/MDAxNzMxODEyNzY2OTMy.m9RJkwFxgWCrahAGpo5sHKNwFLfjMKIFjcDrQWivzeMg.Mh6WiZPtoyLw5sRxmCW-XKM40IDvMJHwe6PcnoPSiMog.JPEG/900%EF%BC%BF20241115%EF%BC%BF184917.jpg?type=w800)
+
+. .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfMjUw/MDAxNzMyMTYxMzU5NzE4.jbe6HCtJmWClJiVAfGOjuWmPkCzXVZxlNKoIRcWubhUg.i_OCmUHg6LXo37qYpJtNtwvO6-9Iq2vOCpAiFxQvIekg.JPEG/SE-cfa9da69-754c-480b-aaf6-615642e8e23d.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfMjA2/MDAxNzMyMTYxMzY5NTcy.hKJBqYCPLyO4vQyYVOQm8-mA4QOt8UAZwsMFRrumim0g.tkIPo4iK183ernDmSzEzWGoReiSxSWYwaGxHBJn88Hsg.JPEG/SE-d97369d3-a490-11ef-94f3-47a569f0d0ea.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfMjE1/MDAxNzMyMTYxMzc4MTgx.sAkIJ1OBv3-KlPUi1YLUSwxNI6tCs835sfK4pDJHO74g.O_EKp4Nscgg7b45M2dMTm_9uBiXSmI2yEAycJdQlwtAg.JPEG/SE-8fe6d66e-54d5-4484-ad61-6eb0c60792d5.jpg?type=w800)
+
+.. .. .
+
+小 . Incheon Songdo .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTkx/MDAxNzMxODEyNzcwNDU1.6BLPE49n2MdHYGNNy1ids64-d7ynIsjf-2ZJLyVYH4sg.wqCPrfB4P0tQKNXC-Z-bo78DGEAAGamUwVEHIbLqwCkg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183606.jpg?type=w800)
+
+.. . .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTg0/MDAxNzMxODEyNzY2OTEx.WL4mUX5gL635gfOXXFTKIUZRiom3ku_Q8e2nFLBtJmIg.6IeufJlBYlg-gh6sSkaOcChbY5l1dlL5rN040fJjhNMg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183615.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjM1/MDAxNzMxODEyNzcxNTYy.mvMuKKtQTtblWaNGvkHqnTLgou2QexA186Mh21WV3i4g.A4pndq--XqW-c6vGqZLAWJrLHCAoxm6VsuU7fariFOUg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183617.jpg?type=w800)
+
+, , .
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjY5/MDAxNzMxODEyNzY4NjQ3.N6MCdNOheeKjxTci4SO360Nf1CtBQoH6R7Cz_GzA53kg.YNnR29y3pQ8bDRiXBDttBkE0f3Qs5ncxREmW8q-eC5wg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183619.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMzgg/MDAxNzMxODEyNzc1NzEz.DS6uojwyw_W45Gl8hE_vEWrTyw-7u-9R5nSalZP99P0g.dWv7B0YXFlT1tTnjCwCVPunmaEebhYT_MizA5BE575sg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183621.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjY4/MDAxNzMxODEyNzcxNzEx.bhNQ8-u9sTUWcR9C6ZIx7RLxYyfGNDAK210AyzFAvywg.p4PQ-LNtuOIXqsgO3L6ZE6l_71r9_Yb77kZ38MMOBi4g.JPEG/900%EF%BC%BF20241115%EF%BC%BF183623.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTY0/MDAxNzMxODE1NDY1MDQ0.UgZ9l5Ts2wByzkI3Z701gPfxEhIaIDYpOMSn7i9iUXgg.qj3qZRx433QW37u-SfyOjjxuRCOfkq-PBeyJUkiisNIg.JPEG/SE-d985442a-a490-11ef-94f3-e7d63e341fec.jpg?type=w800)
+
+.. .
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTIy/MDAxNzMxODEyNzYxMDA3.uZQRgtb6LtxPQsuJsFmISiHL0juGohWEPVvtfKvg7L4g.xb2om2_61Ms-aZd__n1cvmw4TZMwtOJbXKMwYg4jXGEg.JPEG/900%EF%BC%BF20241115%EF%BC%BF184331.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjE2/MDAxNzMxODEyNzY4NzE1.Nfb4utz7S8yNo7uvMjxIRqERqY4GQ8dyexX4wDk2irwg.PSCr-D_pSHeSlRKLwTMzWkP5JO-4vxfEjYQg2vypScUg.JPEG/900%EF%BC%BF20241115%EF%BC%BF184111.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTgg/MDAxNzMxODEyNzYyODQ0.3_o8WFD9M3beS1I1Y1eR5x88VV_omogzVYpgJPh0GxAg.uscwV2pl501X5WHYukoNkda8t94paoTJOKQBAykp47Ig.JPEG/900%EF%BC%BF20241115%EF%BC%BF184032.jpg?type=w800)
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfOTkg/MDAxNzMyMTYxNzU0MTI2.Mh8gn3ZrWRL8x9cLJaiIXuFs2yRmtnm1Zp3BTDkmt38g.WzcPGZfDwhhNium9yLEO9TSi1oiGsy21MikDbxGfwbkg.JPEG/SE-d990b5de-a490-11ef-94f3-33427cd1cf9f.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfMTY3/MDAxNzMyMTYxNzYzNDM0.bP1KMRZ5SAvAqJOSW2Oaxgp3L6-DxuEvuTCZeMvKtRcg.Qe622iE4qMW9iE2wbrnEotS2tv6iSpBBhQds-Z8GreUg.JPEG/SE-d9928a9f-a490-11ef-94f3-17af6f629aee.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMjFfNjQg/MDAxNzMyMTYxNzcwODY5.CnDy63QYRlmufUWVBgHQr5oq110JEvUGqy3ngAkOeGog.v7DENr6Y5M8iXcYrjY40jySkpnRbKA5k3r6iTv4iDtwg.JPEG/SE-d994ad80-a490-11ef-94f3-ff21503a95e0.jpg?type=w800)
+
+.. 3~4 .. 3 ~~.. ..
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMTEy/MDAxNzMxODEyNzc0NTAz.iouKxYlkvRdjc1PklG_LLNNGPRl0pGh3TwVANbsJ59cg.oQLljvOzCcLbwIt1dBdTBemqR7nwpEoAabT98iuSanEg.JPEG/900%EF%BC%BF20241115%EF%BC%BF183631.jpg?type=w800)
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfMjMw/MDAxNzMxODEyNzczMjg2.Km4oPWQuN1hXXCyZRz6QDoAqnt5-jt_qyRD4KYxNTEAg.avWXVP5PdRhKwXieLKX58lVDGZGpw5eXvfU19KYF2f8g.JPEG/900%EF%BC%BF20241115%EF%BC%BF201229.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTdfNDgg/MDAxNzMxODEyNzYyODY0.5nosAUH_1rkjhMqj9q4T0_jb6LmvXJMloz_4lwJfTeYg.uJRB7mT9vJqNq3jRRk8gXe81AFDBjxoLTLwCIt6rPBwg.JPEG/900%EF%BC%BF20241115%EF%BC%BF201246.jpg?type=w800)
+
+.. Incheon Songdo .. .
+
+Songdo Songdo , .. .
+
+Thank you!.
+
+![](https://dinnerqueen.net/reviews/image/626811_footer.jpg)

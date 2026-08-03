@@ -1,0 +1,217 @@
+---
+title: "Tide cuttlefish Incheon Yeongheungdo Island [24.10.05]"
+date: 2024-10-06
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223608680921
+source: "https://m.blog.naver.com/sanjangboarder/223608680921"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjE0/MDAxNzI4MTgxODIxNzIx.14RHh0ce_Fxt7joqNIm9i3baR58AvDIphEM47eL9uv0g.93o1mkmuRpGb3DUnmkGFvhcuDg9tl06Jszej1qF3xZMg.JPEG/20241005%A3%DF154743.jpg"
+description: "Hello, this is SanjangBorder.. 10 1 Incheon ... ㅠㅠ.. Yeongheungdo Island 10 5 . tide tide ㅎㅎ . .. flatfish Yeongheungdo Island 5 .. Yeongheungdo Island . Incheo"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder..
+
+10 1 Incheon ... ㅠㅠ.. Yeongheungdo Island 10 5 . tide tide ㅎㅎ . ..
+
+Flatfish Yeongheungdo Island 5 .. Yeongheungdo Island . Incheon/ .
+
+.. 5 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfODIg/MDAxNzI4MTc5NTU5NjYx.oBfm4df2e4tLykktdNSPA6hX4s7fxpHlA7K9yfF827Eg.qOybE6j4CdiJu-uVAD-FYB4KGM2pmZP-9OsLGtUJiNsg.JPEG/20241005%EF%BC%BF050109.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTY5/MDAxNzI4MTc5NTYyODk2.VYI1N3lkldCe8tLt6rA1NIJsySjVNYgQQ4HIoeL_E7kg.8poQ7NwBxSW2Ga1QKzOHtuTb479P-TZLwJ4YDhb1P9Ag.JPEG/20241005%EF%BC%BF050230.jpg?type=w800)
+
+,
+
+/ .. tide 20 . ㅎㅎ
+
+5~20m 5m 16 , 10m 20 .
+
+Sinker fishing rod .. fishing rod 2 .
+
+.
+
+Egi lure ㅎㅎ .
+
+> **Yeongheungdo Island cuttlefish / **
+>
+> fishing rod : ( )
+>
+> : Banax 6
+>
+> : 8PE braided line 0.8
+>
+>
+>
+> fishing rod :
+>
+> : Doyo 3
+>
+> : 8PE braided line 0.8
+>
+>
+>
+> : ,
+>
+> sinker : 16~20
+>
+> egi lure : ,
+>
+> / , L6
+>
+> , AJ
+>
+> egi lure ,
+>
+>
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTQg/MDAxNzI4MTc5NTYzOTQ3.udKsQltafuEKEJ7Dg-_UL9_TSSM0sGv1tR5CRidGguAg.wJh2ScJO02jtHJ3k5eFlx4UPDqeEwW89g1uA7zsPjL4g.JPEG/20241005%EF%BC%BF052321.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjU3/MDAxNzI4MTc5NTU5OTcz.rVfY_giMY04L-NatyZd5sLaaSvMEGj0wI5SC2v__hW8g.CHXnV9ZYmZJH3u6ugYGzW-umfoWRyga0mNNLpcNj0Cwg.JPEG/20241005%EF%BC%BF052342.jpg?type=w800)
+
+Cuttlefish , sinker20 /
+
+Cuttlefish egi lure .. egi lure .
+
+... cuttlefish .. 30% . 10m~15m ㅎㅎ . egi lure 10% .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTQ5/MDAxNzI4MTc5NTYwMTU4.WxN9euy4CAVJ0bOTMDmbCbXWPvdXlhaiKW9EFNdwn0sg.T8w1QDI3dqcM1OW_BZhoYow5n5mtRKcnQF9R6urJQxMg.JPEG/20241005%EF%BC%BF053328.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNzAg/MDAxNzI4MTc5NTYzOTU4.feuAok4EWNcxMNSSAssMihLnvEHqPpJX8ucxDvmL6kUg.V_JuhUZJRTU1frJ35sFzq3Nud7XTHaSyBWgYIHbKQTUg.JPEG/20241005%EF%BC%BF053339.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNTUg/MDAxNzI4MTc5NTYwNzIz.9a63gERlfmn63nVxbsKNb1osIkR5SdZmTWT4a7YHvtMg.M6nTdh1Z2SLUt-1ifR-Kv90tnkIkRx6mStMejuTYuNUg.JPEG/20241005%EF%BC%BF065337.jpg?type=w800)
+
+L6, , /
+
+YL .. webfoot octopus , . 20% . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjA1/MDAxNzI4MTc5NTY0MzQ1.0t_8wJmYy7qswM-ikEJkcInUN5D3bxy9M0v5jttoWYEg.A0OfWn4zUXRKlDHgveKajAyX53iItiXqJiO7bbqSyJAg.JPEG/20241005%EF%BC%BF083630.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTQx/MDAxNzI4MTgxOTQ4MzU3.IavvTJShDZkGf0h0OG6PEHvFoGtjJA07a089yW6Ysaog.QF5DzrqUJlw7eSBg935Dsj6MdsgsdYLDbcKZF1RgTmgg.JPEG/SE-aa76dc21-8385-11ef-9887-ef26477970b7.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfODkg/MDAxNzI4MTc5NTYxMjEw.GqLjsxQp05Wk5zirKXTWbwhxX-tXtbWJ8B19UV_io6og.hnApYJ8vw7f5skLMtqtvDeU37egOCOEZD7giFX1futMg.JPEG/20241005%EF%BC%BF135114.jpg?type=w800)
+
+YL / AJ, HRM,
+
+B-BAT egi lure.. egi lure , 3 15% .
+
+Egi lure .. egi lure .
+
+Egi lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjcz/MDAxNzI4MTc5NTYxNTAw.SVx3nck05dDnza9DgmRy4Kbdp8iQd7nG2vES33R4gP8g.NSIVngjdKIxRkKZ2njbk_cjIzR0ZSszvT5QL-1hJ8ZYg.JPEG/20241005%EF%BC%BF141435.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfODMg/MDAxNzI4MTc5NTYwMzY3.JmhsRMZR6xZdcVWnxZDKs_9gjbv5kqPDD4bxIun9fagg.c3EEbV67qbDTwp522ztHQndq2F4h1g47AAt8U1irssQg.JPEG/20241005%EF%BC%BF140525%EF%BC%880%EF%BC%89.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTg3/MDAxNzI4MTc5NTYyMjcx.M2Ji6zc8zY8NUOGaPsq2WsGR1VChkoSUkK-1bn6Sis0g.dZh7j5N7sm8aTCZE4oB9Iu7l15AAlPSSqbV2s-0qX5og.JPEG/20241005%EF%BC%BF151823.jpg?type=w800)
+
+B-BAT , egi lure , egi lure
+
+Incheonboat fishing Yeongheungdo Island . Incheon ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjQw/MDAxNzI4MTc5NjM0Nzk1.5UArI0i6YRY0-h_3fQ3e0K4957ID5MkwqZHok2aLf9Eg.Q2WdNBlaVn2hoicK7FReXvorTXjVtAPMCQHKa7zf2Uog.JPEG/Screenshot%EF%BC%BF20241005%EF%BC%BF161613%EF%BC%BFNAVER_Map.jpg?type=w800)
+
+, 70% 30% Incheon .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjE0/MDAxNzI4MTgyMDk1NTQ0.8bzea25b-hVGQejCOOLiyish9YbXAv66t5_udttPAvIg.53XxB0Nq4MwVFjvZHvOhK6-vMPwJLLleO7vNHUSEgjEg.JPEG/SE-aa8a6427-8385-11ef-9887-b33ae5d57466.jpg?type=w800)
+
+
+
+.. Yeongheungdo Island 1 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjAx/MDAxNzI4MTc5NTY0MTYx.8XMJoabp24Ppzv--bfAwhRqecfnVB_aTP76cdbKgirQg.SE0MGf_JHDS40Va_HOqcHWW4QH44Cfj9QHjTTAcrG0cg.JPEG/20241005%EF%BC%BF063909.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTc0/MDAxNzI4MTc5NTgwNTk1.6L-nLOBwXts6F5I3yIQjgy8U7zqkEwGl8Uuw6ZwEiHgg.Cjo-Hj-RWJ3WQjELZUEKH3EpvjtKn5lAQzdfRV5wAHYg.JPEG/20241005%EF%BC%BF060102.jpg?type=w800)
+
+
+
+8 . .. 4 9.77 3 . ㅎㅎ .
+
+Fishing rod . ㅎㅎㅎ ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfOTUg/MDAxNzI4MTc5NTgwNTY0.anqbVzTOT89RdgyHGUprLHs9z0efAqyQbfdIfxFnMe4g.krADaPlePTDz4qN72P3P3-DUQGrxfOjZ0l9SSOP01YEg.JPEG/20241005%EF%BC%BF054414.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTUg/MDAxNzI4MTc5NTYxOTA2.4hfk71knCtLLhu4cQFMcFKyDZ8LLMtZYoE5iy-9QbI4g.fc1fjxGR0FGyn16j5Z_N3B4eV3jFD0kcOxuybt1fJIIg.JPEG/20241005%EF%BC%BF060907.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNTUg/MDAxNzI4MTc5NTgwODQ2.1RnnvRjioNdUgZZOqlROLSW0DR4XWaOrGoP4bqQpCfgg.cn6Tr84_AAddLksPloAyyt3Jv1ds5aXR855O4J9vDScg.JPEG/20241005%EF%BC%BF054418.jpg?type=w800)
+
+9
+
+. ㅎㅎ 20 sinker 16 ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTIz/MDAxNzI4MTc4OTExMjk1.1b9fOmaNHjLVubDlTGwbtaw-lHU-YyNt1Uf7FqfvSFgg.dIawpyVYu69tVx4Ro3nei8xz8PsZlJEVZkJRn8XPOVgg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTQg/MDAxNzI4MTc4OTUyNjQw.JTX3wg24k2a-B-jUW2rcgqXMmh_Z6_5lgcezwA-Rbhog.zy60F5pwc4ADiQqTzqiaoWGe-haDqBTOAqbx71wiHcYg.PNG/image.png?type=w800)
+
+9 10 ㅎㅎ .
+
+.
+
+Cuttlefishtide .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTE5/MDAxNzI4MTc4NDE1NjM0.1Xw7wkYEctFjQonZMEhUkcFrkXCJNRo_pDq4bHW5M28g.w_Cl6bWtGPCT_CkskHIoHI_iuryfGhmNEWYOSNyuxhUg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjYw/MDAxNzI4MTc4ODcxMjgw.M3_naU9ODGKAoiwYQmfFnAer5VxJAlaA38R1WZsmIjog.lnbQKLHJpIYFgzy49vyOSdOefJ0n239_lpuvNPTS4rEg.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjY3/MDAxNzI4MTc4OTc3NDMw.K9x3Djs8Wfskowrd1hYBdvnnfKVZ3nOlUNhgvs8k_EYg.N8DZLQrjDTLA9Cj-XboVQvdmVr_zPoe7cX8V7cOBALog.PNG/image.png?type=w800)
+
+11 . ㅎㅎ ,
+
+.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTU2/MDAxNzI4MTc5NjM0NjA4.y3klvFrv-P_WY0tS7VAXmKKrbDKVY3C1aAXfoBUGxw0g.mrEPE12KAEsFAqLztl-sesKdQawpUe3KCDItipreNlEg.JPEG/20241005%EF%BC%BF105507.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTYy/MDAxNzI4MTc5NjMzNjcx.OO-btLDFAuO59aN1a78q9GPPLfo26CHbBJQ3_aplGjYg.3LqLk7H1S02UrCR4NrhiDdqBpdpR3J-hdgyI-u1rZ90g.JPEG/20241005%EF%BC%BF132817.jpg?type=w800)
+
+..
+
+Incheon 7~8 cuttlefish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjYg/MDAxNzI4MTc5NjMzNDg0.-NdchH3nZ_QRqS2-2alBI-nco4UTDxbwAcdaA0-uC44g.9Q-pobQqXCPbsOktKlpV5qkboO24mPCgDg2VTckuIOUg.JPEG/20241005%EF%BC%BF141832.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTI0/MDAxNzI4MTc5NjM2OTUz.Ibcr6Bzej7WZrFnctMGkeWmzlIFAriPjInRtH6OlSuYg.iSmPzp0hmoy357VQH523mda3DGZUlH7C_G3jPxameWAg.JPEG/20241005%EF%BC%BF141841.jpg?type=w800)
+
+Cuttlefish .. . cuttlefish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTU1/MDAxNzI4MTgwNTYxNzk0.KHN61Ganudz2upRmGOD2lveYU3vpQ_L3hCsjITdW0rIg.xtW-3CMzM0YennoqCzBBc-A07SQQ5jm9kdnwJwrYRBcg.PNG/image.png?type=w800)
+
+.. cuttlefish , 4 .
+
+10% .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTU5/MDAxNzI4MTgwNzc1MDc5.yTFN-Q8r3rXBf48CoYH75P59wr5pG4vareWwxPrNaUsg.xokdpUoGbdj_CqwT1WK3bfx5k9E0_wDnORnOfswZ1Q0g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTQx/MDAxNzI4MTgwNjM0Mzgw.dAHzwltWHqC1JsFiz0qXZFyK3qpImSgSkynygEwdjMUg.vQ6FYL0H-8x-QlrgIb-JmQf0ZTv_8Rb61zj-twYpcz0g.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNCAg/MDAxNzI4MTgwOTI3OTc1.S1xd6VRL9AqUAjwwfYWs_xppwX6zO3HUByaraD-O5Ugg.QrTgIAB3BzJwBg71NKd5SDTJH6hfBplfHty25do8H48g.PNG/image.png?type=w800)
+
+40% .. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMTU4/MDAxNzI4MTgxODc0MjQ2.zqUv36-wsulFgMBu9YzhTrD8Tv-L2Ql33tEF7GM77Zog.C8LnzqmuYv8Zh5YhbziQZNJyMNck1p3AmeiiGA98jzsg.JPEG/SE-d696f174-8385-11ef-9887-9f066beb715e.jpg?type=w800)
+
+40% 10% . 10 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjgy/MDAxNzI4MTc5NjMzNTAy.BYj2NlUQ7Ex9IUPAOCXxOTZxn0adWMAtaKx2o1C7Mp4g.A7471znpiNIMMAQMDmmQWs8ulxLM0u88n71Xsxr-Mngg.JPEG/20241005%EF%BC%BF144556.jpg?type=w800)
+
+Cuttlefish 63 , webfoot octopus 8 . ㅎㅎ cuttlefish ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjE3/MDAxNzI4MTgxODkyMDUy.oeO7LdIOQqzjQom6C41teROQCLPq0_LgncHdWFso4wQg.QIexl4nJrbNjiYa_EDhZgfP9aKm3_gOneJIQZMtcINog.JPEG/SE-d69ae916-8385-11ef-9887-f71b27ff7354.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjYz/MDAxNzI4MTgxMjM0Njgw.Uw5MJlBBDobTO1EQH49_UmZ_9Xeunb72kcvndQ8voRYg.1T7PNCAslI89vSHK1CiOQWY902qMgkYecIi3PdCa9wMg.PNG/image.png?type=w800)
+
+Incheon Yeongheungdo Island cuttlefish .. 7 .. .
+
+Incheonboat fishing cuttlefish ... ㅎㅎ
+
+120 . ㅎㅎ Incheon/ .
+
+. 11 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjE0/MDAxNzI4MTgxODIxNzIx.14RHh0ce_Fxt7joqNIm9i3baR58AvDIphEM47eL9uv0g.93o1mkmuRpGb3DUnmkGFvhcuDg9tl06Jszej1qF3xZMg.JPEG/SE-d69c48a7-8385-11ef-9887-dd080ef8462a.jpg?type=w800)
+
+24 10 5 Yeongheungdo Island 7 - 1 120 ㄷㄷㄷ
+
+. webfoot octopus .. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfMjQw/MDAxNzI4MTc5NjM1MjUw.92EtJNhPO0TGIfzmP0qLZTuTlU5x33wKnq9k9qThtIQg.7K3zqTOLksuAXw63uZ2qa45Lp6nq8ZJ3aT9a_NxymCEg.JPEG/20241005%EF%BC%BF154724.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNjYg/MDAxNzI4MTc5NjM1MzY0.prde_Jgdi0KR37azjqKi5qKlTJBzlpvGwyAoxeuAQTgg.R4VCIqdyT0jf5nUG0sLNT7PIFiRVivf85ceSB_7p_eMg.JPEG/20241005%EF%BC%BF161441.jpg?type=w800)
+
+5 cuttlefish . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDZfNyAg/MDAxNzI4MTc5NjM2MTQ5.QOmwGv-wCBnd42A8_tWHNudPjpiLcKkLnFOmwmaCwzsg.E43CsdYtqqzjGkhOhpZRM-uGtMT3AU0dNe3Yt7DoZDwg.JPEG/20241005%EF%BC%BF164343.jpg?type=w800)
+
+TEAM MJT .
+
+Thank you!.

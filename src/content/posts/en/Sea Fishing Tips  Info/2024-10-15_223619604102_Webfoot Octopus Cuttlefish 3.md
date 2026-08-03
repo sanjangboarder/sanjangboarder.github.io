@@ -1,12 +1,12 @@
 ---
-title: "Webfoot Octopus Cuttlefish 3"
+title: "Webfoot octopus cuttlefish 3"
 date: 2024-10-15
 category: "Sea Fishing Tips & Info"
 categoryNo: 26
 logNo: 223619604102
 source: "https://m.blog.naver.com/sanjangboarder/223619604102"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjM4/MDAxNzI4MzY0NzU0OTQ1.YAf5KNO0nPDOotUXxFyU-eOixci3_1DVXKEJJq2LG3Ig.EA4JJ68FYY6s_UXjwY0vurPLbFWGtzLuS8z38ILOs00g.JPEG/20241004%A3%DF214625.jpg"
-description: ". .. ."
+description: "Hello, this is SanjangBorder.. .. . . tide . .. . ㅎㅎ , . .. Haedong . shock leader .. . shock leader 3 . 4 . .. ..."
 lang: "en"
 ---
 
@@ -14,4 +14,108 @@ lang: "en"
 
 ​
 
-Hello, this is SanjangBorder. .. . . [Link: webfoot octopus cuttlefish ( , )~](https://blog.naver.com/sanjangboarder/223612332608) --- > ** ** > > SanjangBorder . .. . ㅎㅎ , . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjAg/MDAxNzI4MzY0NzU4MjAy.rqN7qxTYJRjNGPnMQ-v444_vmQuBvItQFwnxgpsaz_Ug.4XpzSf2HblE9e7NbTZRd-vJ5gY95XrraPjQ9HC_1N2wg.JPEG/20241004%EF%BC%BF205448.jpg?type=w800) .. . shock leader .. . shock leader 3 . 4 . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTFfMTgg/MDAxNzI4NjEzNTYzNjE1.6D37mmUZgk92YHhYQ1FYkCMhYK3pfxy3SNJzE54tt50g.lLwIfN8vrwjNNOas4WaBA15Ump3-Mde_THqG6P-QrD4g.JPEG/SE-da7133ba-8534-11ef-9715-5130bbee7de8.jpg?type=w800) .. sinker / lead weight . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTQg/MDAxNzI4MzY0NzU3Mzcz.VU3sstWQsdmDOCuPMRsMyQ0RVDT9OFPeX9TGNbKGw-cg.WMVZiNCGY1k20nFDyUPxoS8StalP2er0phge5gZOZ8Mg.JPEG/20241004%EF%BC%BF205821.jpg?type=w800) ** ** . cuttlefish . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTgx/MDAxNzI4MzY0NzU1OTky.YOOdJilOF3Q80ycb55GCICoYOcT7HG3HMSe5Wj95rCQg.3Yx5eXlvDtocHSii6cr9VQCSJoWWOkBYde3A__skimcg.JPEG/20241004%EF%BC%BF210005.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTg3/MDAxNzI4MzY0NzU4NjM5.59DEAAcfQkXOU2_ik4drs7SmvdkHvoGLAc4Lj2HotZEg.3f0qi8UcFK800qqd6L-Tm-xPgQZdMq6liNNXKsxWTE4g.JPEG/20241004%EF%BC%BF205925.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjkw/MDAxNzI4MzY0NzU1MDgz.yyFIHDsCCaGA8olP3jzDu-zyuCfzVtqZ3lxTma9tm44g.Hq76mR0XQi8pKjQr2vA3YxI6jkFRQk38BMxoMLazHp4g.JPEG/20241004%EF%BC%BF205948.jpg?type=w800) --- > **webfoot octopus ** > > SanjangBorder .. egi lure . webfoot octopus , cuttlefish . T shock leader . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTc4/MDAxNzI4MzY0NzU2MzI3.ouPWURb9mieZ1mq0Xc1WsPk1j7g1NywpS3BJ2gP7KAYg.sLIsRqw2JjIjugALLTjlU4ArM43Rt02O7is3XRmacacg.JPEG/20241004%EF%BC%BF212908.jpg?type=w800) . 1 .. . 20~50cm ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfNyAg/MDAxNzI4MzY0NzU2NTg4.bzhdPwOUUvgnYWyRw7nMxV0Q2LTl0DAS5v7f2iic38Mg.iFnoKOx8MW8FLDwr5dSMrteAZxSn2eFjkMrgwgLXsf4g.JPEG/20241004%EF%BC%BF213115.jpg?type=w800) . T ** .** ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjYy/MDAxNzI4MzY0NzU3NzE1.uRBpR7jufy26mCTxAx5N_XPZiNKn8N8RJWY3F6dwoSog.UY0eC4fVPIq7GGIZq44QBufYL-UZOoIc4mTrQpRujHcg.JPEG/20241004%EF%BC%BF213154.jpg?type=w800) --- > **cuttlefish ** > > SanjangBorder . , . cuttlefish ** sinker / lead weight/egi lure ** . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTkz/MDAxNzI4MzY0NzU3NTg3.hkGsACUMvjS6SYwPf5IDNhh7bpINkPWvNSSsFMFslDIg.ALwVqWG-ZFM7EDjNjuZ5I1xbFaSowBpJqbKRDJEM3-gg.JPEG/20241004%EF%BC%BF210237.jpg?type=w800) sinker / lead weight ㅎㅎ .. sinker / lead weight 20 , egi lure . sinker / lead weight .. . .. ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTc4/MDAxNzI4MzY0NzU1NzIz.yRbqfo-aR6eaa2DlprUv9lrF5doRLs6WM5J-ywNmuuUg.OKi0ZGtlKKXo2DyCVQl3iRmGKcowt3S1nJQNbFCaY-Ug.JPEG/20241004%EF%BC%BF210556.jpg?type=w800) . ** ** , . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTIw/MDAxNzI4OTU4MDEwNzEy.vwCbJ3OTzOrosEkthwhjYDuV2zD66Vj0-JhlehOXxKQg.j6jPj41QYQqJEXHJFIZ7X8pVenLWyoIc6MC8kIiNawMg.JPEG/SE-da98e005-8534-11ef-9715-9ded3a45e2b9.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNTkg/MDAxNzI4OTU4OTMxODY1.YtBMKeGQpwk3JogI7zJ1f5hv15HPig_igfJO-yApoUYg.qMOxQ8w-7cLI1xdxoLQ5CAkIVlF0bLskR5B1bMnkMagg.JPEG/SE-da9b29f6-8534-11ef-9715-e303eafba96d.jpg?type=w800) ** ** .. . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjYz/MDAxNzI4MzY0NzU2NjM0.sJk5iHOZ60qEo49DohQ0E6fb87Q7R6bEzanJdmt7-QUg.QPY8Q56oUkAYgEVZmnJwwmfe6U1aR_65ZtzNVYFzRuQg.JPEG/20241004%EF%BC%BF210652.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTk2/MDAxNzI4MzY0NzU3MDkx.U_9Eg6W6fLF_Jyo2w7HdYJKN3l4AGurzHu3HAfn1ZJkg.wSHkvhbe6y1xTSSAX7uEEshXzOmkK1evTklSXA593PYg.JPEG/20241004%EF%BC%BF210706.jpg?type=w800) . .. ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfOTAg/MDAxNzI4MzY0NzU0OTU1.S0poQ4dDIkQ18fm8-QJ7oDzlPe3tT4gKuJ9zFshnF4sg.kxJpif9pvLoAcl3TEqLoVQNMhyxsuFm2LqsSj0PHFI4g.JPEG/20241004%EF%BC%BF211831.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTgw/MDAxNzI4MzY0NzU4NTg1.hQCLcgUh5RwXRz_fm6gbLw1g9KPBb_uyUVEIjNnRWnwg.o8Ib_Rg9DbbUw2M5Gzm4NdelLfIHPCPfxYnk15r2WLgg.JPEG/20241004%EF%BC%BF212106.jpg?type=w800) ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjM4/MDAxNzI4MzY0NzU1MTMw.NrII8bqaRioURrD0GDpzALXnO6M_eph8J4v_OKFFToIg.sKyfJ7jjGndGDuzQuGWWKPG-pJS4f0VpLYJeZa8W-nwg.JPEG/20241004%EF%BC%BF212158.jpg?type=w800) Detailed field observations and performance details are provided below. --- . . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjM4/MDAxNzI4MzY0NzU0OTQ1.YAf5KNO0nPDOotUXxFyU-eOixci3_1DVXKEJJq2LG3Ig.EA4JJ68FYY6s_UXjwY0vurPLbFWGtzLuS8z38ILOs00g.JPEG/20241004%EF%BC%BF214625.jpg?type=w800) cuttlefish .. 3 . .. sinker / lead weight egi lure .. . ![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfMTcy/MDAxNzI4OTEyMDQwNTgy.yEhQP0q66roRYHz4Q9eOnjTBWMJJmNCTTyF9PTiStikg.oso767SWLBVu7yTwG7KIOnqoekjp4vjvrWG7U1BEfFgg.PNG/image.png?type=w800) webfoot octopus cuttlefish .. . .. . Thank you!.
+Hello, this is SanjangBorder..
+
+.. . .
+
+[Link: webfoot octopus cuttlefish (Haedong , )~](https://blog.naver.com/sanjangboarder/223612332608)
+
+---
+
+> ** **
+>
+>
+
+Tide .
+
+.. . ㅎㅎ
+
+, .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjAg/MDAxNzI4MzY0NzU4MjAy.rqN7qxTYJRjNGPnMQ-v444_vmQuBvItQFwnxgpsaz_Ug.4XpzSf2HblE9e7NbTZRd-vJ5gY95XrraPjQ9HC_1N2wg.JPEG/20241004%EF%BC%BF205448.jpg?type=w800)
+
+.. Haedong . shock leader .. . shock leader 3 . 4 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTFfMTgg/MDAxNzI4NjEzNTYzNjE1.6D37mmUZgk92YHhYQ1FYkCMhYK3pfxy3SNJzE54tt50g.lLwIfN8vrwjNNOas4WaBA15Ump3-Mde_THqG6P-QrD4g.JPEG/SE-da7133ba-8534-11ef-9715-5130bbee7de8.jpg?type=w800)
+
+.. sinker .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTQg/MDAxNzI4MzY0NzU3Mzcz.VU3sstWQsdmDOCuPMRsMyQ0RVDT9OFPeX9TGNbKGw-cg.WMVZiNCGY1k20nFDyUPxoS8StalP2er0phge5gZOZ8Mg.JPEG/20241004%EF%BC%BF205821.jpg?type=w800)
+
+** ** . cuttlefish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTgx/MDAxNzI4MzY0NzU1OTky.YOOdJilOF3Q80ycb55GCICoYOcT7HG3HMSe5Wj95rCQg.3Yx5eXlvDtocHSii6cr9VQCSJoWWOkBYde3A__skimcg.JPEG/20241004%EF%BC%BF210005.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTg3/MDAxNzI4MzY0NzU4NjM5.59DEAAcfQkXOU2_ik4drs7SmvdkHvoGLAc4Lj2HotZEg.3f0qi8UcFK800qqd6L-Tm-xPgQZdMq6liNNXKsxWTE4g.JPEG/20241004%EF%BC%BF205925.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjkw/MDAxNzI4MzY0NzU1MDgz.yyFIHDsCCaGA8olP3jzDu-zyuCfzVtqZ3lxTma9tm44g.Hq76mR0XQi8pKjQr2vA3YxI6jkFRQk38BMxoMLazHp4g.JPEG/20241004%EF%BC%BF205948.jpg?type=w800)
+
+---
+
+> **webfoot octopus **
+>
+>
+
+.. egi lure .
+
+Webfoot octopus , cuttlefish . T shock leader .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTc4/MDAxNzI4MzY0NzU2MzI3.ouPWURb9mieZ1mq0Xc1WsPk1j7g1NywpS3BJ2gP7KAYg.sLIsRqw2JjIjugALLTjlU4ArM43Rt02O7is3XRmacacg.JPEG/20241004%EF%BC%BF212908.jpg?type=w800)
+
+. 1 .. . 20~50cm
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfNyAg/MDAxNzI4MzY0NzU2NTg4.bzhdPwOUUvgnYWyRw7nMxV0Q2LTl0DAS5v7f2iic38Mg.iFnoKOx8MW8FLDwr5dSMrteAZxSn2eFjkMrgwgLXsf4g.JPEG/20241004%EF%BC%BF213115.jpg?type=w800)
+
+. T ** .**
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjYy/MDAxNzI4MzY0NzU3NzE1.uRBpR7jufy26mCTxAx5N_XPZiNKn8N8RJWY3F6dwoSog.UY0eC4fVPIq7GGIZq44QBufYL-UZOoIc4mTrQpRujHcg.JPEG/20241004%EF%BC%BF213154.jpg?type=w800)
+
+---
+
+> **cuttlefish **
+>
+>
+
+. , . cuttlefish ** sinker/egi lure ** .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTkz/MDAxNzI4MzY0NzU3NTg3.hkGsACUMvjS6SYwPf5IDNhh7bpINkPWvNSSsFMFslDIg.ALwVqWG-ZFM7EDjNjuZ5I1xbFaSowBpJqbKRDJEM3-gg.JPEG/20241004%EF%BC%BF210237.jpg?type=w800)
+
+Sinker ㅎㅎ ..
+
+Sinker 20 , egi lure . sinker .. . ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTc4/MDAxNzI4MzY0NzU1NzIz.yRbqfo-aR6eaa2DlprUv9lrF5doRLs6WM5J-ywNmuuUg.OKi0ZGtlKKXo2DyCVQl3iRmGKcowt3S1nJQNbFCaY-Ug.JPEG/20241004%EF%BC%BF210556.jpg?type=w800)
+
+. ** ** , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTIw/MDAxNzI4OTU4MDEwNzEy.vwCbJ3OTzOrosEkthwhjYDuV2zD66Vj0-JhlehOXxKQg.j6jPj41QYQqJEXHJFIZ7X8pVenLWyoIc6MC8kIiNawMg.JPEG/SE-da98e005-8534-11ef-9715-9ded3a45e2b9.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNTkg/MDAxNzI4OTU4OTMxODY1.YtBMKeGQpwk3JogI7zJ1f5hv15HPig_igfJO-yApoUYg.qMOxQ8w-7cLI1xdxoLQ5CAkIVlF0bLskR5B1bMnkMagg.JPEG/SE-da9b29f6-8534-11ef-9715-e303eafba96d.jpg?type=w800)
+
+** ** .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjYz/MDAxNzI4MzY0NzU2NjM0.sJk5iHOZ60qEo49DohQ0E6fb87Q7R6bEzanJdmt7-QUg.QPY8Q56oUkAYgEVZmnJwwmfe6U1aR_65ZtzNVYFzRuQg.JPEG/20241004%EF%BC%BF210652.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTk2/MDAxNzI4MzY0NzU3MDkx.U_9Eg6W6fLF_Jyo2w7HdYJKN3l4AGurzHu3HAfn1ZJkg.wSHkvhbe6y1xTSSAX7uEEshXzOmkK1evTklSXA593PYg.JPEG/20241004%EF%BC%BF210706.jpg?type=w800)
+
+. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfOTAg/MDAxNzI4MzY0NzU0OTU1.S0poQ4dDIkQ18fm8-QJ7oDzlPe3tT4gKuJ9zFshnF4sg.kxJpif9pvLoAcl3TEqLoVQNMhyxsuFm2LqsSj0PHFI4g.JPEG/20241004%EF%BC%BF211831.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMTgw/MDAxNzI4MzY0NzU4NTg1.hQCLcgUh5RwXRz_fm6gbLw1g9KPBb_uyUVEIjNnRWnwg.o8Ib_Rg9DbbUw2M5Gzm4NdelLfIHPCPfxYnk15r2WLgg.JPEG/20241004%EF%BC%BF212106.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjM4/MDAxNzI4MzY0NzU1MTMw.NrII8bqaRioURrD0GDpzALXnO6M_eph8J4v_OKFFToIg.sKyfJ7jjGndGDuzQuGWWKPG-pJS4f0VpLYJeZa8W-nwg.JPEG/20241004%EF%BC%BF212158.jpg?type=w800)
+
+
+
+---
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMDhfMjM4/MDAxNzI4MzY0NzU0OTQ1.YAf5KNO0nPDOotUXxFyU-eOixci3_1DVXKEJJq2LG3Ig.EA4JJ68FYY6s_UXjwY0vurPLbFWGtzLuS8z38ILOs00g.JPEG/20241004%EF%BC%BF214625.jpg?type=w800)
+
+Cuttlefish .. Haedong 3 . .. sinker egi lure .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfMTcy/MDAxNzI4OTEyMDQwNTgy.yEhQP0q66roRYHz4Q9eOnjTBWMJJmNCTTyF9PTiStikg.oso767SWLBVu7yTwG7KIOnqoekjp4vjvrWG7U1BEfFgg.PNG/image.png?type=w800)
+
+Webfoot octopus cuttlefish .. .
+
+.. .
+
+Thank you!.
