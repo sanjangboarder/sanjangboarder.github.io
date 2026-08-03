@@ -1,0 +1,122 @@
+---
+title: "[Personal Expense Dining Review] Magok restaurant Report"
+date: 2025-07-04
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223912320000
+source: "https://m.blog.naver.com/sanjangboarder/223912320000"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTk1/MDAxNzUwNjM5MjAwNDc0.H1otYx4RyN1HuWisMvQ1PrgBQqQQ4p28craMMuvqv7Eg.Q6J5298kPQG1U30SOiiPhlpaCsttev4Hl44vqtLokIIg.JPEG/900%A3%DF20250620%A3%DF124559.jpg"
+description: "Hello, this is SanjangBorder. .. 1 1 restaurant . Magok Magok 1 . restaurant . restaurant . 3 . impression . .. ㅎㅎ ㅎㅎ .. restaurant ㅎㅎ . . impression ㅎㅎ .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+.. 1 1 restaurant . Magok Magok 1 .
+
+Restaurant . restaurant .
+
+. 3 .
+
+Impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjIz/MDAxNzUwNjM5MjA0Mzg1.amfvtkoenmfaTjkXGZ55LT1reaT5lrlZsYqz5NBJTEsg.NGL4Jdd_oO-ZfEnqDNxm4zcV2cWSQ2BVYI82RFDbyYgg.JPEG/900%EF%BC%BF20250620%EF%BC%BF122510.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTM1/MDAxNzUwNjM5MjAxNjIy.Rka--8D3cJnavrZhavqUf8LXlHXWC4b8Wnwf3KBRaccg.T6jYZVKrEeD5BxcNTl5VyUpUt2W-5Q1f1RslBmNcEKwg.JPEG/900%EF%BC%BF20250620%EF%BC%BF122514.jpg?type=w800)
+
+. ㅎㅎ
+
+ㅎㅎ .. restaurant ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjk2/MDAxNzUwNjM5MjAyNDg2.GmQVG-HnU0ps-B-g-5ZqPpiDEkKZhjky7TNEij0YeTQg.ltygvdZsHb6Ogr4PTANofidBLUZHGZW5U-vXeWUoAl0g.JPEG/900%EF%BC%BF20250620%EF%BC%BF122507.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjIz/MDAxNzUwNjM5MTk5NjM1.B349j6jSxp-og3KchRWK5umVgCfUy3UTjl0_CCbyEp0g.DwH8STFzfEiHSW8mRmZ_-fAJNH-NNtn8L9J0qsKiKz8g.JPEG/900%EF%BC%BF20250620%EF%BC%BF122500.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjA5/MDAxNzUwNjM5MTk5NzU5.1OszBZQwLFBkRpxhBQUyK7JgwGr3SBlizuZSlKWNT1og.5YkPWlq7r80vIoIULDyjS6qDxz7kmH0dy1fgR_d9A9kg.JPEG/900%EF%BC%BF20250620%EF%BC%BF122519.jpg?type=w800)
+
+. . impression ㅎㅎ . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjEx/MDAxNzUwNjM5MjA0MDYx.v-i8SJM40W7gh2_nJcefHHf7tUWd_OkSGBgGty5cvvEg.NmTIj0Rqiehmu2T2PnXAWS5qWypnygj4411ch7bWeOsg.JPEG/900%EF%BC%BF20250620%EF%BC%BF122453.jpg?type=w800)
+
+. discount .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjZfMjE1/MDAxNzUwOTA3Mzk5NzI0.7hbJmaPo7iROOKX4GAFoO4dTj52f6-ZG2-7Dw0Qev9og.lWRiDw9pTiz7J0f19WM-X3FIZrXobO-qd0LXHc6NhxUg.JPEG/SE-8acb694c-4fca-11f0-9356-373c0de8af4e.jpg?type=w800)
+
+. . . 3 4 . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTAy/MDAxNzUwNjM5MjAzMjQ5.B-VEFa3WCn6aEwZSvD2M-pxzzcYQ8OVEMmPZCu-stXkg.nzzvSoh8SGOq-ssQY4EmiR7C52hYnLdT9mANtwKcQMkg.JPEG/900%EF%BC%BF20250620%EF%BC%BF122729.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjM2/MDAxNzUwNjM5MjAyMDc2.-y4h7caidkEmAieFuCzCzCZoDXxi8vEf5FfnwwQupsog.Td0O2MvtFyttc6eKcPAJx7SZLz3tMB5ei58fFidfEv0g.JPEG/900%EF%BC%BF20250620%EF%BC%BF122640.jpg?type=w800)
+
+---
+
+** 10.0**
+
+. . .
+
+Impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTk1/MDAxNzUwNjM5MjAwNDc0.H1otYx4RyN1HuWisMvQ1PrgBQqQQ4p28craMMuvqv7Eg.Q6J5298kPQG1U30SOiiPhlpaCsttev4Hl44vqtLokIIg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124559.jpg?type=w800)
+
+, . impression . Songdo reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTMw/MDAxNzUwNjM5MjAyNzY2.YM-b_gS6MuyPJpgSH6Heo2Ds8t9prwlZJznotmemFKkg.S3CqliKikQ5pHEr4IJrH_x7x4Opjv3jGIg1Ch5Kz6Uwg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124601.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTQy/MDAxNzUwNjM5MjAyMDA3._Xb3ddWSowzIZG_6SrzswUugZXhaRRtJ3V_gLwsK_p4g.9_1mwwmFRjs1MW2hdEc-mOO28DW28SsNvowa7pxt34sg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124746.jpg?type=w800)
+
+---
+
+** 13.0**
+
+Restaurant 1 pick . . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTg2/MDAxNzUwNjM5MjA0MTQy.03KoWHfuqzn4RB8GytNxfTERW23-x80aZZlzuero4CYg.cPNhuk29tOv6a3uDeuTWa0eYOp7VQjCGA7b8AmUn2BAg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124829.jpg?type=w800)
+
+Impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTYy/MDAxNzUwNjM5MTk5NzU1.JEQjs3QpeL7Ev8VrssKSkwNKllE7TC-L6NHCx1BY4xkg.xvlAZisFDG8oc1uHXCqMwxoJc148-zAR9plCeCtt-vQg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124831.jpg?type=w800)
+
+---
+
+** 21.0**
+
+. ㅎㅎ . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfNTYg/MDAxNzUwNjM5MjA0MDQ0.oszSt5M5sz7TKMheLOVorToIwzB1vIy_mHE1KoeedUsg.y3HZxWKpBPd9nHNvuf-cOJsREAcP8wbIErBuKVnkr5Qg.JPEG/900%EF%BC%BF20250620%EF%BC%BF124959.jpg?type=w800)
+
+Impression ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjZfMjAw/MDAxNzUwOTA4Mjk5MjA2.zDzm4iyez-seZkWwRy2SkcKl76n-gkBhxoZ6mdtKRSUg.2HhTuJI59bduyJgNcJTCNrFEKkx2tuj4v_BcGjF0igog.JPEG/SE-8ad4b827-4fca-11f0-9356-ff0465e3c5f6.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjE1/MDAxNzUwNjM5MjAwNDkw.tiWf2eAlg6q_QTTb07yvUsK2sJdDPDQ0IHBPaEKyjSAg.4MwHLenPwMrimm0EQmzWQlUBHzWQrF8FKkUFKR_Z3gMg.JPEG/900%EF%BC%BF20250620%EF%BC%BF125003.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjZfMjM3/MDAxNzUwOTA4Mjg4NTA3.lIgRdAq8qcGHapqh3leyeU3iPbSLW_kMZ83xVT9uPOkg.WObrQCW-Yn3ulUUECoMESV_FOyvIjPfBF_n2B6-s6Agg.JPEG/SE-8ad57b78-4fca-11f0-9356-77c1a02f98da.jpg?type=w800)
+
+. . ㅎㅎ
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMTIy/MDAxNzUwNjM5MjAwODEz.hzXj5d9s033pkUEoxnXrp6g4_-sE7R4Z1Yf9ufxYdy0g.H18GoDFoHWesLCLiZPWfD1oNglXJamThLKHWTSe9IZYg.JPEG/900%EF%BC%BF20250620%EF%BC%BF125305.jpg?type=w800)
+
+---
+
+** 24.0**
+
+...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjY5/MDAxNzUwNjM5MjAwNDMw.JHGta2ay1QzMiVV80V1mgQeYh0khTiGtybLji9qjX58g.VUm7htwv7PJKnPRFu68iQbAz6EddS5rdvTXcu_H2_r4g.JPEG/900%EF%BC%BF20250620%EF%BC%BF125207.jpg?type=w800)
+
+Impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfNTIg/MDAxNzUwNjM5MjAzNjM5.dogf6IrMij5stQVoM7ywctVDCFSWM1rJMmuq054PdgMg.fcK1vcwGk2EbP1opl-uT6GEtdVxN0e_Q0_tkuNxSTHkg.JPEG/900%EF%BC%BF20250620%EF%BC%BF125211.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMzcg/MDAxNzUwNjM5MjA1MDk1.UUkwbeQKOBYImeF_BQj-cG7riJCZ6xFgA0Hj6oz1t6cg.687v3tlrV_aww9VLQN4NmYBhZVz4FDD3x4th66iKOgAg.JPEG/900%EF%BC%BF20250620%EF%BC%BF125221.jpg?type=w800)
+
+. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MjNfMjI5/MDAxNzUwNjM5MjAzMjU5.AWaMwPjoqGwCYisSkfa60C_fVyR2DZjVz7v3_2HhCi4g.5MwU-jBE23LyMSdopDP5rRd0Bqgor2oLvMyfcZu7O7og.JPEG/900%EF%BC%BF20250620%EF%BC%BF125504.jpg?type=w800)
+
+---
+
+Magok B1 . 5 3.7 ..
+
+Discount discount impression . great cost-efficiency restaurant .. Magok restaurant Report .
+
+Thank you!.

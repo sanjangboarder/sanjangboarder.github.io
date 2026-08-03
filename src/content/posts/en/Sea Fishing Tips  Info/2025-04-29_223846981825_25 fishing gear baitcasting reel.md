@@ -1,0 +1,139 @@
+---
+title: "25 fishing gear baitcasting reel ."
+date: 2025-04-29
+category: "Sea Fishing Tips & Info"
+categoryNo: 26
+logNo: 223846981825
+source: "https://m.blog.naver.com/sanjangboarder/223846981825"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTE0/MDAxNzQ1NjMwNDg0MjMz.3IB0dgfe9KGanrUEFTsl01-wslSXMsk_M3Rq87New2Mg.UMA9roMmOGABr5gS2APevt5_qiBwzFqmj4zGgHpuGiMg.PNG/image.png"
+description: "&quot; .&quot; Hello, this is SanjangBorder. swordtip squid , cutlassfish , , Taibarareel . Incheon fishing gear hands-on baitcasting reel . 24 reel , IC, DLC,"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+**" **
+
+** **
+
+** **
+
+** **
+
+** **
+
+** ."**
+
+Hello, this is SanjangBorder.
+
+Swordtip squid , cutlassfish , , Taibarareel . Incheon fishing gear hands-on baitcasting reel .
+
+24 reel , IC, DLC, baitcasting reel 25 . 25 purchase .
+
+Reel impression . . 20g boat fishing . 1 .
+
+**1. Doyo 30 DLC -161g (29.5 )**
+
+Doyo baitcasting reel baitcasting reel . 24 baitcasting reel 161g 30 DLC .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTE0/MDAxNzQ1NjMwNDg0MjMz.3IB0dgfe9KGanrUEFTsl01-wslSXMsk_M3Rq87New2Mg.UMA9roMmOGABr5gS2APevt5_qiBwzFqmj4zGgHpuGiMg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjUg/MDAxNzQ1NjMwNDk3MjE2.g1MYGZdAN9r-ppS1z4thBYNp99JQIvuIkj2c9d8ATx0g.cKEy5B--Pe-AuirE3lWw0xfftxaB05eKw1OfW_1JXlwg.PNG/image.png?type=w800)
+
+4 , 5 , 6 , 7 6kg. 9+1 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTU4/MDAxNzQ1NjMwNTEwNTI4.n4EyGWvSuPvQ2kWHszlGwGO2HbdE1pNaKDmi2Ml4UiUg.6OmtzPdRKACGZkBg8mvn0ChcWUVP-62NdWlSo6dwYt0g.PNG/image.png?type=w800)
+
+97mm discount 20 .. 110mm~120mm .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfOTEg/MDAxNzQ1NjMwNTkzOTIx.5ssf_QfwprHefacXv0M_ImS-m_7sxEmVdRm_PsZw52og.QsEcy3hiJCuDVoRTgeJUyezPN4NbglnsBA7AORmbv2og.PNG/image.png?type=w800)
+
+Purchase .
+
+[Link: Doyo 30 DLC reel reel swordtip squid reel 4 ultra-lightweight reel : ](https://naver.me/xQepvZgd)
+
+---
+
+**2. Daiwa 25 IC - 165g (40 )**
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjAy/MDAxNzQ1NjMwNjY3OTE2.9GWTarpY44FsRq_e9Qa8wCVe1pVbPBYSdnb27CcG2tEg.2-4JWW_Y7RESxqUaDgpzjqzQtSrD2L1lSqCc-dxp2sQg.PNG/image.png?type=w800)
+
+24 . 25 Daiwa . 165g . 5 , 7 , 8 . 4.5~5Kg reel . Incheon fishing gear hands-on .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTgz/MDAxNzQ1NjQ0MjQ4OTQ0.P9XQ6VZY1rVrhHKo8NkmtFxgWPmWkXJTL4iIinJJNYAg.TAf5fpznYn5jatL4QRNFzkKTGg8aqW6hQ-4YqIS_N4cg.PNG/image.png?type=w800)
+
+Reel 20~30g 110mm Doyo .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjY4/MDAxNzQ1NjMwODM1NDg3.tGnmPHOZfYL0y2zaZz64Ll0OB7V8gsIqr36Blmlszgcg.TgfzLjH7K7he-q42HSelnchodWc6y_3p4xNh65ip5dkg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTMw/MDAxNzQ1NjMwODQzMTc3.o8Uj94axAzGnO4SE8lQTes5FWM80Ozjxh_oqf3jHz7wg.OqZzpUfn7DEUajbQFF7sgEN-wWo0dloYnAfWWT6SoLwg.PNG/image.png?type=w800)
+
+
+[Link: Daiwa 25 IC reel swordtip squid cutlassfish Taibarareel cuttlefish reel Daiwa 100P : Incheon](https://naver.me/xq36T5Av)
+
+---
+
+**3. 23 - 205g (10 )**
+
+Baitcasting reel . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTE1/MDAxNzQ1NjMwODkzMjgx.tl4Jq9w8P_BhpRhkYcaT0EdBCHA10b_3Qz-prB1vPXog.xmlb1in9uvW1mBRKePKkS2wv8doMIiZfqAEwB0K-df8g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjM5/MDAxNzQ1NjMwODgzNjcw.KVS9N4Xm_scdN_MwknrB645wSlA9r6LexU-y44tv3bog.GFpLr4QQipi5l27BQifYh8oeLUY4t_V_9N3WKk65YPIg.PNG/image.png?type=w800)
+
+5 , 6 110mm 9kg . discount 10 . great cost-efficiency . Shimano . great cost-efficiency .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfNjkg/MDAxNzQ1NjMwODcwNTg3.M2UPbQbrBrSEa-8nue6923Sc5wK82Y6uhD-C5NxI6Usg.I7OTJ94_dwCXrOV5eBC2Levm4oriBDG-KrbYSK5d6I4g.PNG/image.png?type=w800)
+
+---
+
+**4. Shimano 23 - 220g (30 )**
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfOTcg/MDAxNzQ1NjMwOTQ2NzMz.M2_BHejuin-I5D-HfBT1D2TQi4PiKqRQ0jp6oCxP3rMg.jSe7CbUJq3_f4z9N85ZgvmiF8UxSrwc8QwHPfVrcOwsg.PNG/image.png?type=w800)
+
+Reel recommendation Shimano . 250g 220g . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjkg/MDAxNzQ1NjMwOTcyMjIz.z6fjXSDNalhQ9tH83ygNOinpc_U5j79sRLICt5zQIZ4g.W4nOSyAn7YhA80_qElRyUBRopMqL3CIJf-ducQaMqKQg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTk4/MDAxNzQ1NjMwOTg1OTcz.EGNjHWbP85ch8BchLVv1Sb5EBvGFUqC-GxaWsm61U3Mg.hCZoZlW26l10XmW-rHSG0e17fhR0ETVhnqj1Lr3VEJEg.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfNTAg/MDAxNzQ1NjMxMDIzNDE2.fUkvAA8boUnU3uNbdIsc2puz-77GvxvaKin13G4rw_Yg.DjhIp_EDpOqFxzvaijUqko3gHB5KG8bssDiLGR8W0Qkg.PNG/image.png?type=w800)
+
+Reel . Taibarareel baitcasting reel Taibarareel boat fishing ..
+
+[Link: Shimano 23 150PG reel reel swordtip squid red sea bream baitcasting reel : ](https://naver.me/54LNfxIb)
+
+---
+
+**5. Banax SDC - 223g (10 )**
+
+Banax baitcasting reel 223g 24 . 5 10kg
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMTk1/MDAxNzQ1NjMxMDYzNTI5.VStnAwL1C1XsMIl3pCdgRriMnokzbYITTz1PHavDqyQg.rkS_YH71Jlt4qKSCrSC2hd50l-pDOhxTzNru4W3i6q0g.PNG/image.png?type=w800)
+
+LCD . discount 10 . great cost-efficiency .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfMjc0/MDAxNzQ1NjMxMDg4MjA2.7E_e6t8WmqGphZftdm8D4dxUGP2XJevwwxjnfE4AnpMg.mj6kG61eXBuSlVYuspTygSzQBt4KI00eRf0uwlPH6MIg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjZfNzQg/MDAxNzQ1NjMxMTA5NzY4.OiSLss8lGVKdnMEVnV9s5lKyc2pafR18J82bPDywgSYg.Mmd345ivWGlt_Xscg7Djf7-Lohc-jl1G-ztpk39jhXQg.PNG/image.png?type=w800)
+
+---
+
+**Comprehensive Guide**
+
+Baitcasting reel .
+
+
+| | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | |
+| **Doyo 30 DLC** | **160g** | **4.6** **5.6** **6.8** **7.5** | 6kg | **9+1** | 24 | **97mm** | DLC reel | 29.5 |
+| Daiwa IC | 162g | 5.5 7.1 8.1 | **4.5** **~5kg** | 6+1 | 25 | 110mm | | **40 ** |
+| | 205g | 5.6 6.6 | **9kg** | 7 | 23 | 110mm | LCD | **10 ** |
+| Shimano 23 | 220g | 5.8 7.4 | **5kg** | **8+2** | 23 | 110mm | Taibarareel | 30 |
+| Banax SDC | 223g | 5.3 | **10kg** | 5 | 24 | 110mm | LCD | **10 ** |
+
+Reel 2 electric reel . Doyo 30 DLC Daiwa IC . Doyo 30 DLC purchase . Daiwa .. Daiwa baitcasting reel .
+
+AI ㅎㅎ hands-on Review .
+
+Purchase baitcasting reel purchase .
+
+Thank you!.

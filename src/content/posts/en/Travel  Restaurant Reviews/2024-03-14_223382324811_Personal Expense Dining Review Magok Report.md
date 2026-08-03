@@ -1,0 +1,70 @@
+---
+title: "[Personal Expense Dining Review] Magok Report"
+date: 2024-03-14
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223382324811
+source: "https://m.blog.naver.com/sanjangboarder/223382324811"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjg5/MDAxNzEwMzE4Nzk5ODA1.Wt1HrPWWSZLiAOloVQMjKUokQG8z8B3I0hXV92mC8QQg.rmdRV-HYZqKqM4p-EeTgS6VMVSPIOnyDsmgHF5vkEnYg.JPEG/20240312%A3%DF174532.jpg"
+description: "Hello, this is SanjangBorder. Magok , . Magok . 6 . . impression . restaurant . restaurant . ㅎㅎ restaurant . , . . 2 . discount 1 1.8 . 1.8 Magok discount .. .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Magok , .
+
+Magok .
+
+6 . .
+
+Impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfODQg/MDAxNzEwMzE4Nzk4NDM1.v_TJWm4TlX5aavPDZB0Q1TMZ2w1xhfSwQyS5m8FdT0gg.GjLmHAFgAKcLQM6GRPDw3nic6GZxZjctaBG_kRi-z5Mg.JPEG/20240312%EF%BC%BF172829.jpg?type=w800)
+
+Restaurant . restaurant . ㅎㅎ
+
+Restaurant .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjk0/MDAxNzEwMzE4Nzk4Mzg2.JzED4YMnUHUrTYikLh3H8Ir8UXd7LMmLWdcxP7eOROQg.OYZ0QqM982humVWi0ehmh7hLCl1lYXrGTKwVT2IdC0Mg.JPEG/20240312%EF%BC%BF173144.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjQ2/MDAxNzEwMzE4Nzk4NDEy.x9DVFWW4_qjP0k5vGsKGGA17wXX-Qp7v9c0FASM2xqIg.clUAFIPKZkf2FAsyifSxI0fQExAon5a-0i7m7EzMF8cg.JPEG/20240312%EF%BC%BF173146.jpg?type=w800)
+
+, . . 2 . discount 1 1.8 .
+
+1.8 Magok discount ..
+
+. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMTkx/MDAxNzEwMzE4Nzk4Mzg1.r3P3_cbRwv9sVZ7ok-nyYlQqYuHmDCyg9Ilz4Ous0qEg.Ia6xHFxRDmhVphxBag0A4iROora21LxX4EyYuOfAEbQg.JPEG/20240312%EF%BC%BF173200.jpg?type=w800)
+
+2 ㅎㅎ 180g .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjk1/MDAxNzEwMzE4Nzk5NjM3.GxnxZterjJvZJj2U_07OHpSBX_FDVkKkt1iwNWdVTpwg.R_ZAOezcOwem25s8RQD8yhWn10euJfwqYpv8seQHCvsg.JPEG/20240312%EF%BC%BF174058.jpg?type=w800)
+
+. . .
+
+Impression ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjg5/MDAxNzEwMzE4Nzk5ODA1.Wt1HrPWWSZLiAOloVQMjKUokQG8z8B3I0hXV92mC8QQg.rmdRV-HYZqKqM4p-EeTgS6VMVSPIOnyDsmgHF5vkEnYg.JPEG/20240312%EF%BC%BF174532.jpg?type=w800)
+
+2 . ㅠㅠ.. 4 .
+
+Discount 2.8 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfOSAg/MDAxNzEwMzE4ODAwOTEx.aBJQK24dm52pazWXKkPn1wIaPGWJxgCRSLnd4_xaWncg.8iqhcgUeQ2rAQ-Kf_njFtWcI_Rzz-QKUN6S-SZkmf7Ig.JPEG/20240312%EF%BC%BF175339.jpg?type=w800)
+
+. discount impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfMjgy/MDAxNzEwMzE4ODAwOTE1.ACvI7DgRep3xHqQOCvy_8HQywYiot4GE7umlwCnFZqAg.Dl2MRpQpWQK9Y2BzD7ie-GkaCrkapTHu0lU1uIAyoGgg.JPEG/20240312%EF%BC%BF181806.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMTNfOTgg/MDAxNzEwMzE4Nzk5Nzkw.OPBhEkU_9TxoNoZ6J3GsiRMhxMKRCEE3f3OfjnmnbCgg.203j8mGyPzhB3qoN4y6wTA5vzXxKmM5H5SMpvtT86oMg.JPEG/20240312%EF%BC%BF173706.jpg?type=w800)
+
+3 ㅋㅋ. .
+
+Restaurant 5 3.8 . impression .
+
+Thank you!.

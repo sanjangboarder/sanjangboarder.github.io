@@ -1,0 +1,319 @@
+---
+title: "Fishing gear Incheon fishing gear boat fishing ~"
+date: 2025-05-01
+category: "Sea Fishing Tips & Info"
+categoryNo: 26
+logNo: 223849838817
+source: "https://m.blog.naver.com/sanjangboarder/223849838817"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjgx/MDAxNzQ1NzQ5Mzg4NDc3.JO7Nm8_JCC9VG_t-u2ARJ0V8Naon2Zg4NFxUqMzXcQwg.q0JMu5gyrNfdfQmupUuVkfPMsnBhTVfEqPme0I317uog.PNG/image.png"
+description: "Hello, this is SanjangBorder. fishing gear fishing gear . Incheon fishing gear . 40~60 fishing gear reel . Incheon fishing gear . 1. (40 ) 40 . FRP 40 fishing g"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Fishing gear fishing gear . Incheon fishing gear . 40~60 fishing gear reel .
+
+---
+
+Incheon fishing gear .
+
+1. (40 )
+
+40 . FRP 40 fishing gear . hands-on .
+
+Fishing gear / . Incheon boat fishing . , . , , 3 .
+
+Fishing gear , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTE1/MDAxNzQ1NzMwODM2MjY1.8T-QHqK3asVfaOzc_K60lugE8GFC5ibfV2atEmWakmkg.e31T6MUfXFKiqe4mmto8Ui_tkeTpFVFdS_oIiw_YnxQg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTgg/MDAxNzQ1NzMwOTIyMjc3.M77bYpfKKpq7BQU9dCNJcQ4O6Fqognjtyzs3uI-ehikg.TAGavQk653Qm-BAj68Aki5intPAFZ9nShUOTpUt_h2gg.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMzYg/MDAxNzQ1NzMwODg1ODM3.Fx-yx9CeadIkmHcmc37DC622z3_p2_Pno1XdkTcRL0Ag.ZRv5ui6wvyB2XG_eeXo4EErXHpy3SEEHam34fJZlhuEg.PNG/image.png?type=w800)
+
+---
+
+2. ( 9.77t 22 )
+
+16~22 fishing gear . available fishing gear . fishing gear , fishing gear .
+
+. discount .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfOTcg/MDAxNzQ1NzMwOTY3MzQw.7vO-Cv10tqSXfXChZ2Y9ss9pXLRa3iY_2zX60aQ0vi4g.NyFXHzEc4bNZ5_TLAc_uk7Wxl6ieRWreDTVe0qpPVncg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNDQg/MDAxNzQ1NzMxMDk0Nzgw.bQXy3QlH51rL5-96CZO_flAHQfLAT2NyE7OJ2qLsSvMg.aLYdnbe2hqL5TBsI10dTp0PuohYIIfMhWw5zm5LMaPkg.PNG/image.png?type=w800)
+
+---
+
+Incheon fishing gear Incheon . Incheon , Incheon . reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjE3/MDAxNzQ1NzMxMTk2ODQ0.EFTgvV6ZVwr_r26QfCISSrdOQ58_PUD0afm0ljuNnEkg.Wgej1EyBJPDHzLS21c07Z2YRqgXkNhMjgFwI0Y5n74Mg.PNG/image.png?type=w800)
+
+---
+
+**1. **
+
+. fishing gear available Incheon .
+
+** saltwater fishing**
+
+Incheon fishing gear . 4 2 . 2 2 .
+
+. fishing gear fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMzIg/MDAxNzQ1NzMxMzc0MDkw.JkCcMkGgygA1GAak0zZ8psk1_BxluDoFgn-YDA77Pfkg.3W0LtswXbLjvI4UYWe0dNK0k9sutTkoErHfDIaOq86gg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNTcg/MDAxNzQ1NzMxMzgxMzY2.KRTZUcO2FhyxY3Drsp_t7kd2cswzytclRquFAgRrcWsg.QT28mVcWzzAzwUqCilUBJ60leumRy_TQaeW5aOqaUBAg.PNG/image.png?type=w800)
+
+( , 50 ), ( , 60 )
+
+, .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTg1/MDAxNzQ1NzMxMzk0MzEy.MbXDo1Os2cJ4JVKsvYT07loMr8xa-PGgqIPTFaNOqsgg.xDOKPyL-y7J1h9b7dGRELNBYdepl1BGkhkGDGKPYlx0g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjQ1/MDAxNzQ1NzMxMzY1MjMz.Hx35xZAqAICC-AzLnUPNUBL94EjmlFs93QhmOow5P3Mg.ZzZ3dMclwZEJICP66wskTAP0o5ciYvXzMK5inzQIqZ8g.PNG/image.png?type=w800)
+
+( , 70 ) , ( , 49 )
+
+Impression saltwater fishing .
+
+, , fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTc0/MDAxNzQ1NzMzNjg0NDQ3.LbbZ89mGFLd02THSO87vcGM-QIUWR-UM257WAQDzJt0g.oynFdXYAVKzYmxVIIhK_2yqVQswgc6DJZvwZW5HNcvMg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfODcg/MDAxNzQ1NzMzNjk1NTY5.Z1l40irMPuTBuOoepGI_xRB-jj5QQWNDq4xr9ifBHvcg.GmzIfGcksgufExF4_9X4X_AOkZ7SzK-mn1uShV-_1GIg.PNG/image.png?type=w800)
+
+---
+
+** saltwater fishing**
+
+Saltwater fishing ? , . Songdo .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTgy/MDAxNzQ1NzMzNzM0MDYx.oaRisXvj6UM0vE_mYqeEOwbw7I8sy1l3aOug7zuCk7Ug.NLVVA_0jy8h0Vhgr6YgTDynyllEip7SytT5dR0uJUg8g.PNG/image.png?type=w800)
+
+Songdo saltwater fishing, Incheon fishing gear . , .
+
+---
+
+** Incheon **
+
+V fishing gear . Incheon boat fishing .
+
+Incheon , , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNzEg/MDAxNzQ1NzQ2NTk2NzQ3.uKlmBizoQl_tzXd3DYuMvMk5wXn3cl_hSUQrc_Paimkg.FJT3HI40EUrAY_JGig35ITuwlA2IAmpnsdd6r503qZgg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTM5/MDAxNzQ1NzQ2Mzk5MTMz.yIiJCEkZ8WFiHSqRJl8nxOrpnYvxbTUyMqWkARLBCsEg.JBiPS0Ow2cBSTWvRgCiHrhcRkYtEAD7sKmtpjDAITtog.PNG/image.png?type=w800)
+
+5 ( , 80 ,)
+
+Webfoot octopus webfoot octopus .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTQx/MDAxNzQ1NzQ2NTQxMTc5.RfJ4OMuko9iRlqoZgqTJ25GESl4KqNGW640ct-I8s7Qg.hsMR9iff02to0XIX7Kqt52bdPWIVh_2hjRzaoTuEIQ0g.PNG/image.png?type=w800)
+
+---
+
+, . 25 .
+
+****
+
+---
+
+**2. **
+
+. ㅎㅎ .
+
+** **
+
+Incheon fishing gear impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjgx/MDAxNzQ1NzQ5Mzg4NDc3.JO7Nm8_JCC9VG_t-u2ARJ0V8Naon2Zg4NFxUqMzXcQwg.q0JMu5gyrNfdfQmupUuVkfPMsnBhTVfEqPme0I317uog.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjQ1/MDAxNzQ1NzQ5NDU3MTQ1.NYkzGTsCTHEhtv02SH4LRA6pUnGqGOk7NyAV0mbTOCsg.BC0AhbByzaq8Di3L2Ujwqt3p4e5lLPJ_g80ioU-jJkYg.PNG/image.png?type=w800)
+
+( , 74 )
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfOTEg/MDAxNzQ1NzQ5NDA1MjMx.4TqSDo1wx62cc6AvFjuVUz77TMW2TvYaPgEaZrbeO3cg.wXU_G55WSt7tozBLMXvZnid82d8WobrVzfbu7IaratAg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNzkg/MDAxNzQ1NzQ5NDEzMzM4.DvOXhqdfio4UmIkPyT38AZVke21ZtzQNxiodIZtwxPMg.nQXGk2-H9Re2lOsmcZ_hrNIcklbtpSCR1sTJzg4Sh44g.PNG/image.png?type=w800)
+
+( , 51 )
+
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjYw/MDAxNzQ1NzQ5NDkwMzg2.HGJRbBBsZwlKgte87X2q1istU9z_xcMGlPkBhfFwFWUg.XYQwrIJZys4u5JXCuY8WG47GwUJ4dL0iLNujdVLEP1Qg.PNG/image.png?type=w800)
+
+---
+
+** fishing gear **
+
+Incheon boat fishing 2 ..
+
+6 8 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNjEg/MDAxNzQ1NzQ5NTY4NDUx.iQK6IuPPDbiaxbpxNH9AaJJW8BUCpEJnoqXnAVFarxUg.GORo4Jjj7SSy-P-QuRekC6IVQixqbfCQQx7xIeRpO9kg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjg1/MDAxNzQ1NzQ5NTc0MjUw.SGEDClvQijQK-obScNmwbnzXbnCtzijA8Dvm4pQdQ74g.kEoPFnHTOV0h7LkzMfjb3WR6kbfJyUM--7g7Aomrnu4g.PNG/image.png?type=w800)
+
+6 ( , 60 )
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTY1/MDAxNzQ1NzQ5NjQ2MTE5.LW7Irf1m0cRrlOaAeYAugbVFm59vOlOh3A-GH6JjYxkg.nPtR063_HHXlh1S8xS7_XnuvkHXm2JZ4EO3P7tHKCM4g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjAx/MDAxNzQ1NzQ5NjUzMDE4.ynhbyS-s9PTJxfNJmLFwbLtUREplj8f8nepJM4Za5vsg.LLec71cLdwSGzQSMXFqo4_V2jLaoErsV_zstkUcaUO8g.PNG/image.png?type=w800)
+
+8 ( , 66 ) 23
+
+2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjc5/MDAxNzQ1NzQ5NjAxNjgy.6lUNZLcDa0xa9mDRQVIdVSVPD5xP8jQgrnRluOQoV_og.HK1bFafad0xNuVX6JZcLiofr1l9gm06fjN-6H6uoKnQg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNTUg/MDAxNzQ1NzQ5NjExNzY1.q0RHQJprow51AUIBqzKV5LKF0q_PgRogH0eQOCbI0jgg._PhL-4r6altZClPiuITGfV5bvFO_1_Jd93VX7MPRDsMg.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjc0/MDAxNzQ1NzQ5NjE2MjU2.pltYHu3ZWrlLfhWm2fM1mZu7SOD46hMMddfyGDDVCn4g.iG3hp7J3A8XmmLWO0oH3siLWE6ZAA8_h1bayU13fopQg.PNG/image.png?type=w800)
+
+2 ( , 47 )
+
+Impression . fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjky/MDAxNzQ1NzQ5NzExNjk2.YGH6F9R_K1IGkj-g6z8QXoBORW_TPvGAFOE6kDhNWjAg.MyzSCIOwkhwSLONAyBVC6fU4hC0w7NjWtmt5XGqQAhgg.PNG/image.png?type=w800)
+
+---
+
+** fishing gear **
+
+. available .. available fishing gear .
+
++ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNyAg/MDAxNzQ1NzQ1NjA4NDU5.NCe9PaTn1YYxwBRIEs5b4hXb1HCISyoYq_Ufa3n2-NMg.t8IDNWcIDVbcL6yTVwWJ3hQBFbPDRnAq-xnn0rm5_nEg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfNjYg/MDAxNzQ1NzQ1MjY4ODgz.y1KovAm9KftS4iDxvkPBd42gFm-M7WhBjdprN9MVMbMg.TcZvM49sLDq2eL1wez8i2FpcErzjOeyctbhsd7KvI2Eg.PNG/image.png?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTA0/MDAxNzQ1NzQ1Mjg4NDU3.OPdHCEmYqqRk4bnr73aZQ7yIU_XmteMbtBIpwtEzCnAg.qNfofD9CPs5WqPcNuNvNmts3Z0bwZe6KwgW4OA0_NV8g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjkx/MDAxNzQ1NzQ1Mjk5MDcx.zGbIgnuGOVTrSY6CIIEiYX7zaB19l_u_LY2TDovSLmkg.FGJuLaA7nuOdXv-dEzFnuFiZp3BLHk24M3V4Mkb5Q8cg.PNG/image.png?type=w800)
+
+( , 70 )
+
+, , / . fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjgz/MDAxNzQ1NzQ1NDE5Mzc1.CeVWWWKuLuldF9kl8w_4n9pk6rOhhaumB2lIEikknHYg.8WYTi9hQwBUEy1nd8WQjQcemclgqpeYtdgFd3rqfyTAg.PNG/image.png?type=w800)
+
+---
+
+**Incheon fishing gear **
+
+2 23 2 . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTE4/MDAxNzQ1NzM0NjA3NTQy.IMQGcFIGdZUXD-3fLik6x30HLXSV9gwr7816bAcZCO0g.fTOND0PaZSnhH8Hn-js-fiTdSgGaDPjN5TZEVAFnmwcg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjkz/MDAxNzQ1NzM0NjE5NDA5.Y1-MDAjNiZrNUxO3gv-sK2MNoj6fOJulQ-FACit5s3Ag.9coPc-ZqMLOGJhHskmg13yX-mcjBB2N55acQL629POMg.PNG/image.png?type=w800)
+
+2 ( , 75 , 50t)
+
+2 . . 2 verification recommendation .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjQw/MDAxNzQ1NzM0NjYzNTI4.SnLvq0GG0HlBGVXx4fCzzAneo21avgWgqGI8rM1Ww-Eg.MYvKa8NOeaUEy6l9hj4LtPevE5sjx3dOEULQrDa90bog.PNG/image.png?type=w800)
+
+---
+
+** **
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjEx/MDAxNzQ1NzM0NDExMTM2._980_E8mC3dtJSrMz69_cDgBpPHDrsj61D90DckacbMg.816m-Fl3azKZ0aoxKW170DEWrL6a80M0dNKhuz1C108g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjE4/MDAxNzQ1NzM0NDI0NTYx.pFvuBv-xXHIgn-_pkMoUPZbIBH8LhfsyWIc3ycCVGeYg.MFBNBpz7TFOarTU5Y76dl45vA5aEXMb6emFuz_DmGscg.PNG/image.png?type=w800)
+
+( , 75 50t)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjI0/MDAxNzQ1NzM0Mzk4MTQy.9ArArkCMyhm-d1jqu4SCRU3yaa-G2P1j5L8UbCXSrkwg.lvqUr-35OrXpgBFud5FHpruggnnwUbUpt5-aGxMVM4kg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTc4/MDAxNzQ1NzM0Mzg2MTQ4.A2fGCBJFc-BDe74WIx8m8eaKQ5Xv1kjN21iFTWk1Sskg.H54gQiymLW7K5_-CJpxDjGxO3F3B_houGC-hwGDUqqMg.PNG/image.png?type=w800)
+
+( , 48 , 30t)
+
+. 48 . ㅎㅎ . verification .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjQw/MDAxNzQ1NzM0NDc4MTk1.ejGrAxL0pwtEvJdKYRBhaWYoh0Mh3wMCsNp-0DpiZGog.HuRbDybejKpyP8ddF-WfGIL-NPtIwwLvIt2D0wZA9cgg.PNG/image.png?type=w800)
+
+---
+
+** **
+
+2 , . 61 . 23 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTM2/MDAxNzQ1NzM0MTMyMDE0.YvGxwYTZ3JDq9TdKgcTtp7liWUZoLIaFtTBaU20Vd1og.LLvqBCI0QtuKFrTgGMzxCcQ10VCMPknJeXUZaGGjry4g.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjIx/MDAxNzQ1NzM0MTIyODMy.3oXC5buy8vcqHkVMLiyiAtpejeMFb3Ov7ck0SkJBxyMg.9xN76EG5HDoVWXxb-KnlY-2od-I2pZOoh0-C-sFJXxgg.PNG/image.png?type=w800)
+
+( , 61 )
+
+Fishing gear . verification 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjIz/MDAxNzQ1NzM0MTU1OTUz.MUizpQpj6VzLJiF_Er4aw_xtGmLGXrjyGDqe1wBm0csg.UF99rEoqWHKTZU00Cf_Pkc3tSxvLJDrv7fd2JKMvIrMg.PNG/image.png?type=w800)
+
+---
+
+**Incheon **
+
+, . 75 . 23 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjA4/MDAxNzQ1NzM0MDM0OTQy.qCFd_EAcP5AKuARGrw8gE66IGYxQqmcFq0o9zwxUjmMg.BNP6aR0O_0HgSIa6OnCK4ak0V_PbUmPhpgs8hIjOiwsg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjgz/MDAxNzQ1NzMzOTUyMjIx.aDvkc0at-11SE4Ed3QKSYB8SIZTy__7ev_qeSoivTv4g.VLL3imiukSAZf5-0Pm82_ZaDr-YgPOMjvmHH1P8b0F4g.PNG/image.png?type=w800)
+
+( , 75 )
+
+Fishing gear available .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTkg/MDAxNzQ1NzMzODQ3Mjk1.A97pI783OIWwXxTXsQP4WAaA7zRBXiWeeaqFNJS3B3og.2EFS_L8J8V-9Gy8ljcOB-mFkeWSjqF5ODBXRToeA2oUg.PNG/image.png?type=w800)
+
+---
+
+** saltwater fishing**
+
+Saltwater fishing .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjEw/MDAxNzQ1NzMyNTE0MzI4.9ZPlTlRkOdFRlxPrXiisUxATnk6HgVb409Zqqxgvw5Qg.48woJ25BHtelHkClearkrsxd5P3Sg6ItKWabqenfcBgg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTkg/MDAxNzQ1NzMzNTc2MTMw.b7FgkjT1BqBhVq4H0B4kwZE8HU7BL3CodThvlM2w6Qgg.q3C1PikdfFDNsl9MJVgSwZEeT9PEyXwOKHt62CCyl4cg.PNG/image.png?type=w800)
+
+( , 55 )
+
+. . verification .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjI2/MDAxNzQ1NzMzNTI2MDIz.L4uXV6nJ5m_JL9W6fDaqeJo3i2MSfhWo7NJg85TfCdcg.QPS7ZyxksZwkUmeYY3I6eudIPo7mS-pQJHPxktkK3xkg.PNG/image.png?type=w800)
+
+---
+
+** 5 **
+
+5 . fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjg0/MDAxNzQ1NzQ3NzQzNjY5.qjDYfUFS5F9OktF68ty1zNRJQoG-zaTxPepuu63TM1Ag.On6AXS0VKQhFGVcM5EEAbDeFUfKTJQsZ0vaOz7_jalsg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMzUg/MDAxNzQ1NzQ3NzYxNTYw.QTZXhh_7scF_bgPEhThKbg0tG7h7aEhMe1yhGI1L2UIg.DrflonhvfIJzWMmmV9mGBx6WUQOhOXWCDNd0--IFRhsg.PNG/image.png?type=w800)
+
+5 ( , 55 )
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjAg/MDAxNzQ1NzQ3ODE4ODg1.F4vGsiCVTs96S0V3mpgqHgcrFCe4UkBa-NK0TZh2Hvog.A5YOQp21P6xjp9JoJ2kejV1jfEe2GrvZA7CbLUMVVnwg.PNG/image.png?type=w800)
+
+---
+
+** fishing gear **
+
+Songdo , . Songdo fishing gear fishing gear ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTc1/MDAxNzQ1NzMyMjcwMDgx.iTjly7uvCO72EMZPteP_rJDffCe6wRHqZI2lFkDaoqMg.Ld_ZMO7J98nY05YveimcGFuAGZQvdLxU1hD7fThOYWAg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjc0/MDAxNzQ1NzMyMjg1MDUy.mXthPkixxyLuXP2_xO2kKP_F8jrcKYN7rA4pP2xRE1Mg.40PQEZYSWA-vK2_Nqc9c3bTTf90CGxaxkjU3ejs5mXog.PNG/image.png?type=w800)
+
+Songdo ( , 47 , 29t)
+
+---
+
+** **
+
+7 . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMjU4/MDAxNzQ1NzQ2MDA2MjA0.0TA-h_UQ5cSew0-9dN4bldjxtku1Zpusv8CEopKtW0kg.uBwdgEsJDKLtM0higR4KWmcy-XbJ-U2xHyYXRJwGN5wg.PNG/image.png?type=w800)
+
+7 ( , 50 )
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA0MjdfMTMz/MDAxNzQ1NzQ2MTI3MTU2.qy95k68eb5udcb5n8jPytEr5yJjPi7gKbmBNLP590mwg.3U7td5KcHH8tM7Lg4V1bmkKGlipghKe2SsEuFYh5WPMg.PNG/image.png?type=w800)
+
+---
+
+Incheon fishing gear . . impression .. , .
+
+Incheonboat fishing fishing gear . fishing gear . Incheon 50% .
+
+Fishing gear impression . Incheon .
+
+Thank you!.

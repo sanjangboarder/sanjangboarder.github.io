@@ -1,0 +1,82 @@
+---
+title: "[Personal Expense Dining Review] restaurant"
+date: 2024-09-23
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223593305072
+source: "https://m.blog.naver.com/sanjangboarder/223593305072"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjQ2/MDAxNzI2OTEyOTEwODAx.KAPLKykQeJ5vNgCMBRpS1iqRvNh75s7J1HicVtypPUsg.sbcmuHMLv35syM_kO3Pu5MyUHtO5WQUXly4XBXPHIhsg.JPEG/20240921%A3%DF090814.jpg"
+description: "Hello, this is SanjangBorder. restaurant . IC . 24 2 . Report reel . .. 5~6 . Self available . reel .. ㅎㅎ . 1 . ~~ discount 1.3 great cost-efficiency impression"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Restaurant . IC .
+
+24 2 .
+
+Report reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfNjcg/MDAxNzI2OTEyOTEwODUw.ov3waWWTVA1eGnDmsQsENAj_wY6b3ZVYoxGrEdV-Evwg.d2FpLGcTHqOlS5pJ_xaOIAuD4x38CeaZ4KD4X9HSjDcg.JPEG/20240921%EF%BC%BF090143.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjUy/MDAxNzI2OTEyOTA3Mzky.c4BuztbksZFo0Tlflx755UJscLEWienqWfgRUK437iMg.Sy0Wpa30xvms-9z9Jh3E9xIOuEjHavzGFxgWwVuwr7cg.JPEG/20240921%EF%BC%BF090159.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfNTkg/MDAxNzI2OTEyOTExNjQ1.0-TJX4E1DjjNaTHRN2edheBdMJKkmWwPYp3is9hNbgAg._fwI3ck8UjgYTOZONKLFwTFzJuxFmk4EP2DA1-_kD9Ug.JPEG/20240921%EF%BC%BF090200.jpg?type=w800)
+
+. 5~6 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjMg/MDAxNzI2OTEyOTA4MzI2.rgteiP0FnBo0dO8OUuUTjEIR_TwmReM-BNlVFiiOSqYg.23yVOZ4vScTnSiNGyqn1SQEJRzDn_01YE5TRrh5Q9Zcg.JPEG/20240921%EF%BC%BF090308.jpg?type=w800)
+
+Self available .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfOTkg/MDAxNzI2OTEyOTA5NjU2.zCQgbu-Rg3RK59liUVN6T2PFowI0cwP1awnmqG6Ke0og.7rbWMmnV8s2K87OFaEtHIMv9qiXTRaHCxJQWV5tIRCUg.JPEG/20240921%EF%BC%BF090229.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjc3/MDAxNzI2OTEyOTA4Mjkz.xLKEoSY2nXD3L5fFP_cTcwYGzaz1A7H6FIPXdqLCR1sg.UC83jsIzkKkrpvkn3LThWEx3mDEkYAuobym9hpgyVusg.JPEG/20240921%EF%BC%BF090644.jpg?type=w800)
+
+Reel .. ㅎㅎ .
+
+1 . ~~ discount 1.3 great cost-efficiency impression . 4 . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjQ0/MDAxNzI2OTEyOTA4MzA0.i5h_Ec_T81aFkTa88EyWs9CtcWP9_UGNZhfm-t8mtZEg.TqRzwkSYnKOhNaCoFJfCrhDyjVkHEeQrEy_WMX-11yYg.JPEG/20240921%EF%BC%BF090718.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjMz/MDAxNzI2OTEyOTA5OTEy.9yAtr0lAFXvEsHWJ6-m3OHQ5nbUqpO0TFfh_pMDtQucg.AEKAUIaeo1AlqiCrwM0Gdn6aRt4q0SpglDaVjrcK7fog.JPEG/20240921%EF%BC%BF090730.jpg?type=w800)
+
+. . 1 ....
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjE1/MDAxNzI2OTEyOTEwNTY0.2mcbGBh9KIhhr--n3cRehd3uRQlB4NTXW4zxDKzrTZYg.d54QC5BYrKthxECKnvsZoRcs0VCs0hSWOZBMxjRhe38g.JPEG/20240921%EF%BC%BF091053.jpg?type=w800)
+
+. 4 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjAw/MDAxNzI2OTEyOTA3Mzcz.zH7xy9AZKx6x-tZflR5FzdZH-ou2rEhA2H7T9-fKoisg.YtGHqdsSukr808MonPGnK9buy-iCTQtp4Obw6rTC_1Ug.JPEG/20240921%EF%BC%BF090743.jpg?type=w800)
+
+
+
+.. 1.3 discount .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjUy/MDAxNzI2OTEyOTA4OTg1.57r-51ifIaWoPwMzKvGe2gB3gm0JDik5jIUTMS0WyHEg.E27QkZe0K-iHpA9vWveGKaFOF6xbHzNIDo6qj-e7meEg.JPEG/20240921%EF%BC%BF090810.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjQ2/MDAxNzI2OTEyOTEwODAx.KAPLKykQeJ5vNgCMBRpS1iqRvNh75s7J1HicVtypPUsg.sbcmuHMLv35syM_kO3Pu5MyUHtO5WQUXly4XBXPHIhsg.JPEG/20240921%EF%BC%BF090814.jpg?type=w800)
+
+. .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjU2/MDAxNzI2OTEyOTEwMDMw.BrLef4RtbpSOC_PkAzPI3HOxZS0wZRdLDHN_v6ls3JIg.ZvsIw2znzfMRgxsbOxAVZJ6fIYfKcFOFqhsapES5w-cg.JPEG/20240921%EF%BC%BF090913.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjQw/MDAxNzI2OTEyOTExNDEz.FpqVRXutXXWDXilWg6fh_W6Ilzs920LMOJC1A1LOWKQg.rqx1DCrBp2xqtz-eygO8MQ0fI12Z-qT4Cceq4nlhbnAg.JPEG/20240921%EF%BC%BF090907.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjFfMjA0/MDAxNzI2OTEyOTA5MTk2.iOjbLMSJVN_bEGO-3vSYKRUaIhNFqyWWgK-BeUgp4oUg.UyPSwF3NOPVX4w9gYjOTaJP5VtqTF3hgGVuDk7mD9fwg.JPEG/20240921%EF%BC%BF090919.jpg?type=w800)
+
+Impression . . .
+
+. impression .
+
+. impression ..
+
+. ㅎㅎ restaurant 5 4.5 .
+
+Thank you!.

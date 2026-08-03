@@ -1,0 +1,115 @@
+---
+title: "Fishing gear available Seonjae Fishing Park Report [24.10.19]"
+date: 2024-10-21
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223627657099
+source: "https://m.blog.naver.com/sanjangboarder/223627657099"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjc1/MDAxNzI5NDkzMjM2Nzg2.jk-FOSJK2jpEdHJxKkFAeN0zwTo8qtYUlqyT5GhlH3Ug.eW4-w_KTGPvLrC28fUfp0z4pbPlLck_Ak7Dwtp5-krcg.JPEG/20241019%A3%DF221240.jpg"
+description: "Hello, this is SanjangBorder. Seonjae Fishing Park . . . .~ . fishing gear . ㅎㅎ reel . . ... impression .. lure fishing ... Seonjae Fishing Park . 8 .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Seonjae Fishing Park . .
+
+. .~ . fishing gear . ㅎㅎ
+
+Reel . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfNjQg/MDAxNzI5NDkzMjM2NTkx.LaCbxZRPzauayKgoE744y99u-Oww8vOS4LxtgaKhtZIg.r2ouRROrTBT9XgbuAdVfP1cjLlYMZwVD6w-k4tpIyIsg.JPEG/20241019%EF%BC%BF193452.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjk1/MDAxNzI5NDkzMjM1Mzg5.Rc0X1vJl-Au4A3bRPH5IbBbA4l1L4cQxcYMm7xNlrUIg.2jfxfNmxd9a_bhiV8s9J1tU8c6zXt8Y9G5d-1tBJqzkg.JPEG/20241019%EF%BC%BF193629.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTA0/MDAxNzI5NDkzMjM3NDM0.yVeiSgXcTYuh3Mfw_6TF89H2G1ugSYU4Krm1gsMCi9Eg.LpIJG_P35HO2i5I-KsBABU3McSuQ4dazQeWXVBv-TnMg.JPEG/20241019%EF%BC%BF193332.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTky/MDAxNzI5NDkzMjM5NDYy.Ntq1u0Kyk08lZDvM1Q43_yVo_jtHV9VyHbX0yAupPWMg.pzRGXSIWE3hMsaPYZc5ar_zS-q_mJIuRDY164mMWvmMg.JPEG/20241019%EF%BC%BF193440.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjIx/MDAxNzI5NDkzMjM1MzMx.IoyTJM9-TieKLFO-xjCBLz4pUZ6xGXjq1I0bX8uLyIcg.QUFFscvlPHIe4yGskjCiGf-LerA8DmcSSi-lW5Dh7sog.JPEG/20241019%EF%BC%BF193509.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjIz/MDAxNzI5NDkzMjM0MjM4.cgHjalXzS6HMBbFmPWpyfeQgfPYRRHyeTyZL-wUIbHUg.tAHtKBw6Nx34Op6L090wrJfJwJmMG31bs-FCpwrmtTAg.JPEG/20241019%EF%BC%BF193758.jpg?type=w800)
+
+..
+
+Impression ..
+
+Lure fishing ...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTI5/MDAxNzI5NDkzMjQxMDY4.F7nbnS3eXK05EJUIFcs1bsPFhPnX0uqAoJTCvbgESEIg.dW81f8JyW9Mr6MkIrCduijAUl9x7nFh1QqDio62YuOsg.JPEG/20241019%EF%BC%BF181647.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTQx/MDAxNzI5NDkzMjQwMzcw.eh7KH0WzbZvxsi65U58DnyAdCDTX56JQJd3FltMgC9Ug.50u8ChydIgd7tVgZG-MhsS7WycXRSO6n0TQoeEnmVwwg.JPEG/20241019%EF%BC%BF182808.jpg?type=w800)
+
+Seonjae Fishing Park . 8 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjky/MDAxNzI5NDkzMjM3ODI1.l4ZgI8wj8VFahff790pkvuu4tNWrXSEDfD9rXJoFihQg.vdFfdO89p15eqFtOU79QNip-JnCjs3XuI4hqazrzNDcg.JPEG/20241019%EF%BC%BF195058.jpg?type=w800)
+
+. fishing rod 2 4 fishing rod .
+
+> **Seonjae Fishing Park **
+>
+> fishing rod : JS Company E2ver2
+>
+> reel : Shimano 23 C2500S
+>
+> : 0.6
+>
+> : 3.5
+>
+> : 1/16, 1/10oz
+>
+> 3.2 , 3
+
+Fishing rod Seonjae Fishing Park hands-on available . red sea bream .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfNDMg/MDAxNzI5NDkzMjQxNTUx.9MCr1Nx3Japbw9RFH6hHJysvE2ukGoA1h4xFacvKfeog.9Nm4VAZwBIbYfw1pnZSEVAMJwPaBji1xfkwUDZcWCyEg.JPEG/20241019%EF%BC%BF202123.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTAz/MDAxNzI5NDkzMjM1MzU2.JwGxfYElgsIsiXEZj1xCm94nMlYUeIFuYPD2ehGufeUg.8ORXEUCs-eDGBqQ1HUTZ7KpvMR4fJKUsyiMKmT0QX4Qg.JPEG/20241019%EF%BC%BF221329.jpg?type=w800)
+
+. verification . red sea bream rockfish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTM3/MDAxNzI5NDk0OTc3ODUx.M0qWo9PQGl8PhCEsyf8jNtNXz9B_Ss1MpK0koiCsW1Ag.mZVLtVtVYxmAAunFuFfnW11CUi8Pwa0t_zVi2XNbKnsg.JPEG/SE-4bdd822e-8f78-11ef-9cff-d5580ebfec23.jpg?type=w800)
+
+C,D . . ㅎㅎ
+
+. 2 ㅠㅠ.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjkw/MDAxNzI5NDkzMjM4MjE0.AKWYZ0CQ8khdObWYtwX2W5P-scqW97i6uEiQ9BxD7N4g.0ne498wZxP6ISqFlclImQOXfwzsRuz8Hc6634rQtKdgg.JPEG/20241019%EF%BC%BF201632.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfNjYg/MDAxNzI5NDkzMjM4NzY1.TlSb1X2QDgPg-Kj5eDZMvaR0A26uRYy80sVS9HjkNoUg.onUH2yCh2BMjC1ce3PHRUQViXDM7s7ndbm7vGbYRHOgg.JPEG/20241019%EF%BC%BF201639.jpg?type=w800)
+
+Fishing gear A . . . A, B, E . ㅎㅎ + 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTY2/MDAxNzI5NDkzMjM2MTU4.UibIbbrzz0I3Dthlf9DfCv9FuYQXDAlX5gaK2CXIAmEg.dSfk6VjGwttseakj1cJlZ2AnQebDIspT3OcjIVAdRhYg.JPEG/20241019%EF%BC%BF203139.jpg?type=w800)
+
+E . .
+
+Red sea bream .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfNzEg/MDAxNzI5NDkzMjM5NjMz.XlI9nVH7Lvjj2tfPn61cLfWDRw9cOLytV2n4MNB0Rvcg.UA4lIUBAua0RVQqrjOkjjCvNnTxiu6sqHGfoI_hrA9gg.JPEG/20241019%EF%BC%BF204028.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMTE5/MDAxNzI5NDkzMjMzMjk2.PXwVoPqEPkGVog0mv_i92z7Ge-ycRx66hoglYRi_pEQg.Hgm9D_fXh-PfjEnokihNCPMgeKH1iVg71toJpWc-6Lgg.JPEG/20241019%EF%BC%BF204034.jpg?type=w800)
+
+Available . red sea bream impression ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjE4/MDAxNzI5NDkzMjMzMjI4.GEy9Z0ZTGWpjm6lsXpKyPHsskt7jfycfDN0XY7bEY3Eg.hZ8mIyyDtIpZHpA0_HrbPpqZau4-TrZxnxohlLcNbWMg.JPEG/20241019%EF%BC%BF231705.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjYg/MDAxNzI5NDkzMjMzMzI3.HzELiFf_v8heJcvyGVUsAkNQwGoZsnXL62Y65Fr4N3og.DkklWgwa9B06TOo9_cXovLoYqQ56xCOuMFDC9hnTBzYg.JPEG/20241019%EF%BC%BF224309.jpg?type=w800)
+
+Red sea bream .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfMjc1/MDAxNzI5NDkzMjM2Nzg2.jk-FOSJK2jpEdHJxKkFAeN0zwTo8qtYUlqyT5GhlH3Ug.eW4-w_KTGPvLrC28fUfp0z4pbPlLck_Ak7Dwtp5-krcg.JPEG/20241019%EF%BC%BF221240.jpg?type=w800)
+
+. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMjFfODAg/MDAxNzI5NDkzMjM0Mzcz.y4bMyDbmQcSklalJNZZBjO4sh_w1SldGhvfe8xvypjog.gedAEQglpx_BZ5oYkmAld3dvRjXJM1Euft3hwFoOs-kg.JPEG/20241019%EF%BC%BF221245.jpg?type=w800)
+
+. verification .
+
+Fishing gear 3 . ㅎㅎ ..
+
+5 . .
+
+Fishing gear ㅎㅎ Seonjae Fishing Park .
+
+Thank you!.

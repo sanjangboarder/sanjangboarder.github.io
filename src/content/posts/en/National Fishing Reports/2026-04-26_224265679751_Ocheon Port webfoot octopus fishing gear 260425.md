@@ -1,0 +1,165 @@
+---
+title: "Ocheon Port webfoot octopus fishing gear [26.04.25]"
+date: 2026-04-26
+category: "National Fishing Reports"
+categoryNo: 17
+logNo: 224265679751
+source: "https://m.blog.naver.com/sanjangboarder/224265679751"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjA0/MDAxNzc3MTg1MjkxNTAy.jBkO-U7C3KMCWjR3j-hQbzbeVTJXLdz8el6P4nwhbdMg.ixUCcbixUkRN3TsonIx5DgOW14MgEMV_wxfIkrliXmMg.JPEG/900_20260425_171345.jpg"
+description: "Hello, this is SanjangBorder. Ocheon Portwebfoot octopus fishing gear . webfoot octopus fishing gear saltwater fishing , . webfoot octopus Ocheon Portwebfoot oc"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Ocheon Portwebfoot octopus fishing gear . webfoot octopus fishing gear saltwater fishing , .
+
+Webfoot octopus Ocheon Portwebfoot octopus fishing gear 4 25 ~27 , 5 9~10 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjRfMTI5/MDAxNzc3MDM2NzAzMTU1.NJS1tPLWYnLjg_UfACo0Td0RlEhTJgiTitHUf1nFNxEg.BpdYi28FU0KS_vsMLkS1YbP37-jctufWUIoI-jOk_pEg.PNG/SE-3f39d7c5-02f5-4e39-81f5-5b1aad19c92f.png?type=w800)
+
+5 11 webfoot octopus fishing gear . webfoot octopus 8 12~14 . .
+
+6 Ocheon Port . Ocheon Portwebfoot octopus fishing gear flatfish .
+
+Fishing trip TEAM MJT Ocheon Port .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfODQg/MDAxNzc3MTg3OTM4OTIy.AEkbPCjyyVmxfko4ywmOvIspbhI8nntdcWGMlgjVigcg.22eT02yrxDaOVt052BdGZDFp2wdNK33pkaF497YMBy4g.PNG/image.png?type=w800)
+
+
+4 ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjc0/MDAxNzc3MTczNTYzMDc5.QOBd2ts_zOH41Phg8b-q4zNpGOO2-X-yiU7n6Mchjf0g.ieBtEoIQqWymUogJhdFWm4dIc0sWot5BX3T3ZINvWfog.JPEG/900_20260425_055224.jpg?type=w800)
+
+Ocheon Port webfoot octopus fishing gear 2 .
+
+> **Ocheon Port / **
+>
+> fishing rod :
+>
+> **baitcasting reel : 100B + 130mm **
+>
+> : 8x 1.2 PE braided line
+>
+>
+>
+> fishing rod : ** 39g**
+>
+> **baitcasting reel : Daiwa **
+>
+> : Haedong Limit X9 1.2 PE braided line
+>
+>
+>
+> : sinker 16~18
+>
+> BB 20cm
+>
+> ** webfoot octopus 5 **/** egi lure**,
+>
+> , / / egi lure, egi lure, cuttlefish
+>
+> SanjangBorder
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTUy/MDAxNzc3MTg1MTk0OTUy.bqY6aoNTCBLRp3dBQWReQW8TmGa6afzpsepRMk6lw34g.8APHCyVpIdu4ZmrXNGndp7VVdKBv17_x3RjzQH2h9a4g.JPEG/SE-11d80fcf-411f-11f1-83ee-7353666fa7e1.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTM0/MDAxNzc3MTg1MTg4NTk4.bKaQhxrMZvEciqIt0wYW6OjnNvrzGT36sLVBuErJdf4g.92riXdEPFy2nQqhAT4ecHNUOE8zMCevANZRv-BmgEKog.JPEG/SE-11d8d320-411f-11f1-83ee-89fdbf06e648.jpg?type=w800)
+
+: , : Daiwa
+
+Fishing rod ultra-lightweight baitcasting reel 130mm fishing gear . 200g fishing gear . 100B baitcasting reel . great cost-efficiency reel reel 130mm .
+
+[Link: ultra-lightweight 124g 100B baitcasting reel 6.2:1 webfoot octopus cuttlefish ](https://naver.me/x0OMctnh)
+
+39g fishing rod Daiwa baitcasting reel . fishing rod baitcasting reel . 39g fishing rod 8:2 fishing rod .
+
+[Link: Daiwa 26 webfoot octopus cuttlefish flatfish rockfish sea bass Oesujil live bait drifting reel ](https://naver.me/GNJBkGLH)
+
+Egi lure egi lure . 70% . recommendation 9 1 ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTgg/MDAxNzc3MTg1MTc0MTY1.fIJiAWfMdaMlB0-YO5U_Z7X7i4jVRK-IVKLa_pxUK-Yg.Gjbotnz3EQDUrzrz3l-gZhWUqyCZ8P9VpFYWw-CHCkQg.JPEG/SE-11e09b57-411f-11f1-83ee-7952922af367.jpg?type=w800)
+
+[Link: egi lure (webfoot octopus cuttlefish fishing gear egi lure)](https://naver.me/5PWZa35u)
+
+Webfoot octopus egi lure egi lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNzcg/MDAxNzc3MTg3OTE5NjU4.WPZVUImildUO38Lh5StjVSOK7HNGFBZ6xIEMpu1BPBcg.T4NTjxEGk591Fe0yb0A1Ecrcp2IWQX34nLFOY324F4Ig.PNG/image.png?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTAy/MDAxNzc3MTg3OTI2NTMy.aUVsStken5M3TV144yL7zwRHJKfSMZnMDbMadtbaHSUg.zN1XbJ7em_tRkw7Bx0VpewjP1pDuuiWx1dw1JZethj4g.PNG/image.png?type=w800)
+
+[Link: 500 (25 cuttlefish giant octopus webfoot octopus fishing gear egi lure)](https://naver.me/GahzdVLd)
+
+Fishing rod fishing rod 9:1 ㅎㅎ fishing rod .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNzQg/MDAxNzc3MTg1Mzk5MDQz.LDcdtEHDgeZ6feBXnZqf9qIkmtYSFzVhrehjj4Y1EnUg.zngwaamSySzRT6XKIbJZclTKKBIPA4IH1WLOhfdpqUwg.PNG/image.png?type=w800)
+
+Webfoot octopus fishing gear . ㅎㅎ .
+
+Webfoot octopus fishing trip .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjgz/MDAxNzc3MTg3OTA4ODY4.vRJAZwCCupqPQEUXa2yJxCnrhSZbnKwa--56tjoQxkIg.HymkSHYZMhktgI9Mn9OnJTVNKTcaAQqZR0_mc0Md--0g.PNG/image.png?type=w800)
+
+9 7 30 ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjk5/MDAxNzc3MTg1MTU2NjEx.-7vFqYuys9Z2vrMVwvE52f2p23AkQ3Sm37jgT3NxqH8g.93M0iMflhpzXlEuAo6N3QknOzUdWRUhHGZuJonqq4fYg.JPEG/SE-11df3bc6-411f-11f1-83ee-75f53a478de5.jpg?type=w800)
+
+. ㅎㅎ
+
+TEAM MJT .
+
+ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNzcg/MDAxNzc3MTg3OTAxMDYy.9LOVo6mNsCQv1_UILZ38oi7097JrRQNZSthZ8YMI8dAg.GdZIYjEHW9IXmt_78BPQhaFbDsd49ToVFOBel6OaytQg.PNG/image.png?type=w800)
+
+. ㅎㅎ
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjU0/MDAxNzc3MTg3ODk0MDg3.Njd9NTRrrAt5O6XSP3po9QHCFn9l3wMDitAYolL-LDEg.CKbbRt7h1TpUdMc4UC8CME-32Gov25ailVEIrkC1fzYg.PNG/image.png?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjcy/MDAxNzc3MTg3ODg2MDkx.8lk68wbH3SDvVDO8rc3V5mFDwGza1Rb9Oytf2FrZ2Y0g.IFw_B0bhZ7jyibPuZ4cEl9oXkEcGT2TJE52ScwJ1zxcg.PNG/image.png?type=w800)
+
+Daiwa baitcasting reel 39g . 8:2 fishing rod . sinker 18 . Daiwa reel reel fishing rod reel 200g ultra-lightweight reel 5 .
+
+Fishing rod fishing rod . reel . fishing rod ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTI3/MDAxNzc3MTg1NzQ4ODM4.BnFTgkh5llZCW_bG7s9K_7Eygeq8bTqnqqmNAKK7mKUg.YzazSLvQwurw2h6b8tpBE6SdTfl2MkIdSVGY9-8c-YEg.PNG/image.png?type=w800)
+
+2~3 . 3 1 . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjIx/MDAxNzc3MTg3ODMxMTg3.5rhD9oQMbwqJrAlrM1BCUm9rG3KR_1DxrM36j0sCUw4g.1nhcLIX7N6L7mJ_slcFf8DQ8JZmQnjLKEwwVl1jRGjYg.PNG/image.png?type=w800)
+
+D TEAM MJT fishing trip . webfoot octopus egi lure . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTA4/MDAxNzc3MTg3ODQyNjQy.sYON4veAvMvpJzIGpB0Oi8C9GbzHB3R022T0ymWJRdog.P_GKHY-_woB4VorfkGo-clzKyeYrnWAoydTMIhe5meMg.PNG/image.png?type=w800)
+
+5 fishing gear . 20 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjA0/MDAxNzc3MTg1MjkxNTAy.jBkO-U7C3KMCWjR3j-hQbzbeVTJXLdz8el6P4nwhbdMg.ixUCcbixUkRN3TsonIx5DgOW14MgEMV_wxfIkrliXmMg.JPEG/SE-11f4e6b4-411f-11f1-83ee-930a84e6e0e3.jpg?type=w800)
+
+Webfoot octopus . webfoot octopus .
+
+TEAM MJT .. fishing gear . fishing trip ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjgz/MDAxNzc3MTczNzI4Njg5.PToCUFuIMpf4ZnDGK8hrJ31EDpHI1qnjE-y_kG6I5TEg.BPIwKstqfGhVJ_3XfnYc4gJRc79z-U-D6FWn8yazLdgg.JPEG/900_1777168748698.jpg?type=w800)
+
+95% .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTUw/MDAxNzc3MTg3ODU1NzI4.bp_GBCsASrueUyZLqQ7BNHUzisDaWoedHG2zJKr9Kzwg.3pBG7_2QyrLGDpxq-71deaa231y2aJKzpTj9_aelkLQg.PNG/image.png?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNDIg/MDAxNzc3MTg3ODYyOTYx.qipmfTjia_XCAdbP7FZQ9Tvhne_mzOHnafXJ8xUkBKgg.FgHl0V9-LUW1H4pXSRQYh72vVHNHw9mUIq91nL9KhXgg.PNG/image.png?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjg5/MDAxNzc3MTg3ODczNjE5.-roNq3KaC623hf4Vro7mjfSg6DcQ8y-hMSAKBBa3i54g._LUfMA-f2RirkoPDusMpOZIKDlMjZ-1pfZze4yLQTwMg.PNG/image.png?type=w800)
+
+---
+
+Webfoot octopus . fishing gear 5 flatfish, red sea bream, cuttlefish fishing gear fishing gear .
+
+Thank you!.

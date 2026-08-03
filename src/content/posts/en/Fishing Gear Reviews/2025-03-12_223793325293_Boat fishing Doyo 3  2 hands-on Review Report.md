@@ -1,0 +1,155 @@
+---
+title: "Boat fishing Doyo 3 . 2 hands-on Review Report"
+date: 2025-03-12
+category: "Fishing Gear Reviews"
+categoryNo: 34
+logNo: 223793325293
+source: "https://m.blog.naver.com/sanjangboarder/223793325293"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTA4/MDAxNzQxNzUzMDIwOTM1.f-DTn4e235WBHjDEmysxCA8JSRrGj4B-aOWkUX7rPY0g.WXOD0RahrzJTMlafQUmAt1kM3enEEf5GxlMWbNk0bnIg.JPEG/900%A3%DF20240420%A3%DF072330.jpg"
+description: "&quot; purchase 2 .&quot; Hello, this is SanjangBorder. purchase fishing gear Review hands-on impression . baitcasting reel Doyo fishing gear 3 . saltwater fish"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+**" purchase **
+
+**2 **
+
+** **
+
+** **
+
+** ."**
+
+Hello, this is SanjangBorder.
+
+Purchase fishing gear Review hands-on impression . baitcasting reel Doyo fishing gear 3 .
+
+Saltwater fishing reel hands-on spinning reel Shimano Daiwa . baitcasting reel Doyo , Banax . Doyo impression .
+
+Doyo baitcasting reel 3. . purchase 22 4 . 22 23 . outing 2~3 hands-on .
+
+Boat fishing. rockfish, flatfish, sea bass, red sea bream, webfoot octopus, cuttlefish . purchase Review .
+
+[Link: Doyo 3 ~ red sea bream fishing gear Taibarareel reel .](https://blog.naver.com/sanjangboarder/222709975394)
+
+---
+
+** hands-on Report**
+
+2 hands-on hands-on 40 hands-on , rockfish, white croaker, red sea bream, cutlassfish fishing gear .
+
+Fishing rod JS Company fishing rod D1H, BDJ BTL-X1 Taibarareelfishing rod T700, Nsrod RF ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfOSAg/MDAxNzQxNzUzMDEyMzAy.8CxcCmdwDst6rD0AI0kSvVGh9TzbihJFK0F0ITVypKog.V-BzYfhIHI0MdnQLp1bjFCb6Boz91x1O0J3zmjLVGQYg.JPEG/SE-c5d2907e-fe29-11ef-a06b-ad0ac230c533.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTA4/MDAxNzQxNzUzMDIwOTM1.f-DTn4e235WBHjDEmysxCA8JSRrGj4B-aOWkUX7rPY0g.WXOD0RahrzJTMlafQUmAt1kM3enEEf5GxlMWbNk0bnIg.JPEG/SE-c5d41720-fe29-11ef-a06b-eb43c2fa60e4.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfODgg/MDAxNzQxNzUzMDI5MzI4.tzdeBs3UhGzN0Yhb3GsK8RLypMA7CJIchfrEzd-FauAg.ss6u-_jSUUuzjAMbiX3ny5q9xAivwHaaummicWYEuEsg.JPEG/SE-c5d5ebe2-fe29-11ef-a06b-75ed025f95cd.jpg?type=w800)
+
+White croaker cutlassfish rockfish .. reel reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTFfMTE1/MDAxNzQxNjY0MDg4MTE1.DzTbOKuuAh-0NaRHBjjrBwr0mOzJlXUSSzCfg5WSYM4g.CiogrRbUYlkGlwQGq6mjGLtMNCLrPP9-FeK__6mWWK8g.JPEG/900%EF%BC%BF20240817%EF%BC%BF150245.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTFfMTgx/MDAxNzQxNjY0MDg2ODkz.vPY4gRTveVDgpZq7zJSy5nK6X7KEF7vNYkuSrB6AyRsg.IaWPVaU1BIiQLOvKaSqQ7IoBas0s0Zt3WoP4dUWRqk8g.JPEG/900%EF%BC%BF20240811%EF%BC%BF021159.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfNDMg/MDAxNzQxNzUzMDQ5MTk0.21gg9scL1Pncfz-TBYS7xLEnURLV1800s_VYdVDO46Eg.V39OgR_8Zg8NRGn6T2OQsdOo1iN9YsEZMYPFtDNR3eog.JPEG/SE-c5d37adf-fe29-11ef-a06b-7189f551fe77.jpg?type=w800)
+
+Flatfish red sea bream sea bass . reel . ㅎㅎ . 8 flatfish . 1 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTMg/MDAxNzQxNzUzMDU4NjA1.nKIUFgABEiVdz8iYJ5MIT_YfIqnBLPpeG6GHqEpPoCIg.lI-3oOTUU_gEKjbCjBJiJRHNEGLNLEobCcnyXs1QZSEg.JPEG/SE-c5d50181-fe29-11ef-a06b-c9f49dc76dca.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMjc1/MDAxNzQxNzU0NzkyMjg5.Lpl_UAngdKfgJIAcqRMJ0LC04u8gBBS-D6oWq_U7alsg.GIChJmwbAV1OEkEoS0T2AC4IRhCo9b3xB6pSlCn1jNQg.JPEG/900%EF%BC%BF1654149859411.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMjA4/MDAxNzQxNzU0NzkyNzg3.txKLzDa_S6hqfqigm4GFdK0APKkFKY1jw6XNhamSq78g.gSKJWoHFvJ543I59WcgPIl59EbIEaBtnOnFbut_-6csg.JPEG/658483571.jpg?type=w800)
+
+Hands-on . fishing rod NSrods 1452H, . hands-on . fishing rod . fishing rod fishing rod . 3 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMjM1/MDAxNzQxNzUzMzUyMTIz.VPLQ7K3CB5BE1FKivvPvQNMfRrAL_jGsEzxa_N7GO9Yg.CuLDHlQtLsjSVst6B4rKGbYK_3oXqw-MzQsGtNFtL9Eg.JPEG/SE-44651ea9-59a7-47ce-8ddf-06a8ea6fcf28.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTcz/MDAxNzQxNzUzMzYxNzAz.fQ0bstjPRbxXNxnhMSkQtM7vwjbtbVSV5LrD7fVxvWgg.Vshx-XjCxfz5VX4zMxyPx00SVjZj-oyH4GYxrx67yuQg.JPEG/SE-c5cee6f9-fe29-11ef-a06b-591720e1574f.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfNzcg/MDAxNzQxNzUzMzcwNzE2.nfXZQEl_sTQzBUiHdCdadlYKvOE0q_l7VgttxTdsSxsg.64BE-zfbsxz7hwXEW6MqwxsgjBbkmCy_4m17EfmXogMg.JPEG/SE-96ecc4d7-bfa7-4a53-a04a-924bbcc5b404.jpg?type=w800)
+
+Reel , . .
+
+. giant octopus 3kg reel . 3 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTFfMjkg/MDAxNzQxNjY0MDg2NzYy.9ellbKPynVdeTIiZYBPDKT1hpXL7G7pOHVSpQ3QLc4Qg.Q4_QUZ649yfNeWQuhhK1J_rYPJlpzmx8e65fkOKYpzsg.JPEG/900%EF%BC%BF20241109%EF%BC%BF101716.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTFfMjg5/MDAxNzQxNjY0MDg5MTM1.zp0fZgbHip0_4kvs71_7gLNaDzmkXTXGdb2ab6MsFAsg.c2IBDwS1GASalH5N1MYTh89Bd5i_mpj8Mkp7lXu-hxQg.JPEG/900%EF%BC%BF20241013%EF%BC%BF090358.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTFfMTQ5/MDAxNzQxNjY0MDg5MjIw.RyktQu3YYEwU2uQVviBTdnQCqezMQ-_V6LqgDXCfXyAg.9d0HJr22nyK5wxjCSVMH1haMiW2BioxTn71Xw4-0u0gg.JPEG/900%EF%BC%BF20241109%EF%BC%BF082434.jpg?type=w800)
+
+---
+
+** **
+
+>
+
+Baitcasting reel reel . lure fishing boat fishing hands-on 5 .. reel . hands-on impression .
+
+>
+
+. . Shimano . . .
+
+>
+
+Reel spinning reel baitcasting reel . reel . . 3 .
+
+> discount
+
+Shimano Daiwa 50% . Doyo discount impression . discount . discount discount .
+
+> A/S
+
+AS . .
+
+---
+
+** **
+
+> /
+
+3 baitcasting reel . . 3 hands-on . Doyo Gomexus . .
+
+Doyo Gomexus .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTMg/MDAxNzQxNzU1MDQxMjYz.NkLsnNj3TQz8A56RiYM0h6SltwnznZgdT56n8kOgP3Eg.fDeBDJ-Y1Dg9ap88pHUZSv0RyQrZ7zUAkdMs3fkslTog.JPEG/SE-ee4f41d3-fefc-11ef-b505-5dc7b4669bb6.jpg?type=w800)
+
+>
+
+Doyo3 ... 1 . .. AS 4~5 .
+
+. Banax 3 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTM5/MDAxNzQxNzUyODcwODM5.pQRY3p59kZUtg0EoNhjgQ5TYLSMiwIAmpoJT-Mskt44g.JBTn03-U2cYeol9suLgT4hbqaOREaZhIm6LkdPNlC4Ug.JPEG/SE-c5d94747-fe29-11ef-a06b-1753141c7c76.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfNTIg/MDAxNzQxNzUyODkzMTAx.QgnWORzxzN-BJ_78Lob6WDUuIOozGNXSOUV3ntWYdIQg.xIHbCas_wiEsl68G-ZGQR8rWvVvVYI6tywvdUaBvfdMg.JPEG/SE-c5d9bc78-fe29-11ef-a06b-6fb7174115c4.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMjk1/MDAxNzQxNzUyODI1MDc2.T6QQ4kPnhuf-L9c-qCP2EacRUX0QKJBuHIY6EHNWxeUg.7doDYZMVu3-x2zXdzG-Rzw23KiM7MzXqDX3HLpXF_sIg.JPEG/SE-c5db6a2b-fe29-11ef-a06b-e1ba8f9e72b8.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTkw/MDAxNzQxNzUyODQxMzAx.ZtC1qpG1Q0wAjlkmJgGoC-hLIlNMbvp2qUY5UkXZCMgg.wUCbBJYdrm8bUdOFG6iBBWICKODp08Uj6Xr2KAopBpsg.JPEG/SE-c5da58b9-fe29-11ef-a06b-01ce13d21a89.jpg?type=w800)
+
+---
+
+~
+
+>
+
+Doyo 3 . Gomexus Shimano . . recommendation . Report link .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMTI4/MDAxNzQxNzUyOTE4MTU1.g82RTdJp8IkOGzU7ZzeSDqN6hpJljOJJ0G5XK8iNrmUg.dE-O8v-aWYs4DqfF3lKiqnl0ys43lcPMi_OaCXRhYlQg.JPEG/SE-c5d835d5-fe29-11ef-a06b-b3ace1fb2a2b.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTJfMiAg/MDAxNzQxNzUyOTA4OTA5.XzZrTP9MYVGxzzSCU_0fgWVju2De_PV88GPfgGk-ejEg.YWn5TqIuAA4Sl9pySn0ZSAgBFbFuew1k45oqLiYVlEUg.JPEG/SE-c5d74b74-fe29-11ef-a06b-63ec146c075e.jpg?type=w800)
+
+[Link: Gomexus GALAXY 3 ](https://blog.naver.com/sanjangboarder/223332603227)
+
+---
+
+
+AS . 3 baitcasting reel . 4 4 . , . 3 ..
+
+3 . . boat fishing discount .
+
+Daiwa Shimano Doyo .
+
+Thank you!.
+
+
+[Link: Doyo 3 5.6 baitcasting reel : ](https://naver.me/xxYji7bI)

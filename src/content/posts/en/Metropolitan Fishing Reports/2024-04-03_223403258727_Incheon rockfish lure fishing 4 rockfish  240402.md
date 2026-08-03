@@ -1,0 +1,95 @@
+---
+title: "Incheon rockfish lure fishing 4 rockfish ? [24.04.02]"
+date: 2024-04-03
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223403258727
+source: "https://m.blog.naver.com/sanjangboarder/223403258727"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjQw/MDAxNzEyMDM0OTY5NjQ0.kbOPl4xqvdMQVOEFZwBd8CYFOMCx2gxSOsO36HP2tEgg.hHKkk4bB4SM1WLhr7BP7GMH6gZaSMt0YqEGjvP4xqFwg.JPEG/20240401%A3%DF234725.jpg"
+description: "Hello, this is SanjangBorder. fishing gear . fishing gear . &quot; ~ rockfish 3 . &quot; ㅎㅎ Incheon rockfish 3 . outing ㅎㅎ ㅎㅎ 3 rockfish . 2 . 3 rockfish 3 avai"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Fishing gear . fishing gear . " ~ rockfish 3 . " ㅎㅎ
+
+Incheon rockfish 3 .
+
+Outing ㅎㅎ ㅎㅎ 3 rockfish .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjQz/MDAxNzEyMDE3NzI3NTY2.wQOGYOspOyvMaSZylu3Cde_tJGhL_gF9m8WeN0_Osgsg.tyzjP8Z2z88aVO0hTb6c6HPupJbCTd3NaWX3I4Ssh68g.JPEG/20240401%EF%BC%BF204834.jpg?type=w800)
+
+2 .
+
+3 rockfish 3 available .
+
+> **Incheon **
+>
+> fishing rod : 782l
+>
+> reel : Daiwa 23 LT2500SDH
+>
+> : 8 0.8
+>
+> : 3
+>
+> : 1/22, 3/16oz
+>
+> , ,
+>
+> SanjangBorder
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMTg0/MDAxNzEyMDM0NjI3OTM4.xHehUDYlWwA-GjjHBqOzkW7U8dLPicBMB-i6fIezW_Eg.0DkvwH-5ksOe29Nps7evkYzGhkj0BE7bCQ8-QJcyvfEg.JPEG/SE-f723bee7-f087-11ee-81f5-e1b30a3759fa.jpg?type=w800)
+
+. rockfish 3 rockfish
+
+. ㅎㅎ . ㅎㅎ
+
+. 2 .
+
+ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMTgy/MDAxNzEyMDE3NzMwNDQx.9iH8817R38MFF44mAYJuExQAcbQ6gspy7GKDc9xzY3Ug.Xix0RQEGfIFzwQoIItOWN-a2qdyHJcoc98pHPGVaEd8g.JPEG/20240401%EF%BC%BF233919.jpg?type=w800)
+
+Rockfish . ㅎㅎ fishing rod .
+
+ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjU3/MDAxNzEyMDE3NzI4MDEw.pSgJUUDnkaNzwsbNHVM5JPrYKz1Cz_V1N3sAeijnHn4g.2yl2AJRqcCO3CrntjJ4SOvCN08vsHWv_c2DXFxS4wCEg.JPEG/20240401%EF%BC%BF222412.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjYz/MDAxNzEyMDE3NzI5MDE3.3rZSODK0t1850QFD_HLk1aymTXcJSEkcEwJQw43EeF8g.GfmQQc53rZcbXtVv8dqVyvJ3C9sQ_-crHBl1hdG8pA8g.JPEG/20240401%EF%BC%BF222408.jpg?type=w800)
+
+290mm 310~320mm .. 4 rockfish ..
+
+. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjQx/MDAxNzEyMDM0NzA4MTEy.o8BOTBnEl6Mj7RdR2PRqpvTQZlw97sWQCw7vM_wu_IQg.iM3RYzw_quBcbABhikRxbAra0vhNlufHSiRSo-N7LsEg.JPEG/SE-f727415a-f087-11ee-81f5-171deb834dc6.jpg?type=w800)
+
+. ㅎㅎ
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjQw/MDAxNzEyMDM0OTY5NjQ0.kbOPl4xqvdMQVOEFZwBd8CYFOMCx2gxSOsO36HP2tEgg.hHKkk4bB4SM1WLhr7BP7GMH6gZaSMt0YqEGjvP4xqFwg.JPEG/SE-f72aeade-f087-11ee-81f5-8ba669ca8e5a.jpg?type=w800)
+
+2 . . .
+
+
+. 3 ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMTA3/MDAxNzEyMDE3NzMwMTA5.Ef4UvWLIvtkbjvw3koKUldFSD9RvPAp1r7h-8CgfITwg.Gj0h-P4dyFWM5mAyf5KsV79S1Gc26gMxd9ZpYijy7ZMg.JPEG/20240401%EF%BC%BF234708.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjgz/MDAxNzEyMDE3NzI5Nzcx.GsHorqlDE7-4A77aWu8Ey8LDq9-XKCqkmBoXx9W5izMg.Ldvs_SnkmBxK1z7jVessGT1pFDtr7WaNEO-ym0fw_5sg.JPEG/20240401%EF%BC%BF224711.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MDJfMjM3/MDAxNzEyMDM0NzU1MjI3.oIYJFDRpHKDKUNkWZkl6TK-3-UCQ86x3DTC0tEtUSxEg.R-r8v-4tb77nhgLAv9yI2_2ZU7ZkDPsxLScfKKkrDosg.JPEG/SE-f729643c-f087-11ee-81f5-b5e11385af8f.jpg?type=w800)
+
+Lure fishing . 2 .
+
+
+
+. recommendation . Incheon rockfish .
+
+Thank you!.

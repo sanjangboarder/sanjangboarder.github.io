@@ -1,0 +1,152 @@
+---
+title: "TV webfoot octopus fishing gear Report [24.09.10]"
+date: 2024-09-11
+category: "National Fishing Reports"
+categoryNo: 17
+logNo: 223580358322
+source: "https://m.blog.naver.com/sanjangboarder/223580358322"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTMw/MDAxNzI2MDMxMjc4NDkw.pzHm0GGLchz7K6iH-iuFdbHOsIBMz9fi_PTBthDm3O4g.5-rl96ZB5VXG1lzlcpOu4Qevgyi90kpc5jRjGWde5Ncg.JPEG/1725972899939%A3%AD0.jpg"
+description: "Hello, this is SanjangBorder. Seonjae Fishing Park . 9 . , , , .. Seonjae Fishing Park boat fishing ㅎㅎ . TV ㅎㅎ outing . webfoot octopus fishing gear . 6 7 . boa"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Seonjae Fishing Park . 9 . , , , .. Seonjae Fishing Park boat fishing ㅎㅎ .
+
+TV ㅎㅎ outing .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjc3/MDAxNzI2MDEyNzI1OTcw.bRP8q_7mfGT-Y4JLO9i0wJekvgCdyBgEBNN7bXu8954g.mh7rS-PLYKmuh-VOkClK2tdL6cnUQsfvTgIQtQIBcbgg.JPEG/20240910%EF%BC%BF180419.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjg4/MDAxNzI2MDEyNzI2ODE3.2skAJ0kYN7WE-VH5mLM1oTTWWlMPVhZkQd7V2Dege38g.E1JnQM0Ek9AafHtW8it9Em7yoDVVx044vmZuFt8F-Log.JPEG/20240910%EF%BC%BF181001.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjIz/MDAxNzI2MDEyNzI2ODk4.pIiDfKoT-ED-IGCzwEVUS6fw2mh2AlZzFdKBUkBb5m0g.IG6dJZiwKuavySAgh1wqPI4qQXPID4wsJIXQ9MFsyQ4g.JPEG/1725952156106%EF%BC%8D0.jpg?type=w800)
+
+Webfoot octopus fishing gear . 6 7 . boat fishing .
+
+ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTEg/MDAxNzI2MDEyNzI1ODA4.2JjTOVo21vbHMleaili78rjlebremhYjClr6f3orOIsg.T7eVWCtgqE2fGCA2QAtmXEVaXltwmQe1E_26jXYf0JUg.JPEG/20240910%EF%BC%BF053813.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfODAg/MDAxNzI2MDEyNzI4MTkw.aa9ireyQ93bLZxLaCwywRS24HgSnpREZF_J0VT-v8SYg.qPrSrwNlzeQVqdooLhLaJKHFUAys_WN01x3enGAesqQg.JPEG/20240910%EF%BC%BF072303.jpg?type=w800)
+
+. 15~20m . fishing gear fishing gear . catch report 100 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjgz/MDAxNzI2MDIzMDE5OTAz.9d47fHkUknCA04Er0GKeMv3w_D4fltrrTF4vXs_tsZMg.o149IB4JltF4VzWsFY-tf3WO1flTYoDF0Vwpp8ZoIS0g.JPEG/SE-99825242-6fd0-11ef-b023-1b4cc067f7a3.jpg?type=w800)
+
+Fishing gear 30 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTgy/MDAxNzI2MDEyNzI2ODQ0.TW-kj8Qx2auo3v0pGLVfnf-L1ea5dM8cYzzle_ql2XEg.5Cg1cb3kReQR5L8vZE7pchKvQcTMSYrk8OldCKvhNFAg.JPEG/20240910%EF%BC%BF095941.jpg?type=w800)
+
+Ultra-lightweight . , . .
+
+> webfoot octopus fishing gear
+>
+> fishing rod :
+>
+> reel : Banax 6
+>
+> : 8 0.8
+>
+>
+>
+> fishing rod :
+>
+> reel : 8 reel
+>
+> : 8 0.8 + ** **
+>
+> lure : ( , , , , , , YL lure )
+>
+> : + 12,14 ,
+>
+> SanjangBorder
+
+Fishing gear 9 ㅎㅎ 1 .
+
+
+Lure .
+
+Webfoot octopus . 50cm YL lure .. 1 reel 2~3 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMyAg/MDAxNzI2MDEyNzI5MzM4.KKCr2Zt6XKT2j4K93XqOL5h9quE1f3vrl9JG5XoN0G4g.zF1wdh2CFSc4wf-Ee5yUswHWbuXBnCPcVeZLW-jd-nUg.JPEG/20240910%EF%BC%BF124606.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjEx/MDAxNzI2MDEyNzI1MDIx.Y8Q5yp_uEezmsE9Vp2Bs2iJB76Sftpb2XcvhdusFfUog.ZzGniOzejJtzwkSYVfulywlS99TCSqbEN6d9Xd2L67wg.JPEG/20240910%EF%BC%BF124559.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjk5/MDAxNzI2MDEyNzI0ODE4.ZSuDBZUYPExejq491IbdyL3aH4pTjLZP_oeFuTEJmF0g.KnaSFLzFSr5y2NV1hXXLmfkVs3jPtI7xIHM_mP775dsg.JPEG/20240910%EF%BC%BF074933.jpg?type=w800)
+
+Lure , lure lure , hands-on .
+
+Lure YL lure S13 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTYx/MDAxNzI2MDEyNzI5MzY2.GKUq5DunP6bHytmp3XtSusX_6Ba2rERcim957tWnFAsg.j94dJcq144Vj-ftOJW9EGxJdrctIihuME0XdVv7p_fkg.JPEG/20240910%EF%BC%BF104342.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfOTYg/MDAxNzI2MDEyNzI1Nzcx.pL_ZcKloEJDB7hKvVDD0WbUCiSSsd1jVqwYJGcplvM4g.DM0Df3s3h5NeCiJzcGd_-3F0_tzSTqIvbqtMtu-TSpEg.JPEG/20240910%EF%BC%BF073800.jpg?type=w800)
+
+100 . 20~30 1 . .
+
+. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTkz/MDAxNzI2MDI5NzMzMDA4.w54SYKK5m0neBa7Ab5sKlMTt06jb3-ehqUbJ1FNkHiog.-iaykAWgfAjOdkRLMx0Ksd5TuM_6Wp4Y4VGT-ItPM3Eg.JPEG/SE-9979789f-6fd0-11ef-b023-318ed7f9dff9.jpg?type=w800)
+
+. . . 3 . .
+
+ㅎㅎ . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMzIg/MDAxNzI2MDEyNzI3MDY4.01Vg3UuYoorIO_4QkeWy_n6MyBMVa-CzwNAplpWv47og._oTryguFsbMiPZVp1ZStxUvtBRDCgrf4SZdXte7e-AYg.JPEG/20240910%EF%BC%BF095950.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTMg/MDAxNzI2MDEyNzI1ODIz.HhoZiAHSVtLc3v2tXCu-MqQBTVgV45wiMUEG4mzYu6Ug.EP7C9-cE9diIpekTkDZMGJdLMDqoGEBF8W0E5YjHo4Ag.JPEG/20240910%EF%BC%BF123014.jpg?type=w800)
+
+. 5m . . 1 5 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjc0/MDAxNzI2MDEyNzIzNjQw.V3yjkuVY84tptJXhuYiyvxLqR6dwJK72GsUUBRnKGy8g._VzotAyVnW4b-pQTG6XfV2YzQp7n6lGZZOghrJOKL8Ug.JPEG/Screenshot%EF%BC%BF20240910%EF%BC%BF132042%EF%BC%BFNAVER_Map.jpg?type=w800)
+
+Lure . hands-on lure . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTcg/MDAxNzI2MDEyNzMwMDEw.1YWy6nIqIZn1Z2kJG8wJ_xO1tYTw2mJbDm2ddU3cvyMg.lbkoxFu5ySX-IFcyyxUFjo-kB_mgiiMiWRyj-SpTiN0g.JPEG/20240910%EF%BC%BF132231.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjIz/MDAxNzI2MDEyNzI4ODQ3.BYMJcaDlVmVItMkZA5XZos_f7OPiRaLhX2zkcqGHrcIg.Nmm_FA1A_HIbRNe8nFmEAuVz7qZ6YBEBmxA9qepZRr8g.JPEG/20240910%EF%BC%BF135619.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfNzAg/MDAxNzI2MDEyNzIxOTcz.NzZwH5NlAsTR9V0rjejPLq6gIQxCwq4U9MaPDkFAAjwg.-9IKUOcG-c8QhaIBg2ZRz1cKoS6qZX5oCZb1Axw8Yhsg.JPEG/20240910%EF%BC%BF144550.jpg?type=w800)
+
+ㅎㅎ . ..
+
+. . . ㅎㅎ . 129, 133 ㅠㅠ .
+
+140 . ..
+
+3 . webfoot octopus 5kg .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTcw/MDAxNzI2MDMwMjQ2Njg5.RPfDtkv0K_lCBL-0d02K9ZuEfAsSDSS4iUi-5iGKV9cg.Dj32g7_ZiMTTf8L76ovZBUQ1W2cQSngSIZnoD0aW7jYg.JPEG/SE-999453a9-6fd0-11ef-b023-d53b064a991f.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfNTUg/MDAxNzI2MDMwMjY5NTIw.3nvX5C0oqZbUin9R7JGx9wpw-Ln5Uywvq506ujjAG-Eg.JDzjp89HOyig-V4TH7Bh0_mVY2dKVm4qJXLHDx7rrZog.JPEG/SE-9997af0a-6fd0-11ef-b023-9531a93e8645.jpg?type=w800)
+
+Webfoot octopus fishing gear . .
+
+ㅎㅎ . webfoot octopus fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTMw/MDAxNzI2MDMxMjc4NDkw.pzHm0GGLchz7K6iH-iuFdbHOsIBMz9fi_PTBthDm3O4g.5-rl96ZB5VXG1lzlcpOu4Qevgyi90kpc5jRjGWde5Ncg.JPEG/SE-999e3ebc-6fd0-11ef-b023-47c50fbefc4c.jpg?type=w800)
+
+Muchangpo Port 2 restaurant .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjY2/MDAxNzI2MDEyNzIyNzQ4.-9zrcZhkj_09ft9lly_S4UUhzMoLkVDtQ732Yz9wfREg.wU_cMNLX7oMFSVkWzmE1IHpWICsJ__3M44X-9eeqUhog.JPEG/20240910%EF%BC%BF170233.jpg?type=w800)
+
+Cuttlefish webfoot octopus . . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjg3/MDAxNzI2MDEyNzIzNTcw._neuawRYOiO0kvrK0esmwOLhJcMJN_7FvvwRGNqdw3Qg.VWMUrE-cFnavaFJv0AGBnKl_VJ8-y3wyBbz6aSQ8bL4g.JPEG/20240910%EF%BC%BF165539.jpg?type=w800)
+
+Cuttlefish . . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTcz/MDAxNzI2MDMwNjUzNjA5.a23pMuCcG-LTcoXUZHoRWCxDbD9yAY3vAaiYK0FksFog.kfQK-r4UbhG2KwWVMQ-j_jRjQz2YZCM6eTI396g87Zgg.JPEG/SE-99a6a32f-6fd0-11ef-b023-274612277a13.jpg?type=w800)
+
+. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMTAy/MDAxNzI2MDEyNzIzMjQ1.8vOYHkXwVLrWIvTHg-ypRjzcnQ9Erhj1cnAAfrtZIs0g.bF4eOxPlwX4IpN1Vv5EXtKQdsaol7hkU8VGO3nqlqp0g.JPEG/20240910%EF%BC%BF171521.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjA2/MDAxNzI2MDEyNzIxOTI4.HTOu-fK_RHDOyEoJUuN89KnUpVvU8pqVivPCcHBxlSgg.UqsknuHcrUobN7umLmjIoo68uJQUtuEs5z6KgvarI7Yg.JPEG/20240910%EF%BC%BF170127.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTFfMjM0/MDAxNzI2MDEyNzI3NzQx.T1sT92yHWquKE7dJ_A2wFnvtP_lOZUX72NlXCVtiNQ4g.aOl36g2_e72sVEGYXzoJtK1fjv38NEU0lkOP3J3qf4cg.JPEG/20240910%EF%BC%BF170143.jpg?type=w800)
+
+Outing . , , , fishing gear fishing gear impression . fishing gear .
+
+. fishing gear .
+
+Thank you!.
