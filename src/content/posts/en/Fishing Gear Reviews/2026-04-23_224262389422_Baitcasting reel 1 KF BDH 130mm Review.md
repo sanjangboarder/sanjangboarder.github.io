@@ -115,4 +115,4 @@ Fishing trip Fishing Report hands-on reel Fishing Report .
 
 Thank you!.
 
-#baitcasting reel #baitcasting reel # # # reel # reel #130mm #130mm # reel #electric reel #Shimano # #Banax # #Doyo reel # fishing 
+#baitcasting reel #baitcasting reel # # # reel # reel #130mm #130mm # reel #electric reel #Shimano # #Banax # #Doyo reel # fishing gear 

@@ -30,7 +30,7 @@ Incheon . red sea bream Taibarareel fishing gear .
 
 ​
 
-Incheon Taibarareel fishing gear fishing rod reel . red sea bream Taibarareel . reel NH .
+Incheon Taibarareel fishing gear fishing rod reel sinker . red sea bream Taibarareel . reel NH .
 
 ​
 
@@ -65,7 +65,7 @@ Reel NH Taibarareel . fishing gear red sea bream reel hands-on 200g hands-on . r
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDRfMjEg/MDAxNzgwNTMzMjkwODU1.w1irwwn_x7Bf4ORZoDta3aYIoA2G3tzsuGnDX6QCxSUg.H3Bi53ruu72pP7cfOg-7cIzM6_8sO0AMj49XAXd1cGsg.JPEG/SE-0a57d80f-06d5-448a-9530-687a9eff3136.jpg?type=w800" />
 </div>
 
-Verification . fishing gear swordtip squid available .
+. fishing gear swordtip squid .
 
 
 <div class="image-grid">
@@ -86,7 +86,7 @@ Verification . fishing gear swordtip squid available .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDRfMTIz/MDAxNzgwNTMzMzc2MTgx.zR3As4yYYvfAil0XJo1NY0Rtw67vlDF0HmK9_oTmBA0g.VyAqMjrYvTgKVsopDLPH4l-hMN8E2Uv_IotvQnLIpR0g.JPEG/SE-fe9c3fbd-5c14-11f1-9d28-757fcf42de9e.jpg?type=w800" />
 </div>
 
-Reel . impression .
+Reel . .
 
 ​
 
@@ -94,7 +94,7 @@ Red sea bream Taibarareel fishing gear 3~4 .
 
 ​
 
-Purchase available .
+Purchase .
 
 🔗 [[NH-1105] Taibarareel - NH ](https://nhkorea.co.kr/product/nh-1105-%EC%9C%A0%EB%8F%99%EC%8B%9D-%ED%83%80%EC%9D%B4%EB%9D%BC%EB%B0%94-%ED%97%A4%EB%93%9C/121/category/1/display/9/?icid=MAIN.product\_listmain\_8)
 
@@ -147,7 +147,7 @@ Reel NH Taibarareel 3 . 70mm ORIGIN, 120mm ORIGIN, 120mm TRIPLE .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MzBfMjYy/MDAxNzgwMTM4MDc5OTE5.3EfcWWDf9tvJ_iK_u93-N_lIDX36J_HFbQnyRUhvWxwg._a6Ir0NcnSHkMq0l1c3BU9tbFpzEUxJiynFBamN9bUog.JPEG/900_20260529_195149.jpg?type=w800" />
 </div>
 
-7.8 . webfoot octopus lure .
+7.8 . webfoot octopus egi lure .
 
 
 <div class="image-grid">
@@ -206,7 +206,6 @@ NH . hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MzBfMTgg/MDAxNzgwMTM4MTE3MjU2.MienkxcT1r7lmQBi9Gx_yUG4NSLWwGnfYCa9VHsTT1gg.-sBdr5uZq6NjPNwKfBQDVSkOFYtIHJv3ks4sBcnLSaog.JPEG/900_20260529_203849.jpg?type=w800" />
 </div>
 
-Available .
 
 
 <div class="image-grid">
@@ -215,7 +214,7 @@ Available .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MzBfMjM5/MDAxNzgwMTM4MTE1MzEy.pPm9jxOB3C9BhUggLNAoxWfvxYbF12ssh2M_3wBRpDAg.56yVHLwxeZk2BI8ypxM-Aext34PKTPjrnvVyDVZ_oeog.JPEG/900_20260529_203944.jpg?type=w800" />
 </div>
 
-. Taibarareel hands-on .
+. shock leader Taibarareel hands-on .
 
 
 <div class="single-image">
@@ -264,7 +263,7 @@ ORGIN 120mm .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MzBfMzYg/MDAxNzgwMTM4MTIzODAw.i0nR6YUjY2-_uFL66nBaR__XpsCWqU9_a38W-q0fUpQg.tD9fGLtvXOyZRaeYlmnr0cJrKJGMYBJCYw6lAqYzdkkg.JPEG/900_20260529_195604.jpg?type=w800" />
 </div>
 
-7,8 impression .
+7,8 .
 
 
 <div class="image-grid">
@@ -289,7 +288,6 @@ UV 9,10 . hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDRfMTQ5/MDAxNzgwNTM0NDczODQw.B3rYzUbKg1fLTgqvIY2CnOnP4BH-bF5DoVhGXUf-fNYg.B3ZGKoXCmwV_lTvMr9RzgEZQSVdBxi4sIV5ROp_BNuYg.JPEG/SE-152a2cdb-5c15-11f1-9d28-412aa220d97d.jpg?type=w800" />
 </div>
 
-Verification .
 
 <div class="video-link-card glass">
 <div class="v-link-info">
@@ -414,7 +412,7 @@ ORIGIN 70mm . 120mm .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MzBfMTE4/MDAxNzgwMTM4MTE5ODQy.ln73h_4-aEXxYcXwNUayavA6Rs0EALPlytBbAxT1PPog.AahEqZLuB3DA0zkxJrPHZoqUHpzd53SdBwjI5HWcamgg.JPEG/900_20260529_204336.jpg?type=w800" />
 </div>
 
-. Taibarareel fishing gear available .
+. Taibarareel fishing gear .
 
 
 <div class="single-image">
@@ -427,7 +425,7 @@ NH Taibarareel .
 
 ---
 
-Incheon , red sea bream catch report . Taibarareel fishing gear red sea bream rockfish, , white croaker, flatfish, fishing gear fishing gear . .
+Incheon , red sea bream catch report . Taibarareel fishing gear red sea bream rockfish, , white croaker, flatfish, lure fishing fishing gear fishing gear . .
 
 ​
 

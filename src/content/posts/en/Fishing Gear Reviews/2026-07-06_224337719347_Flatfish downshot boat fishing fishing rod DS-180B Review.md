@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224337719347
 source: "https://m.blog.naver.com/sanjangboarder/224337719347"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjIx/MDAxNzgyODExMDUxNTk3.u1lp-Tp-TAdUBgldooSMsyH54RWjFKW64eZSSzFP8iEg.hy758hvga7AI7UputLVblgcH8iezN--AXdsfvYlUEbUg.JPEG/900_20260627_142617.jpg"
-description: "Hello, this is SanjangBorder. fishing gear 26 fishing rod ! ? red sea bream Taibarareel fishing rod Review , flatfish downshot boat fishing fishing rod . downsh"
+description: "Hello, this is SanjangBorder. fishing gear 26 fishing rod ! ? red sea bream Taibarareel fishing rod Review , flatfish downshot boat fishing fishing rod . lure f"
 lang: "en"
 ---
 
@@ -22,7 +22,7 @@ Fishing gear 26 fishing rod ! ? red sea bream Taibarareel fishing rod Review , f
 
 🔗 [ red sea bream Taibarareel fishing rod ! TE-58B review](https://blog.naver.com/sanjangboarder/224320968250)
 
-. downshot fishing rod . red sea bream Taibarareelfishing rod .
+Lure fishing . downshot fishing rod . red sea bream Taibarareelfishing rod .
 
 
 <div class="single-image">
@@ -69,7 +69,7 @@ Taibarareel fishing rod fishing gear . downshot fishing gear flatfish . flatfish
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDJfMjIx/MDAxNzgyOTg0OTE2NDQ3.czshKY_Y2cj5kmDjvhx1WqvJRnzZYzSuvIrMtOWeOu4g.owW30sYOb_uxtPLaLcfKmBYigh4gH-o1cByvw93mwqwg.JPEG/SE-715e1a52-7464-11f1-95c5-032ff71e262d.jpg?type=w800" />
 </div>
 
-Sic impression .
+Sic .
 
 
 <div class="image-grid">
@@ -77,7 +77,7 @@ Sic impression .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTMx/MDAxNzgyODExMDUzMTcz.Qa3XjX_OubXrXkG5IGX7H_3jwNQWb_l9t0mZPTFtmLcg.g5T9t8itmC-A2mVqIc61M_t5NetjwNgwepgCAHr3V9cg.JPEG/900_20260627_141703.jpg?type=w800" />
 </div>
 
-Reel 2 Taibarareel fishing rod downshot fishing rod . flatfish downshot boat fishing fishing rod 40 Oesujil live bait drifting .
+Reel 2 Taibarareel fishing rod downshot fishing rod . flatfish downshot boat fishing fishing rod 40 sinker Oesujil live bait drifting .
 
 
 <div class="image-grid">
@@ -139,7 +139,7 @@ Reel .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjI4/MDAxNzgyODExMDUwNDM0.XZjPrGK9ooz7dEJ8iU3FiA-bRDlrJtW0q_65DeGx5Ucg.x5JY2fcwlpxGE6Y04odyvEulJrfhtaTuh4S5jCN-mFgg.JPEG/900_20260627_141520.jpg?type=w800" />
 </div>
 
-EVA . DS-180B AOMEX .
+EVA boat fishing . DS-180B AOMEX .
 
 
 <div class="image-grid">
@@ -161,7 +161,7 @@ Downshot fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDJfMTM5/MDAxNzgyOTg1MDE1MjU1.VxdThgkzL6aVQva84k7CcpV89atg9RcmVAKWrwr5pw8g.JNAvzkVCfBOFStdbHyDNSHNOOGYD5EdlwhhYL7gyP-og.JPEG/SE-71601625-7464-11f1-95c5-b513b10d53c4.jpg?type=w800" />
 </div>
 
-1 33.2g, 52.5g 85.8g . 40 hands-on downshotfishing rod .
+1 33.2g, 52.5g 85.8g . 40 sinker hands-on downshotfishing rod .
 
 
 <div class="image-grid">
@@ -170,7 +170,7 @@ Downshot fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDJfMjYy/MDAxNzgyOTg1MDY2ODgw.UclfY2wei_RpEKKnFoSmT6tv1ogaq5J8Sgewc1iO_0Yg.cWMBPA2ZOhS8bH-1mpxKrVljcaOwnHPcNwfnubMTFz8g.JPEG/SE-716211f8-7464-11f1-95c5-61d042fad6d0.jpg?type=w800" />
 </div>
 
-1.053mm, 1 7.204mm 9.621mm . flatfish downshot boat fishing fishing rod 1.8mm impression . downshotfishing rod . hands-on .
+1.053mm, 1 7.204mm 9.621mm . flatfish downshot boat fishing fishing rod 1.8mm . downshotfishing rod . hands-on .
 
 
 <div class="image-grid">
@@ -179,7 +179,7 @@ Downshot fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDJfMTA2/MDAxNzgyOTg1MTE0NTgy.vkzkjeUZrR8G0iR_PgdWgbGbVEU0SvRqSXP279izbhAg.zq9lu3lTEDCZVV8xR4pMuq-bNS2qIGwzYuzFcJZvBHUg.JPEG/SE-7164aa0c-7464-11f1-95c5-21f9100b7dfd.jpg?type=w800" />
 </div>
 
-DS-180B fishing rod Taibarareelfishing rod downshotfishing rod . 40 hands-on fishing rod flatfish downshot boat fishing fishing rod reel .
+DS-180B fishing rod Taibarareelfishing rod downshotfishing rod . 40 sinker hands-on fishing rod flatfish downshot boat fishing fishing rod reel .
 
 
 <div class="single-image">
@@ -238,7 +238,7 @@ Flatfish downshot boat fishingfishing rod flatfish downshot boat fishing . Fishi
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTI5/MDAxNzgyODExMDUzMzI4.r-ILfxiZxEmT1ydPwaA7QQd2lOZIaHowUiRFwDGirp0g.dhSEGGxD2obnjK8qdNR29sXIkYuuo2eAXZIqu1X6qkYg.JPEG/900_20260628_092753.jpg?type=w800" />
 </div>
 
-Fishing rod . fishing rod rockfish impression . 40 .
+Fishing rod . fishing rod rockfish . sinker 40 .
 
 
 <div class="single-image">
@@ -253,7 +253,6 @@ Boat fishing . hands-on Fishing Report .
 
 ​
 
-Available .
 
 ​
 

@@ -40,7 +40,7 @@ Fishing gear , ( ), ( ), ( ) . ZZIS .
 
 **🔍 **
 
-Verification , ?
+, ?
 
 1. ! &
 
@@ -74,7 +74,7 @@ A: .
 
 [Link: 0 ~ 1 ](https://naver.me/FetJGQcz)
 
-- (Multi-Q): . available 2 · .
+- (Multi-Q): . 2 · .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjMg/MDAxNzc1MjU1MTczMjQx.oazBy0F_HoHRzYmAHJxgCTti8ow0bFkjo4MJvf3ppb0g.kkDmdnyZJpVCBJcpRhdTs7gC_hr-yQUI6foJee0nGRYg.PNG/image.png?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjIy/MDAxNzc1MjU1MTc4Nzg3.lLzEoGSHxsjmdqd9cToBmAr535YVqnZ4oOXboIf8xRsg.4zpNlZAMsFX5_G871kS1UWrvkUHEv0k_h1Yv-p_TzHcg.PNG/image.png?type=w800)
@@ -89,7 +89,7 @@ A: .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjEx/MDAxNzc1MjU1MTk0NjU0.DJr-3xBl4pR1-Rbv4RRAdEHdQcPS4BNWJqZfabZFvmAg.X7zGK35Fqwvo-P3CEvaeLUNiEooUBeFbo8aaBRAIJAwg.PNG/image.png?type=w800)
 
-(Wild Fire): 2 LED 6V boat fishing fishing gear . available .
+(Wild Fire): 2 LED 6V boat fishing fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMTAz/MDAxNzc1MjU1MjA2NDQ2.FQUm_ZojNqD5QHa9XVA75IHSA3BG4ECxkjF-l71fqtwg.VX9pybu1HnB7Cfn-TNcuE2CxS1ZO-ZzHgEMx8CUyEO4g.PNG/image.png?type=w800)
 
@@ -103,7 +103,7 @@ A: .
 
 , 40cm .
 
-- (N-Star): / 2 , . 1 2 available .
+- (N-Star): / 2 , . 1 2 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjMz/MDAxNzc1MjU1MjQ1NTYx.hvJjNsM_XRK_Avy4OpustUo2G7QLz9JsnP0Fk7DF0GEg.v9oUqIGrKizyaO1fC4AUCrF7Rf3R4Dgx0vlH1Ozesjcg.PNG/image.png?type=w800)
 
@@ -123,6 +123,6 @@ A: .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMTI2/MDAxNzc1MjU1MDMyMTU5.P-CpxWJXZiBcbA3S-QBeGGpD9kg96WPLI2aXcb-9_fQg.E9Gu9ELkA59WqUGSSPmzNh4ZeEe3s5-ZhWBP0aYM2f4g.PNG/image.png?type=w800)
 
-Outing fishing gear .
+Fishing trip fishing gear .
 
 Thank you!.

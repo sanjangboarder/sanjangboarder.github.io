@@ -38,7 +38,7 @@ Flatfish , webfoot octopus Incheon . = . , .
 
 . , .
 
-<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name"> breakwater</div><div class="map-addr">Incheon </div></div></div><a href="https://map.naver.com/p/search/ breakwater" target="\_blank" class="map-btn">View Map</a></div>
+<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name"> </div><div class="map-addr">Incheon </div></div></div><a href="https://map.naver.com/p/search/ " target="\_blank" class="map-btn">View Map</a></div>
 
 . lure fishing .
 

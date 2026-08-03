@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 224333309405
 source: "https://m.blog.naver.com/sanjangboarder/224333309405"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjU1/MDAxNzgyODI0MDIwMDgw.WIY0B2M3hd8E8aDmnGKMUDRDdrirNmZM3cof_i3MFEgg.ayHaXUQ6yOgj_MbZgYFpfBACGejGp30iooe2T0sgzowg.PNG/image.png"
-description: "Hello, this is SanjangBorder. 2026 cutlassfish, &#x27;juvenile cutlassfish&#x27; . fishing gear ? cutlassfish . juvenile cutlassfish cutlassfish reel , outing !"
+description: "Hello, this is SanjangBorder. 2026 cutlassfish, lure fishing &#x27;juvenile cutlassfish&#x27; . fishing gear ? cutlassfish . juvenile cutlassfish cutlassfish re"
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 ​
 
-2026 cutlassfish, 'juvenile cutlassfish' . fishing gear ? cutlassfish .
+2026 cutlassfish, lure fishing 'juvenile cutlassfish' . fishing gear ? cutlassfish .
 
 ​
 
@@ -31,7 +31,7 @@ Hello, this is SanjangBorder.
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjAg/MDAxNzgyODIzOTkxMDI5.SoxLKgy2HuwIXFDHWwGujV1DIor4vUAWJZ1hk-Uv5y8g.g7WE7brWbWf5JJBbQcEYbO8MNjnO77uSvSb9wS4qUtEg.PNG/image.png?type=w800" />
 </div>
 
-Juvenile cutlassfish cutlassfish reel , outing !
+Juvenile cutlassfish cutlassfish reel , fishing trip !
 
 ​
 
@@ -69,7 +69,7 @@ Fishing gear fishing gear 7 cutlassfish , 80 .
 
 ​
 
-7 8 1 cutlassfish fishing gear , juvenile cutlassfish fishing gear
+7 8 1 cutlassfish fishing gear , juvenile cutlassfish lure fishing fishing gear
 
 ​
 

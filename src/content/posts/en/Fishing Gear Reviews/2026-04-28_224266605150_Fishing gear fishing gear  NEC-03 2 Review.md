@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224266605150
 source: "https://m.blog.naver.com/sanjangboarder/224266605150"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjA3/MDAxNzc3MTg0Nzc1MTYz.hyuKwd1SRPm_Cr6L2Gvtqyonysa6_JvP0cnvMPfxTZUg.hkM6FNRsbzB8jtfaqbFDwhzBucdr0IMArEELGpVzdBQg.JPEG/900_20260425_080535.jpg"
-description: "Hello, this is SanjangBorder. boat fishing &#x27; &#x27; . , , . fishing gear , fishing gear . impression . fishing gear . fishing gear . fishing gear fishing g"
+description: "Hello, this is SanjangBorder. boat fishing &#x27; &#x27; . , , . fishing gear , fishing gear . fishing gear . fishing gear . fishing gear fishing gear , . NEC-0"
 lang: "en"
 ---
 
@@ -18,17 +18,17 @@ Hello, this is SanjangBorder.
 
 Boat fishing ' ' . , , . fishing gear , fishing gear .
 
-Impression . fishing gear . fishing gear .
+. fishing gear . fishing gear .
 
 Fishing gear fishing gear , . NEC-03 .
 
-, , verification fishing gear Report reel .
+, , boat fishing fishing gear Report reel .
 
 ---
 
 ** NEC-03 Unboxing**
 
-Fishing gear . impression .
+Fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjEg/MDAxNzc3MjAxNDQwNjU4.Dy-KMws8Y6QqwDvsf3TdSgQAGzuEogKXTjruqnuZ9bkg.40tW9sE96Orh262W13V5nedIgRLNretVKdgCrUcvz5Eg.JPEG/SE-c686e873-4138-11f1-83ee-8545b44f7bb1.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNTMg/MDAxNzc3MjAxNDU1Mjkw.UbESBpvhrVx1qjGRhg1Qt6Mpm5glk_8kqtXMx_f2Y40g.-xRKCpLwgsHHwL2zJCSo7cdeRMtYKO_if16yrKfUXgQg.JPEG/SE-c687d2d4-4138-11f1-83ee-43007c4cd1de.jpg?type=w800)
@@ -38,7 +38,7 @@ STICO .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNjEg/MDAxNzc3MjAxNDkyMzEw.ha8ADaWYfPWiCuzNqGNi-gRTI_51C7BL_JEd7g57K1cg.fZ9CoEYB2fbSZJ-9J_bqBDrFZHwNsH3RUwXIN5dihVog.JPEG/SE-c6895976-4138-11f1-83ee-e164dc597a43.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTQ4/MDAxNzc3MjAxNDkxNjkx.9wm4rr0wGIuTy_Q0hxTBNchih4UGYweW9C00sLdEmEkg.Mig-DGjB9U3xuqGAXU_Zrg1HsV0ppwgPAgyRMvbBhmsg.JPEG/SE-c6886f15-4138-11f1-83ee-53993bc99ae4.jpg?type=w800)
 
-. ㅎㅎ impression .
+. ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMTk2/MDAxNzc3MjAxNTE2NDAy.rBVB6nH6KyRiIRKZf4Un6MirhTf1D3hTrE1ZDkwj3Z4g.GJIXJHu0qSmsPQeErFBgqMR9cVN1LrFGe9WKk_29ivEg.JPEG/SE-c68a1cc7-4138-11f1-83ee-3d9c22b8717b.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjI5/MDAxNzc3MjAxNTQyMzY5.XP_0B31lhQfZfbMvaBQICDQTf5Ca8Zh6VXDPli3IAMsg.i3JRwE8HMIXy4b_GiPlHQ3_Nv861x4Cpq7-ONncm4mgg.JPEG/SE-c68ba368-4138-11f1-83ee-ed254ddd92c2.jpg?type=w800)
@@ -56,12 +56,11 @@ Real Slip-resistance Outsole . Ventilation .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNjMg/MDAxNzc3MjAxNTk1MjM5.bdmi6J0ulzxB5W2p7aa406P-6bRdgZriwoHJSEcQv6kg.XFQlSL3Kvf775Fa9t1d7WW6ZBNmR2GjYd3B_VkkaPAkg.JPEG/SE-c69148bc-4138-11f1-83ee-915a3ce75053.jpg?type=w800)
 
-Available .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfNjkg/MDAxNzc3MjAxNjA4MDQx.9KuRDLpVDgvg8NnFsdrTzPDNgvCxJvKCMYVCODteankg.Vh-d9mOzLqpk2MWhhq2sgreb_GFpdvcZsScpjYzAL4gg.JPEG/SE-c694f23e-4138-11f1-83ee-8f149801ab4e.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjEx/MDAxNzc3MTg0NzcxOTE3.kcpOo2Kc6ugh-aPNbFNE0-qr6Y-0mxVqTSON8rrmNccg.XGz1UvPag26tWZDfLNKSm-jhtjAW_b8feKZJccYT10Ag.JPEG/900_20260424_142424.jpg?type=w800)
 
-STICO impression .
+STICO .
 
 EVA H70 EVA 70 . boat fishing fishing gear .
 
@@ -90,7 +89,7 @@ Boat fishing .
 
 ---
 
-Boat fishing . impression .
+Boat fishing . .
 
 Ocheon Port NEC-03 . webfoot octopus .
 
@@ -112,7 +111,7 @@ Fishing gear ㅎㅎ fishing gear ㅎㅎ . fishing gear fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjZfMjQz/MDAxNzc3MjAxNzc5ODMw.ebuCZrkwr0hh1D4piMcIkGAzPq5b-7nd-xZsl5xnzdwg.x-AxXE_QuVRrlcFSc3PlUFnMcMm8GevqGQyT-eRhHoUg.JPEG/SE-c6a6f3ac-4138-11f1-83ee-ab4529bd0396.jpg?type=w800)
 
-(Waterproof) & verification .. 'Natural Ventilation System' .
+(Waterproof) & .. 'Natural Ventilation System' .
 
 ---
 
@@ -125,6 +124,6 @@ Thank you!.
 
 [Link: NEC-03 2 PLUS - / | ](https://link.coupang.com/a/eC1LcY)
 
-1 discount .
+1 .
 
 [Link: [ ] ](https://naver.me/5kPXDhVf)

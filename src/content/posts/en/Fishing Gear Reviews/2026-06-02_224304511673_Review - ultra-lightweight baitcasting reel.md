@@ -287,7 +287,7 @@ Purchase .
 <img src="https://shop-phinf.pstatic.net/20260429_171/1777438005710Ljzcn_PNG/111570857785042330_1870769581.png" />
 </div>
 
-## 25 LG baitcasting reel fishing reel 
+## 25 LG baitcasting reel fishing gear reel 
 
 Fishing gear
 

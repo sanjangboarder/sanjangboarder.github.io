@@ -33,7 +33,7 @@ IncheonSongdo Incheon fishing gear 8 . 5 . 3 fishing gear 2 .
 
 . .. 30 recommendation .
 
-🔗 [2026 Incheon fishing ](https://sjinfotec.com/incheonfishingkorea/index2026.asp)
+🔗 [2026 Incheon fishing gear ](https://sjinfotec.com/incheonfishingkorea/index2026.asp)
 
 2026 fishing gear 5 29 5 31 . .
 

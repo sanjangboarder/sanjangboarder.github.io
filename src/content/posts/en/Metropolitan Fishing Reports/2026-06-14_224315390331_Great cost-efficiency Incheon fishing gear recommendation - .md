@@ -24,7 +24,7 @@ Fishing gear fishing gear Incheon fishing gear . Incheon fishing gear . fishing 
 
 2 . 5 fishing gear . 6 20 . Incheon 5 20 .
 
-<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Incheon fishing </div><div class="map-addr">Incheon Rho 142</div></div></div><a href="https://map.naver.com/p/search/Incheon fishing + " target="\_blank" class="map-btn">View Map</a></div>
+<div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Incheon fishing gear </div><div class="map-addr">Incheon Rho 142</div></div></div><a href="https://map.naver.com/p/search/Incheon fishing gear + " target="\_blank" class="map-btn">View Map</a></div>
 
 Fishing trip 5 30 . ㅎㅎ 5 30 .
 

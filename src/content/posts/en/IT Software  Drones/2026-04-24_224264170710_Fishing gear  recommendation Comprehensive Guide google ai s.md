@@ -6,7 +6,7 @@ categoryNo: 33
 logNo: 224264170710
 source: "https://m.blog.naver.com/sanjangboarder/224264170710"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MThfMjYx/MDAxNzc2NTEyOTU0MzQy.EyaAh45uk96zr7HbRLzd4dEIGBSrlFtau5URUX3B-ckg.kJ5ENieJhVjCnJeAB6efgERsBBCXhnDULg5hiqPl9Mkg.PNG/naver_blog_img_1776512952464_0.png"
-description: "Hello, this is SanjangBorder. Google AI Studio ai . google ai studio full stack . AI . , &quot; fishing gear &quot; &quot; fishing gear &quot; AI . available ."
+description: "Hello, this is SanjangBorder. Google AI Studio ai . google ai studio full stack . AI . , &quot; fishing gear &quot; &quot; fishing gear &quot; AI . . , fishing"
 lang: "en"
 ---
 
@@ -22,7 +22,6 @@ Google AI Studio ai . google ai studio full stack . AI .
 
 , " fishing gear " " fishing gear " AI .
 
-. available .
 
 ---
 
@@ -58,7 +57,7 @@ Recommendation . , . fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MThfMTE2/MDAxNzc2NTEzMDAyNzU5.7pAkEukCC3i166dyriVRzcrJL7Q_6seb72xQzHw-WFwg.60DlotpZLtlRK6jgEGixkbYZQawAWCHpInM_pQYvL3Ug.PNG/naver_blog_img_1776512952482_5.png?type=w800)
 
-. impression , reel .
+. , reel .
 
 . fishing gear .
 
@@ -76,7 +75,7 @@ Recommendation . , . fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MThfMjM5/MDAxNzc2NTEzMDMxMDQ0.Ep_8N8aUF1WZ-SO2IDYrKCevSYujC5UbVu5GjXsbmxcg.jEd81QFKdrJO38yStctSilLb8R5vN_6rWcZ_Lt_fFDYg.PNG/naver_blog_img_1776512952493_8.png?type=w800)
 
-, . NPC discount . fishing gear 1.5 reel fishing gear .
+, . NPC . fishing gear 1.5 reel fishing gear .
 
 , hands-on , .
 

@@ -6,7 +6,7 @@ categoryNo: 25
 logNo: 224231885242
 source: "https://m.blog.naver.com/sanjangboarder/224231885242"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMjAz/MDAxNzc0NjE1MzcwMTA0.dSR7OhANm-ulYvrUJjYt6H_UUomyZXZii9e_kbRNtmAg.xmxzoQ5AFpKou9N6JJkCZLZ7g0HEZ6dgut_lkSbvVQ8g.JPEG/900%A3%DF20260327%A3%DF202438.jpg"
-description: "Hello, this is SanjangBorder. , Review . 4 ? TV , saltwater fishing , outing fishing gear . great cost-efficiency . reel 1.5V .. . HOMEX AA AAA 10 20 discount 3"
+description: "Hello, this is SanjangBorder. , Review . 4 ? TV , saltwater fishing , fishing trip fishing gear . great cost-efficiency . reel 1.5V .. . HOMEX AA AAA 10 20 3900"
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 , Review .
 
-4 ? TV , saltwater fishing , outing fishing gear .
+4 ? TV , saltwater fishing , fishing trip fishing gear .
 
 Great cost-efficiency . reel 1.5V .
 
@@ -27,12 +27,12 @@ Great cost-efficiency . reel 1.5V .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMTM5/MDAxNzc0NjE1MjExNDU4.dtjxviYANdhILTIzQHe3FvC63bOQBNcLHH2izuhP0Hkg.qaIJQwJR6Z6mMbmqHrZz4sTKqFvgRYfM3DusedahFHYg.JPEG/SE-ef21ae52-29d9-11f1-87ec-75900082512e.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMTg4/MDAxNzc0NjE1MjI0OTMx.vHyDph50sYdfzshbVfhfaGywrmdFwgme3AlibGh6hX0g.jOjD3sTvesD18dQQgSKo6YuK0egLmkYJxR6GOPIeW28g.JPEG/SE-ef224a93-29d9-11f1-87ec-9f446b2173f1.jpg?type=w800)
 
-HOMEX AA AAA 10 20 discount 3900 . great cost-efficiency .
+HOMEX AA AAA 10 20 3900 . great cost-efficiency .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfODMg/MDAxNzc0NjE1MjU5OTI1.CDPWdedEPcUhA_1hU7BThu_hHmVdSGMvg8HUM_lJ3JIg.hjNkZA5HqO1TSShGERybqLO3unEqouLh2zqSN0k2stUg.JPEG/SE-ef230de4-29d9-11f1-87ec-950659779c0a.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMTM1/MDAxNzc0NjE1MjY3MTM0.-h-36ecXU9RY7e05R_NxHtJ5LvI5aEnfoH1w1CRal7sg.FJWpWwHXDGHMN8AbkWVlcoZxFeviZKOe3pdjz-tkl-og.JPEG/SE-ef23d135-29d9-11f1-87ec-19c164c85398.jpg?type=w800)
 
-Discount reel . discount ? .
+Reel . ? .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMjAz/MDAxNzc0NjE1MzcwMTA0.dSR7OhANm-ulYvrUJjYt6H_UUomyZXZii9e_kbRNtmAg.xmxzoQ5AFpKou9N6JJkCZLZ7g0HEZ6dgut_lkSbvVQ8g.JPEG/SE-ef2ea6b1-29d9-11f1-87ec-a94b00725b15.jpg?type=w800)
 
@@ -52,7 +52,7 @@ AAA
 
 AA
 
-. TV impression .
+. TV .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfNzIg/MDAxNzc0NjE1MTQ3OTU2.oL0LIfyYtE6uK1T0l7DsBBHxLOKVGF7IndXgH5TKtHIg.Z64pEg7miSdUA-7CXQAarPcMJcuqPv16irYcHkpRbswg.JPEG/900%EF%BC%BF20260327%EF%BC%BF202343.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjdfMTg5/MDAxNzc0NjE1MTQ2MjEw.V61NUv-FbdiQ73wvnHbM7c7u0_weYHtJ_dzviTTeuy4g.igHQMKr-2ysSFSQFvZzQqUJveuGIVQUx7f-98c6fL8Eg.JPEG/900%EF%BC%BF20260327%EF%BC%BF202350.jpg?type=w800)
@@ -61,7 +61,7 @@ AA
 
 Hands-on , purchase reel .
 
-Purchase verification !
+Purchase !
 
 [Link: AA AAA 20 ](https://naver.me/xF4XHoUp)
 
