@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 224333309405
 source: "https://m.blog.naver.com/sanjangboarder/224333309405"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjU1/MDAxNzgyODI0MDIwMDgw.WIY0B2M3hd8E8aDmnGKMUDRDdrirNmZM3cof_i3MFEgg.ayHaXUQ6yOgj_MbZgYFpfBACGejGp30iooe2T0sgzowg.PNG/image.png"
-description: "Hello, this is SanjangBorder.. 2026 cutlassfish, shore fishing &#x27;juvenile cutlassfish&#x27; . ? cutlassfish . . juvenile cutlassfish cutlassfish , ! 1. 2026"
+description: "Hello, this is SanjangBorder. 2026 cutlassfish, &#x27;juvenile cutlassfish&#x27; . fishing gear ? cutlassfish . juvenile cutlassfish cutlassfish reel , outing !"
 lang: "en"
 ---
 
@@ -14,15 +14,14 @@ lang: "en"
 
 ​
 
-Hello, this is SanjangBorder..
+Hello, this is SanjangBorder.
 
 ​
 
-2026 cutlassfish, shore fishing 'juvenile cutlassfish' . ? cutlassfish .
+2026 cutlassfish, 'juvenile cutlassfish' . fishing gear ? cutlassfish .
 
 ​
 
-.
 
 ​
 
@@ -32,7 +31,7 @@ Hello, this is SanjangBorder..
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjAg/MDAxNzgyODIzOTkxMDI5.SoxLKgy2HuwIXFDHWwGujV1DIor4vUAWJZ1hk-Uv5y8g.g7WE7brWbWf5JJBbQcEYbO8MNjnO77uSvSb9wS4qUtEg.PNG/image.png?type=w800" />
 </div>
 
-Juvenile cutlassfish cutlassfish , !
+Juvenile cutlassfish cutlassfish reel , outing !
 
 ​
 
@@ -50,7 +49,7 @@ Juvenile cutlassfish cutlassfish , !
 
 ​
 
-Shore fishing 7 cutlassfish , 80 .
+Fishing gear fishing gear 7 cutlassfish , 80 .
 
 ​
 
@@ -60,7 +59,7 @@ Shore fishing 7 cutlassfish , 80 .
 
 **" 2026-1105 cutlassfish (TAC) cutlassfish ."**
 
-** .**
+** fishing gear .**
 
 ​
 
@@ -70,11 +69,11 @@ Shore fishing 7 cutlassfish , 80 .
 
 ​
 
-7 8 1 cutlassfish , breakwater juvenile cutlassfish
+7 8 1 cutlassfish fishing gear , juvenile cutlassfish fishing gear
 
 ​
 
-. . cutlassfish 1 **' '** . cutlassfish ( ) , ' ' 18cm
+. cutlassfish 1 **' '** . cutlassfish ( ) , ' ' 18cm
 
 
 <div class="single-image">
@@ -105,22 +104,21 @@ Shore fishing 7 cutlassfish , 80 .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMjE3/MDAxNzgyODI0MTA1NTA1.fE_P44iFp4W7FvFnz9QcdVYSdioabmAIEYEqNGnCExkg.a3zUKdTv12y_Nxrfkqoa-YVcYgIyMpKNCmNxkF-Is2wg.PNG/image.png?type=w800" />
 </div>
 
-Cutlassfish , juvenile cutlassfish 7 18cm .
+Cutlassfish , juvenile cutlassfish fishing gear 7 18cm .
 
 ​
 
 Cutlassfish 2 .
 
-Cutlassfish shore fishing . , , .
+Cutlassfish fishing gear . , , .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTM1/MDAxNzgyODI0MDkyODMz.PmbyiPC_p5VnPrUlCClpK1EBU8495zRADxUkPBmToPEg.I-9zkdWl_FVL8e5uJdu5UqUA4Plx__JyK2QG1nj0X0Ig.PNG/image.png?type=w800" />
 </div>
 
-Shore fishing juvenile cutlassfish 8 .
+Lure fishing juvenile cutlassfish 8 fishing gear .
 
-.
 
 
 <div class="single-image">

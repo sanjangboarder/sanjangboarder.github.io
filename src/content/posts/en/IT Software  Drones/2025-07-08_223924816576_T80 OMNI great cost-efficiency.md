@@ -6,7 +6,7 @@ categoryNo: 33
 logNo: 223924816576
 source: "https://m.blog.naver.com/sanjangboarder/223924816576"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjY3/MDAxNzUxODY0NDk0MzQ5.2lbAZ3Iq38H5zp-JB8IsCzor_JW-d-ZJiAOxsN8U-dUg.S6v_PNNc3-7CbPefSz_Kcn70qzFpzu7eamlAqnwUGfIg.JPEG/900%A3%DF20250706%A3%DF115622.jpg"
-description: "Hello, this is SanjangBorder.. .. .. ... T80 ... .. Aliexpress ㅎㅎ . . ㅎㅎ . . 3.7 .. 2 ... 12 .. 6 .. 12 12 .. 10 . 2 ... .. T80 ..."
+description: "Hello, this is SanjangBorder. hands-on . . impression discount .. T80 discount .. discount . Aliexpress verification ㅎㅎ . ㅎㅎ . 3.7 . 2 .. 12 . 6 . 12 12 . disco"
 lang: "en"
 ---
 
@@ -14,130 +14,129 @@ lang: "en"
 
 ​
 
-Hello, this is SanjangBorder..
+Hello, this is SanjangBorder.
 
-.. .. ... T80 ... ..
+Hands-on . . impression discount .. T80 discount .. discount .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MDNfMTkz/MDAxNzQ4OTI2NTMxNTg2.UfLOqHqbUtZUfmx4795fvWsWYn1VEz_RCyPzL707s1Qg.buIIpDQ1rd1yh9chMVvUKqvFm8X0iCeOGBzagalYWdsg.PNG/image.png?type=w800)
 
-Aliexpress ㅎㅎ
+Aliexpress verification ㅎㅎ
 
-. . ㅎㅎ .
+. ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MDNfMTU4/MDAxNzQ4OTI2Mzc3NDEz.8jNTiC9cfdYFJnJykyU7HQt_otIjVtiq5w6VYRt3rCYg.K1ba291o6Rp799_TG41-8tIqmOu4ak816SHYvnasWrgg.PNG/image.png?type=w800)
 
-. 3.7 .. 2 ... 12 .. 6 .. 12 12 ..
+. 3.7 . 2 .. 12 . 6 . 12 12 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MDNfNzUg/MDAxNzQ4OTI2MzQzMTg5.q6My-zzL-RVcz6doKIsBuP-X97vG_fhQ2cDK0l1Eq-og.iRNpRIb7w63WcOUXXjj_HSv2lYhtsibZDPUBVeJCatEg.PNG/image.png?type=w800)
 
-10 .
+Discount 10 .
 
-2 ... .. T80 .
+2 discount ... T80 .
 
 ---
 
 **ECOVAC T80 **
 
-Buddy Kit . ...
+Purchase Buddy Kit ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMzYg/MDAxNzUxODY0MjQxMzg5.l2RSrU9QAMHUObqvCscQjHK8AmeX2kyKMlYr8o_mX_4g.Mr2yATVmsOpulnVj23HjBzSk9-kcozko_OZZgwYhLKog.JPEG/SE-f2caeeec-5aed-11f0-9dd3-9d0aaea0060f.jpg?type=w800)
 
-.. , , , , .
+. , , , , .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjAy/MDAxNzUxODY0MjM5MDkz.rDuZTCoTaub7xg7CQwIW6VJ9qcRKpeTcNg7JR2ODjJIg.IIuBtZFnVa4d-xGyb12lp1PecNfW6pm87fTAb1YAHdwg.JPEG/SE-f2cb8b2d-5aed-11f0-9dd3-f95617a5bed9.jpg?type=w800)
 
-. .. .
+. impression impression . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTU1/MDAxNzUxODY0NDEwNTA2.pBxRPGb1RTUcWDVLWISr3mayE08WK-7CgdgS4APPKQ8g.VfwGVv0S8UyGY-jTi77feSnfDqs2BirzL1aMyI21SBwg.JPEG/SE-04013746-5aee-11f0-9dd3-6fe9ebdaceef.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjcg/MDAxNzUxODYzOTExMDAw.GOiRdGJdYnwdhJFnfXnlDONSjGCCNUWislLuYfNW88Ug.UqK9x_Kzp3O-6iK3W7s3QI3QEafwtG_Ir3a1P_nQxuYg.JPEG/900%EF%BC%BF20250706%EF%BC%BF114938.jpg?type=w800)
 
-. ..
+..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjEx/MDAxNzUxODY0NDExNTQx.kX80251fesae-KEuziwpDgfPnRtT9Se258QCobSskPYg.kMMzPf0I8uvCy-A508YpS6csn9gWCRm0szwf4K9HnKUg.JPEG/SE-0401fa97-5aee-11f0-9dd3-0da57f144e69.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNTEg/MDAxNzUxODY0NDY4MzQ2.EtsO_CHh15ZPD_bLmz44A5v6S-q4_SHFh-rKdBkLfHsg.oyxBwPbmwUlq8iYAzUtpizZ-8HSwnzPMBRn5SUkFt6sg.JPEG/SE-0404b9bb-5aee-11f0-9dd3-0329be839a3e.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNzQg/MDAxNzUxODY0NDEyNjc0.GzrkJsfKB2zMvlq48WMDS18hudZZf0dYugo9DBQwPIMg.ryoOqd1b2bV3D6JMRuGQ1Gq_nL8kDyPmJM3e8mN-5Pwg.JPEG/SE-04033319-5aee-11f0-9dd3-9b93857d2601.jpg?type=w800)
 
-.. . .
+. . hands-on impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTg1/MDAxNzUxODYzOTA1NDg5.sufmvSwhtoY7QvvRZvLdWaq3SpMGId8QBLzBDpU0EW4g.P4jRDdGC4jirPP9K2nWfX-vYOZ7dyGUPCmytt3tTZDQg.JPEG/900%EF%BC%BF20250706%EF%BC%BF114952.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTE0/MDAxNzUxODYzOTE1MDY3.9V5UqdLM8y_rP8vqvxTcObN9r6iOzfalxjE5nz1i1Tcg.aVFKNyH0kaluaKjC5avetH5DPlCuicVXX22l7eItNg0g.JPEG/900%EF%BC%BF20250706%EF%BC%BF115016.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjY1/MDAxNzUxODYzOTExODQy.mOcLzcdxPykx3cuJtpGsRgljGxnoLBcnm-v1mb_cFIAg.8zDSC4XtWlmCz9vxTvp81CKlzpZAtGez55Zxm2t01TIg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115020.jpg?type=w800)
 
-.. ..
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTUw/MDAxNzUxODYzOTE1NjI5.X5PM9vJI4CUIi0ySSMOtTYsuhTTkuURTk8QdDyP1d4Ig.FtEDB1UkeFPhp9DFxNWPHuWYrZ_IpES3zvLcOP6zAkwg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115105.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjA0/MDAxNzUxODYzOTEwNjI4.hHppYg8v9ukNDwQ5NSj9OQq-C5owITW_YSdi6tzE2R4g.O3K5daBkP2MlHIMC1B4nyr7OdsBPc84Do1tOwCfRFfYg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115117.jpg?type=w800)
 
-..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgx/MDAxNzUxODYzOTE4NTA1.Appd3Icrs9KsPf2LJttC_yV7ZYaFRIiFH1pVYScVsBAg.XP348qKKKeiGxu-amQmVgUjkEmVqJsQ8TKOMTszGdKIg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115124.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNjUg/MDAxNzUxODYzOTE3NjYy.RXJcWJeadj--x8rFyPi-asX47Nr7g-jNgH9GsVhhsgsg.e3doigoqqTRqLrnktaPTG8xamswr5svdB4a3Xrjd6YAg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115125.jpg?type=w800)
 
-... ... .
+.. impression ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDgg/MDAxNzUxODYzOTE2MzMw.6JfhYpokkL3dasm2HaZwPAX0Cq3i5F0ZMzPwHO1o-qAg.dVD_KbsI0dNxP-4sDCuzWZ8xEn39wYfT0gDD_Ncxuaog.JPEG/900%EF%BC%BF20250706%EF%BC%BF115142.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQ5/MDAxNzUxODYzOTA3MjIw.bPV-YNDy0f4fTt100INgKmhvNdIcHLoq-QH7tF1TS7Ug.oA-PZnZYBz8MFkwFJkmzlTdrh_mzneZe2gkhiPkVQ2Ug.JPEG/900%EF%BC%BF20250706%EF%BC%BF115148.jpg?type=w800)
 
-T80 .. ㅎㅎ ..
+T80 . ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjc3/MDAxNzUxODYzOTA5MTEw.yGmlvLOyBGm1eEsmyrxoqvM5AP5mgrokGZ8fE3ntFI8g.VuhD_97yDJCMTSNvkeyZFlYvLsju_I45seRgtUymzrMg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115207.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfOTIg/MDAxNzUxODYzOTEzODg3.Nxw1Cx4lMNFkT1lPNH3JEk1vigl7fCXHwxDqSioqyL0g.lQNwFj3JpdDigbyJItrm6R8yGvjp_iLL0E2NWjGNkKEg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115220.jpg?type=w800)
 
-.. . 2 ..
+. . 2 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTM2/MDAxNzUxODYzOTA1NDky.-AFrrR67v0uEaKWpH6REmlCruq49lcMgA2jfIquKkUkg.r0ZDIhqCLN_KpSUiwNcx5LPZt0imuFTi799EHSweZZ0g.JPEG/900%EF%BC%BF20250706%EF%BC%BF115225.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjY2/MDAxNzUxODYzOTA4Nzg5.lK7R0kip5aP7kR91tHv7Y5-k0PodukBryEunxSztQn4g.TAurYGkB4MTBoTpaIdL9SKb1KhmRh9HsxqW1anilKFEg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115253.jpg?type=w800)
 
 ---
 
-Aliexpress ..
+Aliexpress .
 
-.. .. ㅎㅎ . ㅎㅎ
+. discount . ㅎㅎ . ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTU4/MDAxNzUxODYzOTA5NjQz.lSokC1ogIMQxNvRQ5InLQn0fMg_U5L1MGEvb0K5pJwQg.cXOxOoHgWVxi9YVAa91O1Fh8URCIDC0k5m3UTyQoj6cg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115355.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDAg/MDAxNzUxODY0MzE2MTY5.H_Fuv49MtffT3AwWLjb71X4c3XoyKjqwiZ_AXaSKPI0g.JjjO8hu_4Yizt2Pd3wNCQycNUQZR9XCtGwD2stuKAfQg.JPEG/SE-03ff8993-5aee-11f0-9dd3-2df551e77dca.jpg?type=w800)
 
-.. .
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTMw/MDAxNzUxODY0MzE3MjE2.6GGIMwtFV5-NBEh9eNqtdOLtDsqEHopoRBcOqJBJE30g.65brtbCQs2ktfn6WfmsOnizPkBTj9dlERVNYpAbRZOMg.JPEG/SE-040025d4-5aee-11f0-9dd3-132273b9af78.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTA1/MDAxNzUxODY0MzE1MTc3.fYinFgu4IfuDXTy01T5FR1v3OJb2O7IIKACMsWMYsjsg.8trlQDCJQfRG1E-BpntgFhVkfel3RL7jXkEeKTDMtB8g.JPEG/SE-0400c215-5aee-11f0-9dd3-8d80c6f96bf2.jpg?type=w800)
 
-5 .. .. .
+5 . . impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjY3/MDAxNzUxODY0NDk0MzQ5.2lbAZ3Iq38H5zp-JB8IsCzor_JW-d-ZJiAOxsN8U-dUg.S6v_PNNc3-7CbPefSz_Kcn70qzFpzu7eamlAqnwUGfIg.JPEG/SE-04057d0c-5aee-11f0-9dd3-17c3619b7412.jpg?type=w800)
 
-.. . .
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfOTQg/MDAxNzUxODYzOTE4MjAy.Nwt2SWNFTdHzX2qVxUC71vjPuAXSCfGewGEOs-YzWfEg.8yl7B5qfmgmNuRnuWb4kVqDfSsk3ND3_RZg2pyE0jBgg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115626.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjQx/MDAxNzUxODYzOTEwMDEw.XqPLTwLPSUdT2JdwSXXSJlRo3F1pbMbHtB1Q2VYpiBEg.jzYg4G0u45-AGqXnNhsAA_K2Y-zxneJG639dIky7mxUg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115633.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTM1/MDAxNzUxODYzOTEzMzk5.68SApHn3M5_9O_J1-fBu6FGEPLbXMLvwFvyyACh51e0g.lUBadclYTAJkDDW59Ht_nileWgCBEHk_5CE-xqbJJfkg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115631.jpg?type=w800)
 
-.. .. .. +1
+. . . +1
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDcg/MDAxNzUxODY0NTYwNTQx.b8xiiwiU4_OOFkFg71av81aMtCe6NU5arOwa8zZ50pEg.Fx0Sgnjj02xcSR7GRQOuFiOkEANyu3lWl-9ETwCnrQkg.JPEG/SE-040bbea3-5aee-11f0-9dd3-f77015bb8397.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDkg/MDAxNzUxODY0NTYxNTU0.H0nE0_dLa9ffdPY8mcSM7bK1L7dsJkMCzKAG_9szFnMg.W-SdIywlLbtqFJ76A_j7RTrHMtWxUxBdnVO5sbh9wWgg.JPEG/SE-040c5ae4-5aee-11f0-9dd3-3791299199a1.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQy/MDAxNzUxODY0NTU5NzA5.3h3DPifGTm-4ufnbqJsKUmWlte0WmmhDh7Peft6Nqz8g.bxpLF9E5yosQ0c1rqDmDHakwH-DzRqS57x_USqdxcLYg.JPEG/SE-040d1e35-5aee-11f0-9dd3-cb72faa7b895.jpg?type=w800)
 
-.. ... A4 . .
+. .. A4 hands-on hands-on impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTE0/MDAxNzUxODYzOTE4MzIx.HHCAJEgNXRHRYewFPqcJ6lOV__4w8iol1AJXJNKZrLkg.Kznht0MB9t6CR0a9Gvhg9ceiX5r2hqMpJOPYv9W_5J0g.JPEG/900%EF%BC%BF20250706%EF%BC%BF115638.jpg?type=w800)
 
-..
+Impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjU0/MDAxNzUxODYzOTE3MzE5.OgfIR_mpozq1LTE4PPMOjtdRLlr72KAM0NjQGL3lOU4g.T8i2kdGRxeLRUJiONTcSjeqC3iUxLOoSFe3DMWMVWv4g.JPEG/900%EF%BC%BF20250706%EF%BC%BF115702.jpg?type=w800)
 
-.. .
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDAg/MDAxNzUxODYzOTE0MjUw.kccz288HfTwZDI67DKrxLH1wXW_XzhcBZopW71JYG_Eg.AhcoetV769HTfgymDbX2F1HT2umTIYWFMzvgcZ4G2qIg.JPEG/900%EF%BC%BF20250706%EF%BC%BF115704.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfOTAg/MDAxNzUxODY0NjMzNjA0.9kyrdkdB68FqDikiYdRLv1V4-YfFfj2vYLLwxUmw8Gog.vUDOdaY19YQFvDZ8SKyyHF3iWVyPNXXfTMXLSd6xwuEg.JPEG/SE-040fdd59-5aee-11f0-9dd3-9754190d7ac7.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQ3/MDAxNzUxODY0NjQ0Njkz._BJHf2kZvQhYkUS7KKsl9CsbAjT247WKPRiycXHDf5wg.lf7vQX7y-Vvm1mu8zMq-Q_sCV9O6ADQs4mJc56rGnNUg.JPEG/SE-040f1a08-5aee-11f0-9dd3-e3129735d30d.jpg?type=w800)
 
-.. .
+Impression . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMzMg/MDAxNzUxODY0NjE4MTE5.hZIYO-uGkSdyMlGzb-0vrM1OQOx8ljJ6CI-bHbUuptog.I8QlFFnuxRRU8bqbTCZqE2MDm2uwmw6xgfPfB0k7Vr4g.JPEG/SE-0410799a-5aee-11f0-9dd3-37a3a96b9837.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfODAg/MDAxNzUxODY0NjE5MDUy.PipTHfdQ37ESxYQLC_IQXsMkDPWmvaeGcWr2vCp9gcUg.0uta56rDdiWTFHOQe8CMt5yOLAzOUIaTPT_vZ7jlpnMg.JPEG/SE-041115db-5aee-11f0-9dd3-c963a9916a7a.jpg?type=w800)
@@ -147,49 +146,46 @@ Aliexpress ..
 ---
 
 
+..
 
-. ..
-
-T80 . .
+T80 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjkz/MDAxNzUxODY0NjYzNjgz.w_1hXB5JizNgTbW2Xikm4EdCivG2XL5onFor4hgsymQg.LTHUwAEP9I8OJMQgpTYmkAX7kfDqnt0Eb7jXl8tvJJ0g.JPEG/SE-13f8e412-5aee-11f0-9dd3-11b657f97311.jpg?type=w800)
 
-. . ..
+. impression ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTEw/MDAxNzUxODY0NzAxNzk0.9VKgC7cj4b2U-A9RoObrH-9PK2Y843vVRrmaeUXfJ4Mg.DY6A4Z_C7aSiEhOG66hfXJWtQVIiDgSCXqnuANfzVOgg.JPEG/SE-13f9a763-5aee-11f0-9dd3-6771d8ae7295.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjQy/MDAxNzUxODY0Njg1NTkx.rSpWcgHmMcpGv6vdNz2YuUYUxcMSlZFKqp0i0jQ3U-Ig.hSGNYbxd9vefkpGhKY2Qg7jglGIz02zDD_M5vi0YAFog.JPEG/SE-13fa43a4-5aee-11f0-9dd3-075a3e0ab4f3.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTg0/MDAxNzUxODY0NzE3ODU4.gdaTW8QM0MrdfkC_D-LAwQRH91TowQMJOzNdRb-hE1wg.PmCwVifyADp1JfsXxbtoo-TAua9NK5MksqF0o01iWpMg.JPEG/SE-13fab8d5-5aee-11f0-9dd3-015a78d611b6.jpg?type=w800)
 
-. . .
+. impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQ2/MDAxNzUxODY0NzUwNTUz.-e_DcCMJlvYtfikAAeknKRPQt1uKw3eS6cG0ONpNnNMg.PIZbJISpbUHAnfxgyZrBPLCt4PWZuz0pL-Yyx17NytQg.JPEG/SE-13fb7c26-5aee-11f0-9dd3-376f523b52f3.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjMw/MDAxNzUxODY0NzQxMTk1.pYaUWS9aQNglSL3AcYkLbRwhBO_yD_YzSsvtz6_Bhqsg.F1zo-_ZgyG_5JZf-M0qX_xTD1o_WTAWdtJJN2tbQBWog.JPEG/SE-13fc3f77-5aee-11f0-9dd3-3711f04ab592.jpg?type=w800)
 
-.. ㅎㅎ ..
+. ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjc4/MDAxNzUxODYzOTE2NDYx.y99LFwk-smD4WSPvGskpGIRYQNATtnJm0Qj-5-4hCaYg._poMeISfNEzrFbBY5665tcOLxoG6rB8okrb77fxehXMg.JPEG/900%EF%BC%BF20250706%EF%BC%BF120011.jpg?type=w800)
 
-. . .
+. hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjIw/MDAxNzUxODYzOTA1NTEy.gpTCgoTL1dye9PHXN4ryHwbsT_KHnDFSFpgaQ_70Xdsg.fMvhsb1H8WwFKTA6g9c-4B6Egy0ixEQkS9q9Fkdszrcg.JPEG/900%EF%BC%BF20250706%EF%BC%BF120018.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjU0/MDAxNzUxODYzOTExNjg3.VRmdXz0AoUswhI58mhQARM_-H9Mz4HzZafwFP8cosrIg.sx3iQB-OWKhIsneTrpocAaBMZ80FdA21Zh9tFhrEF7Qg.JPEG/900%EF%BC%BF20250706%EF%BC%BF120021.jpg?type=w800)
 
-T80 . .
+T80 .
 
-..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjcy/MDAxNzUxODY0ODEzNjky.HhriJWoP-pP9TuhEFZJzGfjxOeVjyfX8cYBy549Tre8g.MynVbcJbbqBmuEApMdQAr6aWuhXtp8ICfNjsHgLMrDwg.JPEG/SE-13ffc1ec-5aee-11f0-9dd3-61c3d5fadb46.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQ5/MDAxNzUxODY0ODAzNzg4.3t9iS2GvpttC4EKIjhz-I8QgwF7EYttDgFltRuryBOcg.qhpzGq5JhgEYHkR7JppiomgI50Wq9pvrRoo2QwrdvDUg.JPEG/SE-1402cf2f-5aee-11f0-9dd3-07545a7af8fa.jpg?type=w800)
 
-. . .. ㄴ ㅏ. T80 . ..
+. . ㄴ ㅏ. T80 discount discount ..
 
-Great cost-efficiency .
+Great cost-efficiency impression hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjUx/MDAxNzUxODY0Nzg0MDMz.g1FOm7urXGwlCdgBs0MARWPNWQJeieNHXPalba14_Vsg.KvzuNGwCKueRFiUjIrYnYpB8JEdYrIOM-ronfaqiuXcg.JPEG/SE-1400d35d-5aee-11f0-9dd3-cb06c69e6549.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTQz/MDAxNzUxODY0Nzk1NjEw.wP79T3P9DmhDaBeEfzEnyu2hxlP2RDJ1lOpeDUvxgDMg.tH0Z03uC5H407wfEkdyqByl35ssiyyFQiP2iHMW_pBog.JPEG/SE-1401e4ce-5aee-11f0-9dd3-5b5105613f9b.jpg?type=w800)
 
-. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMjQy/MDAxNzUxODY0ODM1MDI4.vsUdFoTyhYpxc7AgUbkuTw_jTFzYpOZm27j06jPA8Lwg.o3ob7TJamzEsnzPsLvckE6sJCH4uxpClFfIuT7E7mswg.JPEG/SE-14047ce1-5aee-11f0-9dd3-2f6dddde0419.jpg?type=w800)
 
@@ -200,16 +196,16 @@ Great cost-efficiency .
 
 ---
 
-** **
+** Report**
 
-/ ..
+/ .
 
-.. .
+. Report reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfNDUg/MDAxNzUxODYzOTE5MzMx.sC0AE9N9WGVU0dSPirPcu17AFZvYufchVRlnUhHFVe4g.QzsHuPijQHsxRnP9ZgMOzH_pjD99Bb6pBwATpGW7sEQg.JPEG/900%EF%BC%BF20250706%EF%BC%BF120707.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgz/MDAxNzUxODY0ODcyNDAy.MrSPkcQv0BOYxe-4sYL3XWXUkEPf8bpBfdVXkS0pqjog.gFElk4FBh92-54ycWyY0dFNk3sqMrzXF4N4Ljxzf_2gg.JPEG/SE-140714f5-5aee-11f0-9dd3-77746fc50439.jpg?type=w800)
 
-. . .ㅎㅎ
+. .ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfOTkg/MDAxNzUxODYzOTEwNjY5.I0gKdc3IMO3QUDZ8-mFroHHpAaq6XIbfWsYmVhrZLAog.lClR9imJ_482W-9ouN_V1gCakpJSB380jsG5lHoSPCgg.JPEG/900%EF%BC%BF20250706%EF%BC%BF121459.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTA3MDdfMTgg/MDAxNzUxODYzOTEyODU1.JRA-KxH6IizbAQj9udl1e8VOpkunc1mleP_vOkGFM9Ig.uMFdmr640XDaX_7T33gKWS8s-PUMx4zk8dzqNdl68EEg.JPEG/900%EF%BC%BF20250706%EF%BC%BF121448.jpg?type=w800)
@@ -218,12 +214,12 @@ Great cost-efficiency .
 
 ---
 
-T80 ... . great cost-efficiency .. .
+T80 .. great cost-efficiency impression . discount .
 
 . T80 .
 
 Thank you!.
 
-. great cost-efficiency .
+Purchase . great cost-efficiency .
 
 [Link: Fit For ( ECOVACS T80 PRO OMNI / T80 OMNI ) Vacuum Parts Main Roller Mop Cloth Side Brush Dust Bag HEPA Filter Accessories - AliExpress 6](https://s.click.aliexpress.com/e/\_okDSUe0)

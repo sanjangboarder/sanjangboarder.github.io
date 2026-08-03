@@ -1,0 +1,147 @@
+---
+title: "Fishing gear , recommendation ~ hands-on Review"
+date: 2024-04-29
+category: "Fishing Gear Reviews"
+categoryNo: 34
+logNo: 223430397574
+source: "https://m.blog.naver.com/sanjangboarder/223430397574"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjEw/MDAxNzE0MzA2OTM2ODgw.zx2gB1KtymwNtg7UbJpiTUoCVr3V6vdGyNRQ221f6SEg.JfR8LIUUAFb6-cV_l3dGb36ZrVbS-3XS6YMAUpaT74Eg.JPEG/20240428%A3%DF174653.jpg"
+description: "&quot; purchase .&quot; Hello, this is SanjangBorder. . fishing gear , boat fishing , impression . hands-on . fishing gear , , . Unboxing & Review . impression"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+**" purchase **
+
+** **
+
+** **
+
+** **
+
+** ."**
+
+Hello, this is SanjangBorder.
+
+
+Fishing gear , boat fishing , impression .
+
+Hands-on . fishing gear , , .
+
+---
+
+** Unboxing & Review**
+
+. impression . .
+
+. purchase .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTQ3/MDAxNzE0MzA2MDMwNzQ4.YEgblq0qRPV-9Nft2h7KLjfvyDwv152qN0H_JPEyxHYg.icWhBj8cl36pXvxhQOkeKytKsEvhKWkPITuV5oJUlB0g.JPEG/SE-074d4f58-044b-11ef-8fe9-9933012c485d.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfOTQg/MDAxNzE0MzA2MDM5MDU2.Rt27Q8iH9iK6YMUnkIsbC41n5cen6Le0aCVwaJTvDqog.kyWvzU0FMd4YT99Z8xZeTiw7Lz4by2GKnwTdFTs-xykg.JPEG/SE-074eaee9-044b-11ef-8fe9-fb09d752a556.jpg?type=w800)
+
+.. LEFLEX .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjIz/MDAxNzE0MzA2MDUyMjEx.VpQ86vFuee5ptW5bYLTL9jRXIeqrHSCvHz65mnaPaeUg.SA0KbdRyeCMLdFJ6C3rFUu-HbMHqxAx23bD3Zhtxtpwg.JPEG/SE-075083aa-044b-11ef-8fe9-af495cccffd0.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMTE5/MDAxNzE0MTkwNTc2Nzk2.HZILTCJ9PtdHnqbCfcXhmJPhCQbCWr52eEFybqDoZJEg.IJfq8cLcsU9Fho8nFCf02IwE8a0ZuyH7Vwer6WoVU5Ag.JPEG/20240426%EF%BC%BF200623.jpg?type=w800)
+
+. impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMTEw/MDAxNzE0MTkwNTc3OTQx.HuHpu94Hy8Eee0h8pGLG9Bj1vVdHdSeWvThmpgGIcWIg.LG5Ii45WdfmgSSy8bOLE7WTW68rBxgafOtDG3GXuVg0g.JPEG/20240426%EF%BC%BF200648.jpg?type=w800)
+
+Hands-on impression .
+
+Impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMjE3/MDAxNzE0MTkwNTc3NzI1.-J57gCqdxfMRDdknysx7XwtjnZdkaEXVPvED4E5x9Zgg.VD-mE2AUVqN6_OvUm5XblXxZebwmOagmKrEbF-0MvjAg.JPEG/20240426%EF%BC%BF200632.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMzYg/MDAxNzE0MTkwNTc3ODk4.E0ers_a9NlVKIhXTSOwkeeTn8y0usDL58v5PsmlmCyog.tQFziMeTV-FZXVC4213BQCjX9EclFNuPBAsuNO9Key8g.JPEG/20240426%EF%BC%BF200636.jpg?type=w800)
+
+. impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMTE5/MDAxNzE0MTkwNTc3Njcw.jt84uRqLpXYQkMuHKw5Pih1-XZ0VUToubitdLrdeGNAg.mlDgDNjYiEykLG-kjumVv9Crom8oV6RDm04QO9iBnZQg.JPEG/20240426%EF%BC%BF200626.jpg?type=w800)
+
+. . ? . ㅎㅎ . . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMjcw/MDAxNzE0MTkwNTc4NTkw.QjITWrSCVtJKLeCMK22rewBU9Q8dXiPYB61sn95UbsAg.6Rb4guXCH9xd253pu9il7xhDljDlIjoAfa-X3mJmMLcg.JPEG/20240426%EF%BC%BF200342.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfMTQ4/MDAxNzE0MTkwNTc4NzE5.dZyg3cCPAspFv8pBxa36n3K-wC5fbGFcjEwTNxzS6_Ig.Rx0reuD2maiCsyYcaJtisFelT8AfOhnfwpfHkqZ3B0Qg.JPEG/20240426%EF%BC%BF200348.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjdfODYg/MDAxNzE0MTkwNTc4ODQz.Z2SxWlkpHjUCRNZ9aC-yTvCmNTk-fAT9IBEDspZxY4Yg.FB-mLWd77oWVmlb6EkUrB5a6r86PbepwZ94UdNOr56Mg.JPEG/20240426%EF%BC%BF200354.jpg?type=w800)
+
+Large . impression . 60 Large .
+
+ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfNyAg/MDAxNzE0MzA2MDkxMDQy.-3koo-l033k25w5IDRTUIH0bCHkacAY7mcXWl203qe4g.qS3gaO1z_SPwitAgzAkfI9O58NViGiGVgvTRiBMfdvEg.JPEG/SE-07619ab3-044b-11ef-8fe9-b7faf095c26b.jpg?type=w800)
+
+
+. fishing gear .
+
+
+. UV .
+
+**" UV99 "**
+
+....
+
+**"360 "**
+
+**" "**
+
+. .
+
+**" "**
+
+
+**" "**
+
+Available . 30 .
+
+---
+
+** hands-on Report**
+
+Lure fishing outing outing . ㅎㅎ Incheon Songdo fishing gear .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfNTEg/MDAxNzE0MzAzOTQ4NDUw.c92bNPuEPCGEIuViUBOoG3OCWPEyED2ESf1wRVKOXe8g.JC2vcAPQJ1SjJco5SuBoi8hyeDttO0NCFJixK8E_dwog.JPEG/20240428%EF%BC%BF174624.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjgg/MDAxNzE0MzAzOTQ4MzEx.EbQUamyxGXn2WQUQEYNA5AkzRC8E3fV9BtHXfZEz5scg.KMrOno0-akM8kLH7DGJzwiVR4R7wGipHB-UXM5kFlgcg.JPEG/20240428%EF%BC%BF174629.jpg?type=w800)
+
+..
+
+ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjEw/MDAxNzE0MzA2OTM2ODgw.zx2gB1KtymwNtg7UbJpiTUoCVr3V6vdGyNRQ221f6SEg.JfR8LIUUAFb6-cV_l3dGb36ZrVbS-3XS6YMAUpaT74Eg.JPEG/SE-fd9fcc76-0552-11ef-a8a4-315ae70c2288.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTE2/MDAxNzE0MzAzOTQ4Mzk1.HLBzZg5RCM6UNgGzQduSQkcbifnME4AIuW7W66QXRSwg.YFdYCgKdg_CDokINfO137bdJxfBps9wUghXjBq5jb9cg.JPEG/20240428%EF%BC%BF174714.jpg?type=w800)
+
+Fishing gear + + + ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTY3/MDAxNzE0MzAzOTQ5OTQ5.KWD-MRR1Y15Kcn5bfx2oimRG-Fb-SyVVS_cf_QA9sa4g.MgHNpd3DBGdNQC6jJPqt85u3RsHys23lkkAD39OA1Gsg.JPEG/20240428%EF%BC%BF174809.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfNzIg/MDAxNzE0MzAzOTQ5OTc1.usYqxJCjc2dcdOzLmgQK4fM8zKSKs7MDrObGeXYQ7qIg.aFlS6y3EeLDfLcXC71UHGyAG4OaY0q1uAfTR4AR36Z4g.JPEG/20240428%EF%BC%BF174840.jpg?type=w800)
+
+Fishing rod . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjY1/MDAxNzE0MzAzOTQ5OTI2.Rp6cBQerbwjnLsYltaVHd7DUzTohp0TBAmTwmkaifuMg.Qk0Lqygcdl1tTzYTDGSAMoTaYi-Xq_pdYCuoVe5dNuog.JPEG/20240428%EF%BC%BF174847.jpg?type=w800)
+
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjY4/MDAxNzE0MzAzOTQ5NTk3.URHD9d-cNT3xpSBnWTTHubd7rVnfI3NL4IFbGtqghfsg.O8pBiFbuEAXzwSQL6ypfanll8QPnIKFCFnLaemXwETMg.JPEG/20240428%EF%BC%BF175009.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTM2/MDAxNzE0MzAzOTUxMDY0.2XVr2OOhiXNrPunQU_4RhZtAVzrITRLC25dEXUjHiUIg.GrNynSop_bqfs2TED80N9Sp5O9KKghmZKng5CoAdkDcg.JPEG/20240428%EF%BC%BF175023.jpg?type=w800)
+
+Impression impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMTM2/MDAxNzE0MzA2OTk3MDI3.67xWHwvuxF5UHksgI9FaIHfcwD4gAQ3CAV-LZwbTi3og.ZqDjyFcpV1zL9fATK07iMVpuqEOKHp5SUE3D3Ibvp0Ag.JPEG/SE-fdaf0ebe-0552-11ef-a8a4-370f0a308c45.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MjhfMjQ0/MDAxNzE0MzAzOTUyNDM4.Ut7PvHq015-ok-ytLNP2fqMMedxn0-cw80qYDH3zVSog.kdjXYY6Z8tn0RKnZb4439PBR_nXF5et2qetTgL_jUVAg.JPEG/20240428%EF%BC%BF175230.jpg?type=w800)
+
+---
+
+Fishing gear , , .
+
+Fishing gear fishing gear boat fishing fishing gear hands-on Report .
+
+Thank you!.
+
+
+[Link: 99% : ZEROTONE](https://naver.me/xRhp8kKt)

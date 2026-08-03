@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 223395520145
 source: "https://m.blog.naver.com/sanjangboarder/223395520145"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTgg/MDAxNzExNDEyNTE4Njg3.j_Od9i2SyFFmuyHNPAtWgs0zki6wdyz5wjgn0y9hoMQg.t22TbjRVwrHt9MSl4Ia_Ln7S0d7Qt4wxRY07-BJQhyAg.JPEG/Screenshot%A3%DF20240326%A3%DF091132%A3%DFNaver_Cafe.jpg"
-description: "Hello, this is SanjangBorder.. Incheon Seonjae Fishing Park 1 3 31 fishing rod . . fishing rod . fishing rod 2 . . 150 . 2 16 , 12 . . 7 4 , 12 30 4 , 4 . Pleas"
+description: "Hello, this is SanjangBorder. Incheon Seonjae Fishing Park 1 3 31 lure fishing . impression . fishing rod Report . lure fishing 2 . 150 . 2 16 , 12 . 7 4 , 12 3"
 lang: "en"
 ---
 
@@ -14,37 +14,37 @@ lang: "en"
 
 ​
 
-Hello, this is SanjangBorder..
+Hello, this is SanjangBorder.
 
-Incheon Seonjae Fishing Park 1 3 31 fishing rod . .
+Incheon Seonjae Fishing Park 1 3 31 lure fishing . impression .
 
-Fishing rod .
+Fishing rod Report .
 
-Fishing rod 2 . .
+Lure fishing 2 .
 
 150 .
 
-2 16 , 12 . .
+2 16 , 12 .
 
-7 4 , 12 30 4 , 4 . Please keep in mind for reference.
+7 4 , 12 30 4 , 4 fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfNjEg/MDAxNzExNDEyNTUxNjE0.LSJIG-DvccSYMiHsPgNqVwWXs1JcjtoxZVp1tX36zeUg.liDBlI9FSZtPECkgo6yFpR6JifoYXQDE-k-LNunLR5Mg.JPEG/SE-bb613e39-eb05-11ee-b6c5-7b6b3c149171.jpg?type=w800)
 
 , .
 
-Seonjae Fishing Park A, B, C, D, E .. 150 5 40 .
+Seonjae Fishing Park A, B, C, D, E . 150 5 40 fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMzAg/MDAxNzExNDEyNTYzMTg3.zs15R-PSOZ6BLSqjOB6zuPR1pqqW53if1xHy5H9CEK4g.3kZ3y-7eqZgPenDVVJn0ejwA76nP5wWbKiprsJsPbMkg.JPEG/SE-bb6312fa-eb05-11ee-b6c5-fb2b959d5326.jpg?type=w800)
 
-Red sea bream . .
+Red sea bream .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMjAy/MDAxNzExNDI2NTQxNjY2.582dRgWISWx-RWvM4VDejVSkxsuvPzt9HMGu8Sp7Lj0g.mtXqZxYrwRkJ1tOmx0BVFStM2kpFn_qvVK1mNNb1jqUg.JPEG/1711426520390.jpg?type=w800)
 
 Rockfish, , flatfish, , red sea bream, sea bass sea bass . sea bass 8 sea bass .
 
-Red sea bream water temperature , red sea bream .. .
+Red sea bream , red sea bream . .
 
-.. . 1400 ㅎㄷㄷ
+. . 1400 ㅎㄷㄷ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTM5/MDAxNzExNDEyNTg0MjAz.qCoJrpnvKHjlDLO4tudercZ4BeEtzTCbfImvDxu7j4sg.e4bzjYRVIrn-IRcg5e7ljwClyiaP0fPLj-KiEXqT6WIg.JPEG/SE-bb64728b-eb05-11ee-b6c5-0bc176623650.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTYw/MDAxNzExNDEyNjAwMTEx.WEIVwUTT1z5CRAmEfi0it77nRmtqEeGFCF-vL0I-b38g.G0WkS3IHmCsSDxj1BvYDVeGAzN4Wpl4Fx7yCIujAPfog.JPEG/SE-bb65ab0c-eb05-11ee-b6c5-5faa2c5276fa.jpg?type=w800)
@@ -54,7 +54,7 @@ Red sea bream water temperature , red sea bream .. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfODIg/MDAxNzExNDEyNjQ4ODM2.VQSyZ5hoFWfHBTMlA4O2_Miq28I3mTPKh4BHBGakALkg.GP2oQaF8tJC646QQftAsk40gy-iUdrNQupMA5ggQyV0g.JPEG/SE-bb6adb2f-eb05-11ee-b6c5-53b7e79f1ac0.jpg?type=w800)
 
-.. 1600 .
+. 1600 .
 
 Sea bass, flatfish, , .
 
@@ -73,43 +73,42 @@ Sea bass, flatfish, , .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMjk1/MDAxNzExNDEyNzg4MTE5.yD2c80I1U2_vEVSX3AgbBfuejC6Vna3bLQcWNw8dObsg.SVUvT5bpfrWdGZtzxRdrqzn9tjKxBMSVVQB02ZVX-cYg.JPEG/SE-bb75d7b8-eb05-11ee-b6c5-05ed7a504196.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfNDgg/MDAxNzExNDEyODA1OTM0.FR-nR1vJJJGi8MuQVFHOq3YEmW80sBze8BXyZ3HWWUUg.jPS9Hz1jeyxpCq7byZvKQs1JMbHHqHpdQPYwGCKmQNcg.JPEG/SE-bb76e929-eb05-11ee-b6c5-f9fc6803e2c3.jpg?type=w800)
 
-Fishing rod . Incheon .
+Fishing rod . Incheon saltwater fishing .
 
-. .. .
+.. impression .
 
-. ..
+..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTgg/MDAxNzExNDEyNTE4Njg3.j_Od9i2SyFFmuyHNPAtWgs0zki6wdyz5wjgn0y9hoMQg.t22TbjRVwrHt9MSl4Ia_Ln7S0d7Qt4wxRY07-BJQhyAg.JPEG/SE-bb5d94b8-eb05-11ee-b6c5-51cd104fac25.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMzAw/MDAxNzExNDEyMzAwNjE0.I7WQzkvotzfHUENRMIdFtOtJc_2O3f5QDRdWKjPrhSog.6b9GggUtDpAo4SRTSKZC2XQ10vN0HgCaIlLjQBz5eFMg.JPEG/20230430%EF%BC%BF053702.jpg?type=w800)
 
 ㄴ , ㅎㅎ
 
-.
 
 100% .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfNjgg/MDAxNzExNDEyMzAxMTUw.nViqtdriqQ-2q9MRujDzE-L0IxFG5tHhL8Nw_rBmaEMg.dfwhVeK0XqH4ZGzQkQMjtVTQpkaHhmXHC8mBqnBcLzYg.JPEG/20230430%EF%BC%BF110903.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTI2/MDAxNzExNDEyMzAxNzI4.ZK6z92S1tGyIBiKcfoAUOcr_zAjj5s0w2-SiyFA0Gtcg.J8DbX5X85DkNVcRULjog5JjE-L01mdeA3i4ElGyn-d8g.JPEG/20230430%EF%BC%BF110957.jpg?type=w800)
 
-.. red sea bream2 ..
+. red sea bream2 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfNCAg/MDAxNzExNDEyMzAxMDg4.RLz0pyt8BqT4vLqsgBUu9CpmVBldwJRGYRe4eLyKo2wg.8Q3rlgsaVZcFibQDG6_-JHznomLUtp3ZubOw8xRxRa4g.JPEG/20230430%EF%BC%BF055957.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTQ1/MDAxNzExNDEyMzAxODc5.DlhHgd6hGlY1l-pTYK5JcSLTGHsTzcPYlBuv7X2yC8gg.ZJsVSYDTXllWaWQEGUeQRmJZ5NG-yd37J7gCN20Wj98g.JPEG/20230430%EF%BC%BF111359.jpg?type=w800)
 
-1, red sea bream1 . 1~3 2 .. .
+1, red sea bream1 . 1~3 2 . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTcg/MDAxNzExNDEyMjk4MTMx.7N9B2zz9jQemjQynxSiQXjWalRiiI7YY8chsk1tFb1Ug.ZK8IkaOj3hmFIyW9-KLtCKwqH297RF4WFtQbzfR6Y4Ag.JPEG/20230430%EF%BC%BF110322.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMjQ2/MDAxNzExNDEyMjk5MjM1.T53y7MJfqo8X2j4p5ttWCsUBFT--wMc1ZWOERReXJJIg.W2QZNYuP3sU7tAjNbdRrcccxIBbdRwW695vhyEGRzxMg.JPEG/20230430%EF%BC%BF110222.jpg?type=w800)
 
-.. . ㅎㅎ
+. . ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMjUw/MDAxNzExNDEyODY3MDk2.lCHuqWJ_r_ZdbuIN1G-o-uT2am5WvvZxxbBHZPSwuOYg.4nHPNccyyOlpnacMYefT-Jj5plsHq5TmEqS_snlhrq0g.JPEG/SE-56a5517b-eb06-11ee-b6c5-4dab687f5906.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMTEz/MDAxNzExNDEyODgxNDA0.2FGko-2hclKr65lR-t9ZUPf6ABQsLPmTpYyTaGAX-Kkg.k3DdVm6nPI310KBvhR5HwfoeVg6_nxgRr6a7rkOqfCgg.JPEG/SE-56a885cc-eb06-11ee-b6c5-a9d99c1b302c.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjZfMjg3/MDAxNzExNDEyMjk5OTM2.c8uVgn4NOxZjRXFo17AIrtsi8PDDSnbAbj26e3QDBOcg.VvryA19sj3h_NdG52A96WohGJhmoVmv74HBZF0NQrJkg.JPEG/20230430%EF%BC%BF113312.jpg?type=w800)
 
-Seonjae Fishing Park ... .. .
+Lure fishing Seonjae Fishing Park ...
 
-.. .. ㅎㅎ ..
+. . ㅎㅎ .
 
 Thank you!.

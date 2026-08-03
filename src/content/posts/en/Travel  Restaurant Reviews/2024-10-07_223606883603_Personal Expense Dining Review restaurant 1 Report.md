@@ -1,0 +1,85 @@
+---
+title: "[Personal Expense Dining Review] restaurant 1 Report"
+date: 2024-10-07
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223606883603
+source: "https://m.blog.naver.com/sanjangboarder/223606883603"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMzcg/MDAxNzI2NzM3MDk1MDYw.bl_t9DKxbfkhTbbELECQLpzo6oFLs_FtXmsrJjdfYk4g.VR2fHzj04dAMvsS_XFobcfXgcs29PDyKSZK88FGULTEg.JPEG/20240919%A3%DF121217.jpg"
+description: "Hello, this is SanjangBorder. 1 restaurant .. restaurant . restaurant . MZ .. 7 10 . . . restaurant . . .. .. . . restaurant 1 .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+1 restaurant .
+
+
+Restaurant . restaurant . MZ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMjQy/MDAxNzI2NzM3MDkzOTM1.L1AlY2BI8SIsS8cBz28GYdQrEXmTHtZFRZ9nvZoSmyQg.YqUuBHJpzM2gP5J_b80LWm8q_IQ4wlJElHPD1eFDSiwg.JPEG/20240919%EF%BC%BF115101.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMjQy/MDAxNzI2NzM3MDk0NzM2.xS6XLVpbsctrj1gyUwJKwrZAOiHBogznnjRnQYNgnQgg.9fCtU5Qqupz_sHqmM8Zu3QvlvtuAyUPTJiXn0kVFRCMg.JPEG/20240919%EF%BC%BF115009.jpg?type=w800)
+
+. 7 10 .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfNjMg/MDAxNzI2NzM3MDkzNjk5.i8Ptg5BuxOjQGTPSrW5fB4p5nmLFGsYyD0uEowxA9h0g.UvqMtBXV06jEYcyK4ttKu9_RIfkh50KSsQuOZKZ0xK0g.JPEG/20240919%EF%BC%BF115105.jpg?type=w800)
+
+Restaurant .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTI3/MDAxNzI2NzM3MDkxODA1.6He_iaXtVucA8p5_ny_No86Y1hH1MN-Akd_z-n1I_NAg.nf8CCqpaDfhElZiFNGlyNiDgZpGQYanaKIsy-TW4bDEg.JPEG/20240919%EF%BC%BF120317.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfNjAg/MDAxNzI2NzM3MDkxODEz.HT_hwbTTTuNJpCqHMF3B0wd-qGjCPT-7cfJGW2ezuOEg.HyzUlDGuZ-bvOu3qDA29DDYAWcN81dKwp37xaw8n6mgg.JPEG/20240919%EF%BC%BF120319.jpg?type=w800)
+
+.. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTIg/MDAxNzI2NzM3MDkyNjU2.ScHDhvipzOjm42hM3k2D9KjJbmqfBIjPxDyCKIl64Aog.THjwpBmARYWRSsDqy0bwc5gGERW0qga0XmjY3YIwJhEg.JPEG/20240919%EF%BC%BF120325.jpg?type=w800)
+
+. ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfOTgg/MDAxNzI2NzM3MDkyODI4.pTjyMD4T0oZyXNtIHayBR2RgdrHTOySI3Ow8lbTLW2wg.IAKN6s4vcf8Ag7KvxyLntVE_8jUmh7giAKoNlt2V_aEg.JPEG/20240919%EF%BC%BF120524.jpg?type=w800)
+
+. restaurant 1 . .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTUw/MDAxNzI2NzM3MDkxODE0.N9gExiSmeEwTx0IsPQEFd5nfdIj38ofR0gXS6llM1Ckg.c-tneCzWyttnewWnnIlMcEpIpNcOPpzcSDSYFXZcDp4g.JPEG/20240919%EF%BC%BF121159.jpg?type=w800)
+
+. recommendation .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMzcg/MDAxNzI2NzM3MDk1MDYw.bl_t9DKxbfkhTbbELECQLpzo6oFLs_FtXmsrJjdfYk4g.VR2fHzj04dAMvsS_XFobcfXgcs29PDyKSZK88FGULTEg.JPEG/20240919%EF%BC%BF121217.jpg?type=w800)
+
+...
+
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTMz/MDAxNzI2NzM3MDkyOTE1.fNdIz9MjsF72-idRg03KM0H9RwakuzTSx6rohHLQuu4g.Q3AS6GvUZwvxKqwQD3hv8OpmbubY_ME00W7MXAN2ADQg.JPEG/20240919%EF%BC%BF121145.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMjMw/MDAxNzI2NzM3MDkzMDMx.2dUQFJiGe4qnZ4GfTV0n1oRG7tbcabDhT-B8t3QHs6Qg.9JF0Q5OhkBZnTWsCYgyIqrNbwwTuemwUdAO16N9uDAYg.JPEG/20240919%EF%BC%BF121240.jpg?type=w800)
+
+. .
+
+. restaurant .
+
+...
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTk4/MDAxNzI2NzM3MDkzODU5._qOzhK0qnNeHnaODHCdus6qB5A9gVzBokNICvQMqJcUg.A011cM9z-NvwgUyQxVOK0xlR-7SsIXebeDfqAsS9wyEg.JPEG/20240919%EF%BC%BF121349.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMjY1/MDAxNzI2NzM3MDkxODE3.MeLrtCWN3l1Bt_NSTGDhsJJaMeDWFhdAAWvGE3eh_vIg.EC_v-oRPu9a8rLfj85zR5B5rdbIxXTRvdGsNA8k21Rkg.JPEG/20240919%EF%BC%BF121352.jpg?type=w800)
+
+.. impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMjE1/MDAxNzI2NzM3MDk0NzM2.shECz8RP4OzRhJvjj2-1Li7oMFNhR15qpoALW0efj3cg.1-Gt4qglxISkbh-D22nOiO50Wx_YujMaKIpDzbkJ6nQg.JPEG/20240919%EF%BC%BF121509.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MTlfMTE0/MDAxNzI2NzM3MDkzNTg4.Sb6X6l8G1CIP8r_O9xqrWCdVDLRKG4o9QZ5jBHjOWjgg.tu5fSjdg2NxX0g_9I8yvT7J1xhQ5CjPh3h59NiGYoKkg.JPEG/20240919%EF%BC%BF121519.jpg?type=w800)
+
+.. ㅠㅠ
+
+Verification restaurant ..
+
+. . .
+
+Restaurant 5 3.6 ..
+
+Thank you!.

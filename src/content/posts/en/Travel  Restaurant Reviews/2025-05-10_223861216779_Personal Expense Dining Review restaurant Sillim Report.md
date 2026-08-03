@@ -1,0 +1,93 @@
+---
+title: "[Personal Expense Dining Review] restaurant Sillim Report"
+date: 2025-05-10
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223861216779
+source: "https://m.blog.naver.com/sanjangboarder/223861216779"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTA1MTBfODgg/MDAxNzQ2ODYwMjY5NTAz.ZEDk0-i0PO8uZ1RUTUlrdFQa_2x4uM9UIhGeDjj8g7Qg.EVw4aTGqWg2dYlRuP-JEm4LkBzEdJw3zXkmk_Kn7nhQg.JPEG/900%A3%DF20250502%A3%DF115617.jpg"
+description: "Hello, this is SanjangBorder. , . restaurant impression .. restaurant . 30 . Sillim . impression 20 . Sillim 5 . . 3~4 . 20 . . impression . .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+, . restaurant impression .
+
+. restaurant . 30 . Sillim .
+
+Impression 20 . Sillim 5 .
+
+. 3~4 .
+
+20 . . impression . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMTU4/MDAxNzQ2MjQ5ODQwMzIz.tIkKD3qmZJua7kO0MZRUz5d1iQWzA78q9tn20Rx30xkg.E4JY173Yct023Y-8nsDdg11I2KbIdbeeEdB3vDCYsh4g.JPEG/900%EF%BC%BF20250502%EF%BC%BF115048.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MTBfMjk1/MDAxNzQ2ODU5MTI3MDY5.7grjE3bdQUES11BgaOSvmHlGYCNwsuXfqqKU2vqReYgg.ZPguSKzJegn2EyRUkAJs_GbiqE0pQeLa98YyoGG_73og.JPEG/SE-c372d110-27de-11f0-be11-dbc08fc66fa3.jpg?type=w800)
+
+.. impression ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfNjgg/MDAxNzQ2MjQ5ODQyODEx.3neiFAqAcBbJVZ_AGkEtyg59D2Ge0mfZxGhi3SR-zZYg.GLG3wSXtV_YQvWzeHHH1m2DTqfHTsF4d6i95-FE13sog.JPEG/900%EF%BC%BF20250502%EF%BC%BF115107.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMjY4/MDAxNzQ2MjQ5ODQyMDcz.P2CjOUzm8gqr568l9aXZlYngPMYuyLZIijzLlvpsc64g.9dto0x3A6mN7FjBFUiPRRcCrcHgxQTr3UEXUOVcI1X8g.JPEG/900%EF%BC%BF20250502%EF%BC%BF115036.jpg?type=w800)
+
+12 ㅎㅎ . . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMjI0/MDAxNzQ2MjQ5ODQyMTc0.NC_ZNxy2xfjhoGTfgpG9FATUjM8qSGiaNE7amYmdUoog.y_J4H1mJ0jMdMo_-nC5J7h7ItacCwfmbFYierjFvEZkg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115539.jpg?type=w800)
+
+. discount . 1.5 . ㅎㅎ
+
+. 6 . ?. 8 . discount . .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMjA5/MDAxNzQ2MjQ5ODQyMDU0.lcaXSGYbWH-SBZ2JixKXzGkS_TWUcFyNI85AO1zDdYYg.NoSEqcx9Ji2o9bD-t6X6KuoYsHCxsdcKz1tsydszD3Yg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115120.jpg?type=w800)
+
+. impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMTA0/MDAxNzQ2MjQ5ODQxMDQw.tXv2kW1pLA_69pxabgfltSB9MOQbljPyyu70lUcWTfYg.YSdpYQ3lTK0BUWZtpEmJRZPLR_NU_WcCvR6eT_0y8ngg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115123.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MTBfNzgg/MDAxNzQ2ODU5MTYxNDY0.iEmDojChpFGRYykLK7znqDxmlKhHZziPq-rnh4t22Mcg.2mufK0aL76qzCKUpu60-1Yx9w4l07oRZxv-9AZgwZ-og.JPEG/SE-c37716d6-27de-11f0-be11-bde5930d22ff.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMiAg/MDAxNzQ2MjQ5ODQxNDE0.Oc38EbCPTKyMoKaDT0ICdJPv5gakkAwlJ81a266HZbYg.8cryKy3EvvJPLPTVIkYpDCnEyAlC72G6vUXBdlniFnog.JPEG/900%EF%BC%BF20250502%EF%BC%BF115324.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMTI3/MDAxNzQ2MjQ5ODQwMzA2.4nHMZyI2zqJb20_dE_tDlhFqFabX-sVByo0G0j0mpKUg.0_sx-WStui7kDmJUi0DhwMQ_gdCqPkpefFG5hcavuJwg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115256.jpg?type=w800)
+
+.. ㅎㅎ .
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMzgg/MDAxNzQ2MjQ5ODQxMDA5.wQAebYl1IppOMTwo57RjxcdePAObSNXTFpaBaRWo4Pwg.5378KVluedQpmwQZfUlZT2th-RLgH4JYNeVuw_HYdk4g.JPEG/900%EF%BC%BF20250502%EF%BC%BF115956.jpg?type=w800)
+
+Restaurant ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMjU3/MDAxNzQ2MjQ5ODQxNzYz.2SfSV_ks5znvvs_FE0HBldnT452fgRx9b0GwB0n3Guwg.HY2RPs5R6StZBMsynhII0TLuCroYlcmu_nrQcre-Wi0g.JPEG/900%EF%BC%BF20250502%EF%BC%BF120012.jpg?type=w800)
+
+.. . . . . impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MTBfODgg/MDAxNzQ2ODYwMjY5NTAz.ZEDk0-i0PO8uZ1RUTUlrdFQa_2x4uM9UIhGeDjj8g7Qg.EVw4aTGqWg2dYlRuP-JEm4LkBzEdJw3zXkmk_Kn7nhQg.JPEG/SE-c37ac05b-27de-11f0-be11-9dd2e9e3d758.jpg?type=w800)
+
+Impression .. . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMjYx/MDAxNzQ2MjQ5ODQyNzk5.nbXgLZudWbEPQt_q3yX7XL1klmsKGlA-jhhIMYMGuO8g.8lBcU0X-2oBV0_HSGhkdaRop54l8_N9z4EDGEnMiZOcg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115809.jpg?type=w800)
+
+, .
+
+. . . ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfNCAg/MDAxNzQ2MjQ5ODQyOTg3.y_vCr-IJWP2NHLYwwImIXxdrQfabFo6QZv1IdM-h5uUg.Z7TybUc6cnLqJ-BRcwi57tL1gW85R4hnOge4yyyIZbUg.JPEG/900%EF%BC%BF20250502%EF%BC%BF115620.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNTA1MDNfMzQg/MDAxNzQ2MjQ5ODQyNTc4.SQ7H3euBMWvUzPEJtaXv-M0c3sC8WHzUYU4tR4PlJIYg.vU62SN4AnWVVhuhS3tMq7JjB5zPsMQh5EQ8HiUXDGk4g.JPEG/900%EF%BC%BF20250502%EF%BC%BF115637.jpg?type=w800)
+
+, . impression .
+
+Restaurant 5 2.5 ..
+
+. restaurant .
+
+Thank you!.

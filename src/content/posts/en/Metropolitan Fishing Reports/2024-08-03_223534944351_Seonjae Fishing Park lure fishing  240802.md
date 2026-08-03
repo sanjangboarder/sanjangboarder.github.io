@@ -1,0 +1,197 @@
+---
+title: "Seonjae Fishing Park lure fishing ~ [24.08.02]"
+date: 2024-08-03
+category: "Metropolitan Fishing Reports"
+categoryNo: 3
+logNo: 223534944351
+source: "https://m.blog.naver.com/sanjangboarder/223534944351"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTEx/MDAxNzIyNjQ1NzIxNTU5._KlKgdnfbu3n01ji4iVVWGQj1WIPx1sngpA4T9c4BLsg.QtodPTt1PdMdb4hVvz-xw6JiJlQqPVTsKRTXRpUWBpMg.PNG/image.png"
+description: "Hello, this is SanjangBorder. . fishing gear . saltwater fishing . outing 8 2 .. Songdo 4 30 . Incheon 28 . ㅎㅎ . A . A . ㅎㅎ . reel 3000 . 1.2 8 . 24LB . impress"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+. fishing gear . saltwater fishing .
+
+Outing 8 2 .. Songdo 4 30 . Incheon 28 . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjUz/MDAxNzIyNTkyNDQ5ODY5.l6G7y4U9lw7jM6vlLj1a1wMZo4T1jbmBmySPuatCEPwg.r3E40Vn6_mdhoZLBUaov46dNpCZbZWh5DY1Vq1-k_KMg.JPEG/20240802%EF%BC%BF051745.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjE4/MDAxNzIyNTkyNDUxNjE4.3G_WbD87rpQK01Bko30goiu5vqyq-gvSCRCKEW9rXH0g.xadhpjif7EuKZ4cuUVaepV-XgP0HUGPS4Yxnb-xJ1iUg.JPEG/20240802%EF%BC%BF051555.jpg?type=w800)
+
+A . A . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMTUy/MDAxNzIyNTkyNDUwMTA2.FYAGQi1njvBRMhJay1DAjRsrljF0HGlvhOeg41mPveEg.Z1d3g0DW0hJ3EDlcSkiX4PKK3vVGN3dFEynwagWVWVkg.JPEG/20240802%EF%BC%BF051916.jpg?type=w800)
+
+. reel 3000 . 1.2 8 . 24LB .
+
+Impression ㅎㅎ .
+
+
+> **Seonjae Fishing Park **
+>
+> fishing rod : Banax 732uls
+>
+> reel : Shimano XR C3000SHG
+>
+> : 8 0.8
+>
+> : 3.5
+>
+> ---
+>
+> **fishing rod : XP862ml**
+>
+> ** reel : Shimano C3000**
+>
+> : ** 8 1.2 24LB**
+>
+> : ** 5 20LB**
+>
+> ---
+>
+> : 1/10, 1/22oz ,
+>
+> 3.2 , 3,4
+>
+>
+>
+>
+>
+> SanjangBorder
+
+C3000 lure fishing . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjk2/MDAxNzIyNTkyNDU1MzU0.cQ87WImaAtOfn9RfyZfy3M3FKJ5uHkAHkNEwA6gDkMAg.57J1ztD-Ic4tziykaR8fELl2YGpzTnIVBLanERN4vb8g.JPEG/20240802%EF%BC%BF053043.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfODkg/MDAxNzIyNTkyNDUwMjIy.hrSCfzQRThWv0fabfuoj8wMgbrcyXqXgu7k1NvXleYUg.uIEFfv0Z3WSPgYqq5RPr5cTLHuedqxeFC_PucuV8SrMg.JPEG/20240802%EF%BC%BF053050.jpg?type=w800)
+
+3 .. , 4 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTgx/MDAxNzIyNjQ2OTc5NjA0.WKmHc58yAJdgHfamUsmZg65w2ICYh_WR1S7ByTwVbsog.YePhtnuiSZC3_tqqEG3-OzQSED-yiaEA83XLt2EqgRkg.PNG/image.png?type=w800)
+
+1 ... rockfish (mebal) .. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMjE1/MDAxNzIyNjQ0ODcyNjIx.M16NTSHTpkz06rlaqCACmA491hSS-W0GqxE2alzMKrEg.oWQaatg5WKQ9kW1Qu_snfxoShjz0r8QpyK0EPYBVwYUg.PNG/image.png?type=w800)
+
+Red sea bream ~. ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjU1/MDAxNzIyNTkyNDU3MTk0.plEza49q1DK9c42exElMRI_zmYd4Mq-1dd4gIlFvB4og.P9smmdkmpHYxCCqH3G0vP2kDGoHvxK05q3vI5TgfvQEg.JPEG/20240802%EF%BC%BF053841.jpg?type=w800)
+
+Outing . 3 . 4 ..
+
+ㅎㅎ ? ㅎㅎ 1 .. B C .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTQx/MDAxNzIyNjQ0OTQ0MDg4.dWwN-3VzHOezqU4S8evSHhZsrmoOtva3YRDDmwM4MSAg.dQ5QyI0zLRdF6jpWQXw1XcJ5fYq3qLUem9--RDMGlusg.PNG/image.png?type=w800)
+
+C . ~ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfOTgg/MDAxNzIyNjQ0OTk2Mzg4.hGmavftRJhVyYFkc4cEAKuuJRf9zRPHupBWh9weaaREg.354qPf6ifOTa75F5L3wGaK2UAAq7Jj7Ed3Bekm6i9UQg.PNG/image.png?type=w800)
+
+....
+
+. ㅎㅎ .. ㅎㅎ 7 . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfODAg/MDAxNzIyNjQ2NjIxODI4.-q-7RffgNQkgXgcNkASaSJVBGg7RTz51zx9aQ15dw4og.d404wnczy-o7I00M5JDZ-WcBk6vHtYV75BDtRTQGHSkg.JPEG/SE-27090586-50b5-11ef-89ad-3751fe510db7.jpg?type=w800)
+
+... impression . . .
+
+. . 5 .. ㅠㅠ ㅠㅠ.
+
+ㅠㅠ. . .
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMTcy/MDAxNzIyNTkyNDU4OTQ4.0mOa1OgA7IZiOxYQf5-Hh1Mp7aBVoVye4afV1a_ixwQg.q9wzDXnYKOCf2E5uW_VdUw3rOoOr_LE75uRaj2EBolEg.JPEG/20240802%EF%BC%BF065840.jpg?type=w800)
+
+7 .. ..
+
+Red sea bream, , , ㅠㅠ.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjEz/MDAxNzIyNTkyNDU5MjMx.oRRr4QKJKFhYr69B8G--vkQbIddGl6_m_vRARnTCoPgg.8k1mtQ1xDIwr0NB8ZWibrpDcV_mSD997XGW_5CKG7Lkg.JPEG/20240802%EF%BC%BF070637.jpg?type=w800)
+
+.. + . .. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfOTUg/MDAxNzIyNTkyNDU5MDcx.oI8jOcI-0I__wHX3FEUfCnQFkNh8z8iJ2AVR00LwdEIg.d_1Zf8qmY_xW8LYpao76ga5TNLG76HtKfiEYe7N8jC4g.JPEG/20240802%EF%BC%BF071407.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjQg/MDAxNzIyNTkyNDU5NTQz.PGl9D0teG6e0uiGSNtAh5WJ3Sc377I1cB51hD3Y6viAg.CghX6EJ5W-JuCXzhPbftWXP-ST-qOZJzCCdzDuS_bHQg.JPEG/20240802%EF%BC%BF071409.jpg?type=w800)
+
+E . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjIw/MDAxNzIyNTkyNDYwMDY2.DRkISH_m3v18qEwzqa7-zR_AcXxcQptdM1bI25oETGIg.cDELZ6HeoVm7lHMZvATM9pmHn10S1G3wxmNJwh2BrqYg.JPEG/20240802%EF%BC%BF080128.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMTQ2/MDAxNzIyNTkyNDU3NDM1.4AAwrjVVkcQV0u0R6tKMVuYAKLFv6uH9NCVgwAKsKaMg.JhLOSNmRX4hGnjBVWuhWx3JRxEU6DMM_Xcfja8l4amkg.JPEG/20240802%EF%BC%BF082415.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMjk1/MDAxNzIyNjQ3Njc1MTU0.QxD5rFFv-F7aiiXGKUY-zTO0QbUHONoolLdpez7mpAQg.bvcsBs-LuhBpeLXYcMsMamOhLM0gQdWm4fOHXzePlp4g.JPEG/SE-38e09a70-251d-42ee-8a5a-b4b72b25641d.jpg?type=w800)
+
+ㅎㅎ .. E .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMzcg/MDAxNzIyNjQ1MjczMzE0.2ogo0XmZeLhK2UAxYGh--G9nj3pNcsUEmRhVDlhvZKcg.-ZR0C23pn1QWIoEqWrVZ23VjgMZQAxftzQ40xXPEBAcg.PNG/image.png?type=w800)
+
+Red sea bream .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjA0/MDAxNzIyNTkyNDYxMjMx.MVxzjJixyVnAOIDX-JIzqLL76wTVRprlBNi4eeB3PPMg.fYlgPnW4rQf-_LqsjW59RyYIPT5ufB-QbV2L7u1n3nog.JPEG/20240802%EF%BC%BF080135.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfNzcg/MDAxNzIyNjQ1MzY0NTAx.QKcR7e8rPEza3UoMYktEqFiLU9aLddV4O57M69AD4QIg.Kw9TbRlzTlZb63r-mvNuCguS4lP_eqvyjtz_z-qTsxgg.PNG/image.png?type=w800)
+
+. . E .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfOTUg/MDAxNzIyNTkyNDYxNzQ4.cihK1n8WyagTAH0neI1Ou0ItHbis-VQM7FO3TRzffTcg.Ss6Kvlm97tm8I98n6b2fljP5by31OWLFPYGozitMpnQg.JPEG/20240802%EF%BC%BF081031.jpg?type=w800)
+
+2 . 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMjA0/MDAxNzIyNjQ1Mzk3NjU1.sl6bkvS2c1vk7cMTr2581RTnNp7hcIFdzhExIWX4wKgg.flLBBbxOhFEiFXVs-ehc3VA8_qbWzYoMP1O_U57QRMYg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMjc0/MDAxNzIyNjQ1NDQyOTQ4.UCUA827Usk_4Yt_V4OYgTHyTOPVJ-oCTgs6Xd3DRKHkg.5x0ptr6ZRx88VB8wANjBNiHAN01isOX5sR6aUrpNOAYg.PNG/image.png?type=w800)
+
+A . .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjc1/MDAxNzIyNTkyNDYxNzQ2.vKGGGZ_aCxo22-61TuiovbGeiL07DQE5y-LLk-Xz1Vgg.gY6mNOGNa8FRDBvXGCa30ZMhC5NFWCQOVQpERwt9fEIg.JPEG/20240802%EF%BC%BF093005.jpg?type=w800)
+
+31 . . 99~100% ㅎㅎ
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMjY1/MDAxNzIyNjQ2NjQwOTI1.1l9vCoDx5Mhnd9hBt15hsW049aK4Sx4vLLtizgFr_awg.jC63U9zDQuLEyVc2-rgBleFnhgN79HVUzMeok9oZblwg.PNG/image.png?type=w800)
+
+. ㅎㅎ
+
+. ...
+
+C . .. 1.2 ㅠㅠ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTEx/MDAxNzIyNjQ1NzIxNTU5._KlKgdnfbu3n01ji4iVVWGQj1WIPx1sngpA4T9c4BLsg.QtodPTt1PdMdb4hVvz-xw6JiJlQqPVTsKRTXRpUWBpMg.PNG/image.png?type=w800)
+
+..
+
+E .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMjA0/MDAxNzIyNTkyNDYzMDI0.3nsJSKwz8R7_OyAUK21oLDV2nP4YbMZLUU23m1zjoqMg.J6GgWihkdze05xL2Ib1dnJvOcMwcRtKpjYeEn14OtxIg.JPEG/20240802%EF%BC%BF113937.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTc1/MDAxNzIyNjQ1OTkzNTAx.RfbOlJBfreBsO6eqlkzbEKrPPGphb_p5jdTe5E_d-iYg.y62d7qTImXkkNDqz9ayzIBMJ-K1SBBivNruoZhriqwIg.PNG/image.png?type=w800)
+
+. . ㅎㅎ .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTIw/MDAxNzIyNjQ1ODM2NTY3.42r2vXWmxlRloUXzWqgxPY6GeyqBm0Mb3eKzZlyZLzUg.vmREzmTf0jH4Z4zNNZyTTqAQ13zDXfl0QHvTNJL9Hocg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfMTYg/MDAxNzIyNTkyNDYyODU4.fl2CLK3HzcDuc_eTWYcwwCcmSxgYuSCYgDJYmDi3mP8g.UxF2qagqndyuE5nCKHMxolmhTyqJ39fU5rEfD0U09ygg.JPEG/20240802%EF%BC%BF112611.jpg?type=w800)
+
+.. ~.
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDNfMTM2/MDAxNzIyNjQ1ODk1MDEy.UgiLLXs-8lSlrZNKW8UiDKzEOd-GSKhW9VwCZ9G8IyEg.fyFDTLERRWEL9_Pdr-5_v77ABujlBwahxjc01wN06LAg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDJfODAg/MDAxNzIyNTkyNDYzNjIy.S3l-dN0XkJpkDoHcZbS0akRTo_idODIAY9fW9goRQ0Ig.2P5AVLvCInx5mRwDk94mFwAHIBU1hV40QLdkxO-z6fwg.JPEG/20240802%EF%BC%BF114528.jpg?type=w800)
+
+Incheon Seonjae Fishing Park 8 2 . . 12 .
+
+5 7 1, red sea bream3, 2, 2 8 . impression . available . . .
+
+Fishing gear . . juvenile cutlassfish fishing gear reel .
+
+Thank you!.

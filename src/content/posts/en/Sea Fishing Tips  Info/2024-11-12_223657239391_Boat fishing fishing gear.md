@@ -1,0 +1,97 @@
+---
+title: "Boat fishing fishing gear"
+date: 2024-11-12
+category: "Sea Fishing Tips & Info"
+categoryNo: 26
+logNo: 223657239391
+source: "https://m.blog.naver.com/sanjangboarder/223657239391"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDExMTJfMTQw/MDAxNzMxMzg2NTMyNjgw.OARIFUNvwT3ADtqmFMcx41Gdekk39kwz9HMzhkxzDn8g.aQczJ2IaDAJCfamMWBkNr1dYydok1K5FSBnNoeynlIkg.JPEG/1731386434301.jpg"
+description: "Hello, this is SanjangBorder. ? . . boat fishing fishing gear , , . ? 9.77t 22 / 20 , 21 . 22 4 , 18 2 . fishing gear . webfoot octopus fishing gear flatfish cu"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+? . .
+
+Boat fishing fishing gear , , .
+
+** ?**
+
+9.77t 22 / 20 , 21 . 22 4 , 18 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA5MjJfMjIw/MDAxNzI2OTk1MjY1OTg0.9JmJhSMx5dVVOlxLn_NfQ99mbsC11jxuyWDaity6pzIg.2JzZ7NlcizA1cgwcUtDPuHMofh3lp-G-FkNCdJKl1oIg.PNG/SE-ca652565-5264-4bf4-8a13-b7733ef93944.png?type=w800)
+
+---
+
+** **
+
+Fishing gear .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTJfMTI4/MDAxNzMxMzg2NTMyODIx.vq_xdUmYyjQ0bad_NgodgUm6wefTmxaz4EbOQNso-U4g.bafrjsq8z-_mcKmIovjLd56Qw4AmJ5aoyeOy3hXI3fQg.JPEG/20241109%EF%BC%BF071920.jpg?type=w800)
+
+Webfoot octopus fishing gear flatfish cuttlefish fishing gear .
+
+. , .
+
+---
+
+** **
+
+. 360 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTJfMTQw/MDAxNzMxMzg2NTMyNjgw.OARIFUNvwT3ADtqmFMcx41Gdekk39kwz9HMzhkxzDn8g.aQczJ2IaDAJCfamMWBkNr1dYydok1K5FSBnNoeynlIkg.JPEG/1731386434301.jpg?type=w800)
+
+. .
+
+
+. .
+
+. .
+
+---
+
+**" ?"**
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTJfMTcw/MDAxNzMxMzg2NTMyODkw.PalMgraiqPGNHBM-hkL_-VkJga8Jif0nJ7SqVJ3U7vEg.e3bZGJv2xG7xjPwMQqpfFi_yc4sHdaeMAsDBsRFhpT0g.JPEG/20240928%EF%BC%BF121218.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDExMTJfMTMg/MDAxNzMxMzg2NTMzNzM1.VWxPF80_QOBOfy_5gH07HqYnxiywsJL4Ym7T-pvz3TMg.rQlVfkGzV6lnyaNURZI0d9PRwQSqSsYkOKd3fTA-ZKkg.JPEG/20240923%EF%BC%BF113606.jpg?type=w800)
+
+Impression . boat fishing .
+
+Webfoot octopus fishing gear . red sea bream, flatfish . .
+
+Rockfish fishing gear / .
+
+---
+
+** **
+
+Verification verification . .
+
+Fishing gear .
+
+Fishing gear .
+
+---
+
+** **
+
+. fishing gear **9.77 22 4 1 ~21 .**
+
+4 fishing rod , .
+
+---
+
+. .
+
+. impression . , , , impression .
+
+Impression . .
+
+Thank you!.

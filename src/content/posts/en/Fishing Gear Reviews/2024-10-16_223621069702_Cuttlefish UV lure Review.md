@@ -1,0 +1,105 @@
+---
+title: "Cuttlefish UV lure Review"
+date: 2024-10-16
+category: "Fishing Gear Reviews"
+categoryNo: 34
+logNo: 223621069702
+source: "https://m.blog.naver.com/sanjangboarder/223621069702"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNDcg/MDAxNzI4OTg2NzYxMTEx.ekAnDufoYAOYOOvc3VxafiL7qV-Nv8uWR-MKJOJCA6sg.5DAazMpBiiAf_uCtoBxdRHKI490APHXTKr1x-pKn9rsg.JPEG/20241013%A3%DF084643.jpg"
+description: "Hello, this is SanjangBorder. lure . 25 UV lure . 3 . discount lure . 5 , . lure 5 . discount 4000 available . , , , , . lure UV . lure , .."
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Lure . 25 UV lure . 3 .
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjIg/MDAxNzI4OTg2Nzk4OTIy.RWjaNjEkf0B8opT6KGesLE1J4CHQrj0gTiluaNmkxH0g.xlV2AxS3g4XoSSvzJ1mQ7Md3SErBRitCC1y1vUaASKwg.JPEG/SE-3a451482-8a2a-11ef-9b33-5f9f18f9c196.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjU4/MDAxNzI4OTg2ODA3Mzc1.GHE0TlCRZ2ly0SQLog638pBI-0-C7Ra9wnGGpTNpfzQg.mHUKW5xuMkfrWzpbbWGGAIzamSvFxwMzFsZ7lE_PNOIg.JPEG/SE-3a4625f3-8a2a-11ef-9b33-ebcedddf5076.jpg?type=w800)
+
+Discount lure . 5 , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfMjA3/MDAxNzI4OTA5OTQ1ODIy.jjS1vT_I5rL-UlBrEzUu6tsdMzZHBV-y6xiWvWbhKwsg.OryxdGFHUL3eodPeatO80la0KJN7fautvPnKm5CYUU4g.JPEG/20241011%EF%BC%BF214812.jpg?type=w800)
+
+Lure 5 . discount 4000 available .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfMTQ2/MDAxNzI4OTA5OTQ1MDc5.WF0IdOmStHs9rFnRXKfuj3rBxQ24KgiW7RwgFiqNG1wg.R4ucqjP6xE88B0rHcTL-lsz2MjjzMBSSAoFmDww37u4g.JPEG/20241011%EF%BC%BF214830.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfNTAg/MDAxNzI4OTEwMDMzNjY0.lLyTFCqSceV3znolAlUGk0FNa6ny-pLPtxGqf0Fxy5cg.SrE7xN8ZHmiff0jxX5ZmQAU_plrqDc--vtk_umWsm60g.JPEG/20241012%EF%BC%BF172820.jpg?type=w800)
+
+. , , , , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjYy/MDAxNzI4OTg2NzQ2MTkw.-p_OWm38D4466ojAGBNDNmSlSauZ-yqw1xJoa6i1cc8g.POMRbExvgg9Vq4Pe8YFeF645hdFVYfUZOZyDMd4R8Wkg.JPEG/SE-6da62896-8a2a-11ef-9b33-fdc0ef60b5ec.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjU5/MDAxNzI4OTg2NDkzODA2.QSoVZp5c6-9ElCrUWut9yI2M8fXyknCz0NkI0fQRITUg.zn5NA2TS0EfnvCF11xFcy4rOKTeA5tEbz9U2wwfaARIg.JPEG/SE-6da9f927-8a2a-11ef-9b33-0ffa3d54ff7e.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTYx/MDAxNzI4OTg2NTA2NTM5.Fxt8MaplEsvmOg7kZpp_Pk0najzcCrDDiwXZWWLvgU4g.Ahz3Yg2Q52bHVkO7JLUwhDAkHPYVk4DNiQsAX1wtSVMg.JPEG/SE-6db03abb-8a2a-11ef-9b33-6f55a18e3fd4.jpg?type=w800)
+
+Lure UV .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfOTgg/MDAxNzI4OTg2NTE4NDkw.-Aw86h30iZLzL94D3BxpiHoiRU1sP0ME8y540qhtj20g.f5TC2EXXIhOwkKYc4wbgwt6xAWHwCvtiX5In4YRFMGMg.JPEG/SE-6db2368c-8a2a-11ef-9b33-fff94e913e2c.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTMg/MDAxNzI4OTg2NTI3NTAw.GvnsJkziBwMh_TsuaDHpmcRTebhetLQUH1qBSq9yaq8g.HK-iZU-Q9lLa6o5mx5XmBonQINs-8dD3Ep8c9-tYWbgg.JPEG/SE-6db347fd-8a2a-11ef-9b33-71e93fde7826.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTc0/MDAxNzI4OTg2NTM4MDEy.wydin6Ey649MC0srEcfpqRgZcrK9-Ci6qOc82W6ciiIg.ZQW5Mke5jQIrgTitikg-FHQmz5zde7cNdmBIkWtO4SUg.JPEG/SE-6db7b4ce-8a2a-11ef-9b33-8316cf19da28.jpg?type=w800)
+
+Lure , impression . lure lure impression .
+
+Verification .
+
+8cm . 5.4g . lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMyAg/MDAxNzI4OTg2NDEyMTA0.cbz6Uur_tJr5i-aZSGGZBfOo6Su0h7_We0B92gXrKbQg.sM9eu_l8JOEe0cIgE63nwXjIInM1dkmv5OD25-ckvzcg.JPEG/SE-6da0d164-8a2a-11ef-9b33-237963f2c3b7.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTIx/MDAxNzI4OTg2NDIxOTUz.BZYdZbzjZTMBAo85xZ_VTn4AaN8nJdSr5aMvLwRLk-sg.NWoy0RpJvxXnmTYSnRseOGAZ-O7pLU7mz9KtzIvZ6pcg.JPEG/SE-6da47ae5-8a2a-11ef-9b33-b31d61ee147c.jpg?type=w800)
+
+UV . UV verification reel .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTU0/MDAxNzI4OTg2MzE3MzEw.nL5YxF3dRiWy7OhkUeX1uHKL51_4SnsRslEeDiG_YsAg.FzM_he0k1ku_7qBozFk_RcZBqRoF7x8tavtWO_sTcNcg.JPEG/SE-6d861d6b-8a2a-11ef-9b33-f1a6586e3634.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjIy/MDAxNzI4OTg2MzI2ODAz.IvAbM8QM1PiF8ixUxZ34d2dzoGnljvvjeuTWHH78rTog.nGohwj78JsU6Gt4cFTwbdsyrjlb4EofpCHVlQSqQS9wg.JPEG/SE-6d84e4ea-8a2a-11ef-9b33-0b96866f740e.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTAw/MDAxNzI4OTg2MzUyNjU0.BW19mACN77QEWTgEMcvs1mOqWQ1g37QAaeAKxOrxunwg.HAREIpqX0ooq_lJtCs67SzvjP0eCAV6vXeMx0S7b04wg.JPEG/SE-6d899fdd-8a2a-11ef-9b33-ff0a4b3f1cb7.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNTUg/MDAxNzI4OTg2MzM2NzI1.KHR0fR1W_8_yJA62z5vpP7mV_BP7c1cHDUXtr05Rhf8g.vL6rCScru8Vh1jJ6toU8LjpaJPmDZmqM7p_FmFWn_7Ig.JPEG/SE-6d8755ec-8a2a-11ef-9b33-1170f5b84887.jpg?type=w800)
+
+Lure , lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTQx/MDAxNzI4OTg2MzcyNDA0.GL5zGYyF4gfBGcLwsR8qdL5m_RtD-TxKauJM5_s9H2Yg.jmAWRaqmqbNOfaFzgTZGjhNdcDZPMgIJzPUlaFBEr_Ig.JPEG/SE-6d8cd42e-8a2a-11ef-9b33-2538133bd654.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTA2/MDAxNzI4OTg2MzgxNDE2.QpkCK7CEaqT1TSybM3OLCxq4O5JLSrCGJcd_9NblYJAg.HqEomczdshHoTSwWPFD4TY35sGDZgHOVUdoTDXx3_DEg.JPEG/SE-6d8f6c3f-8a2a-11ef-9b33-59143cd2b18e.jpg?type=w800)
+
+Lure . lure .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjEz/MDAxNzI4OTg2Njk4NDky.5Hzi0cReVjz0q5ky3heL9e1pphLF_r5LG-Iy2VDNCVYg.0G8_iAKKPoFdc6fUE1khIihF0sdm0meLAfmHRA8ksesg.JPEG/SE-6d940020-8a2a-11ef-9b33-b3ff8645a010.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfOTEg/MDAxNzI4OTg2NjkwNTM3.oLLQ2S9B54hcM4ijJX2sqr_fgxnkx6BlpziHymtLhLgg.k-oarxoOFP2k7WhHe4F_n1qUjqSIkW09kNAyK8hSizsg.JPEG/SE-6dad2d79-8a2a-11ef-9b33-17c3d025ce5d.jpg?type=w800)
+
+, . 2 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfOTIg/MDAxNzI4OTEwMDM1OTg5.RgYSTWpdg5peT0jbxvu8iGjZYufzScgTjNbyJEz4x_0g.0KYteeYYxHWruC0jU9RrWciOwXqKBuuE5Fvxwam2XfQg.JPEG/20241011%EF%BC%BF215058.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTRfMTky/MDAxNzI4OTEwMDMxNTAw.u4TUYGSM979UEHF3CwAanjk0N3g_4dWiD5Gv3UfjM_8g.jw7awbAMU2nbWBxy1jZCTsxXb_Dc1yKcWQEvXMpfiEMg.JPEG/20241012%EF%BC%BF172648.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTMy/MDAxNzI4OTg2NjQ3NDU5.zIV54K9vjPMh6rCEBF7X5EMm3XVzXN7uyuiXdc1iSskg.bQuvf2bqDDjlA-ZTImBk2jXIMeOo3oEXSB6FTvZPHlIg.JPEG/SE-6daedb2a-8a2a-11ef-9b33-f11d07abac07.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMjU4/MDAxNzI4OTg2Mzk5NDE4.zEy8fnqVmMD_OUb-IcCjs1wAQKWD_I6zWLIGx195vcsg.4Z1yrge4ov0S6M6YBeA3TazF_fu8dY9S3aSaCldRuosg.JPEG/SE-6d9ed593-8a2a-11ef-9b33-e710ac71c9fa.jpg?type=w800)
+
+---
+
+2 cuttlefish . cuttlefish lure UV hands-on .
+
+Hands-on 60m . lure , L6 .
+
+Lure UV lure hands-on lure , .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNDcg/MDAxNzI4OTg2NzYxMTEx.ekAnDufoYAOYOOvc3VxafiL7qV-Nv8uWR-MKJOJCA6sg.5DAazMpBiiAf_uCtoBxdRHKI490APHXTKr1x-pKn9rsg.JPEG/SE-6dbe4482-8a2a-11ef-9b33-ad19a12c93aa.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfNTAg/MDAxNzI4OTg2NzcxNDQ3.iyAnw-uNcKUUGursMwNaoc3ZZy4lsuLSuEnX0MIjT3wg.MQQp94QHmHRGgejT0bJJNFyBRM4VGGaw0SJOH7NGds4g.JPEG/SE-6dbb1030-8a2a-11ef-9b33-19e94ccd5070.jpg?type=w800)
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDEwMTVfMTA1/MDAxNzI4OTg2Nzc5NDgz.EV18Tl9739wCoysbXwu11Bkkn3PxtPqruQCd9dtmGXYg.MSnj2qoRp0BRFJxbEzX5bnieUy23f83rL47asX8jEi8g.JPEG/SE-6dbcbde1-8a2a-11ef-9b33-f18fb5c70fce.jpg?type=w800)
+
+Lure lure . UV lure . outing webfoot octopus cuttlefish fishing gear Fishing Report .
+
+Thank you!.
+
+
+[Link: (SEANEX) lure : ](https://smartstore.naver.com/tlshop/products/5429588823)

@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 223799110445
 source: "https://m.blog.naver.com/sanjangboarder/223799110445"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTZfMTUg/MDAxNzQyMTIwOTQyMTE2.5WzUTqNixftCqgty4Qwk2s5x1Tabzzxdbx3UTYhb5P8g.lIHjH8c6MC_rwsRu-ZyPGqr9ivu8IjxwP59ZElg7RBMg.JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-005.jpg"
-description: "Hello, this is SanjangBorder.. 25 3 Seonjae Fishing Park 2 . 2 water temperature 8 . .. water temperature water temperature . . 2 , 5 B . . 1 , 2 , 3 . . 3 ~4 s"
+description: "Hello, this is SanjangBorder. 25 3 Seonjae Fishing Park 2 . 2 8 .. . 2 , 5 B . 1 , 2 , 3 . 3 ~4 sea bass red sea bream . sea bass . sea bass/red sea bream/rockf"
 lang: "en"
 ---
 
@@ -14,31 +14,31 @@ lang: "en"
 
 ​
 
-Hello, this is SanjangBorder..
+Hello, this is SanjangBorder.
 
 25 3 Seonjae Fishing Park 2 .
 
-2 water temperature 8 . .. water temperature water temperature . .
+2 8 .. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTZfOTQg/MDAxNzQyMTE5NDIzNzEz.vNbymidQQ1WmB7BATlwtGdSWQLT84fSzhPtlmv62COQg.HSS7giHbqMTtRsFKgy1V0LhTYFFZuHl6avGx19336lwg.PNG/image.png?type=w800)
 
-2 , 5 B . .
+2 , 5 B .
 
-1 , 2 , 3 . .
+1 , 2 , 3 .
 
 3 ~4 sea bass red sea bream . sea bass .
 
 **sea bass/red sea bream/rockfish **
 
-. water temperature Seonjae Fishing Park .
+. Seonjae Fishing Park .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNTAzMTZfMTUg/MDAxNzQyMTIwOTQyMTE2.5WzUTqNixftCqgty4Qwk2s5x1Tabzzxdbx3UTYhb5P8g.lIHjH8c6MC_rwsRu-ZyPGqr9ivu8IjxwP59ZElg7RBMg.JPEG/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-005.jpg?type=w800)
 
-Sea bass . .. sea bass ~ .
+Sea bass .. sea bass ~ .
 
-? . . .. rockfish sea bass red sea bream .
+? . . rockfish sea bass red sea bream .
 
-.. , ~ ~ .
+. , ~ ~ recommendation .
 
 Seonjae Fishing Park .
 

@@ -1,0 +1,115 @@
+---
+title: "[Personal Expense Dining Review] Songdo Report"
+date: 2024-04-10
+category: "Travel & Restaurant Reviews"
+categoryNo: 35
+logNo: 223411720935
+source: "https://m.blog.naver.com/sanjangboarder/223411720935"
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjEz/MDAxNzExMjcwMjI0NTc0.-NIjuyYG6P0B8_hcDIIPt6OgGreftst0iOL3orK4kN8g.uKOYYjqbbePkHVHvuClD3DPnZgrRs9XNwTEKo0-69u4g.JPEG/20240322%A3%DF195154.jpg"
+description: "Hello, this is SanjangBorder. Incheon Songdo 2 . 1 Songdo , + . 1~2 3 Incheon . restaurant restaurant . restaurant impression . Incheon . restaurant . impressio"
+lang: "en"
+---
+
+*This content is written based on product specifications and personal experience. However, a small commission may be received for sales generated through the product links.*
+
+​
+
+Hello, this is SanjangBorder.
+
+Incheon Songdo 2 . 1 Songdo , + .
+
+1~2 3 Incheon .
+
+Restaurant restaurant .
+
+Restaurant impression . Incheon . restaurant .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTQw/MDAxNzExMjcwMjIxOTk0.R-mwZ4g4otP9dqpGtIcYfF4mVw6IkxeuA0u9kac_mTgg.H8rCM21wYUhfuwGMLrafxBi-1EIZrUYcuuEpGIAcNlEg.JPEG/20240322%EF%BC%BF194935.jpg?type=w800)
+
+Impression . impression ..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjQg/MDAxNzExMjcwMjIxOTA2.UR4BGyTcUlCWDRppCe0Wj6gq2xqiw_wmUWqM_siz7JUg.kRjsDK8lX5kDbTGGdZYtWDkjRVy1K_F8qVSYLSMQJnkg.JPEG/20240322%EF%BC%BF201326.jpg?type=w800)
+
+Restaurant . 10 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTA3/MDAxNzExMjcwMjIxOTQ3.gYcogpmqjBGvp7To0y-1Y_U9LwgMijap-guTahEnqBYg.X2YZVykJTCnuXmfpwbfiHlTPyIRp5Vo4VUl9grt1I3Ig.JPEG/20240322%EF%BC%BF194904.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjA5/MDAxNzExMjcwMjIxOTQ2.YG1UeBQTxkwu8lS68Y3GBKgfZYfw5CurTybclaKSi6Yg.gywyEuuPVq2-eR0YE_7eh0u5nBHwiXO4RaIqH7wnMQEg.JPEG/20240322%EF%BC%BF194903.jpg?type=w800)
+
+Impression . , , ....
+
+. impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTc5/MDAxNzExMjcwMjIzNDIx.UQlZEGg9OElKnbndoojJzdncnlzd9w6SXV4LlCYoLJEg._DtgoSVlGtuqr7uZ9IDhdaxQ6MzBUVp5OCDejfOG3rog.JPEG/20240322%EF%BC%BF194916.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTE3/MDAxNzExMjcwMjIzMDc2.0HYdVjclwwNbfhnDeff8C7eJVGbRuK-cD8Jq5bv4j14g.Xr94Yk5CqihViOIDdHvgik3eS19Zxe7Nsbb0QsEWe1cg.JPEG/20240322%EF%BC%BF194911.jpg?type=w800)
+
+. 4 . impression .
+
+Impression . ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MTBfNTYg/MDAxNzEyNzU1NDMxNjQ2.ijChddLm0Ud5dL7Q5VnLN1JGnxWSufS4JGbo-0zwl04g.yNgQQfzcqPylwKrNbel0LyHnVKSwfeVaEr2rhdmcWPQg.JPEG/SE-8c081569-e9bb-11ee-84a3-fd65b842625f.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfNjUg/MDAxNzExMjcwMjIzMTIz.XuRaHyjpP4DhuIMuM9_pDbjMBqxZVS33s5K6yeK0O_Ig.6l-Bfd_Ib3BvoNn3UnZtZL5liEXLksoP1zLUXry8rkwg.JPEG/20240322%EF%BC%BF195053.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjYz/MDAxNzExMjcwMjIzOTU3.xXHIljRLZrDGDw_4xwYXZwZ3tNO4PORbRnVJbmuuSgAg.SnWOt-Ukmu5UO0EZuwuFvGgJ94-5_JzpULt-IQnR2IMg.JPEG/20240322%EF%BC%BF195056.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTc4/MDAxNzExMjcwMjIzOTEy.8-Vw_DSCNdBKQBzhpCLDlj6yMtZ2OCnUhrA-EYIQSKAg.QHUkRotDMZxezKD_9zV7F8sULjSKkd-Ozn33ZbrKzKAg.JPEG/20240322%EF%BC%BF195057.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTIg/MDAxNzExMjcwMjI0Mjk0.X9DgdeQS-ADaKeNZAtZVUdYOPQrYWArcI9XY0Js7U70g.zFqR0Kjj63wVpuv70Ac5FGFPEyPnd06_nbADw8sygNwg.JPEG/20240322%EF%BC%BF195059.jpg?type=w800)
+
+. ㅎㅎ
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjEz/MDAxNzExMjcwMjI0NTc0.-NIjuyYG6P0B8_hcDIIPt6OgGreftst0iOL3orK4kN8g.uKOYYjqbbePkHVHvuClD3DPnZgrRs9XNwTEKo0-69u4g.JPEG/20240322%EF%BC%BF195154.jpg?type=w800)
+
+..
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfNzgg/MDAxNzExMjcwMjI0ODA2.rAX-acF6PIYHX0ZkmgtZPVuGeG39U0TEZEjku2T5vNcg.BU1tmqJaAq5VHwuyoirBN_z8aeBQKCeQVqv_SkytiNUg.JPEG/20240322%EF%BC%BF195152.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjY1/MDAxNzExMjcwMjI0NzQ2.5A3yQRGntEMrxa3Aa4IjU_jNf_QMk7cAicOUaA54qDIg.-JjqUNhOckN27P-1Dj2zfjzbX0aredvOfhytwIsSoG0g.JPEG/20240322%EF%BC%BF195156.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMiAg/MDAxNzExMjcwMjI1MTQw.9Nzp45JWFNrJ3RtYP1kf-I1ULp17X2jcObNa-ED6Vmkg.9ZfS2Vp6Txgqp9-WAV5dgzqbf4L861YGQbQ1aFXdW1Qg.JPEG/20240322%EF%BC%BF195159.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTQy/MDAxNzExMjcwMjI1MzM1.JBOb-XmKTgwgia3Jw2gbS3zJubRZoPniso-jux9KjEUg.OK5EkxS9w6Pu4pyGvHCcYZ29dZjzUFF_cBFjBKojiWAg.JPEG/20240322%EF%BC%BF195237.jpg?type=w800)
+
+. .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDA0MTBfMjE1/MDAxNzEyNzU1NjQwMzgz.lW7wNJUNRswmuOhbrPWRSixJIItmG4LJ3kXUKz-ei38g.e3RfEtAKn2qxPyiR0P72I-LMqS1IsJJbl5pa-5F6v6Ig.JPEG/SE-8c12c3d3-e9bb-11ee-84a3-9fae519832eb.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjA0/MDAxNzExMjcwMjI1NzAy.ATVSoeULBME8FJaL5WEZ3v1TWwNwgejYeNOvifldL04g.mBkxvhRHavOdNYaYX9sA9Iu2V9O4QyxXaZ5XzNGvIbAg.JPEG/20240322%EF%BC%BF195342.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjY1/MDAxNzExMjcwMjI1OTY2.sYQ0YvCARSvk2wyTdNz-PBOkRrGXZp7tylfdtOnOuXwg.L13qZHtn0KpDvmfcqVldzuPWDDs8WnBnS1pBgk0gJTsg.JPEG/20240322%EF%BC%BF195346.jpg?type=w800)
+
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTg2/MDAxNzExMjcwMjI3NTE4.4Njc5_UG8QhUFBd2VbP0B9sTzuFzwuvR7z2LLV8uqwQg._wJJZwjfV5XtUGEDMPUzvNc1VvgEf-HW1SX9iOtzfG4g.JPEG/20240322%EF%BC%BF195807.jpg?type=w800)
+
+ㅎㅎ .
+
+4 .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTM1/MDAxNzExMjcwMjI2NzAz.DnSCvD6fEG9xJP8ZyNjxFlkzafZeAKiVIQUYiRjvATIg.bdjV2XQm5bW1HVLlBhDHe8CAHjgsqjYBOuhncnKFLdsg.JPEG/20240322%EF%BC%BF195456.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMTQ2/MDAxNzExMjcwMjI2OTM4.f6D7h9vO21ZNPt3SIDToqSO9X7gRDzHoR6G-OjMReE4g.4Bk5sVWT9pS88tzboy1H43ZuNNJR14z7sv8v_zKNjXIg.JPEG/20240322%EF%BC%BF195634.jpg?type=w800)
+
+.... impression .
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjI5/MDAxNzExMjcwMjI3MzQ5.VkvXfDzWa-ARpshYjZYu3047OIeXNGO1WWxgvAPVOogg.1Wi_Mw_eOMNkraQXvf15oExa31X2MTB1PtcHJyepTRMg.JPEG/20240322%EF%BC%BF195712.jpg?type=w800)
+
+. . ㅎㅎ
+
+Reel . ~
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjk5/MDAxNzExMjcwMjI2MTU4.VxqCsczsldMe3FDNt9PVOeLJ2s-8ngdXjMGrLowHofsg.GrPSsiUeznZ5FRrQQptIVxh-l9g8TNVhCnFR8NynSSEg.JPEG/20240322%EF%BC%BF195447.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNDAzMjRfMjA1/MDAxNzExMjcwMjI2NDk5.DxeeviPNqFIarjIyiKz_U3dpMbgmAsPX-1s9b_kmImcg.23POr5DVCZ0vyB9rZ363cF6-cErTnIdNKmr_hR04Du0g.JPEG/20240322%EF%BC%BF195453.jpg?type=w800)
+
+2 .
+
+4 , 4 impression .
+
+5 3.9 restaurant . impression .
+
+Thank you!.
