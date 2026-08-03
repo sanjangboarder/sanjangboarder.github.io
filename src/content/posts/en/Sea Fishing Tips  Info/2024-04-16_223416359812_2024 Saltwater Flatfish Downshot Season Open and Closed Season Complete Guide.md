@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 ​
 
-As spring arrives on the West Coast of Korea, saltwater boat anglers are eagerly gearing up for the 2024 **Flatfish Downshot (광어 다운샷)** season. I am active as a staff member of TEAM MJT, and today I want to share early season catch reports, closed season regulations, and essential tackle tips for landing monster flatfish this year.
+As spring arrives on the West Coast of Korea, saltwater boat anglers are eagerly gearing up for the 2024 **Flatfish Downshot (flatfish downshot)** season. I am active as a staff member of TEAM MJT, and today I want to share early season catch reports, closed season regulations, and essential tackle tips for landing monster flatfish this year.
 
 ​
 
@@ -32,7 +32,7 @@ As spring arrives on the West Coast of Korea, saltwater boat anglers are eagerly
 
 ### 1. 2024 Flatfish Closed Fishing Season Regulations
 
-Before planning your charters, it is critical to verify the official closed season (금어기) dates set by marine authorities:
+Before planning your charters, it is critical to verify the official closed season (closed fishing season) dates set by marine authorities:
 
 * **Official Closed Season:** **May 1st to May 31st** (Applicable to Chungnam & West Coast saltwater regions).
 * **Early Season Window:** Early April through April 30th.
@@ -48,7 +48,7 @@ Anglers should keep in mind that flatfish fishing is completely prohibited throu
 
 ### 2. Early April Charter Exploration Reports (Ocheon Port Valkyrie-ho)
 
-Many anglers assume April is too early for flatfish downshot due to cold water temperatures. However, recent exploratory charters from **Valkyrie-ho (오천항 발키리호)** proved otherwise with impressive catches of trophy-sized flatfish.
+Many anglers assume April is too early for flatfish downshot due to cold water temperatures. However, recent exploratory charters from **Valkyrie-ho (Ocheon Port )** proved otherwise with impressive catches of trophy-sized flatfish.
 
 ​
 
@@ -57,7 +57,7 @@ Many anglers assume April is too early for flatfish downshot due to cold water t
 
 ​
 
-During the April 10th exploratory trip, Valkyrie-ho landed 25 large flatfish across the fleet. Over the April 13th weekend, anglers brought over 30 quality flatfish over the gunwales, with several monster specimens breaking the **80cm (8자) mark**!
+During the April 10th exploratory trip, Valkyrie-ho landed 25 large flatfish across the fleet. Over the April 13th weekend, anglers brought over 30 quality flatfish over the gunwales, with several monster specimens breaking the **80cm (8 ) mark**!
 
 ​
 
@@ -70,7 +70,7 @@ During the April 10th exploratory trip, Valkyrie-ho landed 25 large flatfish acr
 
 ### 3. Seocheon Jungdong Port Ilryu-ho Exploration
 
-Down in the South Chungnam region, **Ilryu-ho (서천 중동항 일류호)** also reported strong early season activity.
+Down in the South Chungnam region, **Ilryu-ho ( )** also reported strong early season activity.
 
 ​
 
@@ -97,7 +97,7 @@ On April 7th and 10th, Ilryu-ho recorded over 20 flatfish per trip along with si
 
 To land monster flatfish during the early season, proper rig presentation is key:
 
-1. **Leader Dropper Height (단차 조절):** Keep leader dropper distance between 30cm to 50cm above the sinker. Early season flatfish stay pinned closely to bottom sand and reef structures.
+1. **Leader Dropper Height ( ):** Keep leader dropper distance between 30cm to 50cm above the sinker. Early season flatfish stay pinned closely to bottom sand and reef structures.
 2. **Soft Plastic Worm Selection:** Use 4-inch to 5-inch shad-tail or straight soft worms (such as Trigger-X, Cabela's, or Damiki). High-contrast colors like Pink, Red, Gold-Flake, and Natural Watermelon perform best depending on water clarity.
 3. **Rod & Reel Combo:** A 6.5ft to 7.0ft fast-action baitcasting rod paired with a compact 100-size baitcasting reel and #1.0 to #1.2 PE braided line.
 4. **Sinker Selection:** Carry hexagonal sinkers ranging from #20 to #40 to match varying tidal currents throughout the day.

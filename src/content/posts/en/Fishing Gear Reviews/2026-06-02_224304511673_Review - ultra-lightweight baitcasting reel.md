@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224304511673
 source: "https://m.blog.naver.com/sanjangboarder/224304511673"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDNfNTIg/MDAxNzgwNDQyNTQ2Mzg0.IrgBuvOHfsXk6tOMfeevtzCoXxSi2hBxAgj4DaIjdbcg.qnplOvxure0Zb44FhTU4XrrtYo7XLwWoe1ftTbUVSUQg.PNG/image.png"
-description: "Hello, this is SanjangBorder. reel . fishing gear . ㅎㅎ discount 30 . Doyo 3 discount Doyo 4 . purchase 4 . ㅎㅎ A9Plus purchase reel . reel fishing gear 10 reel r"
+description: "Hello, this is SanjangBorder. reel . fishing gear . ㅎㅎ 30 . Doyo 3 Doyo 4 . purchase 4 . ㅎㅎ A9Plus purchase reel . reel fishing gear 10 reel reel . ㅎㅎ . reel ."
 lang: "en"
 ---
 
@@ -22,11 +22,11 @@ Reel . fishing gear . ㅎㅎ
 
 ​
 
-Discount 30 . Doyo 3 discount Doyo 4 . purchase 4 . ㅎㅎ
+30 . Doyo 3 Doyo 4 . purchase 4 . ㅎㅎ
 
 ​
 
-A9Plus purchase reel . reel fishing gear 10 reel reel . ㅎㅎ discount impression .
+A9Plus purchase reel . reel fishing gear 10 reel reel . ㅎㅎ .
 
 
 <div class="image-grid">
@@ -48,7 +48,7 @@ Reel . ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDJfMTk4/MDAxNzgwMzYxNzM5MzQz.B3m-Lb8X0Mom_A_4zJsIUm1Si7AySwo_7EeXQdtC0sUg.A9tUT03LvsDJsfAat56XRUvqK_IGUZpQAV8bDvqadAog.JPEG/SE-4d19656f-53fc-11f1-86c9-f5acd4efbc97.jpg?type=w800" />
 </div>
 
-. Shimano impression .
+. Shimano .
 
 
 <div class="image-grid">
@@ -56,7 +56,7 @@ Reel . ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDJfMTQy/MDAxNzgwMzYxNzk2NTA0.rdspX_2CjMFFpQgg0m8vejPjSH8xNFN5tkfoNWhWca8g.kVOSwk_o_QqS9vvKH-UfmPPryFs6HZohwDvSJsPEIOwg.JPEG/SE-4d37c2e2-53fc-11f1-86c9-3dbe442f10a5.jpg?type=w800" />
 </div>
 
-. . impression . .
+. ..
 
 
 <div class="image-grid">
@@ -100,7 +100,7 @@ Baitcasting reel reel . reel .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MjBfMjU3/MDAxNzc5MjQ3ODgzNjQw.PY9ag67FNTA9RsToDht7_4e0_epz8D6FckEK84RocG0g.U7IORphXZj_skR3DweCHkwfmrQ2P8tr6RC4nAhdAKlIg.JPEG/900_20260517_184939.jpg?type=w800" />
 </div>
 
-. . 120mm .. . available .
+. . 120mm .. . .
 
 
 <div class="image-grid">
@@ -143,7 +143,7 @@ Baitcasting reel . .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MTdfMTAz/MDAxNzc5MDEyNzExNjQx.DADpbqbTuptT2w_WM3J6IoqeP6lB2T8UCgRNujNFfbUg.TfqwDl4gFvQayrq5qxwBvGc2BVB9aoslSug2LmAixv4g.PNG/image.png?type=w800" />
 </div>
 
-. 161g impression .
+. 161g .
 
 163.3g .
 
@@ -199,7 +199,7 @@ Reel . reel . cm . baitcasting reel . ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDJfNzcg/MDAxNzgwMzYwNTkxNjk3.IdsCOFrdieTUlyD1s8xcfO7WVwjMwm2lQjKJsXS3G5gg._4gTOM67XTPIourDHxJnVkqIJ7UuhPxogNFuwDK2C5Mg.JPEG/SE-4d59a2dd-53fc-11f1-86c9-e34359286c21.jpg?type=w800" />
 </div>
 
-? ? . baitcasting reel Daiwa . Shimano baitcasting reel hands-on verification .
+? ? . baitcasting reel Daiwa . Shimano baitcasting reel hands-on .
 
 
 <div class="image-grid">
@@ -208,7 +208,7 @@ Reel . reel . cm . baitcasting reel . ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDJfMjIg/MDAxNzgwMzYwNjQzNDI4.iAwjlRQgH3cmNkaRp4oVI1J_BQkLTRUQmaDCEIxK1W8g.dPvEI5HA7oiC1Muig9OerpeBNzV3OB9UBlkpzaZh4GIg.JPEG/SE-4d5c13df-53fc-11f1-86c9-ff60b172b2f2.jpg?type=w800" />
 </div>
 
-Hands-on . impression .
+Hands-on .
 
 
 <div class="image-grid">
@@ -260,7 +260,7 @@ Baitcasting reel 4 ...
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MTdfMjE5/MDAxNzc5MDEyNzg5NzY5.35Ylz6qpWTUSfKkeVqfnQOdxev4Tun1CkvkN8yYcz9Mg.t_P4v4vlAYObRXJrBJsiccSl-_R5aElqb93ZDOThZSMg.PNG/image.png?type=w800" />
 </div>
 
-Outing flatfish outing hands-on . 1.5 hands-on . flatfish 8 available . fishing gear .
+Fishing trip flatfish fishing trip hands-on . 1.5 PE braided line hands-on . flatfish 8 . fishing gear .
 
 
 <div class="image-grid">
@@ -268,7 +268,7 @@ Outing flatfish outing hands-on . 1.5 hands-on . flatfish 8 available . fishing 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDNfNTIg/MDAxNzgwNDQyNTQ2Mzg0.IrgBuvOHfsXk6tOMfeevtzCoXxSi2hBxAgj4DaIjdbcg.qnplOvxure0Zb44FhTU4XrrtYo7XLwWoe1ftTbUVSUQg.PNG/image.png?type=w800" />
 </div>
 
-. outing reel . . flatfish 3 .
+. fishing trip reel . . flatfish 3 .
 
 ​
 
@@ -276,7 +276,7 @@ Purchase A9 baitcasting reel . reel hands-on . reel .
 
 ​
 
-40 hands-on flatfish, sea bass, white croaker, rockfish hands-on Fishing Report . purchase verification .
+40 sinker hands-on flatfish, sea bass, white croaker, rockfish hands-on Fishing Report . purchase .
 
 ​
 

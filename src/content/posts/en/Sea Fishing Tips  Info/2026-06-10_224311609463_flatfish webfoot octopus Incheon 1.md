@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 224311609463
 source: "https://m.blog.naver.com/sanjangboarder/224311609463"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDhfMjcy/MDAxNzgwOTAxOTM1NTk1.0M53JvlCENKsxJH3uXiGprn0hXzuB56S_C4QmgGocgog.FBX50NTQmDvKS9nM8yjkS-xlcVE1UQzqgvkpalZgs3Ug.PNG/image.png"
-description: "Hello, this is SanjangBorder. 2 Incheon . impression . / , , . . rockfish, , webfoot octopus flatfish, . flatfish, webfoot octopus cuttlefish . reel . .."
+description: "Hello, this is SanjangBorder. 2 Incheon .. / , , . . rockfish, , webfoot octopus flatfish, . flatfish, webfoot octopus cuttlefish . reel . .."
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 ​
 
-2 Incheon . impression . / , , . .
+2 Incheon .. / , , . .
 
 ​
 
@@ -42,11 +42,11 @@ Reel .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjQx/MDAxNzgwODI5ODc1NDEz.tV7kchi9ew1uC6vV7_MwNXmy7c6K6WgFkQ9EkKxZXXQg.H7VreHsjdWtPAw0I7T0Xa0isvIfMSMQL6gZH_n_wuocg.PNG/image.png?type=w800" />
 </div>
 
-Available 3.3km . 1 . 45~50 .
+3.3km . 1 . 45~50 .
 
 ​
 
-1km reel fishing gear available available .
+1km reel fishing gear .
 
 ​
 
@@ -66,7 +66,7 @@ Available 3.3km . 1 . 45~50 .
 
 ** ' '**
 
-, . fishing gear . available .
+, . fishing gear .
 
 
 <div class="image-grid">
@@ -74,13 +74,14 @@ Available 3.3km . 1 . 45~50 .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMTAg/MDAxNzgwODMxNTI0NDMz.9ssvtXxo7tveQjyVMcdNNPuGJgLKALt-Np46XFuQzEIg.Qwr1x6V3n88D68cR-ctoZxkP2JU3NxhVSQvZenyW7sgg.PNG/image.png?type=w800" />
 </div>
 
-. fishing gear impression . .
+. fishing gear . .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfOCAg/MDAxNzgwODMxNzA0MzY1.m3i5y4BhJCrPVk14ztJUB08odx0Or-3OfaRMOJkJG-kg.Bu6xHfG8IAtlr4i0wZIA5mLEy9LZ0dUgh29DmTbfEuEg.PNG/image.png?type=w800" />
 </div>
 
+Lure fishing .
 
 ​
 
@@ -91,7 +92,7 @@ Available 3.3km . 1 . 45~50 .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDhfMjcy/MDAxNzgwOTAxOTM1NTk1.0M53JvlCENKsxJH3uXiGprn0hXzuB56S_C4QmgGocgog.FBX50NTQmDvKS9nM8yjkS-xlcVE1UQzqgvkpalZgs3Ug.PNG/SE-6023281c-6e78-45f8-9f56-8ab1768ea734.png?type=w800" />
 </div>
 
-. 50~70m . 30~50m .
+. 50~70m lure fishing . 30~50m .
 
 ​
 
@@ -120,18 +121,18 @@ Flatfish, . webfoot octopus . 26 flatfish . . 24 9 1 webfoot octopus . , flatfis
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjIw/MDAxNzgwODMyMDIyMTI2.qIv7cPybqpD6a5Pmj3gIJPwEmxlcKUL69MCf0d16HyYg.di9pMA9nMoV91r3Lu2wIIWpNRhs_P0gqt1IKyyu5nHQg.PNG/image.png?type=w800" />
 </div>
 
-58m . available .
+58m . .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjky/MDAxNzgwODMwODM0NDYx.JqgTlkwv_wtZr2NCxAbRhoCd8FOyjzKNUWv5YmpzdMsg.oEgKhPg0LRyQ3B3WGU2QxE034hSoMklzo9F54FCL288g.PNG/image.png?type=w800" />
 </div>
 
-Fishing gear available 350m . .
+Fishing gear 350m . .
 
 ​
 
-Fishing gear . 350m 5m 70 . 4 ㅎㅎ 100 . 50 . available .
+Fishing gear . 350m 5m 70 . 4 ㅎㅎ 100 . 50 . .
 
 
 <div class="image-grid">
@@ -164,7 +165,7 @@ Fishing gear . 350m 5m 70 . 4 ㅎㅎ 100 . 50 . available .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjA1/MDAxNzgwODMwODU3OTAx.dRsoxROaQBwAaX885rhKqO1E-j8cPFGAkPxzTKj3qOQg.yF4-it2RYG2SeMndFek-UNeyp7EmJfBv699Wb4b8t0sg.PNG/image.png?type=w800" />
 </div>
 
-. available 50m 7m .
+. 50m 7m .
 
 
 <div class="image-grid">

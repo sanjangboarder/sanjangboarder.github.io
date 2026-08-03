@@ -29,13 +29,13 @@ Fishing rod 30 20 . fishing rod .
 
 25 ㅎㅎ fishing rod .~~ fishing gear . ..
 
-[Link: JS 25 webfoot octopus cuttlefish ultra-lightweight fishing rod fishing rod 160cm](https://naver.me/FhupTU2Q)
+[Link: JS 25 webfoot octopus cuttlefish boat fishing ultra-lightweight fishing rod fishing rod 160cm](https://naver.me/FhupTU2Q)
 
-, fishing rod . ㅎㅎ ㅠㅠ fishing rod impression .
+, fishing rod . ㅎㅎ ㅠㅠ fishing rod .
 
 Fishing gear ㅎㅎ . purchase .
 
-. verification available .
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDhfMjk3/MDAxNzcyOTY0MDkwMjE5._e5JEP1AM6LwwxNTkobnUOH98wzQa0VUvCzb1T3sp3wg.w2OAjbrvG0dUXZZg1dwmeRZu3jby5BW0aCvaszVQ8sMg.JPEG/900%EF%BC%BF20260306%EF%BC%BF161747.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMTdfNzUg/MDAxNzczNzIxMTEzNzI0.1FTKqvgRgrUoAsSTOFgge5nxWO-oGUK4Ds1cPklY638g.9pl9ZmusKd_a47j2e-Mf3yCRH5G-FtmiPiB9e2k2o1kg.JPEG/SE-c6eccdc4-1ad5-11f1-b53b-6557fa9f71b0.jpg?type=w800)
@@ -45,7 +45,7 @@ Fishing gear ㅎㅎ . purchase .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDhfNjcg/MDAxNzcyOTY0MDkxMTc0._r9Mv5FjlW_UI5bARhKz2igpmv9oEZguOljUI8Dqn4Ug.YayScgiXBwvSQAmVXW4usOR5Qv_w7RgP1odrB7CoEUMg.JPEG/900%EF%BC%BF20260306%EF%BC%BF161756.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMTdfMTIx/MDAxNzczNzIxMDkxNTA2.0qnbEN1QpJ6WfE84ebQA0PyrgfYGYKGmJRtALUg7Kegg.DjIh_aANQ45aKM4wCvt4vrA25EAl5R34x7Ta7-mUP_Ug.JPEG/SE-c6eaaae1-1ad5-11f1-b53b-53b9062ac730.jpg?type=w800)
 
-Purchase fishing rod impression . impression . fishing rod A9 baitcasting reel impression ㅎㅎ fishing rod baitcasting reel 50 ㅎㅎ
+Purchase fishing rod . . fishing rod A9 baitcasting reel ㅎㅎ fishing rod baitcasting reel 50 ㅎㅎ
 
 [Link: A9 Plus baitcasting reel ](https://naver.me/5uluXZtp)
 
@@ -59,7 +59,7 @@ Fishing rod . fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMTdfMTY2/MDAxNzczNzIxMTQ1MjY4.fwWOEhv4SPO2yvRENttW06JVkES2R3w3VAlVD3vBNlMg.qbD_5tT7zmgx_TOeEt1nJyEeiywnHbtZRoUoGxNt6mMg.JPEG/SE-c6ed9115-1ad5-11f1-b53b-dbb09895ddf9.jpg?type=w800)
 
-Fishing rod baitcasting reel hands-on . fishing rod reel 50 60~80 . impression . fishing rod .
+Fishing rod baitcasting reel hands-on . fishing rod reel 50 60~80 . fishing rod boat fishing .
 
 [Link: JS N ultra-lightweight webfoot octopus cuttlefish fishing rod fishing rod BC 542ML-ST](https://naver.me/xLNZexIQ)
 

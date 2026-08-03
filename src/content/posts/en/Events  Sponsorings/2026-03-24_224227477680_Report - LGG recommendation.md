@@ -6,7 +6,7 @@ categoryNo: 25
 logNo: 224227477680
 source: "https://m.blog.naver.com/sanjangboarder/224227477680"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTI3/MDAxNzc0MjQ0ODg3NzY3.4dA-RlWGj21LHgWNt8PdR3knHG5QGE7Y0VCI-OATQt8g.KZ7_szwV2JVvmBWubaU8Ennm_xlD0htYur85j1AOzgQg.JPEG/900%A3%DF20260322%A3%DF092552.jpg"
-description: "Hello, this is SanjangBorder. ? . , . , ? . &#x27; &#x27; . . . . , , . impression &#x27; .."
+description: "Hello, this is SanjangBorder. ? . , . , ? . &#x27; &#x27; . . . . , , . &#x27; .."
 lang: "en"
 ---
 
@@ -30,7 +30,7 @@ Hello, this is SanjangBorder.
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfNiAg/MDAxNzc0MjQ0ODQ4NjM0.Y09vKdIeeNegDSWmMCmCZ_CNSWIVXrf8vuLm7H9zZNog.ZxaODZVrm3ZNla7IGIEmEJOpcpdqX6O8lQ2u6ihT_fgg.JPEG/SE-8e4f4ab2-267b-11f1-bd05-51b4c91ffadc.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTcg/MDAxNzc0MjQ0ODQ3Njcx.dVsavpgC-BmXqtv-xmRCa_kpSt_llyCm-KcjELdrUI8g.LJrZ3jLS1yCghC-ywAzywzIqSWYkcN4Et4J_uDsdpcUg.JPEG/SE-8e4fe6f3-267b-11f1-bd05-99419c6a8c1d.jpg?type=w800)
 
-Impression ' ' . **LGG ** **UABla-12** . LGG .
+' ' . **LGG ** **UABla-12** . LGG .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjQ1/MDAxNzc0MjQ0ODY0NzQ4.QDOnmM8XscNs8jGHnq3dsyLsvafRL90TP76dEwKEL7Yg.R9e0CdGPkp3Ys_-fejaykIcfek1FuNNrlfq7jo-JVlMg.JPEG/SE-8e508334-267b-11f1-bd05-67564f76beac.jpg?type=w800)
 
@@ -51,7 +51,6 @@ Impression ' ' . **LGG ** **UABla-12** . LGG .
 
 , , , recommendation !
 
-Verification .
 
 [Link: 1 LGG UABla-12 (30 , 1BOX) : ](https://brand.naver.com/neurolabs/products/10730261662)
 

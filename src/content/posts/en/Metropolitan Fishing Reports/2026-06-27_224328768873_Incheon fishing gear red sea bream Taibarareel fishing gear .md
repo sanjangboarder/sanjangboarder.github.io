@@ -6,7 +6,7 @@ categoryNo: 3
 logNo: 224328768873
 source: "https://m.blog.naver.com/sanjangboarder/224328768873"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MjdfMjEx/MDAxNzgyNTI2ODQ3MDE1.tRotZMAgFrmaCIjKwf0of1iahH4m_MMFUm1dYxkKPP0g.zc0wtlgAJv2UjMG5w3hCws7fF2xlxA7wPlK7LafhTygg.JPEG/900_20260626_120521.jpg"
-description: "Hello, this is SanjangBorder. Incheon fishing gear Taibarareel outing .. Taibarareel fishing rod Incheon fishing gear red sea bream . Taibarareel 1 . Incheon fi"
+description: "Hello, this is SanjangBorder. Incheon fishing gear Taibarareel fishing trip .. Taibarareel fishing rod Incheon fishing gear red sea bream . Taibarareel 1 . Inch"
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 ​
 
-Incheon fishing gear Taibarareel outing .. Taibarareel fishing rod Incheon fishing gear red sea bream .
+Incheon fishing gear Taibarareel fishing trip .. Taibarareel fishing rod Incheon fishing gear red sea bream .
 
 ​
 
@@ -91,7 +91,7 @@ Incheon Taibarareel fishing gear Yeongheungdo Island . Incheon ( ) . Incheon ( /
 >
 > reel :
 >
-> : Haedong LIMIT X9 1.5
+> : Haedong LIMIT X9 1.5 PE braided line
 >
 > : 4
 >
@@ -111,7 +111,7 @@ Incheon Taibarareel fishing gear Yeongheungdo Island . Incheon ( ) . Incheon ( /
 >
 > SanjangBorder
 
-Fishing rod 2 . Taibarareel fishing rod . 4 NH . 60g 40m 100g .
+Fishing rod 2 . Taibarareel fishing rod . shock leader 4 NH . 60g 40m 100g .
 
 
 <div class="image-grid">
@@ -128,7 +128,7 @@ T700 Taibarareelfishing rod Daiwa NH .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MjdfMjU0/MDAxNzgyNTIyODMwMjk3.lc281DUK2HAPyzeiCGcB5Fk_DzR-OIR5v1ZDZR2YZ5wg.etMDhaFIYEnaospcAMD6j1Igrxp5oPlmHrEdLkw78H0g.JPEG/900_20260626_074245.jpg?type=w800" />
 </div>
 
-Outing ...
+Fishing trip ...
 
 
 <div class="single-image">
@@ -139,9 +139,9 @@ Outing ...
 
 ​
 
-Impression .. white croaker . ㅎㅎ
+.. white croaker . ㅎㅎ
 
-. 30cm white croaker . white croaker outing .
+. 30cm white croaker . white croaker fishing trip .
 
 
 <div class="single-image">
@@ -213,7 +213,7 @@ Red sea bream . ㅎㅎ
 
 ​
 
-2 , Incheon Taibarareel catch report ㅎㅎ outing ㅎㅎ catch report . ㅎㅎ .
+2 , Incheon Taibarareel catch report ㅎㅎ fishing trip ㅎㅎ catch report . ㅎㅎ .
 
 
 <div class="single-image">
@@ -228,7 +228,7 @@ Red sea bream . ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MjdfOTMg/MDAxNzgyNTIyODMwMjc4.5-9Q8cpFs5Yx_c1TcJpyHG0NM-7yxV8ntKswVrM9lDgg.2ImE7hvPKEv7F3bSexVPMGbDaMDwM6qUInv8X-nY3yYg.JPEG/900_20260626_170511.jpg?type=w800" />
 </div>
 
-Rockfish . discount . catch report ㅎㅎ
+Rockfish . . catch report ㅎㅎ
 
 
 <div class="image-grid">
@@ -236,11 +236,11 @@ Rockfish . discount . catch report ㅎㅎ
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MjdfMjcg/MDAxNzgyNTI3MTYzMDUx.A5k417CmmuL3vBlFbAqbt2OLnIw6bYI9kyGl7W0z4VYg.p8mYFUIcU6PgIoqpVX_QgX_Muc5wdXgyEYIOyFidUd0g.JPEG/SE-742ae4bc-71c5-11f1-9404-7be8749b3bab.jpg?type=w800" />
 </div>
 
-Fishing rod . Taibarareel fishing rod impression fishing rod . T700 T700 impression .
+Fishing rod . Taibarareel fishing rod fishing rod . T700 T700 .
 
 ​
 
-Rockfish . red sea bream . red sea bream red sea bream outing . fishing rod .
+Rockfish . red sea bream . red sea bream red sea bream fishing trip . fishing rod .
 
 ​
 

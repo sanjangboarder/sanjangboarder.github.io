@@ -44,7 +44,7 @@ Hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfNTgg/MDAxNzc0MjM2OTAwNzM4.xRAqL624A3IruUTgkU3iduCl_0b_koulbZi3VXktoAYg.OwuPMQSRvbPtor0Cf2G_AxYJlrwx7Buv8SNaUgkjyFYg.JPEG/SE-1ef82857-f682-48a8-85ac-14ce1ceb652a.jpg?type=w800)
 
-4 ~8 . hands-on . 8 20cm 51g . impression .
+4 ~8 . hands-on . 8 20cm 51g . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTM3/MDAxNzc0MjM2ODAyMTM1.CcZ19F0t6uJeFh1mzV_7Ajgs_AxtlmeWWg0c-gEpaiQg.wXZvv5fM5mRc4FOgXviOVpvY60FKvGCxAX2_CAsbPg4g.JPEG/SE-3074d0d6-240e-11f1-81ef-c392c6b8fb8a.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTYz/MDAxNzc0MjM2ODAwOTU3.w6VpOvefyCO20dPTCRTFJpD31HoDvuYMTt4oql0cVHsg.8xIlaAVRqt-WglvW_QMfd07gaW2_9FMQmr3uoJS-Y9Mg.JPEG/SE-3073bf65-240e-11f1-81ef-a5321db62732.jpg?type=w800)
@@ -53,7 +53,7 @@ Hands-on rockfish flatfish . . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjE1/MDAxNzc0MjM2ODIxMDkz.d39u6sYEVqmVeBiCiytBhji8vtaG-BwQsjQSxCLwqnsg.4euZNt9vwBXlOsHFHS01Bc9weM66_L6mmcEK_znwFwAg.JPEG/SE-e6e7155b-2657-11f1-bd05-5f4105241667.jpg?type=w800)
 
-Hands-on available . hands-on .
+Hands-on . hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjU2/MDAxNzc0MjM2ODQ3MjA1.bgUiF5cWdFtRfIOCM3t3nC15IvSqHsMAVCcF3z7sPicg.SJBkwgrtGEy4SmEFCDkVXGimOnTUDTB827EEJm9NagYg.JPEG/SE-e6e47d48-2657-11f1-bd05-09335dbc3b67.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjY4/MDAxNzc0MjM2ODQ1OTE0.7cABFk_k0ITzucYap8orT_3vOG5c8Dr4Gc2X01HEEKEg.ydJRxcO1ESEpVyCQZeQZL7TSjvmR6AZdLV_-Angw0XAg.JPEG/SE-e6e567a9-2657-11f1-bd05-d1c5aa6997f1.jpg?type=w800)

@@ -1,12 +1,12 @@
 ---
-title: "Seonjae Fishing Park Report [26.02.28]"
+title: "Seonjae Fishing Park lure fishing Report [26.02.28]"
 date: 2026-03-02
 category: "Metropolitan Fishing Reports"
 categoryNo: 3
 logNo: 224201018517
 source: "https://m.blog.naver.com/sanjangboarder/224201018517"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfODQg/MDAxNzcyNDA5MzQwNzIx.mg8LUryZ7ktrqMEtA8ER56RMvsmYlpRXskUtkoMMoHQg.Trp3SQlCPnsKNAYnAOucPf6u1OPGqzTy7UuvDZPvxGog.JPEG/900%A3%DF20260228%A3%DF100319.jpg"
-description: "Hello, this is SanjangBorder. Seonjae Fishing Park . 2 , . 80 , 80 . , 40 fishing gear . 7 30 fishing gear 30 ㅏ . Seonjae Fishing Park . verification 7 30 . fis"
+description: "Hello, this is SanjangBorder. Seonjae Fishing Park lure fishing . lure fishing 2 , lure fishing . lure fishing 80 , 80 . lure fishing , 40 lure fishing fishing"
 lang: "en"
 ---
 
@@ -16,34 +16,34 @@ lang: "en"
 
 Hello, this is SanjangBorder.
 
-Seonjae Fishing Park . 2 , .
+Seonjae Fishing Park lure fishing . lure fishing 2 , lure fishing .
 
-80 , 80 . , 40 fishing gear .
+Lure fishing 80 , 80 . lure fishing , 40 lure fishing fishing gear .
 
-7 30 fishing gear 30 ㅏ . Seonjae Fishing Park . verification 7 30 .
+7 30 fishing gear 30 ㅏ . Seonjae Fishing Park . 7 30 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfOTYg/MDAxNzcyNDA3OTAyNzA2.j553zGytT7LxCccFd__R34mq_bIthFUe0viiplhtzS8g.xlR4lxeSIuLJ2KqdfkS5SuAwj2GMu-YMEx-KnCZH_RMg.JPEG/900%EF%BC%BF20260228%EF%BC%BF065937.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNDUg/MDAxNzcyNDA3OTAxMTEw.tVcBHzeBRi482QuW5qOvZT4DdY1IUbyQqA4nHe1zH_0g.6WPDDhWR62DSbGNWUTpdWPlZpOgfxUxU2oTLu4TczJAg.JPEG/900%EF%BC%BF20260228%EF%BC%BF070955.jpg?type=w800)
 
 Fishing gear Fishing Report .
 
-10 12 discount 30% 12 10 .
+Lure fishing 10 12 30% 12 10 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMjgx/MDAxNzcyNDA4MDkxNTM1.zKemrQ7OwVLMQBuu_tZtdG8vMptOvvThdzFs9aZiOhcg.pmTsQKnyxEPI-1E4_gwQmiMxU-k_cqx-XFT60V2oEVUg.PNG/image.png?type=w800)
 
-Fishing gear . 12 fishing gear 6 fishing gear . fishing gear 6 7 . discount impression .
+Fishing gear . 12 fishing gear 6 fishing gear . fishing gear 6 7 . .
 
 1 . 2 .
 
-. squid . available impression .
+. squid . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMjU3/MDAxNzcyNDA4MTEwMzE5.smiZghYIgoNEFGq3aNmWcIdFMTsdV4aLC2-SHxfHPCcg.nssiWMBsYkeVWH1fmN8GmbdwxTzR4IGMJYGpPINpSEog.PNG/image.png?type=w800)
 
-. reel . fishing gear reel .
+Lure fishing . lure fishing PE braided line reel PE braided line . fishing gear reel lure fishing .
 
-Hands-on hands-on hands-on .
+PE braided line hands-on hands-on PE braided line hands-on PE braided line . PE braided line .
 
-. fishing rod hands-on . ㅎㅎ
+. fishing rod hands-on lure fishing . ㅎㅎ
 
 Haedong 1 . Seonjae Fishing Park . ㅎㅎ
 
@@ -65,7 +65,7 @@ Haedong 1 . Seonjae Fishing Park . ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMzAw/MDAxNzcyNDA4NTYyMTAy.ceFqtT0ygRbbz5R1k1ZOpfxrpuZ4n1y7s4RZ4SG_NoQg.8VvgYnkrrMb_J4MmHG2VNYHPYq7VQzVeSvwqkBTorGsg.JPEG/SE-cae355ee-15c6-11f1-92a9-a5e96599d15f.jpg?type=w800)
 
-E . impression . . ㅠㅠ
+E .. ㅠㅠ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTEy/MDAxNzcyNDA3OTAwNzcy.Hj0chaYT0ahWNjdo01WG3z8Ga1M22mkfZlyQQMlTm40g.HFBcjj_qgEjcVYJBRyyXmwjd3wZfLZydmlLCf40MvPgg.JPEG/900%EF%BC%BF20260228%EF%BC%BF073244.jpg?type=w800)
 
@@ -74,7 +74,7 @@ A . S1~S9 . .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTcy/MDAxNzcyNDA5MTQzNDEy.lSL7g8oLVs0Jurlq5HaP6NCFZ0LprGyfO7R9UO4d8V8g.dQ_RIYhN7dn6PW1PwYX239bifd7KOYfRAxmpVykSdJwg.JPEG/SE-cae551c0-15c6-11f1-92a9-83c3f8db59b9.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMzAw/MDAxNzcyNDA5MTUxOTI3.wFd6t5s_6sPQLX4ri0IFArcYs9axJAa3ka_Lxwsew78g.wOSn9ke_2l_pV1jzCKgLvPr8oq2uII03DWT_dRoAVpkg.JPEG/SE-cae61511-15c6-11f1-92a9-7f03f3ee5d94.jpg?type=w800)
 
-Seonjae Fishing Park . . .
+Seonjae Fishing Park lure fishing . . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMjM5/MDAxNzcyNDA5NTI1ODMy.p7NmAUAb5KE94AhVVeWov1AIGDcorKtg1A6JSUrQgEMg.TZESRXdhC5-n7lPNgWTOvPlGTGGMBHiMdqrVCF2zks8g.JPEG/SE-caee2b68-15c6-11f1-92a9-7de45a9cf9a2.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNzUg/MDAxNzcyNDA5NTE4MDM1.ZT-wHbtA940KLWRleQvWQgO3KjRVLu3y3UyXVtZXvhYg.i8bhXXwgDCfEQCOk6K_gRMOZWMM_DoJiV03ur_DrhUIg.JPEG/SE-caeeeeb9-15c6-11f1-92a9-d12b6cc1f4f4.jpg?type=w800)
@@ -86,11 +86,11 @@ Seonjae Fishing Park . . .
 
 3 8 . rockfish rockfish . rockfish rockfish . rockfish .
 
-. rockfish rockfish .
+. rockfish rockfish lure fishing .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfODQg/MDAxNzcyNDA5MzQwNzIx.mg8LUryZ7ktrqMEtA8ER56RMvsmYlpRXskUtkoMMoHQg.Trp3SQlCPnsKNAYnAOucPf6u1OPGqzTy7UuvDZPvxGog.JPEG/SE-caebe176-15c6-11f1-92a9-b7a4e379b964.jpg?type=w800)
 
-8 5.6kg . impression .
+8 5.6kg . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTY3/MDAxNzcyNDA3ODk4OTQ0.IkYAFhKY5TDErovN0gvWdHJbfR1IjJ9nSb2rOaVEk7Ig._Mq_kpQc849vWu4bfIvp6ix0sNhWD6Gq0TNdzUxn-REg.JPEG/900%EF%BC%BF20260228%EF%BC%BF101309.jpg?type=w800)
 
@@ -109,11 +109,11 @@ Seonjae Fishing Park . . .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfODAg/MDAxNzcyNDA3OTAxOTc5.GFSuWpZI1ch8zT201Xj9-QZ2kGZYvH5xkj-qBTaHm6Ig.8vknAP-8cTq2kCKejesrWbK5CSpE0jtEQkKKILOud3Ug.JPEG/900%EF%BC%BF20260228%EF%BC%BF115444.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTUz/MDAxNzcyNDA3OTAyNjU5.1a32BJd1pubdYuWc861pThjl6mCwSzhiK7pzbfTOJekg.8XW8zRJDwmxapxxflerncwje_wIUcVqRgEqX-29-ygYg.JPEG/900%EF%BC%BF20260228%EF%BC%BF100418.jpg?type=w800)
 
-3 . ㅎㅎ 8 4 12 catch report impression . catch report verification 3~5 .
+3 . ㅎㅎ 8 4 12 catch report . catch report 3~5 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNjUg/MDAxNzcyNDA5NjE0OTk5.-Io3Mve9YmFpSardREt4BhmKvVHFygbfDswPFFDUUQwg.FXrGgJXiuPumpRyobeQILBzFZVFrC707ATH__PIdkAsg.JPEG/SE-caf7c761-15c6-11f1-92a9-7b4ca6a1b1f0.jpg?type=w800)
 
-Fishing rod . fishing rod . fishing rod . 80 5 10 .. outing .
+Fishing rod . fishing rod lure fishing . fishing rod . 80 5 10 .. fishing trip .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNDgg/MDAxNzcyNDA3OTQyMTIy.HnwIxBh89t2Gf3Nrnmgwdzaooj-ghzzFPEh0GnX12-og.GIRx7EtJB9JsUSlOFzw2s_aLu-bsGR7K46d2rNf1rZMg.JPEG/900%EF%BC%BF20260228%EF%BC%BF143909.jpg?type=w800)
 
@@ -123,12 +123,12 @@ Fishing rod . fishing rod . fishing rod . 80 5 10 .. outing .
 
 3 . rockfish .
 
-Reel .
+Reel lure fishing .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNjAg/MDAxNzcyNDA3OTQzNzEw.WIiSHirWJSvZLn6rVpBy0FaG0uif7FrDA6ztjQBO2L8g.wNp-DLnMXgUHZ-fjJ23pUDTwf0y_brSMsHN782sB-zIg.JPEG/900%EF%BC%BF20260228%EF%BC%BF144908.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTM3/MDAxNzcyNDA3OTQyMTY2.o7J139crTN3B38eY7x7sj1NGLpR5KGjNJnH-Q8_SJWQg.UxH4pIxyzosDQOATfAu8bdmN6jW8kC64o3BmYT3KoqYg.JPEG/900%EF%BC%BF20260228%EF%BC%BF144925.jpg?type=w800)
 
-Available . rockfish red sea bream .
+. rockfish red sea bream .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTEw/MDAxNzcyNDA3OTQyNzM0.16WN1hCaPmCOaKknEsT_VighTunVLNAg3lYYWFnkhVwg.zLCKiV2CsAedi5HVguMsjgIip0lQBz1vF31GitCgongg.JPEG/900%EF%BC%BF20260228%EF%BC%BF144938.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMjYx/MDAxNzcyNDA3OTQyODYy.5cd-__4AZMDbpp5bqIsELIervHS5lCUr6VYRRQ2oL74g.xklhslHVxrwzydnrq1AwPC3Mysgkyc0_LNJR3OywS_Ug.JPEG/900%EF%BC%BF20260228%EF%BC%BF144947.jpg?type=w800)
@@ -142,15 +142,15 @@ Available . rockfish red sea bream .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMzkg/MDAxNzcyNDA3OTQyMDYz.f4KugwlNzjPjEFH6qbUq9MfUAkUSwZoG7wgrg1HfXcUg.8sGdy9k95Z9mRpAvFiB6Fou29rhgWO1i23h9TRQpjNcg.JPEG/900%EF%BC%BF20260228%EF%BC%BF145112.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTk0/MDAxNzcyNDA3OTQzNjEy.YoPvki39QrTXllubmLkkCMbbbxtjXwPpSoMrdFl3ZwEg.A6vDUnsjH6dRufiYHmFUcLrJXSLG9lHiQU4RtLrJhXwg.JPEG/900%EF%BC%BF20260228%EF%BC%BF145103.jpg?type=w800)
 
-Available . fishing gear fishing gear .
+. lure fishing fishing gear fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfMTIx/MDAxNzcyNDA3OTQzMDEw.EGdUMaZJvqkalWsmOeiCys-TXkTIWz9d5ooJNijyBPkg.ofecIOvX_e5-FjfhNfoU8a-nIRMsnCfYHKJu3L5dqckg.JPEG/900%EF%BC%BF20260228%EF%BC%BF145114.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfNjUg/MDAxNzcyNDA3OTQyNzk0.xz7f55gTq1TaOKiMusD9VbO8ArXdaYov9FzztQlmJqEg.v6ffmi8HebGbtsMRD8ukRL5bMOziKW8eMEZ8VSxbP7Ig.JPEG/900%EF%BC%BF20260228%EF%BC%BF145130.jpg?type=w800)
 
 ---
 
-Catch report . available . catch report outing catch report .
+Lure fishing catch report . lure fishing . lure fishing . catch report fishing trip catch report .
 
-Fishing Report .
+Lure fishing Fishing Report .
 
 Thank you!.

@@ -29,7 +29,7 @@ Reel . 3 fishing gear . hands-on 3 .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTY4/MDAxNzc0MjM5MzMwMzEy.wkSL-_nj5FQzmjC0WmnBZ9zdITI9X3nhBGXdB9pDucYg.PI6UeaB2JWRoqEyyFMN_oWN5c0NSlMhfbBaD_dbXDqAg.JPEG/SE-015fd0c9-2658-11f1-bd05-d938671763c5.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfNjMg/MDAxNzc0MjM5MzQyODcx.7vOsj-_nxIrRBuWANsjf4thsmJhTJhCuhiunqwAHi2Mg.gDpI_cdXlsK36ZQ-qieE7X-wSlE8fB4YZfWmGBbKhUsg.JPEG/SE-0160bb2a-2658-11f1-bd05-d1785245b5d2.jpg?type=w800)
 
-. . impression .
+. .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTg1/MDAxNzc0MjM5MzYzNDc2.asMQmkiE9bhF4mieIkq7BspJvjKPI-TIwuqGlqmx4UUg.m3KbZmrFQdCyP4dkvfbDcjKHN3iSWkDUPIbvTQ5F3Mog.JPEG/SE-01617e7b-2658-11f1-bd05-abfe1209612e.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTA1/MDAxNzc0MjM5Mzc0NjAw.A2IkV5COW4rNCGet0Cmb7TVqlsQsxueHlypX9__e4HIg.PCN2QAsDJEycgm_vsfQh9wEbloIWg4J7aFsRqcYATqsg.JPEG/SE-016268dc-2658-11f1-bd05-57460bd09b48.jpg?type=w800)
@@ -38,7 +38,7 @@ Fishing gear . fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTI2/MDAxNzc0MjM5Mzg5OTM1.B_VrQkL1Lo3772Ga52ZeROaZydEABYeImHXpuFQOqeAg.6CJ1k7G9D1PWDTjoqdGWBaoBmmgKZ5lHh8vx5AsBt2Ug.JPEG/SE-01637a4d-2658-11f1-bd05-adf50171b3db.jpg?type=w800)
 
-Verification . impression . 2 hands-on . hands-on FISHING PRO .
+. 2 hands-on . hands-on FISHING PRO .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTk0/MDAxNzc0MjI5NDg2ODY4.UNsuRD6NMUL6d53zxoytZX2gcHacpQoA7d2gAwKv8egg.AzfPFQBU8rCyzSMQ-qjD-Cyuy-oC7cVFuuY6YjYZgRQg.JPEG/900%EF%BC%BF20260322%EF%BC%BF120026.jpg?type=w800)
 
@@ -73,18 +73,18 @@ Reel 3 .. 3 .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjIw/MDAxNzc0MjM5NTM1ODMw.6myrMOMCzBuTiinr0urPL9c61KOAdwuED9d4HVQy3mMg.wdgv019spiqxXNjSJtr9dbDDTNiNACbgrV9skbnEaFkg.JPEG/SE-017331cb-2658-11f1-bd05-150b1593a5c8.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMzAw/MDAxNzc0MjM5NTQ3NDkx.kf3d0V4sjFLH6L3s5zEkoLEwXOrIX1g7kukiEyM6Rdgg.1J5JcJfbazzutcNC5T16AEdAES9J6_agnXxmm3j9MlYg.JPEG/SE-0173ce0c-2658-11f1-bd05-bbec0892d295.jpg?type=w800)
 
-Fishing gear , fishing gear impression .
+Fishing gear , fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTYz/MDAxNzc0MjM5NTc1MDg4.ugoBpXeMprkLoOmGpyRYCLFkjLu6UikSZlPJCUb3tw4g.OUhXtU7xrGBuIqXM-SY20oiTP1Bjv-ZE5zYKsKJC1YQg.JPEG/SE-01746a4d-2658-11f1-bd05-abe8c3565bf5.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTE4/MDAxNzc0MjM5NTgzMzc3.e0ihsOD3FYtzUjiIU-ENoFqedAR9DWeS3XS2l0qNPA0g.rZmxXO8yf6DiMkRdLR7S_MsFp7oFO5nLEaBe9YMX1dUg.JPEG/SE-01772970-2658-11f1-bd05-8f0013112085.jpg?type=w800)
 
-Fishing gear hands-on impression .
+Fishing gear hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfOTUg/MDAxNzc0MjM5NTkzMTEz.a_bZ3l0u-Nz_8MvPbGU7csFFm0UIDBOHuyPakIREXDog.Ke3gvvQjQwTuPrVotB2F2AP9XGcQM5rsAHiCQ8ND9v8g.JPEG/SE-01752d9e-2658-11f1-bd05-1bf7d9b7e424.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjE1/MDAxNzc0MjM5NjAxODI4.geheNque6KCDRNumGIgAKC6pkQh4Sm-mqMod-pz8EsUg.XEkBU12NKxmIcr9K7HLqyNa1ytT-6YLqvVR4R35JAjIg.JPEG/SE-0176661f-2658-11f1-bd05-1b52c4df5de8.jpg?type=w800)
 
-3 . discount . great cost-efficiency fishing gear .
+3 . great cost-efficiency fishing gear .
 
-[Link: 3 webfoot octopus fishing gear saltwater fishing ](https://naver.me/IGs4h6uv)
+[Link: 3 webfoot octopus fishing gear lure fishing boat fishing saltwater fishing ](https://naver.me/IGs4h6uv)
 
 Thank you!.

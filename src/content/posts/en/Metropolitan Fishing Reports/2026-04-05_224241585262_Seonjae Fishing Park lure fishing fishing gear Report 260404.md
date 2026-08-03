@@ -1,12 +1,12 @@
 ---
-title: "Seonjae Fishing Park fishing gear Report [26.04.04]"
+title: "Seonjae Fishing Park lure fishing fishing gear Report [26.04.04]"
 date: 2026-04-05
 category: "Metropolitan Fishing Reports"
 categoryNo: 3
 logNo: 224241585262
 source: "https://m.blog.naver.com/sanjangboarder/224241585262"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTQ4/MDAxNzc1Mzc0MTM5NTcx.ceNzyR89uif5qshftl4sB86SX3ZOJiBAHY82vVJY-hIg.cPR6_xPLDE38AQW-ON696Y34yVX-ZE10TVrDuSD99kwg.JPEG/900%A3%DF20260404%A3%DF230229.jpg"
-description: "Hello, this is SanjangBorder. fishing gear . Incheon fishing gear Seonjae Fishing Park 3-300 fishing rod impression . fishing rod . 1 . impression . Incheon Seo"
+description: "Hello, this is SanjangBorder. fishing gear . Incheon fishing gear Seonjae Fishing Park lure fishing 3-300 fishing rod . fishing rod . 1 . Incheon Seonjae Fishin"
 lang: "en"
 ---
 
@@ -18,9 +18,9 @@ Hello, this is SanjangBorder.
 
 Fishing gear .
 
-Incheon fishing gear Seonjae Fishing Park 3-300 fishing rod impression .
+Incheon fishing gear Seonjae Fishing Park lure fishing 3-300 fishing rod .
 
-Fishing rod . 1 . impression .
+Fishing rod . 1 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfNDMg/MDAxNzc1MzU5NjQxOTQz.9dNnexXZh-ibTIXJsWQOLY07a5m1SRWqj3P_hFT2Mzcg.xYJN7f9TvdHUaULqoDGSTtHso7D9HyX0mbTuuxy4Sh4g.JPEG/900%EF%BC%BF20260404%EF%BC%BF161016.jpg?type=w800)
 
@@ -30,7 +30,7 @@ Fishing gear 7 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMjk1/MDAxNzc1MzU5NjQwMzgz.R_uB-tKaVO61lUMr0jDkU_0Z7L2GgrN32a2j67CTAw4g.rxZz7tjF_1-KZBwbfaNCY-CZiPD-vYkicr8DMHCQfkQg.JPEG/900%EF%BC%BF20260404%EF%BC%BF173725.jpg?type=w800)
 
-. Seonjae Fishing Park .
+. Seonjae Fishing Park lure fishing .
 
 > **Seonjae Fishing Park fishing gear **
 >
@@ -48,12 +48,12 @@ Fishing gear 7 .
 >
 > SanjangBorder
 
-Hands-on impression . Incheon fishing gear 12~14 impression 10~12 . 8 ㅎㅎ . fishing gear 15 .
+Hands-on . Incheon fishing gear 12~14 10~12 . 8 ㅎㅎ . fishing gear 15 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTAg/MDAxNzc1MzU5NjM4Mjc2.xRxNyTuxeZig_JehGpcXugxzkU_TVy-VHU6ZumH0Z90g.wIOc0UvuvnNe_3eRJpJIbxAZB9ngd_pQFv0IOGBf2O0g.JPEG/900%EF%BC%BF20260404%EF%BC%BF174325.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTIx/MDAxNzc1MzU5NjM5NTE4.edV3hul9PcesRC0paIiJNjaT-HWCbB9rWdl1OEVZvqkg.G9dNGkkDyNolgTsQMfqE-okZ2rgXABni0vyifOT5XYwg.JPEG/900%EF%BC%BF20260404%EF%BC%BF212032.jpg?type=w800)
 
-Fishing rod purchase 3-300 fishing rod Seonjae Fishing Park impression purchase ..
+Fishing rod purchase 3-300 fishing rod Seonjae Fishing Park purchase ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTkx/MDAxNzc1MzU5NjQwNTQz.fbDr7e_vwEG5jI0WtHhOhjYo_sifv8FfmvoAKeu1yB0g.mqb-FCRMpOHLcFYXqcIAHSxb6Pzvlpc-7vROCNFYPcgg.JPEG/900%EF%BC%BF20260404%EF%BC%BF181609.jpg?type=w800)
 
@@ -68,7 +68,7 @@ Fishing rod Report .
 
 . 2 1m 3m rockfish .. rockfish .
 
-Outing rockfish . rockfish . saltwater fishing .
+Fishing trip rockfish . rockfish . saltwater fishing .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfODYg/MDAxNzc1MzczNTIxOTcw.56oB_eiJZhKaIGSknpQHdM9vw1dxbUe_rnRm1i-Ldtgg.MXuCrfLlmmZIdOyAMNvxx_pp1OUHEOHUeK-nB3DKFBkg.JPEG/SE-58af906c-309f-11f1-8670-dfa4199ba430.jpg?type=w800)
 
@@ -106,7 +106,7 @@ Rockfish .
 
 . 8 . ㅠ
 
-Impression 3 . 1.9kg. ㅎㅎ 500 .
+3 . 1.9kg. ㅎㅎ 500 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTQ4/MDAxNzc1Mzc0MTM5NTcx.ceNzyR89uif5qshftl4sB86SX3ZOJiBAHY82vVJY-hIg.cPR6_xPLDE38AQW-ON696Y34yVX-ZE10TVrDuSD99kwg.JPEG/SE-58bf20d8-309f-11f1-8670-ef29d19ba5cb.jpg?type=w800)
 

@@ -41,10 +41,10 @@ Seonjae Fishing Park spans a massive artificial saltwater pond divided into zone
 ​
 
 Key target species currently stocked include:
-* **Red Sea Bream (참돔):** High-fighting fish requiring strong backbone power.
-* **Rockfish (우럭):** Active bottom feeders near drop-offs and structure.
-* **Sea Bass (농어):** Fast swimmers requiring smooth reel drag and long-cast ability.
-* **Flatfish (광어):** Hiding on sandy bottoms, sensitive to subtle lure presentations.
+* **Red Sea Bream (red sea bream):** High-fighting fish requiring strong backbone power.
+* **Rockfish (rockfish):** Active bottom feeders near drop-offs and structure.
+* **Sea Bass (sea bass):** Fast swimmers requiring smooth reel drag and long-cast ability.
+* **Flatfish (flatfish):** Hiding on sandy bottoms, sensitive to subtle lure presentations.
 
 ​
 

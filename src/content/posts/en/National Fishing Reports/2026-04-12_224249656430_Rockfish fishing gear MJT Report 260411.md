@@ -6,7 +6,7 @@ categoryNo: 17
 logNo: 224249656430
 source: "https://m.blog.naver.com/sanjangboarder/224249656430"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfNjkg/MDAxNzc1OTc1NDI1OTY2.ZZKBD1eWhs5I38itHXDLEZmCK3wIs-ZJHlM59sdoC4Mg.h08gCvCYFw2zpTwnTmrm6puxreI8LVnh0Oinqyk4zagg.JPEG/900_20260411_170642.jpg"
-description: "Hello, this is SanjangBorder. fishing gear rockfish fishing gear . TEAM MJT 4 rockfish fishing gear . outing 2 , .. TEAM MJT 1 . flatfish rockfish/ fishing gear"
+description: "Hello, this is SanjangBorder. fishing gear rockfish fishing gear . TEAM MJT 4 rockfish fishing gear . fishing trip 2 , .. TEAM MJT 1 . flatfish rockfish/ fishin"
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 Fishing gear rockfish fishing gear . TEAM MJT 4 rockfish fishing gear .
 
-Outing 2 , ..
+Fishing trip 2 , ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMjE1/MDAxNzc1OTcxNDEwMzMz.hgijR7q3UOGtPTHvXIOPa2HkPTjL3QrxpX0qzAmv5psg.kkwbANe4ToTH4BR_q963kikJE3bqxLo7Zvol_br5v0Yg.JPEG/900_20260411_052234.jpg?type=w800)
 
@@ -26,7 +26,7 @@ TEAM MJT 1 . flatfish rockfish/ fishing gear . rockfish ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMjc4/MDAxNzc1OTcxNDA1NzUx.7jpjVHYfmAI8F7sDYBSsEYdwLL3xNSygnnpSY5PuEz8g.xV-GaE34-qwvTgot4xjfuktzWnODdq7eym83dW_P4O4g.JPEG/900_20260411_052810.jpg?type=w800)
 
-40~50m 40~50 electric reel . fishing rod JS Company fishing rod 3 , 4 rockfish2 , Oesujil live bait drifting .
+40~50m sinker 40~50 electric reel . fishing rod JS Company fishing rod 3 , 4 rockfish2 , Oesujil live bait drifting .
 
 > ** fishing gear / **
 >
@@ -34,7 +34,7 @@ TEAM MJT 1 . flatfish rockfish/ fishing gear . rockfish ㅎㅎ .
 >
 > reel 1 : Doyo 3
 >
-> 1 : Haedong X9 1.2
+> 1 : Haedong X9 PE braided line 1.2
 >
 >
 >
@@ -42,7 +42,7 @@ TEAM MJT 1 . flatfish rockfish/ fishing gear . rockfish ㅎㅎ .
 >
 > reel 1 : Banax 100B
 >
-> 1 : 1.5
+> 1 : PE braided line 1.5
 >
 >
 >
@@ -59,14 +59,14 @@ TEAM MJT 1 . flatfish rockfish/ fishing gear . rockfish ㅎㅎ .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfODEg/MDAxNzc1OTcxNDAyMjE0.WhZvpYT1NhdHV9lIBcw8LgrkaraGCKWuA6XCHFbkpcog.r1ktH8qy-qzY46tN2iGQ7FJb7TKE8Te6Us7-JOCwkEMg.JPEG/900_20260411_140602.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMzIg/MDAxNzc1OTcxNDA5Njc5.gRXpT-GhLcUCc4qb_hnqysbBINdNYdgGPR9HLAhrbBsg.fNeHwFuCKXkDzUjzIHZI_UIJC5JWulJARSuGKvzJPBwg.JPEG/900_20260411_062901.jpg?type=w800)
 
-JS Compnay B61-3, B61-4 fishing rod . great cost-efficiency / fishing rod hands-on . fishing rod B61-3 fishing rod . 4 impression rockfish (mebal) . B61-4fishing rod impression . fishing rod reel electric reel impression .
+JS Compnay B61-3, B61-4 fishing rod . great cost-efficiency / fishing rod hands-on . fishing rod B61-3 fishing rod . 4 rockfish (mebal) . B61-4fishing rod . fishing rod reel electric reel .
 
-Fishing gear 4 fishing rod , impression flatfish available .
+Fishing gear 4 fishing rod , flatfish .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMTEy/MDAxNzc1OTcxNDA0NjU4.wgG5JGii5k4HzsnOz4NCucnj0AGj-4MzC-K2cHBTzuwg.ZhslhojrH-1bfbuQT4LdgIKH5qEskPK4rkGQ9e2098Eg.JPEG/900_20260411_131953.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMTEz/MDAxNzc1OTcxNDA3NTkw.UMhQ1z5tbAt1fXgOIeCcKLGzIEqx8_OIuCFCx2zGBKIg.VbyUqd4mxnMDCwIDc9E-_tXv0Gmp6QRPzGW_wGiVOdQg.JPEG/900_20260411_132614.jpg?type=w800)
 
-Fishing gear . impression ㅎㅎ .
+Fishing gear . ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMTgy/MDAxNzc1OTc0MDA0NjQ1.HDhn9UEmuj84voBZTm94OT6D_WVCZU6S_qyWhZELyK8g.f8GaMPqJR7W81mWKlYtGaInDFgABZLxzcWf5If9ASQQg.JPEG/SE-b465d00f-362f-11f1-88f4-ade1b828baa2.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfNjgg/MDAxNzc1OTc0MDE1MDc4.dQ1Ai5eRrYVsR0gfzhue_DgM1HXVY32jKfqIJBiZn3Eg.p1F4gRXBkjNciJ4Lle-rHSpEKqj0z65RokmmbR-zwUkg.JPEG/SE-b4882533-362f-11f1-88f4-df2e1c25f358.jpg?type=w800)
@@ -136,7 +136,7 @@ Rockfish 1 webfoot octopus fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMTkg/MDAxNzc1OTc1NzYwMzE4.iosoqdIe7X6SR9wEQiu6kdeMTk7PK7Ai3aaf1BFd0Jsg.iwmiD2GJTLOIWxQmiLCLW8WTWrJLYpprWtN5aUoFlwYg.JPEG/SE-b48f030b-362f-11f1-88f4-812a9a053057.jpg?type=w800)
 
-, lure , .
+, egi lure, .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMjIw/MDAxNzc1OTc1NzY5MDg3.AT4zp_ufEtdgORd-ftJ5yud3_PB_r77meF1JKa9T-kYg.CnXznDLJSFGijitMfZeIrJ0GZAJDL05E2pkvau6YtX4g.JPEG/SE-b490147c-362f-11f1-88f4-d32784934742.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTJfMjIy/MDAxNzc1OTc1Nzc3NjU0.1kgHnci4SDsMnoIUuJ7NVZZMN4RucicPntwp5cAh2x8g.QwxvA4kv46dOcwMm9hfgv9nltHBQMz5DrDHWi1C_LMkg.JPEG/SE-b490fedd-362f-11f1-88f4-c52bfa68efe9.jpg?type=w800)
@@ -150,7 +150,7 @@ Rockfish 1 webfoot octopus fishing rod .
 
 ---
 
-Link TEAM MJT fishing gear fishing gear . / fishing gear . 4 fishing gear outing .
+Link TEAM MJT fishing gear fishing gear . / fishing gear . 4 fishing gear fishing trip .
 
 [Link: Team MJT fishing gear boat fishing .. : ](https://cafe.naver.com/teammjt)
 

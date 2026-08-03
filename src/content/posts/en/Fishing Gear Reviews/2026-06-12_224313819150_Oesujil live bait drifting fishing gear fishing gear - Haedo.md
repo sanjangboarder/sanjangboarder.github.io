@@ -22,7 +22,7 @@ Incheon sea bass fishing gear . sea bass . sea bass fishing gear Oesujil live ba
 
 ​
 
-Oesujil live bait drifting Incheonsaltwater fishing hands-on 16 hands-on available . 15 . 15 Incheon Incheon 5 , saltwater fishing 5 .
+Oesujil live bait drifting Incheonsaltwater fishing hands-on 16 hands-on . 15 . 15 Incheon Incheon 5 , saltwater fishing 5 .
 
 ​
 
@@ -46,7 +46,7 @@ Haedong .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMjAy/MDAxNzgxMDcxODg1ODQ3.a4Upf6ZtyP2GqKBKRINeTbqG_l2KYQzIDAcNtnOnz7kg.ZOoKEpjfV7bqDNNikSexwzbmQnu2nJ3m_x66GTZ3Vn4g.JPEG/SE-fc3f50ad-62e0-11f1-9e8c-dfea3a31150d.jpg?type=w800" />
 </div>
 
-- , . available . ㄴ .
+- , . ㄴ .
 
 
 <div class="image-grid">
@@ -54,7 +54,7 @@ Haedong .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMjQw/MDAxNzgxMDcxOTI3MTc5.wLoeQR7fTwgCEOfDkeLv0gxQQ33t22ApXj67EnviNy0g.N2xQYBX__dgTNuX8qKsjo4RdkTsmJ4NKlS2G_6SS9eYg.JPEG/SE-fc523b82-62e0-11f1-9e8c-ad695fc5eade.jpg?type=w800" />
 </div>
 
-. Haedong 9 . impression . . available .
+. Haedong 9 .. .
 
 
 <div class="image-grid">
@@ -79,7 +79,7 @@ Haedong .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMjMg/MDAxNzgxMDgyNjQ5ODI0.pHLKJV96yjyb-G8xqtiAXkXT79KmdegHEZWXj7wrr8og.is2bNDsx3JyRQZ9HXGkduDI1LWAATOxRC7wyMDhj7FUg.JPEG/SE-fc44cef3-62e0-11f1-9e8c-b751a5602a20.jpg?type=w800" />
 </div>
 
-Available ..
+..
 
 
 <div class="image-grid">
@@ -105,7 +105,7 @@ Available ..
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDhfMTU4/MDAxNzgwODg1NDMzNzk2.kzhvuU7DbcX_6HYVtfrIEh-4C6VsvxjTpAc4u4AmhxEg.FbmCpRlvAO_o0JoPe8gROuXRvEHZEkyyiKYh-vm0aAEg.JPEG/900_20260514_202730.jpg?type=w800" />
 </div>
 
-Available hands-on hands-on .
+Hands-on hands-on .
 
 
 <div class="image-grid">
@@ -121,7 +121,7 @@ Available hands-on hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDhfMjEg/MDAxNzgwODg1NDMyMzIz.IG9ib0omlgNOOCtcejnWg2AqWiCmMzQl2GABF5-4RFwg.DLnd3xnhQOG_cpFgXkgMv9hzh-5jlJi_KNRdrZ48ndMg.JPEG/900_20260514_202559.jpg?type=w800" />
 </div>
 
-. available .
+. .
 
 
 <div class="image-grid">
@@ -130,7 +130,7 @@ Available hands-on hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMTcw/MDAxNzgxMDcyMDYxODkz.ddqyGRIYCDbv1jx1FkYp1WHwDL88ORXI8CaYA3nF1Rgg.ob9La-k-Al194SR-v_e_jvqdqvA6-b9cUTH5Zc3yZuAg.JPEG/SE-fc565a36-62e0-11f1-9e8c-1be7b17f55ee.jpg?type=w800" />
 </div>
 
-, impression .
+, .
 
 
 <div class="image-grid">
@@ -163,7 +163,7 @@ Hands-on . reel . fishing gear hands-on / .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMjQ4/MDAxNzgxMDgyNzU0NDk0.2_fWiIPzlgl1LshvvcQyKZq9qaNsySn2ZcKyfCET9GEg.kCX7O8rLgJBuObtQn85S_K5dLgiNMud0jAeAM2EjRucg.JPEG/SE-fc6415e8-62e0-11f1-9e8c-e9aaa032396c.jpg?type=w800" />
 </div>
 
-Oesujil live bait drifting fishing gear hands-on . available .
+Oesujil live bait drifting fishing gear hands-on . .
 
 
 <div class="image-grid">
@@ -171,7 +171,7 @@ Oesujil live bait drifting fishing gear hands-on . available .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfMTYg/MDAxNzgxMDgyNzkwNTk0.ixAFeWHyd34chZGRpLRLchQhoenqmZuRdzj8vvEi39cg.FpEVp8kvHPwP2F3E7ywrXxQtTq4lnIbRLm_eSFEDcBYg.JPEG/SE-0c20b6bc-62e1-11f1-9e8c-1faf343c774a.jpg?type=w800" />
 </div>
 
-ㅣㅇㅆ 500ml PET . 500ml 4 . 5 . 500ml 2 available .
+ㅣㅇㅆ 500ml PET . 500ml 4 . 5 . 500ml 2 .
 
 
 <div class="image-grid">
@@ -188,7 +188,7 @@ Reel . hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfODcg/MDAxNzgxMDcyMzgxMTAw.TcWOXN9P8xMtjqJpwcyLwxUfAd10qbB2ZUju5sxe-Dkg.v8kGz3iFXRA9ZhW9MR36Q1VZ6UqLL9b_jSAUd5z3gogg.JPEG/SE-0c1bada8-62e1-11f1-9e8c-2d68db3b8e5d.jpg?type=w800" />
 </div>
 
-Haedong . available . fishing gear available .
+Haedong . . fishing gear .
 
 
 <div class="image-grid">
@@ -215,7 +215,7 @@ Purchase .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfNTcg/MDAxNzgxMDgyODQ5OTU0.kZcGc2Vn86gi3sXiA3GM-F1DYcAFAGU9QlNE9UItPR0g.DBOQ_h87AAVkjPtG4NqE6OE7hYiAYQdbs-QnInvUDvog.JPEG/SE-0c4d1df5-62e1-11f1-9e8c-e986eebbc8b9.jpg?type=w800" />
 </div>
 
-. available . .
+.. .
 
 
 <div class="image-grid">
@@ -224,7 +224,6 @@ Purchase .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfNTUg/MDAxNzgxMDgyODc4Mjg4.wn0tEqmNIK02O3tjkzAK5E6EATMil4A-0afGeFleKuIg.e4patI9iNmZRtlmGE_XH9oN9EO0fsv63DLQt9psboWIg.JPEG/SE-0c2b1703-62e1-11f1-9e8c-b9039cdbdf50.jpg?type=w800" />
 </div>
 
-Verification .
 
 <div class="video-link-card glass">
 <div class="v-link-info">
@@ -237,7 +236,7 @@ Verification .
 <a href="https://blog.naver.com/sanjangboarder/224313819150" target="\_blank" class="v-link-btn">Watch Video</a>
 </div>
 
-- .. 9 . 9 impression impression impression . 40 impression 7 - .
+- .. 9 . 9 . 40 7 - .
 
 
 <div class="image-grid">
@@ -255,7 +254,7 @@ Verification .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTBfNTQg/MDAxNzgxMDgyNjA0NDgx.QPu59dVUJpVZwT2yriMs66jvU31lSJ1f1FYInQzKMzog.okkYizd-xs294DbSxizKCEwFruW1koFxPFPbazHLwYcg.JPEG/SE-0c1963b5-62e1-11f1-9e8c-0feb83377b06.jpg?type=w800" />
 </div>
 
-7 Incheon Oesujil live bait drifting sea bass fishing gear . fishing gear impression . Fishing Report . impression . verification .
+7 Incheon Oesujil live bait drifting sea bass fishing gear . fishing gear . Fishing Report . .
 
 ​
 

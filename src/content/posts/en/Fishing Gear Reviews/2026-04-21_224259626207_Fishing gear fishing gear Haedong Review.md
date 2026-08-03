@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224259626207
 source: "https://m.blog.naver.com/sanjangboarder/224259626207"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTAw/MDAxNzc1NTM0MDA5MTE2.w5I-cbbdj7abPPU3R7tPLguJWC2fNUBb1fb4y7gE9nkg.-b7IRHR1yIMFfZ-y-If1uzvah9CZ4vwOb5qyNe7hKFEg.JPEG/900%A3%DF20260403%A3%DF222342.jpg"
-description: "Hello, this is SanjangBorder. fishing gear fishing gear lure fishing saltwater fishing . fishing gear . .. ㅎㅎ fishing gear baitcasting reel . , , . . Haedong HD"
+description: "Hello, this is SanjangBorder. fishing gear fishing gear lure fishing saltwater fishing . fishing gear . .. PE braided line . ㅎㅎ fishing gear PE braided line PE"
 lang: "en"
 ---
 
@@ -18,7 +18,7 @@ Hello, this is SanjangBorder.
 
 Fishing gear fishing gear lure fishing saltwater fishing . fishing gear . ..
 
-. ㅎㅎ fishing gear baitcasting reel .
+PE braided line . ㅎㅎ fishing gear PE braided line PE braided line baitcasting reel PE braided line .
 
 , , .
 
@@ -39,40 +39,40 @@ Haedong 2 . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMjU3/MDAxNzc1NTMzODM5MjYw.RIKkXe5X--pfJ_WbWLqmCB-ALshEaxaICpxVQd5XS-Qg.P7B3aWKb7CJc9BVYd_AAv8Ao9ydkhZG-Ts1OKTLRYpMg.JPEG/SE-f0350e52-2fb9-11f1-b5c5-0b818b00fff6.jpg?type=w800)
 
-Hands-on reel .
+Hands-on reel PE braided line . PE braided line .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTQ0/MDAxNzc1NTMzOTk2NjUy.2vU-jo6nhtrsNWb7egsFbRk_aWSbmTCozmjFA34DDNMg.gUSNtWXw174foDrWUx5KPnCwu-GNprHQ8a1CvXExi_kg.JPEG/SE-f03646d3-2fb9-11f1-b5c5-e98341631798.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMjYy/MDAxNzc1NTMzOTk1OTAw.Y147Sy37I3Zj3PKAyRRLe-5jEjPdbZwNwUGVYngeyecg.ZIRZqXac6oc9gjMXt6i1Euzjd-ZQEBBxYfIw6r1sYIUg.JPEG/SE-f037a664-2fb9-11f1-b5c5-4156d5cc8e99.jpg?type=w800)
 
-Baitcasting reel . boat fishing .
+Baitcasting reel . PE braided line boat fishing PE braided line .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTAw/MDAxNzc1NTM0MDA5MTE2.w5I-cbbdj7abPPU3R7tPLguJWC2fNUBb1fb4y7gE9nkg.-b7IRHR1yIMFfZ-y-If1uzvah9CZ4vwOb5qyNe7hKFEg.JPEG/SE-f03869b5-2fb9-11f1-b5c5-530050d414d1.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMjgy/MDAxNzc1NTM0MDE4NTU4.XpHyLaTc1m4_8ED44zFej31clLuDHIsZw2F5XHPKZRMg.p06s_L7BRO30OTxEJ5FwKVlXxOdgx1M8UcT6IJOaSJsg.JPEG/SE-f039a236-2fb9-11f1-b5c5-a7436a66ed54.jpg?type=w800)
 
-Baitcasting reel electric reel.. reel . ㅎㅎ
+Baitcasting reel electric reel.. reel PE braided line . PE braided line ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTIy/MDAxNzc1NTM0MDQyNjYw.RO_yD_1TyukcCG07XAYDwBFA9mxaxaS_q1pJ2n1jKYcg.1lW8kxQv-lvUA5PoBd5z6AhPqfwTkzu6APfSGLPjqX4g.JPEG/SE-f03b01c7-2fb9-11f1-b5c5-459f9f4ba59c.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMjAg/MDAxNzc1NTM0MDQxNTk1.hDWKJ61LzXjxImlIKv6aV6qdACPTUcCbaKzvlxzBlsMg.thN2n1_tliL5mX1TUonBBc2a6g8gY11i04O4We897okg.JPEG/SE-f03c3a48-2fb9-11f1-b5c5-37e3302f36b1.jpg?type=w800)
 
-Electric reel . ㅎㅎ purchase . electric reel outing .
+Electric reel PE braided line . ㅎㅎ purchase PE braided line . electric reel fishing trip .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfNzQg/MDAxNzc1NTM0MDY0MzMy.oWPmFKpnH7Rw3Ww00AblJj8yCcm5S9KFVEfd2DXW6sgg.vufJFxV0kMBnU4YJsyvmNjGQQT2G6LnYDWJ8BWKI59gg.JPEG/SE-f03d72c9-2fb9-11f1-b5c5-4b89348455cf.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTcg/MDAxNzc1NTM0MDU0ODcz.AhyZ9ULVKV6wp4hSR_Axi_5XYYKeYc4m6kuxWDuUNL4g.mkr3YgvuEhxv86o2zs15-7jultOAlFo98emOgQjtqYwg.JPEG/SE-f03e843a-2fb9-11f1-b5c5-b7c4c9b29844.jpg?type=w800)
 
 ---
 
-Electric reel . . ㅎㅎ
+Electric reel PE braided line PE braided line . PE braided line . PE braided line ㅎㅎ
 
 . ㅎㅎ
 
-Haedong hands-on . fishing gear .
+Haedong hands-on PE braided line . fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfNTEg/MDAxNzc1NTMzODk1NDc1.1d39y0Dl-SayzRU8Gz0JpB_khAkLLpf5N2rgHuOfqs0g.4Cuidzqgj5ibVQ0UfSXn0mznqi6NnoWmzx8l4K-GDNMg.JPEG/SE-f03fbcbb-2fb9-11f1-b5c5-9369d0ea1666.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTM3/MDAxNzc1NTMzODk2NTg0.FD6ulensysE51ObOCveZYkcE1WRUGhIOxsoD7XxnG-Ig.qegWd-JrlZjN82us7wbPT_xe1pn8p04kEhC1FgtgcDAg.JPEG/SE-f040ce2c-2fb9-11f1-b5c5-49c55c593cf9.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDdfMTk4/MDAxNzc1NTMzODk0MzM2.xT0I_phxQKWBtG_5m8lKzlPKBY6phAwtBxjd-U3uyCsg.1mhWNaYfcRXqpuEG2Vv7P6hcYV9I6hQwpbK9lGLnudog.JPEG/SE-f04254cd-2fb9-11f1-b5c5-97f06d7bfa24.jpg?type=w800)
 
-Fishing rod, fishing rod available electric reel, .
+Fishing rod, fishing rod electric reel, .
 
 Thank you!.
 

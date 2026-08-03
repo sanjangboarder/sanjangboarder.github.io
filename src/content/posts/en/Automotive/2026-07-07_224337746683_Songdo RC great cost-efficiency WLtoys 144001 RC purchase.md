@@ -6,7 +6,7 @@ categoryNo: 50
 logNo: 224337746683
 source: "https://m.blog.naver.com/sanjangboarder/224337746683"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMjU4/MDAxNzgzMjM3NjAyNDQ0.ddcDbp1I5goMNkTO70y5PRbef-bnHc7_9UVb3F_TwDwg.r63uuVBMzrEAwlqvH0goyIXp2FBNqz21yUPuv7NQBBwg.PNG/image.png"
-description: "Hello, this is SanjangBorder. Songdo RC .. . verification . Songdo . Incheon 3 4 . Songdo RC verification . reel . 3 , reel . available .."
+description: "Hello, this is SanjangBorder. Songdo RC .. . . Songdo . Incheon 3 4 . Songdo RC . reel . 3 , reel . .."
 lang: "en"
 ---
 
@@ -25,7 +25,7 @@ Songdo RC .. .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMjky/MDAxNzgzMjM3MDM4ODYy.MOkkwud7Y2XtXOxbf0xX8u9cNTWhirjyK2EXdUtfrHUg.NOdnvv_L5VfXiBN8gPdIVfmFy_oW6lEbyzx8nrvY4VAg.PNG/SE-4bf2afa7-1742-40ac-a567-a92bbdda4a69.png?type=w800" />
 </div>
 
-. verification . Songdo .
+.. Songdo .
 
 ​
 
@@ -36,22 +36,22 @@ Incheon 3 4 .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMTE5/MDAxNzgzMjM3MTE5OTY3.1ozhDReYJ1jiFrN4CBRxi5QIjAph0dEupUAD5rpcCh4g.5iD9ZHrZ_DWTpFWVPTUE9pj9Cy2MzybzFoUy56L_QnAg.PNG/SE-9e056aa3-92c9-4607-bb75-f977b611f2c5.png?type=w800" />
 </div>
 
-Songdo RC verification .
+Songdo RC .
 
-Reel . 3 , reel . available hands-on .
+Reel . 3 , reel . hands-on .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMjEg/MDAxNzgzMjM3NTYwNjAy.Zobc9sP4HOblkGNv9kF7PWPxp8KowMBQxFBafqUuMg8g.1Z_kkaeugGJxRfHw9cKdfWunup96SlhjpUETXZyhZSkg.PNG/image.png?type=w800" />
 </div>
 
-6~7 . , ( , ) verification .
+6~7 . , ( , ) .
 
 ​
 
 Fishing rod .
 
-RC impression . fishing rod ( ) . TV .
+RC . fishing rod ( ) . TV .
 
 
 <div class="single-image">
@@ -72,7 +72,7 @@ RC impression . fishing rod ( ) . TV .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMjU4/MDAxNzgzMjM3NjAyNDQ0.ddcDbp1I5goMNkTO70y5PRbef-bnHc7_9UVb3F_TwDwg.r63uuVBMzrEAwlqvH0goyIXp2FBNqz21yUPuv7NQBBwg.PNG/image.png?type=w800" />
 </div>
 
-. 40 available 2 . .
+. 40 2 . .
 
 
 <div class="single-image">
@@ -88,7 +88,7 @@ RC impression . fishing rod ( ) . TV .
 
 🔗 [New In Stock Mjx-10306 1/10 Gt500 Rc Drift Car Remote Control High Speed Rally Racing Toy Model For Kids Adults Indoor Outdoor](https://s.click.aliexpress.com/e/\_c4PtBgPp)
 
-. available . ㅇ . available .
+. . ㅇ .
 
 
 <div class="single-image">
@@ -123,19 +123,19 @@ Incheon RC Incheon Songdo . , .
 
 ​
 
-. Incheon verification verification .
+. Incheon .
 
 🔗 [ | Incheon Songdo > ](https://www.insiseol.or.kr/park/songdo/notice/notice.jsp)
 
-Incheon Songdo RC hands-on RC reel . RC RC . WLtoys 144001 recommendation . Songdo RC 1:10 available .
+Incheon Songdo RC hands-on RC reel . RC RC . WLtoys 144001 recommendation . Songdo RC 1:10 .
 
 ​
 
-RC purchase , purchase RC . Wltoys RC impression . 14:1 impression 10:1 . discount 10:1 144001 . 104019, 104021 discount 20~30 .
+RC purchase , purchase RC . Wltoys RC . 14:1 10:1 . 10:1 144001 . 104019, 104021 20~30 .
 
 ​
 
-144001 15 purchase available . discount
+144001 15 purchase .
 
 
 <div class="single-image">
@@ -149,14 +149,14 @@ RC purchase , purchase RC . Wltoys RC impression . 14:1 impression 10:1 . discou
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfNTMg/MDAxNzgzMjM5ODU2MDUw.xhcF0-ubz_qDdgRqRJH4qiqpCkfHfwNAial7EbvIj9Ag.T3t5AZZLxcc1rgA66XN5tsn0UMeFnh-dpNAbnS9kyOAg.PNG/image.png?type=w800" />
 </div>
 
-Recommendation . 10 purchase , . 10 . discount 8~9 purchase available .
+Recommendation . 10 purchase , . lure fishing 10 . 8~9 purchase .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDVfMTE5/MDAxNzgzMjM5ODA3Nzgx.f6IDfS25J-aOyT8qZKQaBt75aXPBTntNF5VvxNkfJd4g.EUpCCGlmbQ4XS7whICCE6FdMUyUMbHO3LsB736z1Q84g.PNG/image.png?type=w800" />
 </div>
 
-7 . 7 7 . 10 . 7 13 ~19 discount purchase available discount purchase available .
+7 . 7 7 . 10 . 7 13 ~19 purchase purchase .
 
 🔗 [WLtoys 144001 1:14 RC Racing Car 65Km/H 2.4G Remote Control High Speed Off-Road Drift Shock Absorption Adult Boys Toys Kids Gift](https://s.click.aliexpress.com/e/\_c393lxC1)
 

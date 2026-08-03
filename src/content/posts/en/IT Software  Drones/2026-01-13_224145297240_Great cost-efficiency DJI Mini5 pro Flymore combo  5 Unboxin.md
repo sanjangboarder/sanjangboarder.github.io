@@ -6,7 +6,7 @@ categoryNo: 33
 logNo: 224145297240
 source: "https://m.blog.naver.com/sanjangboarder/224145297240"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfNjAg/MDAxNzY3ODM0NjU4Njky.JqpMqPP1lWYxjLhRm8Y1ZROd9H3ujLz3814luxV9HT0g.0tuL-rwXbQiMqL9qUsmeAVCRBJWCmZq1BF_0Ot4VDaIg.JPEG/900%A3%DF20260106%A3%DF212449.jpg"
-description: "&quot; purchase .&quot; Hello, this is SanjangBorder. 10 . 23 ~25 DJI . ㅎㅎ hands-on , DJI , . FPV purchase . 1 FPV . ㅎㅎ purchase . fishing gear .."
+description: "&quot; purchase .&quot; Hello, this is SanjangBorder. 10 . 23 ~25 DJI . ㅎㅎ hands-on , DJI , . FPV purchase . 1 FPV . ㅎㅎ purchase . fishing gear boat fishing .."
 lang: "en"
 ---
 
@@ -26,7 +26,7 @@ Hands-on , DJI , . FPV purchase .
 
 1 FPV . ㅎㅎ
 
-Purchase . fishing gear . , , , LCD .
+Purchase . fishing gear boat fishing . , , , LCD .
 
 DJI mini . mini air , mavic , mini neo flip .
 
@@ -34,7 +34,7 @@ DJI Mini 5 5 mini variant mini 5 mini .
 
 Purchase DJI MINI 5 PRO flymore comdo (DJI RC2) . 5 purchase .
 
-Discount DJI . 129 ㄴ ㅏ. ? impression .
+DJI . 129 ㄴ ㅏ. ? .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfOTAg/MDAxNzY3Nzc5OTE4ODEx.uuT6x1PA9DwbRwXPWmuYYNqJBbIR828cL7mQB0rOyrEg.W0quPXQbyX2LLkh0h5LDG-ynAWkdY7S_7xJ1gbsz1AEg.JPEG/SE-1c93fd2a-ebaf-11f0-820c-35943cecfa50.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfOCAg/MDAxNzY3Nzc5OTE3ODU4.48XV3iC2w8n9PoUygO374gG5G-CdlEx2pmlJo06OfNIg.iQfjClRdotCTvS-Bw5mUaMN7YFedJLIYBKA646hvUwUg.JPEG/SE-1c950e9b-ebaf-11f0-820c-b72476133e0e.jpg?type=w800)
@@ -56,7 +56,7 @@ DJI . DJI hands-on .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTEy/MDAxNzY3Nzc5NzkwOTA1.6Lz3rEjTm-7hXRH5M8IsjII5fc7breWDePcMhGqCPDog.zxaYNzMPHJ63HCjspA5EZJ9inTLKaknIxZiYNoggeuEg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212001.jpg?type=w800)
 
-Outing . fishing gear .
+Fishing trip . fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjg1/MDAxNzY3NzgwMDM4NTE4.Vik4zL_mxzGC-_VisCTGMtzjcyfEAWVuliga7Ve3IRIg.l8SPDjG-95f-LTBDeZ7HBL6J81RA5_0WmuUF6eFQ_eEg.JPEG/SE-1ca25514-ebaf-11f0-820c-4327a8c60c21.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjQ2/MDAxNzY3NzgwMDM3NTU3.6g_9qY3nDYIOFL4Qh02LqtapXK4rP4Pir3XycTgEBnMg.jM35pvmJV0Le3aNGgjDc18Lx13gLmK7RP3ImYJMz0C4g.JPEG/SE-1ca31865-ebaf-11f0-820c-a78e6f00d1e4.jpg?type=w800)
@@ -91,7 +91,7 @@ USB .
 
 CPL ND8, ND32, ND128 . ND ND8 8 . ND128 128 . . MINI 5 Pro F1.8 1/8000 .
 
-Available , ㅎㅎ ㅎㅎ . Air Mavic pro .
+, ㅎㅎ ㅎㅎ . Air Mavic pro .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTkx/MDAxNzY3Nzc5Nzk1NDEw.cUeJnWBl58Sc9aN17P3YxnsBhpM57_0f-uuxVHawCuQg.jMytMsC-WLkelm7gVGYuLe7DRCSE4ymxjkRXgXJTrnwg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212248.jpg?type=w800)
 
@@ -99,25 +99,25 @@ Available , ㅎㅎ ㅎㅎ . Air Mavic pro .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfNjAg/MDAxNzY3ODM0NjU4Njky.JqpMqPP1lWYxjLhRm8Y1ZROd9H3ujLz3814luxV9HT0g.0tuL-rwXbQiMqL9qUsmeAVCRBJWCmZq1BF_0Ot4VDaIg.JPEG/SE-1cb0ad05-ebaf-11f0-820c-c38376d455be.jpg?type=w800)
 
-. PD hands-on . 3 available USB C Type .
+. PD hands-on . 3 USB C Type .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfMTk4/MDAxNzY3ODM0Njk2NTMw.YbCjjfDqlj8tO5lkN3lTAQfIdvZxL5kbdSYAJpcslMYg.Jq40_gCyFOqmEVbIkwIrGHSIIWbnx34d310kASXUVMsg.JPEG/SE-1cb14946-ebaf-11f0-820c-0f8ce34300fe.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfMTkx/MDAxNzY3ODM0ODA0Njc2.g2FuvXIhk14gx0GyWQbevFXGNd__mzpdKitaKbVJvC4g.yb_FsgLxJbjYZSuusierm-ydJQ9znszMCKF5gmqLK-0g.JPEG/SE-1cb233a7-ebaf-11f0-820c-41cc67d42abf.jpg?type=w800)
 
-3 2 verification . 48W . 20W . DJI .
+3 2 . 48W . 20W . DJI .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfMjgw/MDAxNzY3ODM0ODc2NzYy.SI8ddbqzLgrLV00lMxB61Gf8FT-mYwKStu_5EamANg0g.GfhH0qk8Of3OTYcsDMrImytmXcVv4p3VmzC9w893aBgg.JPEG/SE-22d2f4fc-ebaf-11f0-820c-4de1ed9d426d.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfMjQ2/MDAxNzY3ODM0ODc1OTM3.A13h3D0M8Pktvng3BmquaK0uZKMmp0wpG34fXElQUSMg.o2VTd30nlJu3QvjKAPHBjgzeE8TOqtxXfj9VL0HkxY4g.JPEG/SE-22d1e38b-ebaf-11f0-820c-cbb603e147d8.jpg?type=w800)
 
 DJI RC2 . DJI purchase LCD . LCD recommendation .
 
-DJI FLY .. DJI DJI FLY purchase 3~4 OS impression .
+DJI FLY .. DJI DJI FLY purchase 3~4 OS .
 
 Hands-on hands-on LCD .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjcg/MDAxNzY3Nzc5NzkwOTQx.c4INFDSXUmuYtGD3L8-FQIWq-aWNhb7rkbHc2iCRQNEg.RnTmq2NuJPvcCDoEbQBYcTLx-8omtQ6bD1AD7gISTR4g.JPEG/900%EF%BC%BF20260106%EF%BC%BF212510.jpg?type=w800)
 
-. hands-on hands-on . 3 / , / / , 3 verification LED LED .
+. hands-on hands-on . 3 / , / / , 3 LED LED .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTc1/MDAxNzY3Nzc5NzkyMzg2._ldVFSljCoxSLeVchapVoUU7l_SB6mdYDsc1opjq9IQg.28VlolqZKQMqvIViUmL4H-3KiSDaeSPYTL2gsSTUXYMg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212513.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTA4/MDAxNzY3Nzc5Nzk3ODYx.MqwPT3njiuTPKKoWldHXGhChdzxuQljRXxapflbMq60g.bdjrgpuRqV4O0v3BgPtdtSUrY0MycEFve9XHQSQTRzQg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212517.jpg?type=w800)
@@ -143,7 +143,7 @@ MINI 5 PRO .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTUz/MDAxNzY3Nzc5NzkzNzY1.t-2HTKrYKU8RujWqMOnCoXadUJlRvl-i0qjeAEnKNTMg.PsmdrxRmwBpLG6_V4Fpar4-PJTEbh-aJh1qVTx3hUAMg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212653.jpg?type=w800)
 
 
-DJI . USB available . MicroSD .
+DJI . USB . MicroSD .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfODQg/MDAxNzY3Nzc5NzkzMTYz.T1R5N-c2tO_AKxvS-_0CKiPtpXrT4TdWVC6MBJ1cwLog.VVz6KAPIcw5ax0QUmiWoPnHFhAC6R_kUyZ4s2ZGIl4sg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212654.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjA5/MDAxNzY3Nzc5Nzk5NzY4.wDlJNG7wsJ9wPiZKfTLeCY-bnFFHeTWGQP1qMAJHfJ4g.tAPxbt3y-uXiJ0hpU59mYKlKdN6Tm-JPLWRezFeWE9Mg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212657.jpg?type=w800)
@@ -164,9 +164,9 @@ EIS 3 .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjY0/MDAxNzY3Nzc5Nzk0NjQ5.jz_5T5RP5GQWfLmhNu-8kCtUZlK_r0KJ-txZDhb7U8Mg.2BR0NcQFY6mCr69sVrGJRDw-0qsuPDx2MdwMD0z98Ygg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212801.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjc5/MDAxNzY3Nzc5Nzk2MTQ2.jfc21WoTPOxwnxjXFhq__pUFf3IoZRoNISbT2bgLW6gg.-kAyYQTqg8K3Bwr678puHv9n_Dr62UAr5jMN89exK6Mg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212803.jpg?type=w800)
 
-. mini4 pro 360 available ..
+. mini4 pro 360 ..
 
-100% . available .
+100% .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTEg/MDAxNzY3Nzc5Nzk5MjIx.iiPfNhNFbxL84Op9r9KFy0tp_HaOKGqRImh3ndr9F1sg.Gj0r9kI1Gp-VNBt1R1vaIsux4r1flkkM3PQCzUXXfXIg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212848.jpg?type=w800)
 
@@ -180,25 +180,25 @@ EIS 3 .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTgz/MDAxNzY3Nzc5Nzk2MjI2.k7sIaITR6jqWQQ77XM-HZc4tLS1uT3WjoRgSu3EUDy4g.GTbhUwJNKBzoflC6cB25bsqFaTYCBxWu_hI5iVXjBk0g.JPEG/900%EF%BC%BF20260106%EF%BC%BF212922.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMzcg/MDAxNzY3Nzc5Nzk2MzY0.vBldExXoKDqLTiazFZeqF9rqhKHYLIr73y_oF-t7xBIg.29-bd0nINKO2-i8y3UDwwnBLGRgJ7WEv4Skgjd9eOGEg.JPEG/900%EF%BC%BF20260106%EF%BC%BF212952.jpg?type=w800)
 
-OS available .
+OS .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTY1/MDAxNzY3Nzc5Nzk2NDE4.v7nrawi2dJLuk0gEr1KGOO71uzoZsVueMhGKOSPMreQg.606sDTuybp0Fusw5E3xp-y5qyATmedOmsw-rp6xHf8Yg.JPEG/900%EF%BC%BF20260106%EF%BC%BF213028.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfNTYg/MDAxNzY3Nzc5Nzk0OTc0.aa5WPY3b4OIBh8t6y5_dMkDma29gaUCJB_27aiZhn50g.DkprLGqsbxhmKVUYABq1k2H8iuwGaVf00OHG_84KTKwg.JPEG/900%EF%BC%BF20260106%EF%BC%BF213049.jpg?type=w800)
 
 LED . DJI Care Refresh purchase . 1 9 2 15 2 .
 
-Available impression . reel . ㅎㅎ
+. reel . ㅎㅎ
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMTg5/MDAxNzY3Nzc5NzkxODAz.xo9NbFfQO6NRSkWLAjmyhj4MnkMyLv-cYNpYAr-a3AEg.hohyYNnJnGOfD4aEU9RljeQDJr5nflcj-4m1r2gqMJkg.JPEG/900%EF%BC%BF20260106%EF%BC%BF213937.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDdfMjI4/MDAxNzY3Nzc5Nzk1NDAz.K90bJsG6TedBhKQ6agAh64nedimR9HWgOGr1BV3ndwEg.oJ__onZT7AKHGKvYW-p18j-nA3JnZXSwTN0u0DgZZowg.JPEG/900%EF%BC%BF20260106%EF%BC%BF213952.jpg?type=w800)
 
-. . 360 . ㅎㅎ verification available .
+. . 360 . ㅎㅎ .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAxMDhfMTY4/MDAxNzY3ODM4MDY1ODIw.5xRayXYk9hOqYXOSzfS4dfrXgPoG1WLEIjve_YBIIUwg.0QlSoFfMc8RlfIb97Dbix-jW5xzRmH7b2XjFfPNSmxcg.JPEG/SE-22d0ab0a-ebaf-11f0-820c-493652a0c07c.jpg?type=w800)
 
-DJI MINI 5 PRO hands-on . available . hands-on .
+DJI MINI 5 PRO hands-on . hands-on .
 
-Purchase verification .
+Purchase .
 
 [Link: DJI Mini 5 Pro Fly More Combo 5 (DJI RC2) : ](https://naver.me/GA8lHwKj)
 

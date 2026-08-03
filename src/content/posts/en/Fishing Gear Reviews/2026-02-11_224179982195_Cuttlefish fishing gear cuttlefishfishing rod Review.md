@@ -43,7 +43,7 @@ FUJI O-ring NEW CONCEPT FUJI . FUJI KW+LDB .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTky/MDAxNzcwNjA3MTQ1NzEw.4VO1EqSHCvVklPAFNWX6n4mpLz_46HwC0Z4wuF6HZs0g.Um38VPxNuOb9H0elQ5u2P6r8jLqxXEjjueJ6W5XqcxQg.JPEG/SE-ea5cba13-0564-11f1-b5d8-272e08d792d9.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjAz/MDAxNzcwNjA3MTU3NjQ2.1570M3aF6d8Joulpb-wmHbAgz33rdvrMkhJLDsuDhvcg.Jxmm--3-PiKwDMCndgbouVwiycFPKsGXgqOioxyj6t4g.JPEG/SE-ea5f7936-0564-11f1-b5d8-95179d2f9fad.jpg?type=w800)
 
-180H cuttlefish fishing rod . 1 . fishing rod 1 available .
+180H cuttlefish fishing rod . 1 . fishing rod 1 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTIy/MDAxNzcwNjA2NjY1ODgx.6srCD6K51KPLq0U1OY50axJBnGcTuA811vhzvxbWuZ0g.8B4WWFlaQPYw3wIJcu8MHjYL4GDaygf0DNGkJVu6t7Mg.JPEG/900%EF%BC%BF20260205%EF%BC%BF195349.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfNSAg/MDAxNzcwNjA2Njc1Mzgz.GSwzfeuo3XLQY6VYCHKHQQdS6KKgHOVdA_z2xyp2FN4g.BbK5nHSXl1fvM6BSCiL931vt3Xws5sOVE_ZGTXKSdbwg.JPEG/900%EF%BC%BF20260205%EF%BC%BF195346.jpg?type=w800)
@@ -59,7 +59,7 @@ Fishing rod . fishing gear fishing rod fishing rod fishing rod fishing rod , fis
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTMz/MDAxNzcwNjA2Njc1MDEx.Yf2eEmVCyOgfSiElXzYzDFA5pCrIkZGMBCeg-ARJ7sAg.j4dTHWaCBIuNLGkmW-MIWdZtjyC5JPP1Er-ygOLJiQEg.JPEG/900%EF%BC%BF20260205%EF%BC%BF195216.jpg?type=w800)
 
-Fishing rod . cuttlefish fishing rod fishing rod .
+Fishing rod . cuttlefish fishing rod lure fishing fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjQ0/MDAxNzcwNjA2NjYzMzE2.aEiVeqdXxTBzqy3UHEibSY_oQYla7jq3OguocEM9wo4g.gro64xvzReU-g4juHpEqai7ubjoT5MBYc4jT4nC70JMg.JPEG/900%EF%BC%BF20260205%EF%BC%BF195224.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTA0/MDAxNzcwNjA2NjY4NDU1.ouy3S5cjhquvVBnnCz0JCLkKrFDuqWNw2w6X1Bix_TMg.IrkTSJeSQx6ImB4bPK8uoUxp7pa8ruV66qDzfPQJDBsg.JPEG/900%EF%BC%BF20260205%EF%BC%BF195310.jpg?type=w800)
@@ -75,7 +75,7 @@ Cuttlefish fishing rod . 2 fishing rod reel 1 .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfOTkg/MDAxNzcwNjA2NjYyNTA3.eeJ3lRPVYoNCGTE9kyLUEW2jwv3j6ZCZy9Zycg_14fkg.wBYcy-N1nswAq_O3lkoaYdZk0LMw5ElTDxwMvFBvTowg.JPEG/900%EF%BC%BF20260205%EF%BC%BF200133.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTk4/MDAxNzcwNjA2NjY5Mzc5.iAIG2dZ4YHUuCneYK5AC5MqDYX9XsS9QlYlXuhje1MMg.H79U2qL6cylse1xkhNIuMNRill6U717K37axzWWXof8g.JPEG/900%EF%BC%BF20260205%EF%BC%BF200141.jpg?type=w800)
 
-Cuttlefish hands-on 1~1.5 . cuttlefish impression .
+Cuttlefish hands-on PE braided line 1~1.5 . cuttlefish .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjMy/MDAxNzcwNjA3MzAxODgz.z89qWcPykcqZ9SuyTTrwf0tT1QlOoxQS8SjgrxaPB6wg.dxNoiaBYjw3WSDQVUitoRiqUihRkVzMWO0cO7q_xZgUg.JPEG/SE-ea6a4eb2-0564-11f1-b5d8-5f54ef03d53c.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTk4/MDAxNzcwNjA3MzAwODMy.sSOSZF22aa89cnlCMrirmbk5lwtSnHOxHqD34D_QgAsg.OCQJkcSjK5_lVMHxdpGD2iRwe4Yg0-qdK7J304fQggQg.JPEG/SE-ea6b1203-0564-11f1-b5d8-898e555b976e.jpg?type=w800)
@@ -93,7 +93,7 @@ Cuttlefish hands-on 1~1.5 . cuttlefish impression .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjg0/MDAxNzcwNjA3NzM1NDEx.ClY0uAMItlazjtARcyPRucTsyPJqGVdHJjl7j9vLfwQg.HX3HiaZynTGWdtTXcbcHv-OYV4L6LN4pN5kl5dC-7Ygg.JPEG/SE-472237f7-ac4d-4669-adc3-3e0a40d6b68b.jpg?type=w800)
 
-Reel reel impression .
+Reel reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjIz/MDAxNzcwNjA3NzQ2MjU4.Es_mwLY8z8YRxFeIQuZvdG7E5HoDUUoF-l4DzbdPgdog.xpN5Qsj5_U9GUe2z1xVJ2yEOGKebUHjNxSoZq8OrKOog.JPEG/SE-ea71efda-0564-11f1-b5d8-edadc6c8523e.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMzkg/MDAxNzcwNjA3NzU3MjA5.Uej_MjuYcQ2jV4I0wXzuRrGCWLEAenRHS1q_j7rJ9pgg.j-QzHKa4qfKraB5j7qQ-GlqysHBv9vDJ_36o322hLkIg.JPEG/SE-ea728c1b-0564-11f1-b5d8-d5b52b005706.jpg?type=w800)
@@ -103,7 +103,7 @@ Reel EVA . reel reel .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTcg/MDAxNzcwNjA3NzY4OTM5.6N7t82Dd8kBVBrFyeaAV2MqaKZA3_4LcX1VNyBGLS3Mg.iKBiZlQzGlgiiY-hPH3MSt6J5znlGoMYmlTj8oWD-Uog.JPEG/SE-ea75995f-0564-11f1-b5d8-937bf8c781e9.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfOTYg/MDAxNzcwNjA3Nzc3Nzgz.GTIlu-Ytpj2d7sSb0C8dhisgvSnRfkFEPajCdq6wG34g.arhw8-gt3SEqR15-02zt-8xoU5csMS22VO4hBUgQYoQg.JPEG/SE-ea73c49d-0564-11f1-b5d8-a754e663b6d1.jpg?type=w800)
 
-EVA fishing rod . fishing rod fishing rod .
+EVA boat fishing fishing rod . fishing rod fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTIw/MDAxNzcwNjA2Njc2MjUw.hgG0w3rRiZMdX1AmVqFP_f-gvxMUlLfktDi0T8BOkb4g.QkNlk8-WFaJ5PVQlQ4HLFBCmAIzf_iipvwlBl0t0Rxcg.JPEG/900%EF%BC%BF20260205%EF%BC%BF200534.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTk4/MDAxNzcwNjA2NjY0MjM2.wm-lFFBv40jG1zrL5QrFoI7G2G_hnTBpHbete6RQ2uQg.herC_2PsLrKzWqmiBGo1qEVCj65CS4TcwiyYvYYTceog.JPEG/900%EF%BC%BF20260205%EF%BC%BF200245.jpg?type=w800)
@@ -139,7 +139,7 @@ Fishing rod 0.995mm . . 1 6.975mm 8.366mm .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMjc1/MDAxNzcwNjA3NDkzMzEx.skGkLZPB41cnFqbOjdV-hYQjU-dSL40r_BJa4SpJA7Ig.7V43LU065KCJmDt4EFv158TqDOLSA50UpDc_ICXLA_Eg.JPEG/SE-ea832e00-0564-11f1-b5d8-1909461ced42.jpg?type=w800)
 
-Fishing rod fishing rod reel . fishing rod . hands-on fishing rod fishing gear impression reel .
+Fishing rod fishing rod reel . fishing rod . hands-on fishing rod fishing gear reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAyMDlfMTg5/MDAxNzcwNjA3NzExMjU1.TzObkbrJT7MgzBgmUqRjj2BLccK4y04ZpCd1jfkMamIg.1-c_SqkNBgRP5GtYCnDfT0Y724vgMpoYLMmsj56RW64g.JPEG/SE-ea7a0635-0564-11f1-b5d8-cdf0718759fc.jpg?type=w800)
 
@@ -176,10 +176,9 @@ Cuttlefish fishing gear reel hands-on . reel .
 
 ---
 
-Cuttlefish fishing rod B-180H 20 . hands-on hands-on . cuttlefish . outing . cuttlefish outing hands-on Report Fishing Report .
+Cuttlefish fishing rod B-180H 20 . hands-on hands-on . cuttlefish . fishing trip . cuttlefish fishing trip hands-on Report Fishing Report .
 
 Thank you!.
 
-Verification .
 
 [Link: | cuttlefish fishing rod](https://aomex.co.kr/surl/P/263)

@@ -6,7 +6,7 @@ categoryNo: 3
 logNo: 224315390331
 source: "https://m.blog.naver.com/sanjangboarder/224315390331"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTRfMjcy/MDAxNzgxNDAzOTE0NzY0.T_7LJZwwxvqVTxU0eoilSi6rh3MIohT-D8yKe3i0MjAg.VumrcUY6bsA48hTYgha2TzAp1c332D2sT3gK2xlSKdAg.PNG/image.png"
-description: "Hello, this is SanjangBorder. fishing gear fishing gear Incheon fishing gear impression . Incheon fishing gear . fishing gear Incheon fishing gear recommendatio"
+description: "Hello, this is SanjangBorder. fishing gear fishing gear Incheon fishing gear . Incheon fishing gear . fishing gear Incheon fishing gear recommendation Incheon ."
 lang: "en"
 ---
 
@@ -18,15 +18,15 @@ Hello, this is SanjangBorder.
 
 ​
 
-Fishing gear fishing gear Incheon fishing gear impression . Incheon fishing gear . fishing gear Incheon fishing gear recommendation Incheon .
+Fishing gear fishing gear Incheon fishing gear . Incheon fishing gear . fishing gear Incheon fishing gear recommendation Incheon .
 
 ​
 
-2 . 5 discount fishing gear . 6 20 . Incheon 5 20 available .
+2 . 5 fishing gear . 6 20 . Incheon 5 20 .
 
 <div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name">Incheon fishing </div><div class="map-addr">Incheon Rho 142</div></div></div><a href="https://map.naver.com/p/search/Incheon fishing + " target="\_blank" class="map-btn">View Map</a></div>
 
-Outing 5 30 . ㅎㅎ 5 30 .
+Fishing trip 5 30 . ㅎㅎ 5 30 .
 
 
 <div class="image-grid">
@@ -34,7 +34,7 @@ Outing 5 30 . ㅎㅎ 5 30 .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTRfMTU4/MDAxNzgxNDAzNTIyMjA5.A7Mzg81sp9tqDhSe5VpUzocSrIkVjy-1C6XgG5wkmZwg.bOq5SWEe0g_sc8OokrTRL9bKrjOJw_LL5Mvw57Dt0qUg.JPEG/SE-be0a9b24-6795-11f1-a986-31aa1060e89d.jpg?type=w800" />
 </div>
 
-, . purchase . squid purchase purchase . flatfish downshot boat fishing impression .
+Sinker, . purchase . squid purchase purchase . flatfish downshot boat fishing .
 
 
 <div class="image-grid">
@@ -50,7 +50,7 @@ Incheon fishing gear . .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTRfODEg/MDAxNzgxNDAzNTM5MTM4.m1fbUH7Vg9p6t4e3aBt733DiODHmc1oSLNCiAM__-awg.7U4BmipFCUYukhAWy74S0kA6gTfgXUROlnfKLRsxh70g.JPEG/SE-be0cbe06-6795-11f1-a986-752f97fd390d.jpg?type=w800" />
 </div>
 
-Incheon fishing gear 2 fishing gear . fishing gear fishing rod . rockfish/flatfish outing flatfish downshot boat fishing flatfish .
+Incheon fishing gear 2 fishing gear . fishing gear fishing rod . rockfish/flatfish fishing trip flatfish downshot boat fishing flatfish .
 
 
 <div class="image-grid">
@@ -80,13 +80,13 @@ Incheon fishing gear flatfish downshot boat fishing .
 >
 > reel :
 >
-> : Haedong LIMIT X9 1.5
+> : Haedong LIMIT X9 1.5 PE braided line
 >
 > :
 >
 > : X , , ,
 >
-> : 40
+> sinker : 40
 >
 > SanjangBorder
 
@@ -119,7 +119,6 @@ Incheon fishing gear flatfish downshot boat fishing .
 
 Fishing gear .
 
-Impression .
 
 
 <div class="image-grid">
@@ -175,7 +174,7 @@ Rockfish .. rockfish .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MTRfMjMw/MDAxNzgxNDAyODI4Njkx.lFYPxvoDPp7IP1T1N7iZiUcK4uj0wAI7f_SyQ9F4fLMg.FjSAPXrIv1x3Bg38dBKDQARQ5Nd43HvO3QTUWtF5Yo8g.JPEG/900_20260613_085209.jpg?type=w800" />
 </div>
 
-Restaurant discount . outing ..
+Restaurant . fishing trip ..
 
 ​
 

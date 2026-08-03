@@ -57,7 +57,7 @@ Baitcasting reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMjIg/MDAxNzc2NTczMTE4NDY0.T6K56TmsUxsi08CrfiJ5VGnUNHLrUJjCeKuLiCb87dYg.8nODqSelHj2JzfvFw1Pu7z6tkSMzp3MY54K6E7czVYkg.JPEG/900_20260407_210136.jpg?type=w800)
 
-Shimano, Daiwa , , Banax baitcasting reel available . .
+Shimano, Daiwa , , Banax baitcasting reel . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTEx/MDAxNzc2NTczMTE4NTI2.U2BsAyYODUodnsDHYq-zdo20MHxagjo9mHmYEx-9BW0g.yWjZwidB23jE6ceGHF7uLqkkybPfFYSt6TbfUVBK8Kcg.JPEG/900_20260407_210201.jpg?type=w800)
 
@@ -81,7 +81,7 @@ Baitcasting reel 120mm KF 130mm . baitcasting reel Daiwa baitcasting reel .
 
 Baitcasting reel .
 
-Baitcasting reel KF available .
+Baitcasting reel KF .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMjMg/MDAxNzc2NTczMTE5NzEz.3H0nUderUEJ9frQtmRw2loVin6NRYXWj3SZ1VmHUOYgg.F0u0GDcquXCyKknXhRQ76KjFm5SfRum5xzeu0Yz4Gdgg.JPEG/900_20260418_210833.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTk4/MDAxNzc2NTczMTE2ODU2.hDxjtRY-IbGyl4gv0_u72R9ixqd_jvpyKvG4YNY_ca8g.la6xtbNT2izDE2ifcReqVHDwP0TkAMLTVEYatWAhN-wg.JPEG/900_20260418_210924.jpg?type=w800)
@@ -99,16 +99,16 @@ Baitcasting reel KF available .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTY0/MDAxNzc2NTczMTE2ODUy.A8VYUThqEgM4RgAb0-kRvQBykzR_8PP9nrmlP7J4c0sg.p_-qFqgFJOBBJV_SAvwQgECZwZ8RqNk1ICeYwBjXFXsg.JPEG/900_20260418_211107.jpg?type=w800)
 
-. 10mm reel . reel impression .
+. 10mm reel . reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTk4/MDAxNzc2NTczMTIzNTIx.xmxuXa4u3Hw3m9QZmxriDGyxwjGbigVrGz3cNNeDeR4g.ymnozmXA4PAP1p89KY31_g90qvmU4DJ31HU14ZC_W1cg.JPEG/900_20260418_211110.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfOTAg/MDAxNzc2NTczMTIwMjc4.Fa62IiBlS605Wu60HEsBq1SoCODuZT4e3R8cKJ1Rsuwg.lMsZlHHv4aODYv0Xw7vEP6N4P5gVvwi_KrO48oSlvlAg.JPEG/900_20260418_211114.jpg?type=w800)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTY4/MDAxNzc2NTczMTIwODUw.PBZa4ilVp9HR_0TL03GGVUGYDJW_1CIs4oIJoy75GO0g.lc7o6CCiES7Ks0DOaKvjIHJb7toWSSXko-vSUdXmcREg.JPEG/900_20260418_211118.jpg?type=w800)
 
-Ocheon Port webfoot octopus fishing gear . 16~18 hands-on KF 130mm available .
+Ocheon Port webfoot octopus fishing gear . 16~18 sinker hands-on KF 130mm .
 
-Outing Fishing Report hands-on impression reel Fishing Report .
+Fishing trip Fishing Report hands-on reel Fishing Report .
 
 
 [Link: KF baitcasting reel ultra-lightweight 140mm BDH 130mm : fishing gear ](https://smartstore.naver.com/dtf4123/products/13136938723)

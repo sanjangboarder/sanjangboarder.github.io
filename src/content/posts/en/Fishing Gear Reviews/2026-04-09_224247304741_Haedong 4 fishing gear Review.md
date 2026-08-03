@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224247304741
 source: "https://m.blog.naver.com/sanjangboarder/224247304741"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjY1/MDAxNzc1MjYxMjU5Mjg3.nrw9-R6Fuw5YrGIaKvtNS0OzsboJdQGXRQZisyjTYsIg.hr1PF8O8nF1HUrzwavPRvlR1N65BQ17Xp6GW7hc-J4gg.JPEG/900%A3%DF20260403%A3%DF210901.jpg"
-description: "Hello, this is SanjangBorder. Incheonsaltwater fishing hands-on reel . fishing gear lure fishing hands-on fishing gear hands-on . Incheon fishing gear saltwater"
+description: "Hello, this is SanjangBorder. Incheonsaltwater fishing hands-on reel . fishing gear lure fishing PE braided line hands-on fishing gear hands-on . Incheon fishin"
 lang: "en"
 ---
 
@@ -16,9 +16,9 @@ lang: "en"
 
 Hello, this is SanjangBorder.
 
-Incheonsaltwater fishing hands-on reel . fishing gear lure fishing hands-on fishing gear hands-on .
+Incheonsaltwater fishing hands-on reel . fishing gear lure fishing PE braided line hands-on fishing gear hands-on .
 
-Incheon fishing gear saltwater fishing . fishing gear fishing gear fishing gear .
+Incheon fishing gear saltwater fishing PE braided line . PE braided line fishing gear fishing gear fishing gear .
 
 Fishing gear fishing gear 1 ~2 . fishing gear 3 , 4 . fishing gear 3 4 .
 
@@ -38,12 +38,12 @@ Haedong . 3 fishing gear , , 3 hands-on .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDZfMTM5/MDAxNzc1NDYxNTA3ODM0.ut5je6FkRtOs1QiQgTjLvXhQRbwb4ZEjIzJ3gIG3szQg.NBRHXIhNRN7EprKTBk6ya_-zjv50W2i8-QAnbh8uGYgg.JPEG/SE-4877cfc6-2fba-11f1-b5c5-7345330b1ba7.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDZfMTA0/MDAxNzc1NDYxNTE2OTk1.nppxCsUE37CbuP98avx3SIU9Ljj-DhP-yVb0J9RTWNAg.FFU5AMdn9gq6V0iNEWpb_9tJlSAKwYSdWiZd0qPT9Bgg.JPEG/SE-48797d78-2fba-11f1-b5c5-6baef95a9ae0.jpg?type=w800)
 
-, , . hands-on . .
+, , PE braided line . hands-on . .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMTM4/MDAxNzc1MjYxMjU3OTUw.F7RYqf5W4Y239EieR-XKAtKjy127GSlUsM5ghmhwbTAg.bEebnyzaNWFBCCUuh655XzVQhPmYGW8oy61KQmApy70g.JPEG/900%EF%BC%BF20260403%EF%BC%BF210721.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDZfMjcw/MDAxNzc1NDYxNjI5Nzc5.P6jBkcPgxd1qR1_DMPLqhn9U-rmc1BtgyUL0HjbBJDEg.g90J0CJAzPCojaTg5u1GBWzqEXuaiifBWBgyb0N59EMg.JPEG/SE-487ab5f9-2fba-11f1-b5c5-6722be489ea9.jpg?type=w800)
 
-Verification 0.333mm . impression .
+0.333mm .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDRfMjY1/MDAxNzc1MjYxMjU5Mjg3.nrw9-R6Fuw5YrGIaKvtNS0OzsboJdQGXRQZisyjTYsIg.hr1PF8O8nF1HUrzwavPRvlR1N65BQ17Xp6GW7hc-J4gg.JPEG/900%EF%BC%BF20260403%EF%BC%BF210901.jpg?type=w800)
 
@@ -64,7 +64,7 @@ Fishing gear fishing gear .
 
 ---
 
-Outing Incheon fishing gear . 3 .
+Fishing trip Incheon fishing gear . 3 .
 
 3 . 26 Haedong .
 

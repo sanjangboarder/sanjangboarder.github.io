@@ -6,7 +6,7 @@ categoryNo: 26
 logNo: 224335995450
 source: "https://m.blog.naver.com/sanjangboarder/224335995450"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDRfMjky/MDAxNzgzMTIxNzI2NTE3.ctuVFgKsHzk23yuKR6yVgJ2i5pTHkNsmrLFAPy7E9_Qg.-_I3FLTp8vYx6dxqNxH3aZAvnQfMdLD2Csbjirl8LRIg.PNG/image.png"
-description: "Hello, this is SanjangBorder. flatfish , webfoot octopus Incheon . &#x3D; . , . available . reel . . . , available .."
+description: "Hello, this is SanjangBorder. flatfish , webfoot octopus Incheon . &#x3D; . , . . reel . . . , .."
 lang: "en"
 ---
 
@@ -22,7 +22,7 @@ Flatfish , webfoot octopus Incheon . = . , .
 
 ​
 
-Available . reel .
+. reel .
 
 ​
 
@@ -36,7 +36,7 @@ Available . reel .
 
 ---
 
-. , available .
+. , .
 
 <div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name"> breakwater</div><div class="map-addr">Incheon </div></div></div><a href="https://map.naver.com/p/search/ breakwater" target="\_blank" class="map-btn">View Map</a></div>
 
@@ -68,7 +68,7 @@ Available . reel .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjEz/MDAxNzgwODMxNzYzMTM2.YzQM226eR4lpGhw8qsKLI1omdlM_LG9XnpigoJV9qAog.Z4hysXDe-pTJfjAyMfc2U4tB-i3t-FBXL2Oqx-5jNj4g.PNG/image.png?type=w800" />
 </div>
 
-. 10m fishing gear hands-on .
+. PE braided line 10m fishing gear hands-on .
 
 ​
 
@@ -79,11 +79,11 @@ Available . reel .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA3MDRfMjky/MDAxNzgzMTIxNzI2NTE3.ctuVFgKsHzk23yuKR6yVgJ2i5pTHkNsmrLFAPy7E9_Qg.-_I3FLTp8vYx6dxqNxH3aZAvnQfMdLD2Csbjirl8LRIg.PNG/image.png?type=w800" />
 </div>
 
-Lure fishing , fishing gear surf casting impression lure fishing fishing gear surf casting fishing gear .
+Lure fishing , fishing gear surf casting sinker lure fishing fishing gear surf casting fishing gear .
 
 ​
 
-Rockfish, , flatfish, , cutlassfish, , webfoot octopus . Incheon . / impression .
+Rockfish, , flatfish, , cutlassfish, , webfoot octopus . Incheon . / .
 
 
 <div class="image-grid">
@@ -114,7 +114,6 @@ Rockfish, , flatfish, , cutlassfish, , webfoot octopus . Incheon . / impression 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MDdfMjk3/MDAxNzgwODM0MTI5Nzky.7uEMI5kte-5dZBJJHekDVA-JfUFAQpA8mFtVKb0-EEQg.DfYWmzAcocuJMw4Z7IopFmAhnbvBkMkzkaWml-4u98Yg.PNG/image.png?type=w800" />
 </div>
 
-Available .
 
 
 <div class="single-image">
@@ -139,7 +138,7 @@ Available .
 
 ​
 
-Available . cutlassfish, fishing gear .
+. cutlassfish, fishing gear .
 
 ​
 
@@ -147,7 +146,7 @@ Incheon . fishing gear .
 
 ​
 
-, flatfish available .
+, flatfish .
 
 ​
 

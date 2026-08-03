@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224260951363
 source: "https://m.blog.naver.com/sanjangboarder/224260951363"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMTkz/MDAxNzc2NTczMDQzMDU2.npwL-Jll-rhQGq2tFP__C5zC1lktI9IjHiQGiOzCZrYg.I5dvSFg-lwqQiqE4B4vA1ARW2UWxA2wZCAufMS1Zc2Ag.JPEG/900_20260418_153527.jpg"
-description: "Hello, this is SanjangBorder. fishing gear . fishing gear hands-on baitcasting reel . webfoot octopus outing hands-on ultra-lightweight baitcasting reel reel ."
+description: "Hello, this is SanjangBorder. fishing gear . fishing gear hands-on baitcasting reel . webfoot octopus fishing trip hands-on ultra-lightweight baitcasting reel r"
 lang: "en"
 ---
 
@@ -16,9 +16,9 @@ lang: "en"
 
 Hello, this is SanjangBorder.
 
-Fishing gear . fishing gear hands-on baitcasting reel . webfoot octopus outing hands-on ultra-lightweight baitcasting reel reel .
+Fishing gear . fishing gear hands-on baitcasting reel . webfoot octopus fishing trip hands-on ultra-lightweight baitcasting reel reel .
 
-Baitcasting reel . discount 10 great cost-efficiency reel .
+Baitcasting reel . 10 great cost-efficiency reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTIw/MDAxNzc2NzY0MjkyNTM5.SlBbGMiI_7D9L5n-TOhV4Bo30jRJccf4gkUowddeNp4g.4xcwdccB2tWaopkkCb2aQtdwfrs7dJLYB-7hXy338VMg.JPEG/SE-7b722ac1-3ba8-11f1-b413-b3652e0add9b.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMjMz/MDAxNzc2NzY0MjkxMzk0.nxJQs55H0MJUgTMAA519V9-frFqLGr_0rh2BCdPGLZQg.MDp3u8tJEXKaWNg6YqIbArrvqY-KAPZ6QYCL0yBrX-sg.JPEG/SE-7b733c32-3ba8-11f1-b413-a3c875aa534b.jpg?type=w800)
@@ -36,7 +36,7 @@ Baitcasting reel . discount 10 great cost-efficiency reel .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMjM3/MDAxNzc2NzY0MzU3MDkw.Jw4PmdOuKEXtR2u3JXX6_MZcAt5zt8SO4_6PPAw-o7og.V3VxYVUBede4eGgd_2gtJ3j_CnVqbfd3wycAmHpmIRsg.JPEG/SE-7b764975-3ba8-11f1-b413-871a44a0bb2f.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTg4/MDAxNzc2NzY0MzU1Mzc5.rNDXg2Ja0kAKCj593_T1VbAg9H-O-XzTQuycX4nLlJcg.Z-mNl887ioiN4YPGivOgY9smGwcq4s_dxJzBdVZ5ETYg.JPEG/SE-7b77f726-3ba8-11f1-b413-57c0a5c60cfd.jpg?type=w800)
 
-. . discount baitcasting reel . baitcasting reel baitcasting reel fishing gear .
+. . baitcasting reel . baitcasting reel baitcasting reel fishing gear .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTM2/MDAxNzc2NzY0Mzk4NTA2.4_XHuwW3b91E7l41Iwj4O0w7UaxyftFXtb06b3cuPPAg.d_FeYZwiSnFxmuYXK0qkpcz6OBfEmkdPUSH7oWur6Pgg.JPEG/SE-7b792fa7-3ba8-11f1-b413-f701148aae9e.jpg?type=w800)
 
@@ -78,7 +78,7 @@ ACiKA .
 
 124.5g . fishing gear fishing rod 70g 200g .
 
-6cm . baitcasting reel . available .
+6cm . baitcasting reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTA2/MDAxNzc2NzY0NjgyNDcx._3-Y7AZ72Itvcdq5WrrnrphPXqKD4rh2Wdbnak1tISAg.i0uUbZRvL5K3TJVJcfdI87AGpVs0Jdyxb3faQlTmAd0g.JPEG/SE-7b8a94d7-3ba8-11f1-b413-670222949487.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjJfMjMx/MDAxNzc2ODIwNDU0MzMy.6XlwZXPZzyH312wKE7IqYAWwLR8jKrKQdJfJ-HvwLCIg.BdQCCnxtddVni8oIsvcVc4YxdIfNDjKe2b_MXd1ZO3Eg.JPEG/SE-7b8f76dc-3ba8-11f1-b413-9b470f16b8e3.jpg?type=w800)
@@ -113,7 +113,7 @@ Lock .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfODQg/MDAxNzc2NTczMDQ1NzA1.B87bKWaBA1BHv1ILL0ZkiXQrGAB6DDJu5ITvP7arbvYg.tTURL2keptLKaxZpRLW2jLgwpxsakzVhRPRhlBoQlVIg.JPEG/900_20260418_154004.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MTlfMjQ0/MDAxNzc2NTczMDQ2NTEw.mTXDv9GKcmK8SnPtBoYWw2Es_TXM4vUxkNgFQ_MMnb0g.PVAVsDRfCydqD901Vp3VnNqmJB-BRn4p7aOk63PdbMsg.JPEG/900_20260418_154009.jpg?type=w800)
 
-6.3g, 15.6g . baitcasting reel lure fishing boat fishing g .
+6.3g, 15.6g . baitcasting reel lure fishing boat fishing g boat fishing .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfODMg/MDAxNzc2NzY0Njk4MzYz.zXh5wvghXB6igJR9KRy1Ut8n5I8dRUbxqVe8izyZ7eog.yVotVGDaCxWwwntGJKPX2Xm8tj63UKmwUTZC2HL0GMcg.JPEG/SE-7b9b5dc7-3ba8-11f1-b413-f364d853059d.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfNTUg/MDAxNzc2NzY0NzE1MzE5.lDl97zgbat52EKK_DS-_zlMpKDThubYp3S3osoMSvv8g.qCHmMUw8h2fVLlg7imMDHldszVfcL9-dFnooe3GPRTUg.JPEG/SE-7b9c2118-3ba8-11f1-b413-9f24382be277.jpg?type=w800)
@@ -134,18 +134,18 @@ Lock .
 
 Baitcasting reel .
 
-Baitcasting reel 100B Haedong X9 1.2. 100m . 100m . 150m 100m .
+Baitcasting reel 100B Haedong X9 1.2. PE braided line 100m . 100m . 150m 100m .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTM4/MDAxNzc2NzY0OTg5NDEx._IZ90xzfAoBeKAtFfc3dqNg7nX27ba1oBPx388QcVzMg.6n7PLoYQFEf7VoS5ecLJKL8e7fMsOkYZR6V1OxCVn4sg.JPEG/SE-cb30e781-008d-47c0-9d8c-f37c82a21652.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MjFfMTAg/MDAxNzc2NzY0OTc5NDIx.-P_Ojzg_YJrKLMVpbWkyXTI5DKQuCdOvyV0k6DgeWpUg.gU3CjT3PkSeRetFeAsIHW3w1HfdzVJ0cVAojhl84xp0g.JPEG/SE-8c71f988-3ba8-11f1-b413-e5361e8c2e4f.jpg?type=w800)
 
 ---
 
-100B baitcasting reel . 10 ultra-lightweight baitcasting reel . AS available ultra-lightweight baitcasting reel great cost-efficiency ultra-lightweight baitcasting reel recommendation .
+100B baitcasting reel . 10 ultra-lightweight baitcasting reel . AS ultra-lightweight baitcasting reel great cost-efficiency ultra-lightweight baitcasting reel recommendation .
 
 Fishing gear , purchase fishing gear 120mm hands-on reel , great cost-efficiency .
 
-Boat fishing outing Fishing Report hands-on impression .
+Boat fishing fishing trip Fishing Report hands-on .
 
 
 [Link: ultra-lightweight 124g 100B baitcasting reel 6.2:1 webfoot octopus cuttlefish ](https://naver.me/x0OMctnh)

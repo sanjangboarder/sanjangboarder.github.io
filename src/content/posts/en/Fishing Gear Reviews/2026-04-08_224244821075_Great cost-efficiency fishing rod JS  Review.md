@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224244821075
 source: "https://m.blog.naver.com/sanjangboarder/224244821075"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMjMx/MDAxNzc1MzcyMDQ1ODE4.foVwc-14KGg-BsZRhcHnveTRM0IJGHA-fCWtiC51E_gg.FoVZI-6PP7ovjsY0SDTW2VO9t7QXjN8NrcX1hbBcIuAg.JPEG/900%A3%DF20260405%A3%DF130745.jpg"
-description: "Hello, this is SanjangBorder. . Incheon flatfish . rockfish outing flatfish downshot boat fishing .. flatfish, rockfish, sea bass, , white croaker hands-on fish"
+description: "Hello, this is SanjangBorder. . Incheon flatfish . rockfish fishing trip flatfish downshot boat fishing . lure fishing . flatfish, rockfish, sea bass, , white c"
 lang: "en"
 ---
 
@@ -16,11 +16,11 @@ lang: "en"
 
 Hello, this is SanjangBorder.
 
-. Incheon flatfish . rockfish outing flatfish downshot boat fishing .
+. Incheon flatfish . rockfish fishing trip flatfish downshot boat fishing .
 
-. flatfish, rockfish, sea bass, , white croaker hands-on fishing rod fishing rod . fishing rod . 30~50 hands-on fishing gear fishing rod reel .
+Lure fishing . flatfish, rockfish, sea bass, , white croaker hands-on boat fishing fishing rod fishing rod . fishing rod . sinker 30~50 hands-on fishing gear fishing rod reel .
 
-Outing . JS Company fishing rod reel .
+Fishing trip . JS Company fishing rod reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDhfMTYx/MDAxNzc1NjA2NzQzMDc2.CAQIzlKg6Q7V_rKZCXdBUUnSgRBCsFD1rGwxik-GaoQg.NCPQPNQExQ9T7STHP6jPles6eKP-7sNEAJzoB7IVfaIg.JPEG/SE-85f70ece-324c-11f1-ae93-cbc59fe5b46e.jpg?type=w800)
 
@@ -55,11 +55,11 @@ B61-3, B61-4 2 fishing rod 2 . fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTUg/MDAxNzc1Mzc1MjI0NjM3.ArW786-QyLQXfd4U9E1_yiA9Rpx7PxZAGMFgFj1AXlQg.FK0Meuj_w2PhliMC_iVd_f4eZt3yafKNC6By5G1qYEkg.JPEG/SE-3af49c29-30bc-11f1-b5df-778e16ec02cc.jpg?type=w800)
 
-Impression fishing rod 2 2 .
+Fishing rod 2 2 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTQ1/MDAxNzc1Mzc1MjYzMTUz.PwLOmGUvejzbd1YPVGe0NVVdkaQMH6yDM7cPNvvVf6kg.kiAyKD2jxkH2dJOVjm7q0eUdtVPNiTG-vRU1gzlTrtYg.JPEG/SE-3af7d07c-30bc-11f1-b5df-592a60e21795.jpg?type=w800)
 
-Boat fishing outing . 2 available .
+Boat fishing fishing trip . 2 .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfOTMg/MDAxNzc1Mzc1MjQwOTA4.HBOnifgczecDFRoiHXBGtthdvK_oddV5Pzsb9y2B02Ug.kLLmmTLQoalCk1XKbAb4l0o6QLLM3WLwfnUHvM2-UhQg.JPEG/SE-3af5868a-30bc-11f1-b5df-9b16930b0585.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTQz/MDAxNzc1Mzc1MjUxMTU1.TI__3CCwqCZRSXfHnjiauJQ5wKIuRZx3bnUGrJxzbNog.PEbMRxxH2cmXK_3oUwKC0C8sHxr-8Cwg9qmEmWw1mEwg.JPEG/SE-3af697fb-30bc-11f1-b5df-376572ab4668.jpg?type=w800)
@@ -155,11 +155,11 @@ B61 fishing rod 185cm , 95cm .
 
 ** B61-4**
 
-4 fishing rod . 30~60 . 40~50 rockfish, flatfish, sea bass, white croaker hands-on available . flatfish sea bass available .
+4 fishing rod . sinker 30~60 . 40~50 sinker rockfish, flatfish, sea bass, white croaker hands-on . flatfish sea bass .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfNTAg/MDAxNzc1Mzc1Mjk3ODU5.z_i-o2YWzd0fAqi4mHj1aXMklqWg3bLEcV9FnDQw7nUg.u_nr8LQ1ob1JBk0gVzLdRtinQHPTw0ZbA5_uED_sB-wg.JPEG/SE-3afa8f9f-30bc-11f1-b5df-ddafd279b873.jpg?type=w800)
 
-Fishing rod verification . 1 13.8g, 90.2g . 104g 1g . 1~2g fishing rod .
+Fishing rod . 1 13.8g, 90.2g . 104g 1g . 1~2g fishing rod .
 
 Fishing rod 16.1g . fishing rod hands-on 104g . hands-on 120g .
 
@@ -176,7 +176,7 @@ Fishing rod 16.1g . fishing rod hands-on 104g . hands-on 120g .
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMjU2/MDAxNzc1MzcyMDU5MzYx.cmUymSYrj93PfvwaetFbhHtVdTRaKz7-Cn5F2t4yHuwg.7knOt0RBlMCw8XJvZ6pkq_kS8-qvb88Xek-job5U7RIg.JPEG/900%EF%BC%BF20260405%EF%BC%BF131717.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTc4/MDAxNzc1MzcyMDU5Njcx.BJC4MpUYLHJx_UdeVlRTBsFX_RUOQMp9ppjGrIxUbEIg.LcqCMNZOgyBokrIpL9LKgwQfAmuLpimUoD1fGuSoptQg.JPEG/900%EF%BC%BF20260405%EF%BC%BF131745.jpg?type=w800)
 
-Impression fishing rod . JS Company fishing rod . fishing rod 30~50 hands-on ..
+Fishing rod . JS Company fishing rod . fishing rod sinker 30~50 hands-on ..
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTEw/MDAxNzc1Mzc1NDA1MjMw.AA9Lh_9ZHlFFZ1j_9Me6NemSgkfHE0nTEMky82LZ0Vwg.J_CniaUELHB0Na0f96t1tmDk_9LJ_pKjtyQ0pf01xtcg.JPEG/SE-3b10afc3-30bc-11f1-b5df-03fb1fd5621b.jpg?type=w800)
 
@@ -184,13 +184,13 @@ Fishing rod reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTI0/MDAxNzc1Mzc1NDE5NzIz.kHOc2_E3iNwdlsPG905EgOzYZMzmADKfPoFoXG751P0g.Cr9ta0WBRFro336JO3dhLrnGlanrDw9m_F4Jtp--5eYg.JPEG/SE-3b11e844-30bc-11f1-b5df-092dd2a191ef.jpg?type=w800)
 
-Fishing rod , . reel baitcasting reel . fishing rod .
+Fishing rod , . reel baitcasting reel . boat fishing fishing rod .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfNjAg/MDAxNzc1Mzc1NDQwMDI2.fly8Xh90oE5N0IEzhEWlBbpxma-wJDab_HQktwpnwnsg.QVrtNtQyR8irZRMkkYMtHjcgDdhSPYBYTPkWaZpxnlkg.JPEG/SE-3b12ab95-30bc-11f1-b5df-e3f82d6245f2.jpg?type=w800)
 
 B61-4 fishing rod .
 
-40~100 , 1Kg 4 downshot fishing rod 40~50 .
+40~100 , 1Kg 4 downshot fishing rod 40~50 sinker .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDhfMjcw/MDAxNzc1NjA3MTA0NDU1.mgfM51BBhjq3R-_yJnDuDUeBg4WR3lQucBkASjUlmjQg.fIOPJwziJ2g4jtkh5iSh3DW4dhSguMSq4tjr6qLyPukg.JPEG/SE-944b9365-324c-11f1-ae93-d997943fd6d8.jpg?type=w800)
 
@@ -198,11 +198,11 @@ B61-4 fishing rod .
 
 ** B61-3**
 
-B61-3 fishing rod . 20~50 . 30~40 hands-on hands-on . 4 flatfish rockfish downshot .
+B61-3 fishing rod . sinker 20~50 . 30~40 hands-on hands-on . 4 flatfish rockfish downshot .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMTY0/MDAxNzc1Mzc1MjgxNDgz.yqKIsx7vELF-9KIQv9us6aI7V2Q86W8gwHs03Wj2X94g.g4chD3P-74nq3-vmIpxTFVZCQ5uXcUwag6ix0D_yaLwg.JPEG/SE-3af9cc4e-30bc-11f1-b5df-e707e96d90ee.jpg?type=w800)
 
-B61-4 verification . 1 13.5g, 87g . 100.5g 2.5g ~~. fishing rod 16.4g d 117g .
+B61-4 . 1 13.5g, 87g . 100.5g 2.5g ~~. fishing rod 16.4g d 117g .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfMjE5/MDAxNzc1Mzc1Njc3MDQw.q74CzDVhcRoIwB1YIrtBz-S0yRjHWageP9aqFZsQ96gg.XcZyio6pYFcqAADOjmFObZAaAZgXaiHCT0aXqxu3NZAg.JPEG/SE-439c2f7d-30bc-11f1-b5df-0129099ca113.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDVfNTMg/MDAxNzc1Mzc1Njg3MTI1.5uRhyX9sb1XeR515IF_k8hLCIWGqM1HSlxiacZ7R7Gog.xOiclWSwO3kKLKMdo-TaTfAJJ9_MCSLVZ3JXGZm6cV0g.JPEG/SE-439af6fb-30bc-11f1-b5df-abb8daeb0243.jpg?type=w800)
@@ -231,19 +231,19 @@ Fishing rod baitcasting reel fishing rod .
 
 B61-3 fishing rod reel .
 
-40~100 , 1Kg 3 flatfish downshot boat fishing fishing rod impression . 30~40 .
+40~100 , 1Kg 3 flatfish downshot boat fishing fishing rod . 30~40 sinker .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA0MDhfOTIg/MDAxNzc1NjA3MzA3MDk2.Kqk93SiM_zsVD3hUHmOUaBxpPR76QZk9l9P5W4CZBwYg.BEGQXFUwpEBH0Y5PIEonmbNeCJsYWlTMAyBRnJcl4HMg.JPEG/SE-9a70e80b-324c-11f1-ae93-d94ebd1ce2d2.jpg?type=w800)
 
 ---
 
-JS Company 26 flatfish downshot boat fishing, Oesujil live bait drifting, rockfish , giant octopus fishing gear available fishing rod Review . JS 2 10 .
+JS Company 26 flatfish downshot boat fishing, Oesujil live bait drifting, rockfish , giant octopus fishing gear fishing rod Review . JS 2 10 boat fishing .
 
 Hands-on . fishing rod , .
 
-Flatfish rockfish, white croaker, , sea bass fishing gear discount fishing gear impression .
+Flatfish rockfish, white croaker, , sea bass fishing gear fishing gear .
 
 Thank you!.
 
 
-[Link: JS 26 flatfish rockfish Oesujil live bait drifting fishing rod](https://naver.me/GmpVLFLr)
+[Link: JS 26 flatfish rockfish Oesujil live bait drifting boat fishing fishing rod](https://naver.me/GmpVLFLr)

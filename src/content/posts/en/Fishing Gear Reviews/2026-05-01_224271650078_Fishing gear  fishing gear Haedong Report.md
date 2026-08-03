@@ -6,7 +6,7 @@ categoryNo: 34
 logNo: 224271650078
 source: "https://m.blog.naver.com/sanjangboarder/224271650078"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTE1/MDAxNzc0MjM1MjAzOTg3.vhKNQrJnUyaXoRO_WK37bLal9qaWmjVTKKR5yB9ckEog.ylayugAqkr4CfPsd3bIEs_TJLtfsfLa1DRIpH8cFHOgg.JPEG/900%A3%DF20260319%A3%DF211206.jpg"
-description: "Hello, this is SanjangBorder. Seonjae Fishing Park fishing gear rockfish . Haedong reel . Seonjae Fishing Park impression . fishing gear 30m 40m . Haedong . ree"
+description: "Hello, this is SanjangBorder. Seonjae Fishing Park lure fishing fishing gear rockfish . Haedong reel . Seonjae Fishing Park lure fishing . fishing gear 30m 40m"
 lang: "en"
 ---
 
@@ -16,20 +16,20 @@ lang: "en"
 
 Hello, this is SanjangBorder.
 
-Seonjae Fishing Park fishing gear rockfish . Haedong reel .
+Seonjae Fishing Park lure fishing fishing gear rockfish . Haedong reel .
 
-Seonjae Fishing Park impression . fishing gear 30m 40m .
+Seonjae Fishing Park lure fishing . fishing gear 30m 40m .
 
 Haedong . reel .
 
 ---
 
-30 LED . available . 20g . saltwater fishing 1 ~4 20g .
+30 LED .. 20g . saltwater fishing 1 ~4 20g .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTc2/MDAxNzc0MjM1MTIwNDAw.KqZIiaTBO2-03Y8jVae5Z3ffxbC9oO4smmIVVuLs4-4g.aRch9Wks8QHGK6_kRcJHkLfhJDXklQVJL_xeb1T6j5Eg.JPEG/SE-5f5f7707-240e-11f1-81ef-af5ec0841b98.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTA1/MDAxNzc0MjM1MTE4OTIx.0E0hHZHdeoExHoHgqDn8q_SphFWaEyRBybCw4sVXf90g.TnCv6k_B65qOGnqjB7ZovG_hG2mGEw82k1hQugLEYkwg.JPEG/SE-5f601348-240e-11f1-81ef-41e3db7fe09d.jpg?type=w800)
 
-. saltwater fishing , , 3 . , , . available .
+. saltwater fishing , , 3 sinker . , sinker , . sinker . sinker .
 
 18cm 20.4g . 2 .
 
@@ -47,23 +47,23 @@ LED 425, 435 hands-on . fishing gear . . AS .
 
 Haedong fishing gear .
 
-- - (+Haedong ) - (or + ) .
+- - (+Haedong ) - (or sinker+ ) .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTg5/MDAxNzc0MjM1NDU4MjU1.0xz1oXlquGWSRCktkJ7UBMDrCF137Bo_Jpc-WadcZycg.39L3htzbjnMFqcIxBdAm6nH8poAfuL1AwuT8LmRRtAog.JPEG/SE-23eae4ea-2658-11f1-bd05-3d3dbc88ddcc.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfNDYg/MDAxNzc0MjM1NDU3MDI5.eM_SqTBsZhmo6F4zrp7YBExDOlsqjTFvzaVe2uhCWBwg.dEh7hahkBx80max9JEBXII-aYjdRuJQNr6YpHzqx-W4g.JPEG/SE-d322c6f0-2665-11f1-bd05-b5bd607f86b0.jpg?type=w800)
 
-Haedong available . 20m 30m . 40m Seonjae Fishing Park .
+Haedong . 20m 30m . 40m Seonjae Fishing Park .
 
 .. 30m . reel .
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMjE5/MDAxNzc0MjM1ODQxMjEy.Y6QN9ptIBHVYussXlUlnrfgZFm26Tp84FUnp2xrrgpcg.45eBq_bJ279z860RrIlCvv9fB0IhFex6Hyi7dN55ZTQg.JPEG/SE-23ea2199-2658-11f1-bd05-91af005cd7ec.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjNfMTk5/MDAxNzc0MjM1ODM5Njc5.MS5UAcLuEC49N4guxNStaf0qjivmU0Aq5cDXKGJDQ5Yg.JiOCzyMw4qHbKweS9uAjDV_xLWFFtGrbYQ8QKYMYq18g.JPEG/SE-23e95e48-2658-11f1-bd05-f9eea0edd41d.jpg?type=w800)
 
-Seonjae Fishing Park 3 outing . 3 outing . catch report .
+Seonjae Fishing Park 3 fishing trip . 3 fishing trip . catch report .
 
 Songdo fishing gear rockfish fishing gear hands-on . saltwater fishing hands-on , hands-on . hands-on .
 
-Hands-on ㅣ fishing gear Seonjae Fishing Park . hands-on recommendation .
+Hands-on ㅣ fishing gear Seonjae Fishing Park lure fishing . hands-on recommendation .
 
 
 [Link: ](https://shop.ihdf.co.kr/shop\_goods/goods\_view.htm?goods\_idx=8389)

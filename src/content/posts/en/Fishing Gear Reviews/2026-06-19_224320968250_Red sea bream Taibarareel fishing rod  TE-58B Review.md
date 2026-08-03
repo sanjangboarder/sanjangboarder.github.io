@@ -56,7 +56,7 @@ Red sea bream Taibarareel fishing rod . TITANIUM FRAME SIC . FUJI . hands-on Tai
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfNzUg/MDAxNzgxNzg1ODE2MzY4.UODoFouLfXD8aTOVnUInD9zfvI1OUYu-ui60SXLAH9Eg.IjkadJBNi96RNorfq2fZmlXRPchXCbhgdLXS82C0JBEg.JPEG/SE-0d9025cd-6ac8-11f1-900a-99934193048e.jpg?type=w800" />
 </div>
 
-. . impression AOMEX . impression fishing rod reel .
+. . AOMEX . fishing rod reel .
 
 
 <div class="image-grid">
@@ -80,7 +80,7 @@ Fishing rod . 2 fishing rod reel . 2 fishing rod fishing rod 100% reel 1 . fishi
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMjMx/MDAxNzgxNzg1NjIwNTg0.aOBunKRw18BsNLEQL6NOUS6-2B-MgLw1m_6JHE_io5wg.Pj2MCgnPZUuwBjBgw7yF9foKQ8wsioll0nzZbIwtUwkg.JPEG/SE-0d9507d2-6ac8-11f1-900a-173f89b2f192.jpg?type=w800" />
 </div>
 
-Reel . fishing gear fishing rod . reel . impression .
+Reel . fishing gear fishing rod . reel .
 
 
 <div class="image-grid">
@@ -89,7 +89,7 @@ Reel . fishing gear fishing rod . reel . impression .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMTgx/MDAxNzgxNzg1NjAzNTA4.nd2g5KRWsbDxh2PFeyy2G8oLogRZLUIk5nkXAvvCJ5og.g9biIEvdtSR1Y4T36f9h7tkGLBCcAZcTws6HjAXYdQYg.JPEG/SE-0d97c6f6-6ac8-11f1-900a-e9ca610c707a.jpg?type=w800" />
 </div>
 
-Taibarareelfishing rod downshotfishing rod 2 fishing rod . Taibarareel fishing rod reel verification .
+Taibarareelfishing rod downshotfishing rod 2 fishing rod . Taibarareel fishing rod reel .
 
 
 <div class="image-grid">
@@ -121,7 +121,7 @@ TE-58B-FH AMOMEX .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMTAy/MDAxNzgxNzg1NTUxMDU2.8Bfa0-X3AXphZb5aARvFpGZ5mwMkfdUJCdX5v487LFIg.binoo7uytOicm8XdjYNRWs8z3XpiyWutTDkecSxpkZ0g.JPEG/SE-0d9ef2f1-6ac8-11f1-900a-550a69a09309.jpg?type=w800" />
 </div>
 
-. impression impression . EVA .
+. . EVA boat fishing .
 
 
 <div class="image-grid">
@@ -161,7 +161,7 @@ TE-58B-FH AMOMEX .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMTUz/MDAxNzgxNzg1ODg4OTY1.gX6XYrGrV0MqqmDMbZbMRrM2cgamtTIXSLmn89iyt6kg.RnR5tlHvb0t8fBB5moW46uBtb181VIEONR2jLAi2HLkg.PNG/image.png?type=w800" />
 </div>
 
-2 spinning reel hands-on fishing rod . fishing rod hands-on hands-on . baitcasting reel .
+2 spinning reel hands-on fishing rod . lure fishing fishing rod hands-on hands-on . baitcasting reel .
 
 
 <div class="image-grid">
@@ -169,7 +169,7 @@ TE-58B-FH AMOMEX .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMTEg/MDAxNzgxNzg1NDQ4MjY4.-_R7aF5-fFAHyK-6PWd7STQrsZ_v4MAR8GlXWnvKf28g.jlTmDdXyfzS-32Qjg3oF8kRPIYElrXNpY114Vr4qm7Ig.JPEG/SE-0da3fc09-6ac8-11f1-900a-e5516f528e8d.jpg?type=w800" />
 </div>
 
-FUJI impression . fishing rod . fishing rod fishing rod .
+FUJI . fishing rod . fishing rod fishing rod .
 
 
 <div class="image-grid">
@@ -178,7 +178,7 @@ FUJI impression . fishing rod . fishing rod fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMjQg/MDAxNzgxNzg1NDIyMzQ3.4z_eEKTFUXTjCKxS2y2QWN8FTguhqG6JAPsr-30Roj0g.2OpgAuaqRV5k7-E5S8MLNrDzl1qLdcHMTMfEfStZxnwg.JPEG/SE-0da5348b-6ac8-11f1-900a-fd17c4b6fec9.jpg?type=w800" />
 </div>
 
-. 2cm . spinning reel fishing rod hands-on . available . Taibarareel fishing rod 2 2 1.2cm 1.9cm . impression .
+. 2cm . spinning reel fishing rod hands-on . Taibarareel fishing rod 2 2 1.2cm 1.9cm .
 
 
 <div class="image-grid">
@@ -196,7 +196,7 @@ FUJI impression . fishing rod . fishing rod fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMTk2/MDAxNzgxNzg1Mzk0MTM3.lul7c3xZ9AyZDJRaDQ6U9Gg-ryasenZkmg-VR2D6e0Qg.Eqb63MoqW4Uy7UZGKVEwIDQsDzQ2h3FxJ61sMGmKQr8g.JPEG/SE-0da5f7dc-6ac8-11f1-900a-cd286e22f530.jpg?type=w800" />
 </div>
 
-Fishing rod . fishing gear verification . Taibarareel outing .
+Fishing rod . fishing gear . Taibarareel fishing trip .
 
 
 <div class="image-grid">
@@ -221,7 +221,7 @@ Fishing rod . 1 126.6cm . 52cm . fishing rod 173cm . Taibarareel fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfMjMx/MDAxNzgxNzg1MzYxNzAz.3jnajRRknh0j0pCyb7lEl4OwliGX_OTAfnCwCUVFmEwg.s5ywgApC6O0TfMjRjG0gvFERiehvRqsz7TbqHOR1MuYg.JPEG/SE-16108269-6ac8-11f1-900a-af929a86fc53.jpg?type=w800" />
 </div>
 
-1.052mm . 1 6.148mm 8.643mm . Taibarareel fishing rod . available .
+1.052mm . 1 6.148mm 8.643mm . Taibarareel fishing rod .
 
 
 <div class="image-grid">
@@ -239,13 +239,13 @@ Fishing rod . 1 126.6cm . 52cm . fishing rod 173cm . Taibarareel fishing rod .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MThfOTcg/MDAxNzgxNzg1MTY0MTQ0.FljMGTH497AhO--F9x8Zw5cPBAB1DwyBZbEF-gX0dX0g.YN5oawPd_hkdrV6mtzWiPJqjVAc3NwGzKU6cHbRR-wwg.JPEG/SE-1615b28f-6ac8-11f1-900a-2f4787db99f2.jpg?type=w800" />
 </div>
 
-. fishing rod . available fishing rod .
+. fishing rod . fishing rod .
 
 ​
 
-Taibarareel fishing rod fishing rod impression . . fishing rod verification Taibarareel fishing rod . baitcasting reel fishing rod ..
+Taibarareel fishing rod fishing rod . . fishing rod Taibarareel fishing rod . baitcasting reel fishing rod ..
 
-Fishing rod Review . ultra-lightweight fishing rod impression Taibarareel fishing rod ultra-lightweight ㅎㅎ .
+Fishing rod Review . ultra-lightweight fishing rod Taibarareel fishing rod ultra-lightweight ㅎㅎ .
 
 
 <div class="single-image">
@@ -282,7 +282,7 @@ Reel . SIC . fishing rod .
 
 **2. **
 
-. PCA, HIGH BROAD .. impression .
+. PCA, HIGH BROAD ..
 
 
 <div class="image-grid">
@@ -293,11 +293,11 @@ Reel . SIC . fishing rod .
 
 **3. **
 
-Fishing rod reel 2 . spinning reel hands-on . . reel baitcasting reel hands-on . spinning reel hands-on ? fishing rod impression . impression .
+Fishing rod reel 2 . spinning reel hands-on . . reel baitcasting reel hands-on . spinning reel hands-on ? fishing rod .
 
 ---
 
-Fishing gear hands-on . Yeongheungdo Island Taibarareel outing ㅠㅠ. red sea bream Taibarareel . Fishing Report hands-on impression .
+Fishing gear hands-on . Yeongheungdo Island Taibarareel fishing trip ㅠㅠ. red sea bream Taibarareel . Fishing Report hands-on .
 
 ​
 

@@ -6,7 +6,7 @@ categoryNo: 17
 logNo: 224331703985
 source: "https://m.blog.naver.com/sanjangboarder/224331703985"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfNTIg/MDAxNzgyNzg2ODMxNDcw.yzTVw5qGnLfuKXPfMvYJ5NWeMXzx3LmItj01hGJETYAg.5glaQMvA02SNvtiOLFrf-CcKQtVADTP6SjL4_08NPn8g.JPEG/900_20260628_172515.jpg"
-description: "Hello, this is SanjangBorder. 26 2 AOMEX flatfish downshot boat fishing FESTA . 1 Taibarareel . fishing rod flatfish . 5 . hands-on . 3 30 . . 4 fishing rod .."
+description: "Hello, this is SanjangBorder. 26 2 AOMEX flatfish downshot boat fishing FESTA . 1 Taibarareel . fishing rod flatfish . 5 . hands-on . 3 30 . lure fishing . 4 fi"
 lang: "en"
 ---
 
@@ -34,7 +34,7 @@ Fishing rod flatfish . 5 . hands-on .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMTgx/MDAxNzgyNzg2ODQxMzM3.RGfxUFu86VbcYLaaN6AFGfpitviyEw6lMrFlKZYH31wg.EnzJ-Af6w4tXybYIBHXXhybhQRq-rBt_cCRamiLnYAgg.JPEG/900_20260628_031618.jpg?type=w800" />
 </div>
 
-. 4 fishing rod .
+Lure fishing . 4 fishing rod .
 
 
 <div class="single-image">
@@ -67,17 +67,17 @@ Flatfish downshot boat fishing downshotfishing rod . fishing rod Review flatfish
 >
 > reel : Daiwa 100B
 >
-> : Haedong Limit X9 1.2
+> : Haedong Limit X9 1.2 PE braided line
 >
 > : 4/0
 >
 > : X TB, PP, PK, WH, HD
 >
-> : 40
+> sinker : 40
 >
 > SanjangBorder
 
-Reel flatfish Daiwa baitcasting reel X . flatfish 7 flatfish impression flatfish ㅎㅎ
+Reel flatfish Daiwa baitcasting reel X . flatfish 7 flatfish flatfish ㅎㅎ
 
 
 <div class="image-grid">
@@ -101,7 +101,7 @@ Fishing gear 1 6~7 ...
 
 ​
 
-Flatfish downshot boat fishing fishing rod 40 . fishing rod 6:4 . fishing rod fishing rod . ~ flatfish . ㅠㅠ
+Flatfish downshot boat fishing fishing rod 40 sinker . fishing rod 6:4 sinker . fishing rod fishing rod . ~ flatfish . ㅠㅠ
 
 
 <div class="single-image">
@@ -133,7 +133,7 @@ Flatfish downshot boat fishing fishing rod 40 . fishing rod 6:4 . fishing rod fi
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfMzEg/MDAxNzgyNzg2ODQwMzkx.rGGCp5v-5s2lO42KCcG47-wWXyAmVAtTtmjw2JwqQ_0g.ewH6HQ2zFT1o3VpqZ0l3_cePHPKPDMk3LosdIStt-AIg.JPEG/900_20260628_092753.jpg?type=w800" />
 </div>
 
-Impression . fishing gear .
+. fishing gear .
 
 
 <div class="single-image">
@@ -190,7 +190,7 @@ Flatfish downshot boat fishingfishing rod fishing rod . flatfish .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA2MzBfOTgg/MDAxNzgyNzg2ODM4OTM0.lKroWUbqjmq_aQzXoDpIMyShuSKFHF_XMbZslqcFqFwg.fTLKiowTjlKLhVykqXFEwx0Tylakx3vWF819WmKvKQAg.JPEG/900_20260628_130054.jpg?type=w800" />
 </div>
 
-Flatfish . flatfish . . ㅎㅎ
+Flatfish lure fishing . flatfish . . ㅎㅎ
 
 
 <div class="image-grid">
@@ -251,7 +251,7 @@ Flatfish downshot boat fishing .
 
 ​
 
-Flatfish . impression .
+Flatfish . .
 
 ​
 

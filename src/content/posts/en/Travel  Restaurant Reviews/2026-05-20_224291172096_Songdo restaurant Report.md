@@ -6,7 +6,7 @@ categoryNo: 35
 logNo: 224291172096
 source: "https://m.blog.naver.com/sanjangboarder/224291172096"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA1MjBfMjAx/MDAxNzc5MjQ3MTU3Nzk0.Fk1CIXiQTEfO5dPBGxGZnR47cWGtTYWm4MPhjz_Ih3Mg.zbuJlLZfHkPQqfckeCyagRCzgjGVWAP-A07Z_DfNqDEg.JPEG/900_20260501_102954.jpg"
-description: "Hello, this is SanjangBorder. recommendation restaurant reel . Magok Incheon Songdo restaurant . Songdo . . impression . four inch tiger . . . impression . impr"
+description: "Hello, this is SanjangBorder. recommendation restaurant reel . Magok Incheon Songdo restaurant . Songdo . . . four inch tiger . . . .."
 lang: "en"
 ---
 
@@ -29,7 +29,7 @@ Songdo .
 
 <div class="map-card glass"><div class="map-info"><span class="map-icon">📍</span><div class="map-text"><div class="map-name"> </div><div class="map-addr">Incheon Rho 203 1 b 121 </div></div></div><a href="https://map.naver.com/p/search/ + + " target="\_blank" class="map-btn">View Map</a></div>
 
-. impression . four inch tiger .
+. . four inch tiger .
 
 
 <div class="single-image">
@@ -48,14 +48,13 @@ Songdo .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MTlfNTAg/MDAxNzc5MTc2OTgxMDEz.hC8A68bVGi9520hO22tsY3tsMtyMUrbecMswxMf4_s8g.Dgnb3kVIGGQmmDOVWvEsVEDW34nxGzF1-97No6E97pog.JPEG/SE-fc364cd1-4787-11f1-9824-412d6b70d3dd.jpg?type=w800" />
 </div>
 
-. impression .
+. .
 
 
 <div class="single-image">
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MDRfMjY1/MDAxNzc3ODc4NDgyMDY4.PfpCz41DOTbSRS0QrkSsfxzPiTuX-WurnUAHAmnYqWwg.j1yIyDVSfiOnoZW1KDMjL8GvYlZhncg70KAnhR3TXm8g.JPEG/900_20260501_110037.jpg?type=w800" />
 </div>
 
-Impression . impression impression .
 
 
 <div class="image-grid">
@@ -127,7 +126,7 @@ Reel purchase .
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyNjA1MDRfMjA5/MDAxNzc3ODc4NDgzMzI0.UouFqK60jJ02IOzHSR9ltobyNYZ3FbWDAvSXZ86yiIIg.o1V2GQd6SYNCZgkA45-ImN90c0UOWtz32FGaU8CFoa4g.JPEG/900_20260501_102841.jpg?type=w800" />
 </div>
 
-Discount . 5 , 6.5 discount .
+. 5 , 6.5 .
 
 
 <div class="image-grid">
@@ -150,7 +149,7 @@ Discount . 5 , 6.5 discount .
 
 ---
 
-Songdo . Songdo . impression . 2 / restaurant 2 .
+Songdo . Songdo . 2 / restaurant 2 .
 
 ​
 
