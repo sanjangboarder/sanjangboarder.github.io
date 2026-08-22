@@ -1,12 +1,12 @@
 ---
-title: "Review: Tulbo Fishing Delli Rig 2nd Gen Patented Adjustable Rig for Squid & Octopus"
+title: "Review: Tulbo Fishing Delli Rig 2nd Gen 2026 Version - Essential Item for Squid Season"
 date: 2026-08-15
 category: "Fishing Gear Reviews"
 categoryNo: 34
 logNo: 224379393574
 source: "https://m.blog.naver.com/sanjangboarder/224379393574"
-thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjI3/MDAxNzg2NzYzODk2MDUz.WuL-AnnSgjuNw8wtrfbgUbWGTgJka5oT2lnaLbMdRnYg.DDU7lp7c1x7ZKSauY4YiWlbF5EuMfTgXgDTKsOUWKjwg.PNG/image.png"
-description: "A detailed review and mechanical breakdown of the patented Tulbo Fishing Delli Rig 2nd Gen, designed for Webfoot Octopus and Cuttlefish boat fishing."
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjI3/MDAxNzg6NzYzODk2MDUz.WuL-AnnSgjuNw8wtrfbgUbWGTgJka5oT2lnaLbMdRnYg.DDU7lp7c1x7ZKSauY4YiWlbF5EuMfTgXgDTKsOUWKjwg.PNG/image.png"
+description: "A comprehensive hands-on review and knot mechanism breakdown of the patented Tulbo Fishing Delli Rig 2nd Generation terminal rig for webfoot octopus and cuttlefish boat angling."
 lang: "en"
 ---
 
@@ -18,30 +18,32 @@ Hello, this is SanjangBorder.
 
 ​
 
-With the autumn Webfoot Octopus (주꾸미) and Cuttlefish (갑오징어) season fast approaching, terminal rig selection is a major topic among charter anglers. Today, I am reviewing the patented **Tulbo Fishing Delli Rig 2nd Gen (털보낚시 델리리그 2세대)**.
+With the webfoot octopus and cuttlefish season approaching, terminal rigs are a major point of interest for boat anglers. Today, I am reviewing an indispensable item: the **Tulbo Fishing Delli Rig 2nd Gen (털보낚시 델리리그 2세대)** 2026 edition.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjI3/MDAxNzg6NzYzODk2MDUz.WuL-AnnSgjuNw8wtrfbgUbWGTgJka5oT2lnaLbMdRnYg.DDU7lp7c1x7ZKSauY4YiWlbF5EuMfTgXgDTKsOUWKjwg.PNG/image.png?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMjI3/MDAxNzg6NzYzODk2MDUz.WuL-AnnSgjuNw8wtrfbgUbWGTgJka5oT2lnaLbMdRnYg.DDU7lp7c1x7ZKSauY4YiWlbF5EuMfTgXgDTKsOUWKjwg.PNG/image.png?type=w800)
 
 ​
 
----
-
-### 1. Specification Options & Packaging Breakdown
-
-When ordering the Delli Rig 2nd Gen, you can customize the main leader length, branch line length, and swivel snap types. 
-* **My Selection:** 70cm Main Line / 25cm Branch Line / Double Pin Swaps.
-* **Main Line Selection Guide:** A 50cm to 70cm main line is ideal for West Coast shallow-to-medium water depths. For deep-sea charter grounds off Jeju or the South Coast, a 100cm main line provides maximum adjustment range.
+Looking at the Delli Rig specifications, you can select main line length, branch line length, and swivel snap options as purchasing choices. The setup I picked is **70cm Main Line, 25cm Branch Line, and Double Pin Swivel**.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfNzQg/MDAxNzg6NzYzNDUyNTkx.J3xSbq7z7dNIxF5NszHMj7cZsOpTv08RkCORPIVrNGEg.uQ9Yo6Y3I7kpfgMSd5-Gw9YOW4at6hFilHUSD13xSokg.JPEG/SE-25dc741e-9856-11f1-86cd-89659b009738.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjI5/MDAxNzg6NzYzNDUxNzI4.TFSfAuaACP82XKDAmUhvxyYQYYswU59a0pAU_K7k3WEg.2uesWZZ-iC1fbYElvc83CubG9LiGr0hES0emRe1Gi84g.JPEG/SE-25dd376f-9856-11f1-86cd-79b66b9632ae.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMjI3/MDAxNzg6NzYzODk2MDUz.WuL-AnnSgjuNw8wtrfbgUbWGTgJka5oT2lnaLbMdRnYg.DDU7lp7c1x7ZKSauY4YiWlbF5EuMfTgXgDTKsOUWKjwg.PNG/image.png?type=w800)
 
 ​
 
-Each package contains **2 complete rig setups**. Experienced anglers who read the seabed well may only break 1 or 2 rigs per day, but on rocky bottoms or low-activity days, you might lose 4 to 5 rigs. Bringing about 3 packages (6 rigs) per trip is a safe recommendation.
+A longer main line increases the range over which you can adjust branch line dropper height, so choose according to your preference. Personally, I think 50cm to 70cm main line length is appropriate for West Coast waters. If you're considering deep-sea waters like Jeju or South Coast grounds, selecting 100cm would be a good choice.
+
+​
+
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfNzQg/MDAxNzg6NzYzNDUyNTkx.J3xSbq7z7dNIxF5NszHMj7cZsOpTv08RkCORPIVrNGEg.uQ9Yo6Y3I7kpfgMSd5-Gw9YOW4at6hFilHUSD13xSokg.JPEG/SE-25dc741e-9856-11f1-86cd-89659b009738.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMjI5/MDAxNzg6NzYzNDUxNzI4.TFSfAuaACP82XKDAmUhvxyYQYYswU59a0pAU_K7k3WEg.2uesWZZ-iC1fbYElvc83CubG9LiGr0hES0emRe1Gi84g.JPEG/SE-25dd376f-9856-11f1-86cd-79b66b9632ae.jpg?type=w800)
+
+​
+
+The Delli Rig 2nd Gen comes packaged with **2 complete rigs per package** as shown in the picture below. Usually when going squid fishing, anglers who read bottom well will find 2 rigs per day sufficient. But if activity drops or you fish rough rocky bottoms, you might snag and break 4 to 5 rigs, so bringing about 3 packages per trip should be plenty.
 
 ​
 
@@ -49,7 +51,7 @@ Each package contains **2 complete rig setups**. Experienced anglers who read th
 
 ​
 
-The 2nd Gen Delli Rig uses stiff, stealthy **black Ester line** for both main and branch lines, preventing line coil tangles under heavy current.
+The Delli Rig adopts stiff **black Ester line** for both main line and branch line to resist coiling. The color is black, so it isn't flashy in the water.
 
 ​
 
@@ -57,7 +59,7 @@ The 2nd Gen Delli Rig uses stiff, stealthy **black Ester line** for both main an
 
 ​
 
-Refining feedback from the 1st Generation models, the swivels and snaps are downsized to optimal sizes to minimize water resistance.
+The swivels and snap swivels are sized just right. Incorporating feedback since the 1st Generation Delli Rigs, the setup now appears built exclusively with fully optimized hardware components.
 
 ​
 
@@ -66,11 +68,7 @@ Refining feedback from the 1st Generation models, the swivels and snaps are down
 
 ​
 
----
-
-### 2. Patented Adjustable Knot Mechanism
-
-The core invention of the Delli Rig lies in its **variable friction knots**:
+The knots shown in the picture below are the core invention of the Delli Rig. They move variably depending on whether the knots are tightened or loosened.
 
 ​
 
@@ -79,7 +77,7 @@ The core invention of the Delli Rig lies in its **variable friction knots**:
 
 ​
 
-* **Clear Knot:** Tightening or loosening the clear knot allows the branch swivel to slide freely or lock firmly, adjusting the effective branch line length.
+When the clear knot is tightened, the swivel moves freely along the line; when the knot is spread/loosened, it locks in place, allowing you to adjust branch line length.
 
 ​
 
@@ -88,7 +86,7 @@ The core invention of the Delli Rig lies in its **variable friction knots**:
 
 ​
 
-* **Pink Knot:** Sliding the pink knot adjusts the distance (dropper height) between the sinker bottom and the branch line.
+The pink knot works identically, used when adjusting the dropper distance between the sinker bottom and the branch line.
 
 ​
 
@@ -97,7 +95,9 @@ The core invention of the Delli Rig lies in its **variable friction knots**:
 
 ​
 
-By sliding these two knots, you can seamlessly convert your setup anywhere from a **zero-dropper direct rig** (for active octopus) to a **long-branch floating rig** (for shy cuttlefish requiring natural drift).
+By adjusting sinker dropper height and branch line length, you can configure your setup anywhere from a **zero-branch direct line setup** up to extending the branch line to maximum length as shown below.
+
+Adjusting dropper height is simple. During boat squid fishing, when activity is strong, set the branch line short; when fish are sensitive, set it long to emphasize natural falling action.
 
 ​
 
@@ -107,26 +107,26 @@ By sliding these two knots, you can seamlessly convert your setup anywhere from 
 
 ​
 
-Additionally, the bottom sinker snap features a **double-pin swivel snap**, allowing you to attach both a sinker and a bottom egi lure simultaneously. Leaving the knots unfastened creates a free-sliding "Free-Rig" setup where the branch line moves dynamically in underwater currents.
+Also, a **double pin swivel** is adopted at the sinker end, letting you attach both a sinker and an egi lure simultaneously using separate pin swivels.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfNTAg/MDAxNzg6NzYzNjIwOTEy.mCOgaWfwvrDtjg8glAB6rBhRIzN0ugk2W6bvYRbaLbMg.1YaglB663I1YB4lewzste8fsI5jvYS3MyyTLYFQlD4gg.JPEG/SE-25ee276f-9856-11f1-86cd-ad5c7cbb722c.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfNTAg/MDAxNzg6NzYzNjIwOTE2.mCOgaWfwvrDtjg8glAB6rBhRIzN0ugk2W6bvYRbaLbMg.1YaglB663I1YB4lewzste8fsI5jvYS3MyyTLYFQlD4gg.JPEG/SE-25ee276f-9856-11f1-86cd-ad5c7cbb722c.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMjgw/MDAxNzg6NzYzMTI0MTQ0.Tm4imqQNsbvDqREGk6MNl4lY1NLaD72sS87Ahqw_pxsg.1jhkywbWJ7zt3eqAsJ4PMajoJodL2_2y4KHbuw8rZDAg.JPEG/900_20260814_152608.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMzcg/MDAxNzg6NzYzMTIzNTk1.uO4oUCEq84IXaQ1cOdhiIaRMv_DzXgy_LknMokuulyAg.cxfz-vXzbCb7wVDA4cVAMuFz4vTtZl8FIkngo5OfRPgg.JPEG/900_20260814_152611.jpg?type=w800)
 
 ​
 
----
-
-### Conclusion
-
-The Tulbo Fishing Delli Rig 2nd Gen offers unmatched versatility for autumn octopus and cuttlefish boat fishing. Being able to adapt dropper heights and branch line lengths instantly without retying leader knots makes it a must-have terminal rig.
+While the Delli Rig is typically used with fixed dropper heights and branch line lengths, leaving the knots untightened allows the branch line to slide freely in water like a Free-Rig setup. Thus, virtually any rig configuration possible in squid boat fishing can be realized.
 
 ​
+
+I expect it will be one of the most popular rigs sought after during the '26 squid season. Once the season opens, I will test it in the field and share another review.
+
+​
+
+Refer to the link below for manufacturer details and purchases. It is currently on sale, so check it out if needed:
+
+🔗 [(Co.) Tulbo Fishing - Delli Rig 2nd Gen Patented Squid Rig](http://www.ytfishing.co.kr/shop/shopdetail.html?branduid=2185291&search=%B5%A8%B8%AE%B8%AE%B1%D7&sort=order&xcode=001&mcode=000&scode=&GfDT=bWZ3Ug%3D%3D)
 
 Thank you!
-
-​
-
-🔗 [Tulbo Fishing Delli Rig 2nd Gen Official Product Link](http://www.ytfishing.co.kr/shop/shopdetail.html?branduid=2185291)

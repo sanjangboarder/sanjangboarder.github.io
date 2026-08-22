@@ -1,12 +1,12 @@
 ---
-title: "Review: Red Pulse GP863ML 3-Piece Portable All-Round Inshore Lure Rod"
+title: "Honest Review: Red Pulse GP863ML Edition 3-Piece All-Round Saltwater Inshore Lure Rod"
 date: 2026-08-21
 category: "Fishing Gear Reviews"
 categoryNo: 34
 logNo: 224381847109
 source: "https://m.blog.naver.com/sanjangboarder/224381847109"
-thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMTkz/MDAxNzg2NDQyMjgyNTA4.LZzCrGMYZPdn4xKEXl-Z5DtnwsMd-s4-tPUdm2--R1og.rK6BpW46IUpNPX4hKlGDudw1wYA_k1ecyi8JBxIvDbIg.JPEG/SE-1226bc76-951b-11f1-b10c-ff007a93e5ac.jpg"
-description: "An in-depth, honest unboxing review and precise digital caliper measurement breakdown of the Red Pulse GP863ML 3-piece portable inshore saltwater lure rod."
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTFfMTkz/MDAxNzg6NDQyMjgyNTA4.LZzCrGMYZPdn4xKEXl-Z5DtnwsMd-s4-tPUdm2--R1og.rK6BpW46IUpNPX4hKlGDudw1wYA_k1ecyi8JBxIvDbIg.JPEG/SE-1226bc76-951b-11f1-b10c-ff007a93e5ac.jpg"
+description: "An authentic, thorough unboxing review, weight measurement test, and digital caliper analysis of the Red Pulse GP863ML 3-piece portable inshore lure rod."
 lang: "en"
 ---
 
@@ -18,36 +18,29 @@ Hello, this is SanjangBorder.
 
 ​
 
-Today, I am sharing a detailed unboxing review and digital caliper measurement analysis of a newly acquired 3-piece portable inshore lure rod: the **Red Pulse GP863ML Edition (레드펄스 GP863ML 에디션)**. Red Pulse is a legendary Korean angling community brand where I first learned saltwater fishing over a decade ago. Having waited a long time for this new release, I took out precision scales and digital calipers to thoroughly test its build quality.
+Today, I am sharing an honest review of a newly received 3-piece portable lure rod: the **Red Pulse GP863ML Edition (레드펄스 GP863ML 에디션)**.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTFfMTkz/MDAxNzg6NDQyMjgyNTA4.LZzCrGMYZPdn4xKEXl-Z5DtnwsMd-s4-tPUdm2--R1og.rK6BpW46IUpNPX4hKlGDudw1wYA_k1ecyi8JBxIvDbIg.JPEG/SE-1226bc76-951b-11f1-b10c-ff007a93e5ac.jpg?type=w800)
+Red Pulse is Korea's largest fishing online community cafe where I first started learning saltwater lure angling over 10 years ago and met many fellow anglers. Having waited a long time for this 863ML model to release, I unboxed it with high expectations to run precise measurement tests.
 
 ​
 
----
-
-### Precision Weight Breakdown & Modular Rear Grip
-
-First, I weighed each section individually using a digital scale:
-* **Section 1 (Tip):** 8.2g
-* **Section 2 (Mid):** 20.8g
-* **Section 3 (Butt with full grip assembly):** 83.3g
+Next, I measured the weight of each section on a digital scale: Section 1 (Tip) came out to **8.2g**, Section 2 (Mid) to **20.8g**, and Section 3 (Butt) to **83.3g**.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTFfMTkz/MDAxNzg6NDQyMjgyNTA4.LZzCrGMYZPdn4xKEXl-Z5DtnwsMd-s4-tPUdm2--R1og.rK6BpW46IUpNPX4hKlGDudw1wYA_k1ecyi8JBxIvDbIg.JPEG/SE-1226bc76-951b-11f1-b10c-ff007a93e5ac.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMTkz/MDAxNzg6NDQyMjgyNTA4.LZzCrGMYZPdn4xKEXl-Z5DtnwsMd-s4-tPUdm2--R1og.rK6BpW46IUpNPX4hKlGDudw1wYA_k1ecyi8JBxIvDbIg.JPEG/SE-1226bc76-951b-11f1-b10c-ff007a93e5ac.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMjcy/MDAxNzg6NDQyMjgzMTg3.Pp5VK49oApn8Lgwv7cVV9B2y8LdQziTzNa0Ua4iO4LUg.SFYeCdv5BLSN1qqpM7Z5-ioLXChHSwRq99YwSusD2JIg.JPEG/SE-122758b7-951b-11f1-b10c-0360c47dcb8e.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfNDcg/MDAxNzg6NDQyMjg0Nzkw.-XuUy7T4Lhp27bUYOEodjY3mAQ6-8oFx_giYMdrSj-Qg.iNFmsxMqTTEq4X1_6KU3w6AO1lro0M43Do4W5wK_7Mog.JPEG/SE-1228b849-951b-11f1-b10c-052f074db12e.jpg?type=w800)
 
 ​
 
-If you unscrew and remove the rear extension cap from the butt section, the butt section weight drops to **77.9g**, meaning the detachable rear carbon cap weighs **5.4g**. 
+If you remove one piece from the rear grip cap, Section 3 drops to **77.9g**, meaning that single rear cap part weighs approximately **5.4g**.
 
 ​
 
-Without the rear extension cap, the total rod weight is **106.5g**. With the extension cap fully installed, total weight measures **112g**. Considering most anglers will use it with the extension installed, a total weight of 112g cannot really be classified as an "ultra-lightweight" inshore rod; rather, it is moderately light.
+Excluding the removable rear grip extension piece, the total rod weight is **106.5g**, and with all parts included, it measures **112g**. Since most anglers will naturally use it in its full setup configuration, a total weight of 112g makes it a bit hard to call it an ultra-lightweight inshore rod; rather, it is fair to say the manufacturer paid some moderate attention to weight savings.
 
 ​
 
@@ -57,11 +50,7 @@ Without the rear extension cap, the total rod weight is **106.5g**. With the ext
 
 ​
 
----
-
-### Physical Dimensions & Caliper Measurements
-
-The 3-piece design offers great packability. Each section measures **under 90cm**, allowing the entire rod to fit neatly into compact travel hard cases under 1 meter in length.
+Refer to the picture below for the individual lengths of this 3-piece rod. There are slight variations in length across sections, but every piece stays within **90cm**. In other words, you can store it in a rod case slightly under 1 meter, making it extremely convenient for travel and transportation.
 
 ​
 
@@ -69,19 +58,15 @@ The 3-piece design offers great packability. Each section measures **under 90cm*
 
 ​
 
-The distance from the bottom cap to the center of the reel seat measures **36cm** with the extension cap installed, and **32cm** when removed.
+The reel seat position sits approximately **36cm** from the bottom end. If you remove the rear-most cap piece, the reel seat position shifts to about **32cm**.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMjg4/MDAxNzg6NDUyOTEzMjgw.6OXX9tU1DmBFnWuheupHRdGw-Uhqss2AXCzFOwIe27cg.B_E_5i_nmnLWzi_YSp32Kntb9j5OqidGo9eC7ETSsZMg.JPEG/SE-122d4c2d-951b-11f1-b10c-03ac6e5006b6.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMjg8/MDAxNzg6NDUyOTEzMjgw.6OXX9tU1DmBFnWuheupHRdGw-Uhqss2AXCzFOwIe27cg.B_E_5i_nmnLWzi_YSp32Kntb9j5OqidGo9eC7ETSsZMg.JPEG/SE-122d4c2d-951b-11f1-b10c-03ac6e5006b6.jpg?type=w800)
 
 ​
 
-Using digital calipers, I measured the exact blank diameters across key points:
-* **Tip Diameter:** **1.539mm** (Slightly thinner than standard inshore rods).
-* **Slimnest Point on Section 2:** **5.866mm**.
-* **Butt Diameter:** **11.851mm**.
-* **Carbon Rear Grip Diameter:** **22.168mm**.
+Using digital calipers, the tip diameter measured approximately **1.539mm**. The thinnest point on Section 2 measured **5.866mm**, and the butt diameter measured **11.851mm**. While I personally felt the tip section was quite thin, it is only slightly slimmer than standard all-round inshore rods, while the butt diameter is quite comparable.
 
 ​
 
@@ -89,15 +74,17 @@ Using digital calipers, I measured the exact blank diameters across key points:
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMjkw/MDAxNzg6NDUyOTQ2NTAx.RBYVw9eTy0p_clwAowjAvlSL7rq31OPAH-d50TS37dAg.7dMdJfogb9mVoKB2V1XydWg9rinkPBZ0Fxwe_E60H98g.JPEG/SE-122f47ff-951b-11f1-b10c-3b556e158a4f.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMzcg/MDAxNzg6NDUyOTQ1NDA3.aE_oUDtIBkm30_GXMDcQ4rL-PvO2DflSfVbV9PVCYakg.7vQ_s3hB_wmkpbBisNMXinK3MIKpBmhgKW-LM--DkUgg.JPEG/SE-12305970-951b-11f1-b10c-45b127bb27f9.jpg?type=w800)
 
+​
+
+I also measured the thickness of the carbon rear grip section, which came out to **22.168mm**.
+
+​
+
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfOTAg/MDAxNzg6NDA3ODk5NDUy.GEcRe9argT-9DAOyJe9ZT7QhEw2mQaYb4t1vggsV4WQg.YErBx2nPAJKqT5Xyr89bTaMFP61lev-pUqqzPbg_Eesg.JPEG/900_20260809_212835.jpg?type=w800)
 
 ​
 
----
-
-### Rod Balance & Bend Action Taper
-
-More important than pure specifications is real-world rod balance. Without a reel attached, the balance point sits quite far forward of the reel seat.
+However, more important than raw specifications is rod balance. Looking at the full setup without a reel attached, the center of gravity rests quite far ahead of the reel seat.
 
 ​
 
@@ -105,7 +92,7 @@ More important than pure specifications is real-world rod balance. Without a ree
 
 ​
 
-When mounted with a **Shimano Sephia C3000SDH** spinning reel, the balance center pulls back closer to the front grip. While I wouldn't call it heavily tip-heavy, I also cannot claim the balance is outstanding.
+However, when mounting a **Shimano Sephia C3000SDH** spinning reel and re-checking balance, the balance point pulls back considerably closer to the front of the reel seat. While I wouldn't call tip-heaviness severe, it is also difficult to say that the balance is exceptionally great.
 
 ​
 
@@ -113,7 +100,7 @@ When mounted with a **Shimano Sephia C3000SDH** spinning reel, the balance cente
 
 ​
 
-Here is a side-by-side comparison of the rear grip with the extension cap installed versus removed:
+Refer to the photos below for a comparison between the full rear grip setup and the configuration with the rear cap removed.
 
 ​
 
@@ -122,25 +109,27 @@ Here is a side-by-side comparison of the rear grip with the extension cap instal
 
 ​
 
-Testing the rod bend taper, the high-modulus carbon blank feels crisp, stiff, and sharp. Since I haven't taken it out on the water yet, I will provide a detailed field report in an upcoming trip log.
+I also photographed the rod's bend action taper... As expected from a rod built with high-modulus carbon, the blank feels stiff, crisp, and responsive, offering a sharp feedback feel. Since I haven't taken it out on an actual fishing outing yet, I will be able to share its true performance feel in an upcoming trip log after casting it on the water.
 
 ​
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMjU5/MDAxNzg6NDA3OTAxMTky.YdkVbCyb3wVTVPvLmIRcZ99HZbpMulD2KcEAli9giDkg.PiAeJZ51xbgYcYK24D6_t400BSVO4kbXvGxHGOqLpIMg.JPEG/900_20260809_213146.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMTk4/MDAxNzg6NDA3OTAyMTMy.HvQ9H5bGylnZnohG1IxdV5jPgtqczn5xEoGMokSUwyQg.eKjgTInSsZw0_Wjqk7W9cSzyITS24T5Aj_RdShcJkEAg.JPEG/900_20260809_213149.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMTA2/MDAxNzg6NDA3ODk4MzQy.mIApgf8YmoIHj6zMh41JJ5r8vIja2tulJe7agP5Z608g.ssM-r_pCp-jOuG2zIKpTkBPBAgoPLPl-h4OWr0zxaH8g.JPEG/900_20260809_213153.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTFfMTA6/MDAxNzg6NDA3ODk4MzQy.mIApgf8YmoIHj6zMh41JJ5r8vIja2tulJe7agP5Z608g.ssM-r_pCp-jOuG2zIKpTkBPBAgoPLPl-h4OWr0zxaH8g.JPEG/900_20260809_213153.jpg?type=w800)
 
 ​
 
 ---
 
-### Honest Conclusion
-
-Having started my angling journey with Red Pulse, the new GP863ML feels somewhat underwhelming compared to the raw excitement and perfection I experienced with the iconic **Red Pulse XP862ML** 10 years ago. 
+Having started and learned fishing at Red Pulse—Korea's largest fishing online community where I met so many anglers—this 863ML rod feels somewhat disappointing compared to the deep impression I received from the legendary XP862ML 10 years ago.
 
 ​
 
-Having waited a long time with high expectations for a properly crafted rod, the traditional Red Pulse character seems somewhat faded in this model. Unless there is a major design evolution, I probably won't be eagerly awaiting future successor rods. Still, out of lingering affection for the brand, I will keep watching them closely. Since the GP863ML is currently unavailable for open purchase, I hope this detailed breakdown helps anyone considering buying one in the future.
+Because I waited for a very long time, high expectations mixed with hopes of receiving a properly crafted rod. Currently, it feels as though much of the classic Red Pulse character has faded away. Unless there is a major breakthrough, I somehow don't think I will be eagerly awaiting future successor rods anymore. Still, out of lingering affection, I will continue to keep an eye on them.
+
+​
+
+Currently, there is no way to purchase the Red Pulse 863ML rod, so it is uncertain when official sales will open, but I hope this breakdown serves as a helpful reference for anyone considering buying one.
 
 ​
 

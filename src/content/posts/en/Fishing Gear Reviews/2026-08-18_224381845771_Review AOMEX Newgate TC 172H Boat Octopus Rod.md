@@ -1,12 +1,12 @@
 ---
-title: "Review: AOMEX Newgate TC 172H Ultra-Lightweight Boat Octopus Rod"
+title: "Review: AOMEX Newgate TC 172H Boat Octopus Rod"
 date: 2026-08-18
 category: "Fishing Gear Reviews"
 categoryNo: 34
 logNo: 224381845771
 source: "https://m.blog.naver.com/sanjangboarder/224381845771"
 thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjA6/MDAxNzg1NjU3MDQ2MDQ0.hNek9Ew5txty4w5s4EwO_kyHPIq8avZltyQL58j6BpIg.ptbIHlCIAV5C9b_myWa00iq6AXEO4ahTe8Y80LrVD2Ug.JPEG/SE-2a337b42-8e0a-11f1-98a8-dd2a06f5048f.jpg"
-description: "A comprehensive unboxing review and precise measurement breakdown of the AOMEX Newgate TC 172H boat octopus rod, featuring a 70.5g weight class, 8:2 action, and 50-size sinker capacity."
+description: "A comprehensive unboxing review and precise digital measurement analysis of the AOMEX Newgate TC 172H boat octopus rod, featuring a 70.5g ultra-lightweight design, 8:2 action, and 50-size sinker capacity."
 lang: "en"
 ---
 
@@ -18,39 +18,21 @@ Hello, this is SanjangBorder.
 
 ​
 
-Full-day octopus boat fishing requires holding a stiff rod continuously while bottom-bumping heavy sinkers. Today, I am sharing a hands-on review and precision measurement test of a newly released mid-tier octopus rod: the **AOMEX Newgate TC 172H (아오맥스 뉴게이트-TC 문어낚시대 172H)**.
+Today, I am reviewing a newly released mid-tier octopus rod: the **AOMEX Newgate TC 172H (아오맥스 뉴게이트 TC 172H)**.
+
+​
+
+Using digital calipers, the tip diameter measured **1.444mm**. The thickest point on Section 1 measured **10.006mm**, and the butt diameter measured **11.235mm**, showing virtually zero discrepancy against official specifications. It is fair to consider any minor variance as within standard measurement tolerance.
 
 ​
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjA6/MDAxNzg1NjU3MDQ2MDQ0.hNek9Ew5txty4w5s4EwO_kyHPIq8avZltyQL58j6BpIg.ptbIHlCIAV5C9b_myWa00iq6AXEO4ahTe8Y80LrVD2Ug.JPEG/SE-2a337b42-8e0a-11f1-98a8-dd2a06f5048f.jpg?type=w800)
-
-​
-
----
-
-### 1. Caliper Measurements & Section Weights
-
-First, I measured the blank diameters using precision digital calipers:
-* **Tip Diameter:** **1.444mm**
-* **Thickest Point on Tip Section (Section 1):** **10.006mm**
-* **Butt Diameter:** **11.235mm**
-
-The measurements align almost perfectly with official manufacturer specifications, with variance well within normal manufacturing tolerance.
-
-​
-
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjA6/MDAxNzg1NjU3MDQ2MDQ0.hNek9Ew5txty4w5s4EwO_kyHPIq8avZltyQL58j6BpIg.ptbIHlCIAV5C9b_myWa00iq6AXEO4ahTe8Y80LrVD2Ug.JPEG/SE-2a337b42-8e0a-11f1-98a8-dd2a06f5048f.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfNTYg/MDAxNzg1NjU3MDQ2NzY0.nI9m13nap-AmdQM87g9BrzXbcZa8eYbTb2XFkng8vO4g.coxGG6Y39CA1U96HeruezIqaCrGO2e2YSTyWcaYOTH4g.JPEG/SE-2a341783-8e0a-11f1-98a8-b7f3d46f5065.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfNTYg/MDAxNzg1NjU3MDQ2NzY4.nI9m13nap-AmdQM87g9BrzXbcZa8eYbTb2XFkng8vO4g.coxGG6Y39CA1U96HeruezIqaCrGO2e2YSTyWcaYOTH4g.JPEG/SE-2a341783-8e0a-11f1-98a8-b7f3d46f5065.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMzQg/MDAxNzg1NjU3MDQ1NTI2.970ZnnCmNjfRSf9HIH6VDJjmxWsJoSazXZDrawsbU4Ig.L6Ds_EpIg2urdxd3BPLj42A4JlgTogtAasrZKlMvoVYg.JPEG/SE-2a34b3c4-8e0a-11f1-98a8-7b5df7058eb3.jpg?type=w800)
 
 ​
 
-Next, I weighed each section on a digital scale:
-* **Section 1 (Tip):** 25.9g
-* **Section 2 (Butt):** 44.7g
-* **Total Weight:** **70.5g**
-
-Depending on epoxy finish variance, some individual units may even weigh slightly under 70g.
+Section 1 (Tip) weight measured **25.9g**, Section 2 (Butt) measured **44.7g**, and the overall rod weight came out to **70.5g**, again showing virtually no deviation from factory specs. Since rod weight fluctuates slightly based on epoxy coating finish, some individual units might even weigh under 70g.
 
 ​
 
@@ -60,11 +42,7 @@ Depending on epoxy finish variance, some individual units may even weigh slightl
 
 ​
 
----
-
-### 2. Rod Balance & 8:2 Action Taper
-
-Because octopus angling requires holding the rod all day long, total weight is critical. Achieving a **70.5g ultra-lightweight rating** on a heavy octopus rod is exceptionally rare. Equally important, however, is overall rod balance. Many ultra-light rods suffer from tip-heaviness, but the Newgate TC 172H places its unmounted balance center **directly in front of the reel seat foregrip**. Once a baitcasting reel is mounted, tip-heaviness becomes virtually zero, significantly reducing wrist fatigue.
+Because octopus fishing requires holding the rod continuously all day long, rod weight is critical. Achieving a **70g class ultra-light weight**, which is rarely seen in octopus rods, is impressive. But equally important is rod balance. Ultra-light rods sometimes suffer from disappointing balance, but as shown in the picture below, the Newgate octopus rod positions its center of gravity **directly in front of the reel seat even without a reel attached**. Once a baitcasting reel is mounted, tip-heaviness becomes practically non-existent, which will greatly reduce fatigue on the water.
 
 ​
 
@@ -72,17 +50,17 @@ Because octopus angling requires holding the rod all day long, total weight is c
 
 ​
 
-The blank features a **fast 8:2 action taper**. The carbon backbone provides solid stiffness, while the tip section shows a heavy, precise bend under load—providing ideal feedback for detecting when an octopus settles onto your egi lures.
+The manufacturer describes the action as an **8:2 taper**. It overall gives a firm, crisp holding feel while showing a heavy, solid bend at the tip section. It delivers an action taper that is spot on for an octopus rod.
 
 ​
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjY3/MDAxNzg1NjMwOTczMDA5.EifNtyU5pYx8SVjo5BrWJVF_S6rMEW4QVLfpvF0N9AUg.BSdu_PJniEXeS-0bT92sr7MH_uZZ6TNXL22Vclw9F20g.JPEG/900_20260731_133153.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMTM2/MDAxNzg1NjMwOTY8NjU0.GOq1DONQJvUSsi_7eI9a0GFJcV91Gpn84TrHSaL2Fqwg.ZcZJt0QZKZslvirpRso7wrF-WTSJEo6lHZWP4c4W0TYg.JPEG/900_20260731_133155.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMTM2/MDAxNzg1NjMwOTY4NjU0.GOq1DONQJvUSsi_7eI9a0GFJcV91Gpn84TrHSaL2Fqwg.ZcZJt0QZKZslvirpRso7wrF-WTSJEo6lHZWP4c4W0TYg.JPEG/900_20260731_133155.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMTUz/MDAxNzg1NjMwOTcwODMx.0JxdwiQrwsHola8wLqWdOD97SGSi54X2hcRr_ZbpNF8g.j6IKX5kH54mWjso1XwP0qPPHXKv1HHuFg4hzuCacYesg.JPEG/900_20260731_133157.jpg?type=w800)
 
 ​
 
-According to official test charts, the rod performs comfortably with standard #30 to #40 sinkers used in West and South Coast octopus grounds, with a maximum sinker load rating of **200g (up to #50 sinkers)**.
+I took the rod bend charts across sinker weights from the manufacturer's catalog. In both West Coast and South Coast octopus grounds, sinkers usually range between #30 and #40, and the bend taper looks perfect. The rod's maximum load rating is 200g, allowing it to handle up to **#50 sinkers** comfortably.
 
 ​
 
@@ -90,13 +68,7 @@ According to official test charts, the rod performs comfortably with standard #3
 
 ​
 
----
-
-### 3. Reel Pairings & Aesthetic Match
-
-Here is how the rod pairs with various baitcasting reels:
-
-1. **Gold Round-Profile Baitcasting Reel:** The matte black blank with subtle gold accents matches gold/black round reels beautifully.
+Let me also show you how the rod pairs with different baitcasting reels. First is a gold-colored round-profile baitcasting reel I plan to use for octopus angling... It looks remarkably well matched.
 
 ​
 
@@ -104,33 +76,35 @@ Here is how the rod pairs with various baitcasting reels:
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfNDcg/MDAxNzg1NjMwOTcyMTQy.lYIBUcOLOmOglTWGykUJGOYSCw9PHO-qQ2M05iJ_0REg.tOgxfwzEWxE72_BOdy2Usx7obumSiJrxNcemWPnz3Qog.JPEG/900_20260731_133654.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMzcg/MDAxNzg1NjMwOTcwNzEx.-NjgaoNiSV04qLo11mi6-twkYNyPnNu2PFSB-y4LLVIg.YVcq6oX1OheizEwDw6HkQTqkFjfK8nnGxShD0wOmg5wg.JPEG/900_20260731_133701.jpg?type=w800)
 
+​
+
+Perhaps because the baitcasting reel has gold with black accent points, it presents a very natural matching visual.
+
+​
+
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMzIg/MDAxNzg1NjMwOTczODM5.DsNnBsbsFVP3-1pbuHx87PnoD2aH0Hye8yyKwD4xpsgg.DDgp-4sb5NNk4xG3xjjN5d_gVMSndhvJnLAkV-P3UEgg.JPEG/900_20260731_133657.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMTEg/MDAxNzg1NjMwOTY3NjY1.-M4e5vP42_BTZeVSt-zjLfSsma4Rd8XMsO2vvMnK_9Ig.5_6CyTD4JaIX2jL_CIioUjfssi6-oHiyHSJUjUgzFJsg.JPEG/900_20260731_133655.jpg?type=w800)
 
 ​
 
-2. **Standard Dark Low-Profile Baitcasting Reels:** Dark reels create a sleek, understated overall look.
+Next is a dark-toned baitcasting reel commonly used by anglers... Again, it blends harmoniously without looking overly flashy.
 
 ​
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjY2/MDAxNzg1NjMwOTY3MDY5.IM4FId5jYAl2-DpL4v6SmF6fUOvjp9p0TmJzvcUhpukg.eLHxxf1cxeTGTi_auL3Vjsb7NIlwx4SYlZnMRcQpo4cg.JPEG/900_20260731_133725.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMTMy/MDAxNzg1NjMwOTcxOTEw.Tix4nA3DUQiZUS3knVzlIKY223bbgBvngGi4pzaWTW8g.wvPF4gZdJlUntRlSq8obqRDgIyYsq9FRH1QGfVs-3aIg.JPEG/900_20260731_133729.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjIw/MDAxNzg1NjMwOTY6ODQw.ocJD900VfqEADGwGBGTvNzbHOnrF-bLKQ3ywpFXXoDMg.COCYqkekFLchYxoYtOIO5qJyl-g2KgYR4-Z7ncO3AsEg.JPEG/900_20260831_133731.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjIw/MDAxNzg1NjMwOTY2ODQw.ocJD900VfqEADGwGBGTvNzbHOnrF-bLKQ3ywpFXXoDMg.COCYqkekFLchYxoYtOIO5qJyl-g2KgYR4-Z7ncO3AsEg.JPEG/900_20260731_133731.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjQ3/MDAxNzg1NjMwOTczODQ0.UKzfzb7wBepetkDEU6rKEfTKoCgJDYWi0QpfetD9DgAg.yJMN80VtZ1qL5LkIeA1lsnoTJ0W3KZqL6QZlK6Uz7XUg.JPEG/900_20260731_133731.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MDJfMjg8/MDAxNzg1NjMwOTc0NTA0.Xw7e05MW4ldObl2ZSibvjMLH3CGlsja2C9jY-mfL1KYg.YBhGq7fXUTUqmyDDK-lykL2PevQsnieKc6TKGPM3gfkg.JPEG/900_20260731_133740.jpg?type=w800)
 
 ​
 
----
-
-### Conclusion
-
-The AOMEX Newgate TC 172H is optimized for South and West Coast boat octopus fishing. Combining an ultra-lightweight 70.5g build, stylish finish, superb balance, and lifting power, it represents a well-crafted mid-tier rod designed to combat fatigue during full-day trips.
+The AOMEX Newgate TC 172H boat octopus rod introduced in this post can be described as a product optimized for webfoot octopus and webfoot octopus boat fishing in South Coast and West Coast waters. Featuring ultra-lightweight specs rarely seen in octopus rods, attractive styling, and great balance, I think it is a mid-tier rod built with all the essential advantages needed for full-day octopus fishing that can otherwise be tedious and exhausting.
 
 ​
+
+For detailed manufacturer explanations, follow the link below:
+
+🔗 [AOMEX Newgate-TC Octopus Rod 172H - AOMEX Co., Ltd.](https://aomex.co.kr/product/%EC%95%84%EC%98%A4%EB%A7%A5%EC%8A%A4-%EB%89%B4%EA%B2%8C%EC%9D%B4%ED%8A%B8-tc-%EB%AC%B8%EC%96%B4%EB%82%9A%EC%8B%9C%EB%8C%80-172h/291/category/30/display/1/)
 
 Thank you!
-
-​
-
-🔗 [AOMEX Newgate TC 172H Official Product Link](https://aomex.co.kr/product/%EC%95%84%EC%98%A4%EB%A7%A5%EC%8A%A4-%EB%89%B4%EA%B2%8C%EC%9D%B4%ED%8A%B8-tc-%EB%AC%B8%EC%96%B4%EB%82%9A%EC%8B%9C%EB%8C%80-172h/291/category/30/display/1/)

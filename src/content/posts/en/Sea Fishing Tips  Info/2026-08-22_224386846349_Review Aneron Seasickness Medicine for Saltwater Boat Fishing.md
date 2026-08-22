@@ -1,12 +1,12 @@
 ---
-title: "Review: Aneron Motion Sickness Medicine for Saltwater Boat Fishing & Direct Import Guide"
+title: "Honest Review & Direct Buying Guide: Japanese Aneron Motion Sickness Medicine for Ocean Boat Fishing"
 date: 2026-08-22
 category: "Sea Fishing Tips & Info"
 categoryNo: 36
 logNo: 224386846349
 source: "https://m.blog.naver.com/sanjangboarder/224386846349"
-thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMTc6/MDAxNzg6Nzg5Mzc6NTEw.k1Njs20bgJMJzb0HH7OLB4QM7navFxLGBeJCEBr712Ig.0VyjkVFpJUHVy36-vDd_IJVVUCizGn1JG0auBM3yd3Eg.JPEG/900_20260806_132407.jpg"
-description: "A comprehensive review and direct import guide for Aneron (アネロン) motion sickness medication, covering real-world boat fishing experience, customs rules, and side effect precautions."
+thumbnail: "https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMTc2/MDAxNzg6Nzg5Mzc2NTEw.k1Njs20bgJMJzb0HH7OLB4QM7navFxLGBeJCEBr712Ig.0VyjkVFpJUHVy36-vDd_IJVVUCizGn1JG0auBM3yd3Eg.JPEG/900_20260806_132407.jpg"
+description: "An authentic, highly detailed personal experience review of Japanese Aneron motion sickness capsules, including direct international purchase tips, customs regulations, and side effect cautions for boat fishing anglers."
 lang: "en"
 ---
 
@@ -18,46 +18,48 @@ Hello, this is SanjangBorder.
 
 ​
 
-I average around 50 saltwater fishing trips annually, and about half of them—roughly 20 to 25 trips per year—are offshore charter boat trips. Over the past 10 years of boat fishing, I have experienced almost every ocean condition imaginable. Among all the physical hardships on the water, seasickness combined with slippery decks from heavy swells is hands-down the absolute worst.
+My annual fishing trip count usually hovers around 50 times a year, and about 50% of those trips are offshore boat fishing charters. That means I go out on charter boats roughly 20 to 25 times every single year. Having experienced ocean boat fishing for over 10 years, I have encountered an incredibly wide variety of situations on the water. Among all the memorable moments of suffering, seasickness easily takes first place, especially when coupled with slippery, rolling deck conditions caused by heavy swells.
 
 ​
 
-Because I have logged so many hours on charter vessels, I usually don't get seasick easily under normal conditions. However, there were a few times when overconfidence got the better of me, leading to terrible seasickness on the water. Anyone who has ever experienced seasickness knows how excruciatingly painful it is—lasting anywhere from 30 excruciating minutes to well over an hour of non-stop nausea.
+Since I have logged a fair amount of boat fishing hours, I normally don't get seasick under typical sea conditions. However, there were a few times when I got overly confident and ended up getting terribly seasick on the water. Anyone who has ever experienced seasickness knows that it involves a truly miserable time that lasts at least 30 minutes to as long as an hour or more of relentless nausea.
 
 ​
 
-Instead of boasting "I never get seasick," I now make it a strict rule to take motion sickness medication preemptively whenever there is even a light breeze or rolling swell forecast. 
+Rather than bragging with confidence that "I never get seasick," these days, if the wind even starts blowing just a little bit, I simply take motion sickness medicine preemptively. Haha.
 
 ​
 
-Ever since adopting this habit several years ago, I haven't suffered from seasickness a single time. But when heavy ocean swells hit, not all medications work equally well. Liquid anti-motion sickness drinks or standard over-the-counter pills might work in calm waters, but they often fail when heavy swells roll in. Through personal experience, the two products that have proven 100% reliable for me are **Aneron** imported from Japan, and Ameron produced by a Korean pharmaceutical company. Today, I am introducing the medication I have permanently settled on: **Japanese Aneron (アネロン)**.
+Ever since I adopted this preventative habit, I honestly don't think I have suffered from seasickness even once. It has been several years now, but whenever weather conditions look even slightly unfavorable, I take medication as a precaution, which has spared me from any severe suffering. However, when heavy swells roll in hard, some motion sickness remedies work extremely well while others simply don't. I'm not sure if it's specific to my body constitution, but looking back at what has worked reliably for me, Japanese imported **Aneron** and Korean-made Ameron stand out. Liquid-type motion sickness drinks and other pill forms offered some mild effect, but they failed to hold up against severe ocean swells. Because of those past experiences, I have now permanently settled on a single product.
 
 ​
 
-I purchase Aneron directly via international ordering from Japan. Including international shipping, it comes out to roughly 1,000 KRW per capsule. Ironically, it is actually cheaper per capsule than purchasing pill-type motion sickness medication at local Korean pharmacies. Aside from taking about a week for shipping, its cost-effectiveness is outstanding.
+Let me introduce that exact product today. It is the medication called **Aneron** that I mentioned above.
+
+I purchased it directly via international ordering from Japan. Including international shipping fees, the cost comes out to right around 1,000 KRW per capsule. Ironically, it is actually cheaper per capsule than standard pill-form motion sickness medicines sold in domestic Korean pharmacies. In short, except for the downside of taking about a full week for delivery, it offers outstanding value for money.
 
 ​
 
-I restock every 1 to 2 years, and it arrives packaged in a sturdy cardboard box. Since there is zero risk of breakage, you don't need to worry about shipping damage.
+I purchase this medication every 1 to 2 years, and it arrives packaged inside a sturdy cardboard box as shown below. Since there is virtually no risk of shock or physical damage, you don't need to worry much about shipping damage at all.
 
 ​
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMTc6/MDAxNzg6Nzg5Mzc6NTEw.k1Njs20bgJMJzb0HH7OLB4QM7navFxLGBeJCEBr712Ig.0VyjkVFpJUHVy36-vDd_IJVVUCizGn1JG0auBM3yd3Eg.JPEG/900_20260806_132407.jpg?type=w800)
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjA0/MDAxNzg6Nzg5Mzc6NjYy.DZM0ovST06PD9jzXTCPJSbUJzoSXkf1JNVELbIg1Tlwg.QfD7mEnwCq_-c0Tjub0dkx-DRg14fwBmfbnohTK1ZNYg.JPEG/900_20260806_132435.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMjA4/MDAxNzg6Nzg5Mzc6NjYy.DZM0ovST06PD9jzXTCPJSbUJzoSXkf1JNVELbIg1Tlwg.QfD7mEnwCq_-c0Tjub0dkx-DRg14fwBmfbnohTK1ZNYg.JPEG/900_20260806_132435.jpg?type=w800)
 
 ​
 
-Here is what the outer Aneron box looks like. Since everything is written in Japanese, I scanned the box using Google Lens translation to double-check the details.
+Here is what the packaged Aneron box looks like. Looking at the Japanese text, you probably can't understand a word, right? Haha.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MjFfMjUg/MDAxNzg7MjgyNjA0NDA5.-f-tb_chJIxFXLGxApmeijPFDYaYU8tS9v13BDt3sFgg.FkQEGusj2VwJl54FcW8yMgPmxglbrbrRla2ptdkC1kUg.JPEG/SE-4791ae3d-9893-11f1-8178-1b78aa4df433.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MjFfMjUg/MDAxNzg7MjgyNjA4NDA5.-f-tb_chJIxFXLGxApmeijPFDYaYU8tS9v13BDt3sFgg.FkQEGusj2VwJl54FcW8yMgPmxglbrbrRla2ptdkC1kUg.JPEG/SE-4791ae3d-9893-11f1-8178-1b78aa4df433.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MjFfMTkx/MDAxNzg7MjgyNjA1MTcz.d2Z30gyZf7cSvYlGVVitGV-W5CkwN9XEcgRns7L8Pm8g.5W5NyYdG8SuANJUpeEuagZHMPAfO7uZx8l_XMILB_TMg.JPEG/SE-47924a7e-9893-11f1-8178-a908a30f3c0a.jpg?type=w800)
 ![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MjFfMzkg/MDAxNzg7MjgyNjAzNTM9.QNTH5C5r_mAq0TV-syDizQIAQD3XpAtItyvp8bClVdUg.zo0Btc-uHhpBgKRF58vg_zAoJBaQjPbRssDXt-4J6Gcg.JPEG/SE-4794e291-9893-11f1-8178-15db5aae5e47.jpg?type=w800)
 
 ​
 
-According to the translated text, it comes in capsule form and is effective for preventing and alleviating nausea, dizziness, and even hangover-related discomfort.
+I used Google Lens live translation to check what was written on the packaging... It states that these are capsules and that they are effective for nausea, dizziness, and even hangovers.
 
 ​
 
@@ -65,7 +67,7 @@ According to the translated text, it comes in capsule form and is effective for 
 
 ​
 
-The dosage instructions specify taking **1 capsule per day**, regardless of meals. On one trip with historic, massive swells, I once panicked and took 2 capsules—turns out you shouldn't do that! Always stick to the 1-capsule rule. The instructions also state to take it **30 minutes prior to boarding**, which indicates it takes about 30 minutes for the active ingredients to take full effect in your system.
+It appears you only need to take **1 capsule per day**, and it doesn't seem to matter whether you take it on an empty stomach or after meals. On one day when ocean swells were at a historic peak, I once took 2 capsules out of desperation, but apparently you shouldn't do that, sob sob. Also, seeing that it instructs you to take it **30 minutes before boarding**, it seems it takes about 30 minutes for the active ingredients to take full effect in your body.
 
 ​
 
@@ -73,7 +75,7 @@ The dosage instructions specify taking **1 capsule per day**, regardless of meal
 
 ​
 
-Aneron is sold in various box sizes, such as 6, 9, or 10-capsule packs, so be sure to calculate the price per capsule when shopping. I purchased the 10-capsule box, where each capsule is individually sealed in blister foil sheets.
+If you search online, you will find packages containing different pill counts, such as 6, 9, or 10 capsules per box. When shopping, check the total box price carefully to estimate the price per individual pill. I purchased the 10-capsule Aneron pack. Each capsule is individually sealed in blister foil packaging.
 
 ​
 
@@ -81,7 +83,7 @@ Aneron is sold in various box sizes, such as 6, 9, or 10-capsule packs, so be su
 
 ​
 
-Here is an important lesson I learned: I once bought 6 boxes all at once (60 capsules total). However, I couldn't finish them all within 2 years! The expiration period is roughly **2 years from manufacture**, so over-ordering in massive bulk is not a good strategy.
+Ah, and there's another thing: in the past, I once bought 6 boxes of Aneron at the same time, haha. That meant I had about 60 capsules total, but I realized that amount isn't easy to consume within 2 years, haha. I didn't know at the time, but the shelf life is roughly 2 years, so buying a massive quantity all at once is not a wise approach.
 
 ​
 
@@ -89,30 +91,23 @@ Here is an important lesson I learned: I once bought 6 boxes all at once (60 cap
 
 ​
 
----
-
-### Crucial Customs Rules for Direct Importing
-
-When ordering from Japanese direct-shipping websites, keep these Korean customs regulations in mind:
-
-1. **Tax-Free Threshold:** The total order value (product price + shipping fee) must be under **$150 USD**.
-2. **Medication Quantity Limit:** Customs strictly limits medication imports to **a maximum of 6 boxes per shipment**. If you order 8 boxes, 2 boxes will be confiscated and disposed of by customs, with only 6 boxes delivered. This 6-box rule applies across all combined health/medical items in a single shipment (e.g., ordering 3 boxes of motion sickness pills and 5 boxes of cold medicine total 8 boxes, so 2 boxes will be destroyed).
+Furthermore, there are critical rules to keep in mind when ordering via international direct shipping. As many of you know, the duty-free import limit threshold is **$150 USD**, including product cost and shipping fees. Additionally, for pharmaceutical products, **no more than 6 boxes can pass through Korean customs**. That means if you order 8 boxes, 2 boxes will be confiscated by customs officers during clearance, and only 6 boxes will arrive at your door. This rule applies identically when purchasing different types of medications together—for example, if you order 3 boxes of motion sickness pills and 5 boxes of cold medicine (totaling 8 boxes), 2 boxes will still be rejected at customs clearance and sent for disposal.
 
 ​
 
-For every fishing trip, I pack **2 capsules** in my tackle bag as shown below: 1 capsule for myself, and 1 spare capsule in case heavy swells require an extra dose or a fellow angler is suffering terribly on deck. Packing like this guarantees worry-free charter trips for up to two full seasons.
+For every fishing outing, I bring along 2 capsules as shown in the picture below: 1 for myself to take, and an extra one in case heavy swells require me to take a backup or to hand out to a fellow angler who is struggling in agony on deck. Preparing like this keeps me completely worry-free for 2 full years of charter outings.
 
 ​
 
-![](https://mblogthumb-phinf.pstatic.net/MjAyNjA4MTVfMTM5/MDAxNzg6Nzg5Mzc1ODk0.zb1003IwHRgwDxpH8i1d6D65J425YShAOYHfor-PYmcg.3PhASWTyyqskagZ8olsguu4vfBorUC0_vC1lllR89jIg.JPEG/900_20260806_132739.jpg?type=w800)
+![](https://mblogthumb-phinf.pstatic.net/MjAyNjA8MTVfMTM5/MDAxNzg6Nzg5Mzc1ODk0.zb1003IwHRgwDxpH8i1d6D65J425YShAOYHfor-PYmcg.3PhASWTyyqskagZ8olsguu4vfBorUC0_vC1lllR89jIg.JPEG/900_20260806_132739.jpg?type=w800)
 
 ​
 
-Since Aneron is classified as a pharmacy medication, it cannot be purchased directly on general open markets like Naver Shopping or Coupang. However, searching Japanese direct-import proxy sites will easily lead you to reliable sellers.
+Because Japanese imported Aneron is classified as a medicine, it cannot be purchased directly on Korean domestic e-commerce platforms like Naver Shopping or Coupang. However, if you search for Japanese direct-purchase proxy websites, you will be able to find it without much trouble.
 
 ​
 
-It could be that my body chemistry responds particularly well to Aneron, but judging by the overwhelming positive reviews from anglers, it has essentially become the gold standard motion sickness remedy for ocean boat fishing. One critical side effect to note: **it causes strong drowsiness**. Like many motion sickness remedies, drowsiness is a common side effect. While on the boat during fishing action it is rarely a problem, it can make you extremely drowsy when driving home after a tiring day. Be sure to take adequate rest at service areas before driving!
+It might be that my body constitution happens to fit Aneron exceptionally well, but given the overwhelming number of positive reviews from other anglers, it feels like it has become almost the de facto standard motion sickness medicine specifically for ocean boat fishing. One important caution to keep in mind is a side effect I personally experience: **it makes you extremely sleepy**. One of the common side effects of motion sickness remedies is drowsiness, and Aneron definitely carries that drowsiness risk. While actively fishing on the boat it is rarely an issue, but when combined with fatigue during the drive back home after fishing, you can get very drowsy. In those situations, please make sure to take sufficient rest before driving.
 
 ​
 
