@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import urllib.request
+import urllib.parse
 from pathlib import Path
 
 if sys.stdout.encoding != 'utf-8':
@@ -31,10 +32,29 @@ def get_all_urls():
         
     return urls
 
-def submit_indexnow(urls):
+def submit_single_url(target_url):
+    """Option 3-1: Send one URL via HTTP GET request"""
+    params = urllib.parse.urlencode({
+        "url": target_url,
+        "key": KEY,
+        "keyLocation": KEY_LOCATION
+    })
+    req_url = f"{BING_ENDPOINT}?{params}"
+    print(f"🔗 [GET 단일 제출] {target_url}")
+    try:
+        req = urllib.request.Request(req_url)
+        with urllib.request.urlopen(req) as response:
+            print(f"  ✅ 성공! HTTP 상태 코드: {response.getcode()}")
+    except urllib.error.HTTPError as e:
+        print(f"  ⚠️ HTTP Error {e.code}: {e.read().decode('utf-8')}")
+    except Exception as e:
+        print(f"  ⚠️ Error: {e}")
+
+def submit_bulk_urls(urls):
+    """Option 3-2: Submit bulk URLs via HTTP POST request"""
     print(f"🔑 Bing API Key: {KEY}")
-    print(f"📍 Option 1 & 2 Key Location: {KEY_LOCATION}")
-    print(f"🚀 IndexNow API에 총 {len(urls)}개 URL 제출을 시작합니다...\n")
+    print(f"📍 Key Location: {KEY_LOCATION}")
+    print(f"🚀 IndexNow API에 총 {len(urls)}개 Bulk URL 제출을 시작합니다...\n")
     
     chunk_size = 1000
     endpoints = [INDEXNOW_ENDPOINT, BING_ENDPOINT]
@@ -68,5 +88,11 @@ def submit_indexnow(urls):
                 print(f"  ⚠️ [Chunk {i//chunk_size + 1}] 오류 발생: {e}")
 
 if __name__ == "__main__":
-    url_list = get_all_urls()
-    submit_indexnow(url_list)
+    if len(sys.argv) > 1:
+        # If single URL passed via CLI
+        single_target = sys.argv[1]
+        submit_single_url(single_target)
+    else:
+        # Default: Bulk submit all URLs
+        url_list = get_all_urls()
+        submit_bulk_urls(url_list)
