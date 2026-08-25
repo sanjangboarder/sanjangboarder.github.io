@@ -9,7 +9,7 @@ if sys.stdout.encoding != 'utf-8':
 
 HOST = "sanjangboarder.github.io"
 KEY = "0b8065346f466a67ff399341b34f7667"
-KEY_LOCATION = f"https://{HOST}/{KEY}.txt"
+KEY_LOCATION = f"https://{HOST}/indexnow_key.txt"
 INDEXNOW_ENDPOINT = "https://api.indexnow.org/indexnow"
 
 def get_all_urls():
