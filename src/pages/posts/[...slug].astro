@@ -19,9 +19,22 @@ const allPosts = await getCollection('posts');
 const matchingTranslation = post.data.logNo
   ? allPosts.find(p => p.data.logNo === post.data.logNo && (p.data.lang || 'ko') !== (post.data.lang || 'ko'))
   : null;
+
+// Ensure a rich, unique 150-160 character meta description
+let postDescription = post.data.description?.trim();
+if (!postDescription || postDescription.length < 30) {
+  const cleanBody = (post.body || '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/!\[.*?\]\(.*?\)/g, '')
+    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+    .replace(/[#*`_~>-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  postDescription = cleanBody.slice(0, 160) + (cleanBody.length > 160 ? '...' : '');
+}
 ---
 
-<Layout title={post.data.title} lang={post.data.lang || 'ko'}>
+<Layout title={post.data.title} description={postDescription} image={post.data.thumbnail} lang={post.data.lang || 'ko'}>
   <main class="post-container">
     <div class="bg-orb orb-1"></div>
     

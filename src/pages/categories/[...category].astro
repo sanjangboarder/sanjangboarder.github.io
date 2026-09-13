@@ -23,9 +23,13 @@ const { category } = Astro.params;
 const { posts } = Astro.props;
 const lang = posts[0]?.data.lang || 'ko';
 const isEn = lang === 'en';
+
+const categoryDescription = isEn
+  ? `Explore all articles in ${category} on Sanjangboarder. Discover 26 years of boat fishing expertise, authentic gear reviews, field trip reports, and tech tips.`
+  : `산장보더 블로그의 [${category}] 카테고리 포스트 목록입니다. 26년 선상낚시 조행기, 내돈내산 장비 솔직 리뷰, 현장 테크닉 및 유용한 정보를 한눈에 확인하세요.`;
 ---
 
-<Layout title={`${category} - ${isEn ? 'Sanjangboarder' : '산장보더'}`} lang={lang}>
+<Layout title={`${category} - ${isEn ? 'Sanjangboarder' : '산장보더'}`} description={categoryDescription} lang={lang}>
   <main class="container">
     <div class="bg-orb orb-1"></div>
     
