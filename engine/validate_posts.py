@@ -126,6 +126,13 @@ def validate_posts():
         if not log_no:
             errors.append(f"[{rel_str}] 필수 필드 누락: 'logNo'")
             
+        # Validate description field for Bing/Google SEO
+        description = fm.get("description", "").strip()
+        if not description:
+            errors.append(f"[{rel_str}] 필수 필드 누락 또는 공백: 'description' (Bing/Google SEO 필수)")
+        elif len(description) < 50:
+            warnings.append(f"[{rel_str}] 메타 디스크립션 길이 부족 ({len(description)}자, 권장: 150~160자, 최소 50자 이상)")
+            
         # Store in dicts for mapping validation
         if log_no:
             if is_en:
