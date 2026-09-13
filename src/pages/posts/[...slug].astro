@@ -30,7 +30,9 @@ if (!postDescription || postDescription.length < 30) {
     .replace(/[#*`_~>-]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
-  postDescription = cleanBody.slice(0, 160) + (cleanBody.length > 160 ? '...' : '');
+  postDescription = cleanBody.slice(0, 157) + (cleanBody.length > 157 ? '...' : '');
+} else if (postDescription.length > 160) {
+  postDescription = postDescription.slice(0, 157).trim() + '...';
 }
 ---
 

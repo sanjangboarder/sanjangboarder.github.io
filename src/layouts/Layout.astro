@@ -17,8 +17,8 @@ const { title, description, lang = 'ko', image, type } = Astro.props;
 
 const isEn = lang === 'en';
 
-const defaultDescKo = "26년 선상낚시의 정수와 스마트한 라이프스타일. 산장보더의 생생한 바다낚시 조행기, 내돈내산 낚시장비 솔직 리뷰, IT 테크 및 유용한 생활 정보를 공유합니다.";
-const defaultDescEn = "26 years of boat fishing expertise and smart lifestyle. Discover Sanjangboarder's authentic fishing reports, honest gear reviews, and tech insights.";
+const defaultDescKo = "26년 선상낚시의 정수와 스마트한 라이프스타일! 산장보더의 생생한 바다낚시 조행기, 내돈내산 낚시장비 솔직 리뷰, 현장 실전 팁 및 유용한 IT 테크 정보를 깊이 있는 콘텐츠로 공유합니다.";
+const defaultDescEn = "Experience 26 years of boat fishing expertise and smart lifestyle technology. Discover Sanjangboarder's authentic fishing reports, honest gear reviews, and practical tech tips.";
 const finalDesc = description && description.trim().length > 0 ? description.trim() : (isEn ? defaultDescEn : defaultDescKo);
 
 // 카테고리 동적 추출
