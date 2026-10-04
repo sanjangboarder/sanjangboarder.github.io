@@ -106,6 +106,43 @@ if (pathname === '/' || pathname === '/en' || pathname === '/en/') {
     }
   }
 }
+
+// Google JSON-LD Structured Data
+const isArticle = pathname.includes('/posts/') && pathname !== '/posts' && pathname !== '/posts/';
+const schemaJson = isArticle
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": title,
+      "description": finalDesc,
+      "image": image ? [image] : [siteUrl + "/favicon.svg"],
+      "inLanguage": isEn ? "en-US" : "ko-KR",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": canonicalUrl
+      },
+      "author": {
+        "@type": "Person",
+        "name": isEn ? "Sanjangboarder" : "산장보더",
+        "url": siteUrl + "/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": isEn ? "Sanjangboarder" : "산장보더",
+        "url": siteUrl,
+        "logo": {
+          "@type": "ImageObject",
+          "url": siteUrl + "/favicon.svg"
+        }
+      }
+    }
+  : {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": isEn ? "Sanjangboarder" : "산장보더",
+      "url": siteUrl,
+      "description": finalDesc
+    };
 ---
 
 <!doctype html>
@@ -152,6 +189,8 @@ if (pathname === '/' || pathname === '/en' || pathname === '/en/') {
 		{enAlternate && <link rel="alternate" hreflang="en" href={enAlternate} />}
 		{koAlternate && enAlternate && <link rel="alternate" hreflang="x-default" href={koAlternate} />}
 
+		<!-- Google JSON-LD Structured Data -->
+		<script type="application/ld+json" set:html={JSON.stringify(schemaJson)} />
 
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
