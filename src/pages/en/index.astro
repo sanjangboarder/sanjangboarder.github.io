@@ -27,6 +27,37 @@ const latestPosts = allPosts
 			</div>
 		</header>
 
+		<!-- 2027 Tide Calendar Feature Banner -->
+		<section class="tide-feature-banner-wrap">
+			<a href="/tide-calendar" class="tide-feature-banner glass">
+				<div class="tfb-glow"></div>
+				<div class="tfb-left">
+					<div class="tfb-badge-row">
+						<span class="tfb-badge">✨ 2027 NEW SERVICE</span>
+						<span class="tfb-pill">GOOGLE / APPLE CALENDAR SYNC</span>
+					</div>
+					<h2 class="tfb-title">
+						🌊 2027 West Sea Tide Calendar (Fishing & Crabbing)
+					</h2>
+					<p class="tfb-desc">
+						Subscribe to customized <strong>[Target Fish Traffic Light Tides]</strong> and <strong>[Extreme Low Tide Foraging Guides]</strong> for 9 major West Coast ports right into your smartphone calendar.
+					</p>
+					<div class="tfb-tags">
+						<span class="tfb-tag tag-green">🟢 Best (Golden Tides)</span>
+						<span class="tfb-tag tag-yellow">🟡 Good (Recommended)</span>
+						<span class="tfb-tag tag-blue">🤿 Negative Low Tides</span>
+						<span class="tfb-tag tag-free">⚡ 100% Free Sync</span>
+					</div>
+				</div>
+				<div class="tfb-right">
+					<div class="tfb-btn">
+						<span>Explore Tide Calendar</span>
+						<span class="tfb-arrow">→</span>
+					</div>
+				</div>
+			</a>
+		</section>
+
 		<section id="posts" class="posts-section">
 			<div class="section-header">
 				<h2 class="section-title">Latest Stories</h2>
@@ -244,6 +275,168 @@ const latestPosts = allPosts
 		transform: translateY(-2px);
 		border-color: var(--accent);
 		color: #ffffff;
+	}
+
+	/* Tide Calendar Highlight Banner */
+	.tide-feature-banner-wrap {
+		margin: 2rem 0 3.5rem;
+	}
+
+	.tide-feature-banner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 2.2rem 2.8rem;
+		border-radius: 1.6rem;
+		text-decoration: none;
+		position: relative;
+		overflow: hidden;
+		border: 1px solid rgba(6, 182, 212, 0.3);
+		background: linear-gradient(135deg, rgba(30, 58, 138, 0.35) 0%, rgba(15, 23, 42, 0.7) 50%, rgba(13, 148, 136, 0.25) 100%);
+		transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+	}
+
+	.tide-feature-banner:hover {
+		transform: translateY(-4px);
+		border-color: rgba(6, 182, 212, 0.65);
+		box-shadow: 0 15px 40px rgba(6, 182, 212, 0.25);
+	}
+
+	.tfb-glow {
+		position: absolute;
+		top: -40px;
+		right: 10%;
+		width: 250px;
+		height: 250px;
+		background: radial-gradient(circle, rgba(6, 182, 212, 0.25), transparent 70%);
+		pointer-events: none;
+	}
+
+	.tfb-left {
+		max-width: 720px;
+		z-index: 1;
+	}
+
+	.tfb-badge-row {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+		margin-bottom: 0.85rem;
+		flex-wrap: wrap;
+	}
+
+	.tfb-badge {
+		font-size: 0.72rem;
+		font-weight: 800;
+		padding: 0.3rem 0.75rem;
+		border-radius: 100px;
+		background: linear-gradient(135deg, #0284c7, #06b6d4);
+		color: #ffffff;
+		letter-spacing: 0.05em;
+	}
+
+	.tfb-pill {
+		font-size: 0.7rem;
+		font-weight: 700;
+		padding: 0.3rem 0.7rem;
+		border-radius: 100px;
+		background: rgba(255, 255, 255, 0.06);
+		border: 1px solid rgba(255, 255, 255, 0.12);
+		color: #94a3b8;
+		letter-spacing: 0.05em;
+	}
+
+	.tfb-title {
+		font-size: clamp(1.4rem, 3vw, 1.9rem);
+		font-weight: 800;
+		color: #ffffff;
+		margin-bottom: 0.75rem;
+		line-height: 1.25;
+	}
+
+	.tfb-desc {
+		font-size: 1rem;
+		color: #cbd5e1;
+		line-height: 1.6;
+		margin-bottom: 1.25rem;
+	}
+
+	.tfb-desc strong {
+		color: #38bdf8;
+	}
+
+	.tfb-tags {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+	}
+
+	.tfb-tag {
+		font-size: 0.78rem;
+		font-weight: 700;
+		padding: 0.3rem 0.65rem;
+		border-radius: 6px;
+		background: rgba(0, 0, 0, 0.35);
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		color: #e2e8f0;
+	}
+
+	.tag-green { border-color: rgba(34, 197, 94, 0.4); color: #86efac; }
+	.tag-yellow { border-color: rgba(234, 179, 8, 0.4); color: #fde047; }
+	.tag-blue { border-color: rgba(56, 189, 248, 0.4); color: #7dd3fc; }
+	.tag-free { border-color: rgba(168, 85, 247, 0.4); color: #d8b4fe; }
+
+	.tfb-right {
+		margin-left: 2rem;
+		flex-shrink: 0;
+		z-index: 1;
+	}
+
+	.tfb-btn {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.6rem;
+		padding: 1.1rem 2rem;
+		background: linear-gradient(135deg, #0284c7, #06b6d4);
+		color: #ffffff;
+		font-size: 1.05rem;
+		font-weight: 800;
+		border-radius: 100px;
+		box-shadow: 0 4px 20px rgba(6, 182, 212, 0.4);
+		transition: all 0.25s ease;
+		white-space: nowrap;
+	}
+
+	.tide-feature-banner:hover .tfb-btn {
+		transform: scale(1.05);
+		box-shadow: 0 6px 25px rgba(6, 182, 212, 0.6);
+	}
+
+	.tfb-arrow {
+		font-size: 1.2rem;
+		transition: transform 0.25s ease;
+	}
+
+	.tide-feature-banner:hover .tfb-arrow {
+		transform: translateX(4px);
+	}
+
+	@media (max-width: 900px) {
+		.tide-feature-banner {
+			flex-direction: column;
+			align-items: flex-start;
+			padding: 1.8rem;
+		}
+		.tfb-right {
+			margin-left: 0;
+			margin-top: 1.5rem;
+			width: 100%;
+		}
+		.tfb-btn {
+			width: 100%;
+			justify-content: center;
+		}
 	}
 
 	@media (max-width: 768px) {

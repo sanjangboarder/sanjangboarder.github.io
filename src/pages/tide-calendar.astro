@@ -1,0 +1,1039 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// 서해 9대 거점 항구 물때 캘린더 데이터 정의
+const BASE_REPO_URL = "https://raw.githubusercontent.com/sanjangboarder/tide_cal/main";
+
+interface PortInfo {
+  id: string;
+  name: string;
+  region: string;
+  fishSummary: string;
+  haerujilSummary: string;
+  fishFile: string;
+  haerujilFile: string;
+  badge: string;
+}
+
+const ports: PortInfo[] = [
+  {
+    id: "incheon",
+    name: "인천",
+    region: "영흥도 · 대부도 · 시화 · 연안부두",
+    fishSummary: "쭈꾸미, 갑오징어, 광어다운샷, 우럭",
+    haerujilSummary: "영흥도/대부도/시화권 소라, 낙지, 조개",
+    fishFile: "tides_incheon_2027.ics",
+    haerujilFile: "tides_incheon_haerujil_2027.ics",
+    badge: "수도권 인기 1위"
+  },
+  {
+    id: "pyeongtaek",
+    name: "평택",
+    region: "아산만 · 당진 · 평택항",
+    fishSummary: "쭈꾸미, 갑오징어, 우럭, 농어",
+    haerujilSummary: "아산만/당진권 갯벌 박하지, 소라",
+    fishFile: "tides_pyeongtaek_2027.ics",
+    haerujilFile: "tides_pyeongtaek_haerujil_2027.ics",
+    badge: "경기남부 거점"
+  },
+  {
+    id: "sinjindo",
+    name: "신진도 (안흥)",
+    region: "태안 신진항 · 안흥외항 · 침선/어초",
+    fishSummary: "광어다운샷, 침선우럭, 참돔타이라바, 백조기",
+    haerujilSummary: "안면도/태안 서쪽 갯바위 해루질",
+    fishFile: "tides_sinjindo_2027.ics",
+    haerujilFile: "tides_sinjindo_haerujil_2027.ics",
+    badge: "서해 외연도 출조"
+  },
+  {
+    id: "mageompo",
+    name: "마검포 (태안)",
+    region: "천수만 북부 · 곰섬 · 안면도",
+    fishSummary: "갑오징어, 쭈꾸미, 광어, 우럭",
+    haerujilSummary: "마검포/곰섬 해수욕장 조개, 낙지, 박하지",
+    fishFile: "tides_mageompo_2027.ics",
+    haerujilFile: "tides_mageompo_haerujil_2027.ics",
+    badge: "갑오징어 성지"
+  },
+  {
+    id: "wonsando",
+    name: "원산도 (보령)",
+    region: "원산안면대교 · 저두항 · 선촌항",
+    fishSummary: "갑오징어, 쭈꾸미, 백조기, 광어",
+    haerujilSummary: "원산도 갯벌 바지락, 명주조개, 해삼",
+    fishFile: "tides_wonsando_2027.ics",
+    haerujilFile: "tides_wonsando_haerujil_2027.ics",
+    badge: "천수만 관문"
+  },
+  {
+    id: "muchangpo",
+    name: "무창포 (보령)",
+    region: "무창포항 · 대천 · 남보령",
+    fishSummary: "쭈꾸미, 갑오징어, 참돔타이라바, 백조기",
+    haerujilSummary: "신비의 바닷길 석대도 해루질, 소라/해삼",
+    fishFile: "tides_muchangpo_2027.ics",
+    haerujilFile: "tides_muchangpo_haerujil_2027.ics",
+    badge: "가을 쭈갑 메카"
+  },
+  {
+    id: "hongwon",
+    name: "홍원항 (서천)",
+    region: "마량진항 · 춘장대 · 어란",
+    fishSummary: "참돔타이라바, 쭈꾸미, 갑오징어, 농어",
+    haerujilSummary: "춘장대 해수욕장 맛조개, 골뱅이 해루질",
+    fishFile: "tides_hongwon_2027.ics",
+    haerujilFile: "tides_hongwon_haerujil_2027.ics",
+    badge: "서해 중남부 허브"
+  },
+  {
+    id: "gunsan",
+    name: "군산",
+    region: "비응항 · 야미도 · 신시도 · 고군산군도",
+    fishSummary: "참돔타이라바, 광어다운샷, 쭈갑, 문어",
+    haerujilSummary: "새만금 방조제 내측/외측 해루질",
+    fishFile: "tides_gunsan_2027.ics",
+    haerujilFile: "tides_gunsan_haerujil_2027.ics",
+    badge: "원도권 대물 포인트"
+  },
+  {
+    id: "mokpo",
+    name: "목포",
+    region: "목포 북항 · 남항 · 압해도",
+    fishSummary: "갈치(풀치), 감성돔, 농어, 문어",
+    haerujilSummary: "신안/무안 갯벌 낙지, 게, 조개",
+    fishFile: "tides_mokpo_2027.ics",
+    haerujilFile: "tides_mokpo_haerujil_2027.ics",
+    badge: "서남해안 중심"
+  }
+];
+
+const generalCalendarUrl = `${BASE_REPO_URL}/tides_west_2027.ics?v=7`;
+
+// Helper: 구글 캘린더 웹 등록 URL 생성
+function getGoogleCalUrl(icsUrl: string) {
+  return `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(icsUrl)}`;
+}
+
+// Helper: 웹칼(애플 캘린더) 프로토콜 URL 생성
+function getWebcalUrl(icsUrl: string) {
+  return icsUrl.replace(/^https?:\/\//i, 'webcal://');
+}
+---
+
+<Layout 
+  title="2027 서해 물때표 구글 캘린더 (낚시 & 해루질) - 산장보더"
+  description="2027년 서해안 9대 거점(인천, 평택, 신진도, 마검포, 원산도, 무창포, 홍원항, 군산, 목포) 낚시 및 해루질 맞춤 물때를 구글 캘린더, 애플 캘린더에 원클릭으로 구독하세요."
+>
+  <main class="tide-page container">
+    <!-- Hero Section -->
+    <header class="tide-hero glass">
+      <div class="tide-hero-badges">
+        <span class="pill-badge pill-accent">2027 EXCLUSIVE</span>
+        <span class="pill-badge">GOOGLE CALENDAR SYNC</span>
+      </div>
+      <h1 class="tide-title gradient-text">
+        2027 서해 물때표 구글 캘린더
+      </h1>
+      <p class="tide-subtitle">
+        매번 출조 때마다 물때표 앱 찾지 마세요!<br />
+        서해안 9대 거점 항구별 <strong>[어종 맞춤 출조 신호등]</strong>과 <strong>[해루질 황금 간조물때]</strong>를<br class="pc-only" />
+        내 스마트폰 캘린더에 원클릭으로 등록하고 매일 아침 자동으로 확인하세요.
+      </p>
+
+      <div class="hero-stats">
+        <div class="h-stat-item">
+          <span class="h-stat-num">9개</span>
+          <span class="h-stat-label">서해안 주요 거점</span>
+        </div>
+        <div class="h-stat-divider"></div>
+        <div class="h-stat-item">
+          <span class="h-stat-num">18종</span>
+          <span class="h-stat-label">낚시/해루질 전용 달력</span>
+        </div>
+        <div class="h-stat-divider"></div>
+        <div class="h-stat-item">
+          <span class="h-stat-num">365일</span>
+          <span class="h-stat-label">조류 세기 & 고저차 분석</span>
+        </div>
+        <div class="h-stat-divider"></div>
+        <div class="h-stat-item">
+          <span class="h-stat-num">100%</span>
+          <span class="h-stat-label">무료 구독 & 자동 갱신</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Interactive Navigation Tabs -->
+    <section class="tide-tabs-wrapper">
+      <div class="tide-tabs" role="tablist">
+        <button class="tide-tab active" data-tab="fishing" role="tab" aria-selected="true">
+          <span class="tab-icon">🎣</span>
+          <span class="tab-text">낚시물때 캘린더 (9개소)</span>
+          <span class="tab-pill">어종별 신호등</span>
+        </button>
+        <button class="tide-tab" data-tab="haerujil" role="tab" aria-selected="false">
+          <span class="tab-icon">🤿</span>
+          <span class="tab-text">해루질물때 캘린더 (9개소)</span>
+          <span class="tab-pill">최저간조 & 안전퇴수</span>
+        </button>
+        <button class="tide-tab" data-tab="general" role="tab" aria-selected="false">
+          <span class="tab-icon">🌊</span>
+          <span class="tab-text">서해 전역 기본물때</span>
+          <span class="tab-pill">물때명/음력</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Tab 1: Fishing Calendars -->
+    <section id="panel-fishing" class="tab-panel active">
+      <div class="panel-header">
+        <div class="panel-info">
+          <h2>🎣 2027 거점별 [낚시물때] 캘린더</h2>
+          <p>월별 대표 대상어(우럭, 광어, 참돔, 농어, 백조기, 쭈꾸미)에 적합한 조류 유속(고저차 비율)을 계산하여 출조 신호등을 제공합니다.</p>
+        </div>
+        <div class="legend-box glass">
+          <span class="legend-item"><span class="sig-dot dot-green"></span> 🟢 최고 (황금조류)</span>
+          <span class="legend-item"><span class="sig-dot dot-yellow"></span> 🟡 양호 (추천)</span>
+          <span class="legend-item"><span class="sig-dot dot-white"></span> ⚪ 보통 (무난)</span>
+          <span class="legend-item"><span class="sig-dot dot-red"></span> 🔴 비추 (급류)</span>
+        </div>
+      </div>
+
+      <div class="ports-grid">
+        {ports.map((port) => {
+          const icsUrl = `${BASE_REPO_URL}/calendars/${port.fishFile}?v=7`;
+          const gCalUrl = getGoogleCalUrl(icsUrl);
+          const webcalUrl = getWebcalUrl(icsUrl);
+          return (
+            <article class="port-card glass">
+              <div class="port-card-header">
+                <div class="port-title-group">
+                  <span class="port-badge">{port.badge}</span>
+                  <h3 class="port-name">{port.name} 낚시물때</h3>
+                </div>
+                <span class="port-pin">📍</span>
+              </div>
+
+              <div class="port-desc">
+                <p class="port-region"><strong>주요 출조권:</strong> {port.region}</p>
+                <p class="port-target"><strong>추천 어종:</strong> {port.fishSummary}</p>
+              </div>
+
+              <div class="port-card-actions">
+                <a href={gCalUrl} target="_blank" rel="noopener noreferrer" class="btn-gcal">
+                  <span class="btn-icon">📅</span>
+                  <span>구글 캘린더 바로 추가</span>
+                </a>
+                <div class="sub-actions">
+                  <button class="btn-copy" data-copy-url={icsUrl}>
+                    <span class="btn-icon">📋</span> URL 복사
+                  </button>
+                  <a href={webcalUrl} class="btn-apple" title="아이폰/애플 캘린더 구독">
+                    <span class="btn-icon">🍎</span> 애플 연동
+                  </a>
+                  <a href={icsUrl} download={port.fishFile} class="btn-download" title="ICS 파일 다운로드">
+                    <span class="btn-icon">💾</span> .ics
+                  </a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Tab 2: Haerujil Calendars -->
+    <section id="panel-haerujil" class="tab-panel">
+      <div class="panel-header">
+        <div class="panel-info">
+          <h2>🤿 2027 거점별 [해루질물때] 캘린더</h2>
+          <p>물이 가장 많이 빠지는 사리(대조기) 전후 간조 최저 수위와 마이너스 조위를 분석하여 해루질 최적 물때와 안전 퇴수시간을 알려드립니다.</p>
+        </div>
+        <div class="legend-box glass">
+          <span class="legend-item"><span class="sig-dot dot-green"></span> 🟢 최상 (대박 물때 95%↑)</span>
+          <span class="legend-item"><span class="sig-dot dot-yellow"></span> 🟡 좋음 (적극 추천 88~94%)</span>
+          <span class="legend-item"><span class="sig-dot dot-white"></span> ⚪ 괜찮음 (무난 80~87%)</span>
+          <span class="legend-item"><span class="sig-dot dot-red"></span> 🔴 별로 (80% 미만)</span>
+        </div>
+      </div>
+
+      <div class="ports-grid">
+        {ports.map((port) => {
+          const icsUrl = `${BASE_REPO_URL}/calendars/${port.haerujilFile}?v=7`;
+          const gCalUrl = getGoogleCalUrl(icsUrl);
+          const webcalUrl = getWebcalUrl(icsUrl);
+          return (
+            <article class="port-card glass haerujil-card">
+              <div class="port-card-header">
+                <div class="port-title-group">
+                  <span class="port-badge haerujil-badge">{port.badge}</span>
+                  <h3 class="port-name">{port.name} 해루질물때</h3>
+                </div>
+                <span class="port-pin">🤿</span>
+              </div>
+
+              <div class="port-desc">
+                <p class="port-region"><strong>해루질 포인트:</strong> {port.region}</p>
+                <p class="port-target"><strong>주요 채집물:</strong> {port.haerujilSummary}</p>
+              </div>
+
+              <div class="port-card-actions">
+                <a href={gCalUrl} target="_blank" rel="noopener noreferrer" class="btn-gcal btn-gcal-blue">
+                  <span class="btn-icon">📅</span>
+                  <span>구글 캘린더 바로 추가</span>
+                </a>
+                <div class="sub-actions">
+                  <button class="btn-copy" data-copy-url={icsUrl}>
+                    <span class="btn-icon">📋</span> URL 복사
+                  </button>
+                  <a href={webcalUrl} class="btn-apple" title="아이폰/애플 캘린더 구독">
+                    <span class="btn-icon">🍎</span> 애플 연동
+                  </a>
+                  <a href={icsUrl} download={port.haerujilFile} class="btn-download" title="ICS 파일 다운로드">
+                    <span class="btn-icon">💾</span> .ics
+                  </a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Tab 3: General West Sea Calendar -->
+    <section id="panel-general" class="tab-panel">
+      <div class="panel-header">
+        <div class="panel-info">
+          <h2>🌊 서해 전역 기본 물때 (물때명 & 음력)</h2>
+          <p>어종 분석이나 해루질 지수 없이, 서해안 표준 7~8물 사리/조금 물때명과 음력 날짜만 심플하게 보고 싶으신 분들을 위한 기본 캘린더입니다.</p>
+        </div>
+      </div>
+
+      <div class="general-card-wrapper">
+        <article class="port-card glass general-featured-card">
+          <div class="port-card-header">
+            <div class="port-title-group">
+              <span class="port-badge">서해 전역 통합</span>
+              <h3 class="port-name">2027 서해 표준 기본 물때 캘린더</h3>
+            </div>
+            <span class="port-pin">🌊</span>
+          </div>
+
+          <p class="general-desc">
+            일정 제목에 <code>13물/음 12월7일</code>, <code>조금/음 12월8일</code> 형태로 간결하게 표시되어 다른 캘린더 일정과 겹쳐도 깔끔하게 일정을 확인할 수 있습니다.
+          </p>
+
+          <div class="port-card-actions">
+            <a href={getGoogleCalUrl(generalCalendarUrl)} target="_blank" rel="noopener noreferrer" class="btn-gcal btn-gcal-cyan">
+              <span class="btn-icon">📅</span>
+              <span>구글 캘린더에 바로 추가하기</span>
+            </a>
+            <div class="sub-actions">
+              <button class="btn-copy" data-copy-url={generalCalendarUrl}>
+                <span class="btn-icon">📋</span> 구독 URL 복사
+              </button>
+              <a href={getWebcalUrl(generalCalendarUrl)} class="btn-apple">
+                <span class="btn-icon">🍎</span> 애플 연동
+              </a>
+              <a href={generalCalendarUrl} download="tides_west_2027.ics" class="btn-download">
+                <span class="btn-icon">💾</span> .ics 다운로드
+              </a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Information & Guide Section -->
+    <section class="tide-info-section">
+      <div class="info-card glass">
+        <div class="info-header">
+          <span class="info-icon">📱</span>
+          <h3>스마트폰 캘린더에서 어떻게 표시되나요?</h3>
+        </div>
+        <p class="info-intro">
+          캘린더를 구독하면 매일 일정 제목에 직관적인 신호등과 핵심 정보가 표시되며, 날짜를 누르면 상세 출조 정보가 펼쳐집니다.
+        </p>
+
+        <div class="preview-mockups">
+          <div class="mockup-box">
+            <div class="mockup-title">🎣 낚시물때 상세 예시</div>
+            <pre class="mockup-code">
+📍 관측지점: 서해 인천 (낚시물때)
+📅 양력: 2027년 09월 10일 (금) • 🌙 음력: 8.10
+🌊 물때: 1물 (일일 평균 고저차 184cm / 20%)
+
+🎯 [9월 주요 어종별 출조 적합도]:
+  • 쭈꾸미 (주력) : ★★★★★ 🟢 (최적의 조류! 봉돌 10~12호 가볍게 운용)
+  • 갑오징어 : ★★★★★ 🟢 (최적의 조류! 봉돌 10~12호 가볍게 운용)
+  • 광어 : ★★☆☆☆ 🔴 (조류 너무 느림)
+  • 우럭 : ★★★☆☆ ⚪ (조류 다소 정체)
+
+🔻 [간조]: 06:36(416cm), 18:30(330cm)
+🌊 [만조]: 12:05(644cm)
+☀️ 일출/일몰: 06:12 / 18:50</pre>
+          </div>
+
+          <div class="mockup-box">
+            <div class="mockup-title">🤿 해루질물때 상세 예시</div>
+            <pre class="mockup-code">
+📍 관측지점: 서해 인천 (해루질물때)
+📅 양력: 2027년 09월 03일 (금) • 🌙 음력: 8.03
+🌊 물때: 9물 (사리 / 고저차 960cm / 107%)
+
+🤿 [해루질 적합도]: ★★★★★ 🟢
+👉 평가: 최상 (대박 물때! 물 극도로 빠짐, 깊은 갯벌 노출)
+🔻 최저 간조: 00:21 (-23cm)
+
+⏰ [해루질 안전 시간 가이드]:
+  • 🚪 진입 추천: 간조 2시간 전부터 진입
+  • 🚨 철수 필수: 간조 시각 1시간 후 반드시 퇴수!
+
+⚠️ 해루질 안전수칙: 2인 1조 동행, 구명조끼 필수, 알람 필수</pre>
+          </div>
+        </div>
+      </div>
+
+      <!-- 30s Setup Guide -->
+      <div class="info-card glass">
+        <div class="info-header">
+          <span class="info-icon">⚡</span>
+          <h3>구글 & 애플 캘린더 30초 등록 방법</h3>
+        </div>
+        <div class="guide-steps">
+          <div class="step-card">
+            <div class="step-num">1</div>
+            <h4>구글 캘린더 (원클릭 자동 등록)</h4>
+            <p>위 거점 카드의 <strong>[구글 캘린더 바로 추가]</strong> 버튼을 누르면 구글 캘린더 웹페이지가 열리며 '캘린더를 추가하시겠습니까?' 팝업이 뜹니다. <strong>[추가]</strong>를 누르면 즉시 동기화됩니다.</p>
+          </div>
+
+          <div class="step-card">
+            <div class="step-num">2</div>
+            <h4>아이폰 / iPad (애플 캘린더)</h4>
+            <p>Safari 브라우저에서 <strong>[애플 연동]</strong> 버튼을 누르면 캘린더 앱이 실행되며 '구독 캘린더' 추가 화면이 뜹니다. 확인을 누르면 아이폰 기본 캘린더에 자동 반영됩니다.</p>
+          </div>
+
+          <div class="step-card">
+            <div class="step-num">3</div>
+            <h4>수동 URL로 추가할 경우</h4>
+            <p><strong>[URL 복사]</strong> 버튼을 누른 후, 구글 캘린더 좌측 <code>다른 캘린더 +</code> ➔ <code>URL로 추가</code> 항목에 복사한 링크를 붙여넣으시면 됩니다.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Toast Notification -->
+    <div id="tide-toast" class="tide-toast" role="alert" aria-live="polite">
+      <span class="toast-icon">✅</span>
+      <span id="toast-message">구독 링크가 클립보드에 복사되었습니다!</span>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  // Tab Switching Logic
+  const tabs = document.querySelectorAll<HTMLButtonElement>('.tide-tab');
+  const panels = document.querySelectorAll<HTMLElement>('.tab-panel');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const target = tab.dataset.tab;
+      
+      tabs.forEach(t => {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      panels.forEach(p => p.classList.remove('active'));
+
+      tab.classList.add('active');
+      tab.setAttribute('aria-selected', 'true');
+      
+      const activePanel = document.getElementById(`panel-${target}`);
+      if (activePanel) {
+        activePanel.classList.add('active');
+      }
+    });
+  });
+
+  // Copy URL with Toast Notification
+  const copyButtons = document.querySelectorAll<HTMLButtonElement>('.btn-copy');
+  const toast = document.getElementById('tide-toast');
+  const toastMsg = document.getElementById('toast-message');
+  let toastTimer: any = null;
+
+  copyButtons.forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const url = btn.dataset.copyUrl;
+      if (!url) return;
+
+      try {
+        await navigator.clipboard.writeText(url);
+        showToast("구독 URL이 복사되었습니다! 캘린더 앱에 붙여넣으세요.");
+      } catch (err) {
+        // Fallback for older browsers
+        const textarea = document.createElement('textarea');
+        textarea.value = url;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        showToast("구독 URL이 복사되었습니다!");
+      }
+    });
+  });
+
+  function showToast(msg: string) {
+    if (!toast) return;
+    if (toastMsg) toastMsg.textContent = msg;
+    toast.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2800);
+  }
+</script>
+
+<style>
+  .tide-page {
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+  }
+
+  /* Hero */
+  .tide-hero {
+    padding: 3rem 2.5rem;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: radial-gradient(circle at 50% 0%, rgba(37, 99, 235, 0.15), transparent 70%),
+                rgba(255, 255, 255, 0.02);
+  }
+
+  .tide-hero-badges {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .pill-badge {
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding: 0.35rem 0.9rem;
+    border-radius: 100px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-muted);
+  }
+
+  .pill-accent {
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.3), rgba(6, 182, 212, 0.3));
+    border-color: rgba(6, 182, 212, 0.5);
+    color: #67e8f9;
+  }
+
+  .tide-title {
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+  }
+
+  .tide-subtitle {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: var(--text-muted);
+    max-width: 780px;
+    margin: 0 auto 2.5rem;
+  }
+
+  .tide-subtitle strong {
+    color: #ffffff;
+  }
+
+  /* Hero Stats */
+  .hero-stats {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 1rem 2rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    flex-wrap: wrap;
+  }
+
+  .h-stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .h-stat-num {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--accent-light);
+  }
+
+  .h-stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+  }
+
+  .h-stat-divider {
+    width: 1px;
+    height: 28px;
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  /* Tabs */
+  .tide-tabs-wrapper {
+    margin-bottom: 2rem;
+  }
+
+  .tide-tabs {
+    display: flex;
+    gap: 0.75rem;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 0.5rem;
+    border-radius: 1.2rem;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    overflow-x: auto;
+  }
+
+  .tide-tab {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    padding: 0.9rem 1.25rem;
+    border: none;
+    background: transparent;
+    border-radius: 0.85rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    white-space: nowrap;
+  }
+
+  .tide-tab:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  .tide-tab.active {
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.6), rgba(6, 182, 212, 0.6));
+    color: #ffffff;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
+  }
+
+  .tab-icon {
+    font-size: 1.15rem;
+  }
+
+  .tab-pill {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.25);
+    opacity: 0.85;
+  }
+
+  /* Tab Panels */
+  .tab-panel {
+    display: none;
+    animation: fadeIn 0.35s ease-out;
+  }
+
+  .tab-panel.active {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 1.5rem;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .panel-info h2 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+  }
+
+  .panel-info p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    max-width: 650px;
+    line-height: 1.6;
+  }
+
+  .legend-box {
+    display: flex;
+    gap: 0.9rem;
+    padding: 0.65rem 1rem;
+    border-radius: 0.8rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    flex-wrap: wrap;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  /* Port Grid */
+  .ports-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .port-card {
+    padding: 1.5rem;
+    border-radius: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.25s ease, border-color 0.25s ease;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .port-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(6, 182, 212, 0.4);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+  }
+
+  .haerujil-card:hover {
+    border-color: rgba(14, 165, 233, 0.4);
+  }
+
+  .port-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  .port-badge {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 0.2rem 0.55rem;
+    border-radius: 6px;
+    background: rgba(37, 99, 235, 0.25);
+    color: #93c5fd;
+    border: 1px solid rgba(37, 99, 235, 0.4);
+    margin-bottom: 0.4rem;
+  }
+
+  .haerujil-badge {
+    background: rgba(14, 165, 233, 0.25);
+    color: #7dd3fc;
+    border-color: rgba(14, 165, 233, 0.4);
+  }
+
+  .port-name {
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin: 0;
+  }
+
+  .port-pin {
+    font-size: 1.4rem;
+    opacity: 0.8;
+  }
+
+  .port-desc {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.55;
+    margin-bottom: 1.5rem;
+  }
+
+  .port-desc p {
+    margin-bottom: 0.4rem;
+  }
+
+  .port-desc strong {
+    color: #e2e8f0;
+  }
+
+  /* Card Actions */
+  .port-card-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+    margin-top: auto;
+  }
+
+  .btn-gcal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.85rem 1.25rem;
+    background: linear-gradient(135deg, #2563eb, #0891b2);
+    color: #ffffff;
+    border-radius: 0.75rem;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35);
+  }
+
+  .btn-gcal:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.55);
+    filter: brightness(1.1);
+  }
+
+  .btn-gcal-blue {
+    background: linear-gradient(135deg, #0284c7, #0d9488);
+    box-shadow: 0 4px 15px rgba(2, 132, 199, 0.35);
+  }
+
+  .btn-gcal-cyan {
+    background: linear-gradient(135deg, #059669, #0284c7);
+  }
+
+  .sub-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    gap: 0.45rem;
+  }
+
+  .btn-copy, .btn-apple, .btn-download {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    padding: 0.55rem 0.75rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-muted);
+    border-radius: 0.6rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .btn-copy:hover, .btn-apple:hover, .btn-download:hover {
+    background: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+
+  /* General Tab */
+  .general-card-wrapper {
+    max-width: 680px;
+    margin: 0 auto 3.5rem;
+  }
+
+  .general-featured-card {
+    padding: 2.2rem;
+  }
+
+  .general-desc {
+    font-size: 1rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+    margin-bottom: 2rem;
+  }
+
+  .general-desc code {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    color: #67e8f9;
+  }
+
+  /* Guide & Mockup */
+  .tide-info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .info-card {
+    padding: 2.2rem;
+    border-radius: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .info-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .info-header h3 {
+    font-size: 1.45rem;
+    font-weight: 800;
+  }
+
+  .info-icon {
+    font-size: 1.6rem;
+  }
+
+  .info-intro {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .preview-mockups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+
+  .mockup-box {
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 1rem;
+    padding: 1.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .mockup-title {
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: var(--accent-light);
+    margin-bottom: 0.75rem;
+  }
+
+  .mockup-code {
+    font-family: 'Consolas', 'Menlo', monospace;
+    font-size: 0.8rem;
+    line-height: 1.6;
+    color: #cbd5e1;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+
+  .guide-steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1rem;
+  }
+
+  .step-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    padding: 1.4rem;
+    border-radius: 1rem;
+    position: relative;
+  }
+
+  .step-num {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #2563eb, #0891b2);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 0.85rem;
+    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.4);
+  }
+
+  .step-card h4 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.6rem;
+    color: #ffffff;
+  }
+
+  .step-card p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .step-card code {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    color: #67e8f9;
+  }
+
+  /* Toast */
+  .tide-toast {
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: rgba(15, 23, 42, 0.95);
+    border: 1px solid rgba(6, 182, 212, 0.4);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+    padding: 0.85rem 1.6rem;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #ffffff;
+    z-index: 9999;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    backdrop-filter: blur(12px);
+  }
+
+  .tide-toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  @media (max-width: 768px) {
+    .preview-mockups {
+      grid-template-columns: 1fr;
+    }
+    .panel-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .legend-box {
+      width: 100%;
+    }
+    .pc-only {
+      display: none;
+    }
+  }
+</style>

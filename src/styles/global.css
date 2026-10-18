@@ -228,6 +228,65 @@ h1, h2, h3, h4 {
   color: var(--text-color);
 }
 
+/* Sidebar Feature Card (Tide Calendar) */
+.sidebar-feature-card {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.feature-card-link {
+  display: block;
+  padding: 0.9rem 1rem;
+  border-radius: 0.9rem;
+  background: linear-gradient(135deg, rgba(2, 132, 199, 0.18), rgba(6, 182, 212, 0.08));
+  border: 1px solid rgba(6, 182, 212, 0.3);
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.feature-card-link:hover {
+  transform: translateY(-2px);
+  border-color: rgba(6, 182, 212, 0.6);
+  background: linear-gradient(135deg, rgba(2, 132, 199, 0.28), rgba(6, 182, 212, 0.18));
+  box-shadow: 0 6px 20px rgba(6, 182, 212, 0.25);
+}
+
+.fc-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4rem;
+}
+
+.fc-badge {
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: linear-gradient(135deg, #0284c7, #06b6d4);
+  color: #ffffff;
+}
+
+.fc-icon {
+  font-size: 1.15rem;
+}
+
+.fc-title {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 0.2rem;
+}
+
+.fc-sub {
+  font-size: 0.75rem;
+  color: #94a3b8;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .category-list {
   list-style: none;
 }
