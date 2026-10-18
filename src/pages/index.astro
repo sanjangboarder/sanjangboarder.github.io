@@ -18,10 +18,9 @@ const latestPosts = allPosts
 		<header class="hero">
 			<div class="hero-content">
 				<div class="badge">EST. 2016 • AI REBORN 2026</div>
-				<h1 class="gradient-text">기록을 예술로,<br />경험을 정보로.</h1>
+				<h1 class="gradient-text">기록을 예술로, 경험을 정보로.</h1>
 				<p class="hero-desc">
-					26년 선상낚시의 정수와 스마트한 라이프 스타일.<br />
-					산장보더의 모든 지식이 AI를 통해 고감도 콘텐츠로 재탄생합니다.
+					바다생활낚시의 정수와 스마트한 라이프 스타일. 산장보더의 모든 경험을 콘텐츠로 만들었습니다.
 				</p>
 			</div>
 		</header>
@@ -99,43 +98,45 @@ const latestPosts = allPosts
 <style>
 	/* Hero */
 	.hero {
-		padding: 40px 0 100px; /* 상단 여백 축소 */
+		padding: 2.2rem 2.8rem;
 		position: relative;
-		background: linear-gradient(to right, rgba(11, 15, 26, 0.8), rgba(11, 15, 26, 0.4)), url('/images/hero-bg.png');
+		background: linear-gradient(to right, rgba(11, 15, 26, 0.85), rgba(11, 15, 26, 0.45)), url('/images/hero-bg.png');
 		background-size: cover;
 		background-position: center;
-		border-radius: 2rem;
+		border-radius: 1.8rem;
 		margin-top: 1rem;
-		border: 1px solid rgba(255, 255, 255, 0.05);
+		border: 1px solid rgba(255, 255, 255, 0.08);
 		overflow: hidden;
 	}
 	.hero-content {
-		max-width: 850px;
+		max-width: 900px;
 		text-align: left;
 	}
 	.badge {
 		display: inline-block;
-		padding: 0.5rem 1.25rem;
-		background: rgba(255, 255, 255, 0.03);
-		border: 1px solid rgba(255, 255, 255, 0.08);
+		padding: 0.35rem 0.9rem;
+		background: rgba(255, 255, 255, 0.04);
+		border: 1px solid rgba(255, 255, 255, 0.1);
 		border-radius: 100px;
-		font-size: 0.7rem;
+		font-size: 0.68rem;
 		font-weight: 700;
 		color: var(--text-muted);
-		letter-spacing: 0.15em;
-		margin-bottom: 2.5rem;
+		letter-spacing: 0.12em;
+		margin-bottom: 0.85rem;
 	}
 	.hero h1 {
-		font-size: clamp(3rem, 8vw, 4.8rem);
-		margin-bottom: 2.5rem;
-		line-height: 1.05;
+		font-size: clamp(1.6rem, 3.2vw, 2.4rem);
+		margin-bottom: 0.75rem;
+		line-height: 1.25;
 		color: #ffffff;
+		word-break: keep-all;
 	}
 	.hero-desc {
-		font-size: 1.25rem;
-		color: var(--text-muted);
-		line-height: 1.8;
-		max-width: 650px;
+		font-size: 1.05rem;
+		color: #cbd5e1;
+		line-height: 1.6;
+		max-width: 780px;
+		word-break: keep-all;
 	}
 
 	/* Posts Section */
@@ -457,7 +458,15 @@ const latestPosts = allPosts
 	}
 
 	@media (max-width: 768px) {
-		.hero h1 { font-size: 2.5rem; }
+		.hero {
+			padding: 1.8rem 1.4rem;
+		}
+		.hero h1 {
+			font-size: clamp(1.3rem, 5.2vw, 1.75rem);
+		}
+		.hero-desc {
+			font-size: 0.95rem;
+		}
 		.posts-grid { grid-template-columns: 1fr; }
 	}
 </style>
