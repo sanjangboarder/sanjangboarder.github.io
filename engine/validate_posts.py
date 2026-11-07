@@ -21,7 +21,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "src", 
 CATEGORY_MAP_VALUES = {
     "Sea Fishing Tips & Info", "Metropolitan Fishing Reports", "National Fishing Reports",
     "Foraging & Crab Collecting", "Fishing Gear Reviews", "AliExpress Product Reviews",
-    "Travel & Restaurant Reviews", "IT, Software & Drones", "Events & Sponsorings",
+    "Travel & Restaurant Reviews", "Travel Information", "IT, Software & Drones", "Events & Sponsorings",
     "Sports & Leisure Info", "Cycling", "Camping", "Walking & Diet", "Winter Leisure",
     "Sports Stories", "Automotive", "AI, Software Dev & DevOps", "Economics Study",
     "My Interests", "Shared Board", "Memorable Writings", "General"

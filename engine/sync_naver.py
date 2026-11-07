@@ -28,7 +28,7 @@ HEADERS   = {
 CATEGORIES = [
     (26, "바다낚시 팁_정보"), (3, "수도권 조행기"), (17, "전국구 조행기"),
     (48, "해루질 이야기"), (34, "낚시용품 리뷰"), (32, "알리제품 리뷰"),
-    (35, "장소_맛집 리뷰"), (33, "IT기기_SW_드론 리뷰"), (25, "이벤트_체험단"),
+    (35, "장소_맛집 리뷰"), (57, "여행정보"), (33, "IT기기_SW_드론 리뷰"), (25, "이벤트_체험단"),
     (36, "운동_레져정보"), (40, "자전거"), (39, "캠핑"), (37, "걷기다이어트"),
     (43, "겨울레져활동"), (44, "스포츠이야기"), (50, "자동차_오토모티브"),
     (27, "AI, SW개발, DevOps"), (55, "경제관련공부"), (13, "나의 관심정보"),
@@ -160,9 +160,26 @@ def sync_new_posts():
     existing_log_nos = get_existing_log_nos()
     print(f"  기존 포스트 수: {len(existing_log_nos)}개")
 
+    # 카테고리 목록 동적 조회 (신규 카테고리 자동 감지)
+    scan_categories = list(CATEGORIES)
+    try:
+        cat_url = f"https://m.blog.naver.com/api/blogs/{BLOG_ID}/category-list"
+        c_resp = requests.get(cat_url, headers=HEADERS, timeout=10)
+        c_data = c_resp.json().get("result", {}).get("mylogCategoryList", [])
+        if c_data:
+            dynamic_cats = [
+                (c["categoryNo"], c["categoryName"].replace("/", "_"))
+                for c in c_data
+                if not c.get("divisionLine") and c.get("categoryNo")
+            ]
+            if dynamic_cats:
+                scan_categories = dynamic_cats
+    except Exception as e:
+        print(f"  [카테고리 목록 조회 실패, 기본 목록 사용]: {e}")
+
     new_posts = []
     # 카테고리별로 최신 글 2페이지만 스캔
-    for c_no, c_name in CATEGORIES:
+    for c_no, c_name in scan_categories:
         for page in range(1, 3):
             api_url = f"https://m.blog.naver.com/api/blogs/{BLOG_ID}/post-list?page={page}&pageSize=20&categoryNo={c_no}&sortType=recentpost"
             try:
