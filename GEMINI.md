@@ -34,3 +34,9 @@ Whenever working on content updates, translations, bug fixes, or feature additio
    - 원격 저장소(`main` 브랜치)에 커밋 및 푸시하여 GitHub Actions 배포를 완료합니다.
 3. **IndexNow 즉시 색인 제출**:
    - 새 글 배포 후 `python engine/submit_indexnow.py`를 실행하여 Bing 및 IndexNow 검색엔진에 즉각 갱신을 알립니다.
+
+---
+
+## 4. ✍️ Korean Post Drafting & Unified Writing Skill
+- 신규 국문 포스트 초안 작성, 조행기/장비·IT·맛집 리뷰 집필, 또는 원고 리라이팅 요청 시 전역 통합 스킬 **`sanjangboarder-blog-writer`** (`~/.gemini/config/skills/sanjangboarder-blog-writer/SKILL.md`)를 활성화하여 산장보더 고유의 구어체 문체 DNA 및 카테고리별 템플릿을 준수합니다.
+- 집필 후 GitHub 블로그 배포 시에는 위 1~3번의 1:1 영문 번역, SEO `description`, 검증(`validate_posts.py`), IndexNow 제출 절차를 이어서 준수합니다.
